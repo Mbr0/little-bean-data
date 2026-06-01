@@ -1,0 +1,1473 @@
+{
+  "generated": "2026-06-01T19:48:06.829Z",
+  "alerts": [
+    {
+      "id": "rappelconso-2026-05-0232",
+      "source": "RappelConso",
+      "date": "2026-06-01",
+      "title": {
+        "en": "beurre de ferme doux 250 g¤beurre de ferme demi-sel 250 g",
+        "fr": "beurre de ferme doux 250 g¤beurre de ferme demi-sel 250 g",
+        "nl": "beurre de ferme doux 250 g¤beurre de ferme demi-sel 250 g"
+      },
+      "description": {
+        "en": "presence eventuelle de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "presence eventuelle de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "presence eventuelle de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22422/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0204",
+      "source": "RappelConso",
+      "date": "2026-06-01",
+      "title": {
+        "en": "terrine de campagne ancienne au sel de noirmoutier.",
+        "fr": "terrine de campagne ancienne au sel de noirmoutier.",
+        "nl": "terrine de campagne ancienne au sel de noirmoutier."
+      },
+      "description": {
+        "en": "détection de listéria. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listéria. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listéria. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22429/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-06-0002",
+      "source": "RappelConso",
+      "date": "2026-06-01",
+      "title": {
+        "en": "véritable andouille de guémené",
+        "fr": "véritable andouille de guémené",
+        "nl": "véritable andouille de guémené"
+      },
+      "description": {
+        "en": "détection de listeria monocytogenes sur l'andouille de guémené après analyses. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria monocytogenes sur l'andouille de guémené après analyses. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria monocytogenes sur l'andouille de guémené après analyses. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22426/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0216",
+      "source": "RappelConso",
+      "date": "2026-06-01",
+      "title": {
+        "en": "10156-plh",
+        "fr": "10156-plh",
+        "nl": "10156-plh"
+      },
+      "description": {
+        "en": "salmonelle entéritidis - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "salmonelle entéritidis - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "salmonelle entéritidis - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22406/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0218",
+      "source": "RappelConso",
+      "date": "2026-05-30",
+      "title": {
+        "en": "lardons fumes 2x200g",
+        "fr": "lardons fumes 2x200g",
+        "nl": "lardons fumes 2x200g"
+      },
+      "description": {
+        "en": "un contrôle a mis en évidence une teneur insuffisante en sel pouvant entrainer une mauvaise conservation et un développement microbien et des défauts de couleur, odeur, gout et texture à la cuisson - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)|modifications organoleptiques",
+        "fr": "un contrôle a mis en évidence une teneur insuffisante en sel pouvant entrainer une mauvaise conservation et un développement microbien et des défauts de couleur, odeur, gout et texture à la cuisson - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)|modifications organoleptiques",
+        "nl": "un contrôle a mis en évidence une teneur insuffisante en sel pouvant entrainer une mauvaise conservation et un développement microbien et des défauts de couleur, odeur, gout et texture à la cuisson - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)|modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22408/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0219",
+      "source": "RappelConso",
+      "date": "2026-05-29",
+      "title": {
+        "en": "lardons nature vpf 2x100g auchan¤lardons nature vpf 2x150g auchan¤lardons fumes vpf 2x100g auchan¤lardons fumes vpf 2x150g auchan",
+        "fr": "lardons nature vpf 2x100g auchan¤lardons nature vpf 2x150g auchan¤lardons fumes vpf 2x100g auchan¤lardons fumes vpf 2x150g auchan",
+        "nl": "lardons nature vpf 2x100g auchan¤lardons nature vpf 2x150g auchan¤lardons fumes vpf 2x100g auchan¤lardons fumes vpf 2x150g auchan"
+      },
+      "description": {
+        "en": "suspicion d’une anomalie de salage sur la saumure. - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)|modifications organoleptiques",
+        "fr": "suspicion d’une anomalie de salage sur la saumure. - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)|modifications organoleptiques",
+        "nl": "suspicion d’une anomalie de salage sur la saumure. - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)|modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22409/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0222",
+      "source": "RappelConso",
+      "date": "2026-05-29",
+      "title": {
+        "en": "accras de légumes à la thaï carte nature 220g",
+        "fr": "accras de légumes à la thaï carte nature 220g",
+        "nl": "accras de légumes à la thaï carte nature 220g"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22412/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0185",
+      "source": "RappelConso",
+      "date": "2026-05-29",
+      "title": {
+        "en": "mascarpone gorgonzola 39% mg",
+        "fr": "mascarpone gorgonzola 39% mg",
+        "nl": "mascarpone gorgonzola 39% mg"
+      },
+      "description": {
+        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22375/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0223",
+      "source": "RappelConso",
+      "date": "2026-05-29",
+      "title": {
+        "en": "accras de légumes à la thaï jom bao 220g",
+        "fr": "accras de légumes à la thaï jom bao 220g",
+        "nl": "accras de légumes à la thaï jom bao 220g"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22413/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0174",
+      "source": "RappelConso",
+      "date": "2026-05-29",
+      "title": {
+        "en": "mascarpone gorgonzola",
+        "fr": "mascarpone gorgonzola",
+        "nl": "mascarpone gorgonzola"
+      },
+      "description": {
+        "en": "presence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "presence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "presence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22363/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0212",
+      "source": "RappelConso",
+      "date": "2026-05-29",
+      "title": {
+        "en": "gorgonzola dop doux",
+        "fr": "gorgonzola dop doux",
+        "nl": "gorgonzola dop doux"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22402/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0215",
+      "source": "RappelConso",
+      "date": "2026-05-29",
+      "title": {
+        "en": "vendu à la coupe au rayon traditionnel fromage",
+        "fr": "vendu à la coupe au rayon traditionnel fromage",
+        "nl": "vendu à la coupe au rayon traditionnel fromage"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22405/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0203",
+      "source": "RappelConso",
+      "date": "2026-05-29",
+      "title": {
+        "en": "merguez rayon traditionnel",
+        "fr": "merguez rayon traditionnel",
+        "nl": "merguez rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22393/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0202",
+      "source": "RappelConso",
+      "date": "2026-05-29",
+      "title": {
+        "en": "merguez barquette sous atmosphère",
+        "fr": "merguez barquette sous atmosphère",
+        "nl": "merguez barquette sous atmosphère"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22392/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-arschuwing-kindervestje-zeeman",
+      "source": "NVWA",
+      "date": "2026-05-29",
+      "title": {
+        "en": "Veiligheidswaarschuwing kindervestje Zeeman",
+        "fr": "Veiligheidswaarschuwing kindervestje Zeeman",
+        "nl": "Veiligheidswaarschuwing kindervestje Zeeman"
+      },
+      "description": {
+        "en": "Zeeman waarschuwt voor een kindervestje in de maten 92 en 98/104. De knopen kunnen loskomen, wat bij inslikken verstikkingsgevaar kan veroorzaken. Gebruik het vestje niet.\n\nZie de website van Zeeman",
+        "fr": "Zeeman waarschuwt voor een kindervestje in de maten 92 en 98/104. De knopen kunnen loskomen, wat bij inslikken verstikkingsgevaar kan veroorzaken. Gebruik het vestje niet.\n\nZie de website van Zeeman",
+        "nl": "Zeeman waarschuwt voor een kindervestje in de maten 92 en 98/104. De knopen kunnen loskomen, wat bij inslikken verstikkingsgevaar kan veroorzaken. Gebruik het vestje niet.\n\nZie de website van Zeeman"
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/29/veiligheidswaarschuwing-kindervestje-zeeman",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0207",
+      "source": "RappelConso",
+      "date": "2026-05-28",
+      "title": {
+        "en": "lhous pt l eveque aop cru 400",
+        "fr": "lhous pt l eveque aop cru 400",
+        "nl": "lhous pt l eveque aop cru 400"
+      },
+      "description": {
+        "en": "détection listeria monocytogenèse sur les ponts l'evêque du lot 2610098 - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection listeria monocytogenèse sur les ponts l'evêque du lot 2610098 - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection listeria monocytogenèse sur les ponts l'evêque du lot 2610098 - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22397/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0209",
+      "source": "RappelConso",
+      "date": "2026-05-28",
+      "title": {
+        "en": "crevettes grises cuites non decortiquees jumbo msc s-at",
+        "fr": "crevettes grises cuites non decortiquees jumbo msc s-at",
+        "nl": "crevettes grises cuites non decortiquees jumbo msc s-at"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22399/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0197",
+      "source": "RappelConso",
+      "date": "2026-05-28",
+      "title": {
+        "en": "aromatises ail et fines herbes¤echalote¤bruschetta",
+        "fr": "aromatises ail et fines herbes¤echalote¤bruschetta",
+        "nl": "aromatises ail et fines herbes¤echalote¤bruschetta"
+      },
+      "description": {
+        "en": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "presence listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22387/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0184",
+      "source": "RappelConso",
+      "date": "2026-05-28",
+      "title": {
+        "en": "emballé en magasin",
+        "fr": "emballé en magasin",
+        "nl": "emballé en magasin"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22374/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0198",
+      "source": "RappelConso",
+      "date": "2026-05-28",
+      "title": {
+        "en": "lactiques de chevres frais",
+        "fr": "lactiques de chevres frais",
+        "nl": "lactiques de chevres frais"
+      },
+      "description": {
+        "en": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "presence listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22388/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0200",
+      "source": "RappelConso",
+      "date": "2026-05-28",
+      "title": {
+        "en": "fromages blancs de chevre en barquette de 4",
+        "fr": "fromages blancs de chevre en barquette de 4",
+        "nl": "fromages blancs de chevre en barquette de 4"
+      },
+      "description": {
+        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22390/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0199",
+      "source": "RappelConso",
+      "date": "2026-05-28",
+      "title": {
+        "en": "batusson de chevre",
+        "fr": "batusson de chevre",
+        "nl": "batusson de chevre"
+      },
+      "description": {
+        "en": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "presence listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22389/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0195",
+      "source": "RappelConso",
+      "date": "2026-05-28",
+      "title": {
+        "en": "melange 3 sesames 6kg",
+        "fr": "melange 3 sesames 6kg",
+        "nl": "melange 3 sesames 6kg"
+      },
+      "description": {
+        "en": "dépassement de la limite autorisée d'un pesticide (chlorpyrifos) - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement de la limite autorisée d'un pesticide (chlorpyrifos) - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement de la limite autorisée d'un pesticide (chlorpyrifos) - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22385/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0170",
+      "source": "RappelConso",
+      "date": "2026-05-28",
+      "title": {
+        "en": "reblochon aop fermier 27.4% fd 1/2 250g",
+        "fr": "reblochon aop fermier 27.4% fd 1/2 250g",
+        "nl": "reblochon aop fermier 27.4% fd 1/2 250g"
+      },
+      "description": {
+        "en": "detection par le fabricant de reblochon farto de thones d'e.coli stec o26h11 - escherichia coli shiga toxinogène (stec)",
+        "fr": "detection par le fabricant de reblochon farto de thones d'e.coli stec o26h11 - escherichia coli shiga toxinogène (stec)",
+        "nl": "detection par le fabricant de reblochon farto de thones d'e.coli stec o26h11 - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22359/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "dairy",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-groenteburger-2-stuks-100-gram",
+      "source": "NVWA",
+      "date": "2026-05-28",
+      "title": {
+        "en": "Veiligheidswaarschuwing Vivera Plantaardige Groenteburger 2 stuks 100 gram",
+        "fr": "Veiligheidswaarschuwing Vivera Plantaardige Groenteburger 2 stuks 100 gram",
+        "nl": "Veiligheidswaarschuwing Vivera Plantaardige Groenteburger 2 stuks 100 gram"
+      },
+      "description": {
+        "en": "Vivera waarschuwt voor de Plantaardige Groenteburger. In de burger kunnen delen van de steeltjes van paprika aanwezig zijn, waardoor er mogelijk harde stukjes in het product zitten. Eet de burger niet.\n\nZie de website van Vivera",
+        "fr": "Vivera waarschuwt voor de Plantaardige Groenteburger. In de burger kunnen delen van de steeltjes van paprika aanwezig zijn, waardoor er mogelijk harde stukjes in het product zitten. Eet de burger niet.\n\nZie de website van Vivera",
+        "nl": "Vivera waarschuwt voor de Plantaardige Groenteburger. In de burger kunnen delen van de steeltjes van paprika aanwezig zijn, waardoor er mogelijk harde stukjes in het product zitten. Eet de burger niet.\n\nZie de website van Vivera"
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/28/veiligheidswaarschuwing-vivera-plantaardige-groenteburger-2-stuks-100-gram",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-eddingsvesten-van-helly-hansen",
+      "source": "NVWA",
+      "date": "2026-05-28",
+      "title": {
+        "en": "Veiligheidswaarschuwing diverse reddingsvesten van Helly Hansen",
+        "fr": "Veiligheidswaarschuwing diverse reddingsvesten van Helly Hansen",
+        "nl": "Veiligheidswaarschuwing diverse reddingsvesten van Helly Hansen"
+      },
+      "description": {
+        "en": "Helly Hansen waarschuwt voor diverse drijfvesten. Door productiefouten voldoen deze drijfvesten niet aan de wettelijke eisen. Dit levert verdrinkingsgevaar op.",
+        "fr": "Helly Hansen waarschuwt voor diverse drijfvesten. Door productiefouten voldoen deze drijfvesten niet aan de wettelijke eisen. Dit levert verdrinkingsgevaar op.",
+        "nl": "Helly Hansen waarschuwt voor diverse drijfvesten. Door productiefouten voldoen deze drijfvesten niet aan de wettelijke eisen. Dit levert verdrinkingsgevaar op."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/28/veiligheidswaarschuwing-diverse-reddingsvesten-van-helly-hansen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg"
+      ]
+    },
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-05-28",
+      "title": {
+        "en": "Better Weather Actives LLC Recalls Better Weather Fix Elixir Due to Undeclared Mitragynine and Mitragynine Pseudoindoxyl",
+        "fr": "Better Weather Actives LLC Recalls Better Weather Fix Elixir Due to Undeclared Mitragynine and Mitragynine Pseudoindoxyl",
+        "nl": "Better Weather Actives LLC Recalls Better Weather Fix Elixir Due to Undeclared Mitragynine and Mitragynine Pseudoindoxyl"
+      },
+      "description": {
+        "en": "FOR IMMEDIATE RELEASE – May 28, 2026 – Sheridan, Wyoming. Better Weather Actives LLC is voluntarily recalling ALL lots of Better Weather Fix Elixir 15 ml because the products may contain undeclared Mitragynine and Mitragynine Pseudoindoxyl (MP).  MP is a more potent derivative of Mitragynine, or Kra",
+        "fr": "FOR IMMEDIATE RELEASE – May 28, 2026 – Sheridan, Wyoming. Better Weather Actives LLC is voluntarily recalling ALL lots of Better Weather Fix Elixir 15 ml because the products may contain undeclared Mitragynine and Mitragynine Pseudoindoxyl (MP).  MP is a more potent derivative of Mitragynine, or Kra",
+        "nl": "FOR IMMEDIATE RELEASE – May 28, 2026 – Sheridan, Wyoming. Better Weather Actives LLC is voluntarily recalling ALL lots of Better Weather Fix Elixir 15 ml because the products may contain undeclared Mitragynine and Mitragynine Pseudoindoxyl (MP).  MP is a more potent derivative of Mitragynine, or Kra"
+      },
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/better-weather-actives-llc-recalls-better-weather-fix-elixir-due-undeclared-mitragynine-and",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0194",
+      "source": "RappelConso",
+      "date": "2026-05-27",
+      "title": {
+        "en": "2tartares 180g 5%mg sec.¤2tartares 150g 5%mg¤viande hachee 2kg 5%mg¤2tartare 180g  5%mg",
+        "fr": "2tartares 180g 5%mg sec.¤2tartares 150g 5%mg¤viande hachee 2kg 5%mg¤2tartare 180g  5%mg",
+        "nl": "2tartares 180g 5%mg sec.¤2tartares 150g 5%mg¤viande hachee 2kg 5%mg¤2tartare 180g  5%mg"
+      },
+      "description": {
+        "en": "détection de listéria monocytogène dans le cadre d'un autocontrôle - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listéria monocytogène dans le cadre d'un autocontrôle - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listéria monocytogène dans le cadre d'un autocontrôle - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22384/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0191",
+      "source": "RappelConso",
+      "date": "2026-05-27",
+      "title": {
+        "en": "chipolatas",
+        "fr": "chipolatas",
+        "nl": "chipolatas"
+      },
+      "description": {
+        "en": "presence salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "presence salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "presence salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22381/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0188",
+      "source": "RappelConso",
+      "date": "2026-05-27",
+      "title": {
+        "en": "wrap poulet",
+        "fr": "wrap poulet",
+        "nl": "wrap poulet"
+      },
+      "description": {
+        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22378/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ]
+    },
+    {
+      "id": "rappelconso-2026-05-0186",
+      "source": "RappelConso",
+      "date": "2026-05-27",
+      "title": {
+        "en": "préparation de viande bovine hachée assaisonnée 5% mg portionnée et vrac",
+        "fr": "préparation de viande bovine hachée assaisonnée 5% mg portionnée et vrac",
+        "nl": "préparation de viande bovine hachée assaisonnée 5% mg portionnée et vrac"
+      },
+      "description": {
+        "en": "détection de salmonelle dans le cadre d'autocontrôle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelle dans le cadre d'autocontrôle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelle dans le cadre d'autocontrôle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22376/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-diverse-powerbanks-van-tk-maxx",
+      "source": "NVWA",
+      "date": "2026-05-27",
+      "title": {
+        "en": "Veiligheidswaarschuwing verschillende powerbanks van TK Maxx",
+        "fr": "Veiligheidswaarschuwing verschillende powerbanks van TK Maxx",
+        "nl": "Veiligheidswaarschuwing verschillende powerbanks van TK Maxx"
+      },
+      "description": {
+        "en": "Update 1 juni 2026: de Power Evo Wireless Charging Power Bank Volt 5 is toegevoegd aan dit overzicht.\n\nTK Maxx waarschuwt voor verschillende powerbanks van POM en XO Poppy Magsafe Compatible powerbank (in verschillende kleuren en patronen). De...",
+        "fr": "Update 1 juni 2026: de Power Evo Wireless Charging Power Bank Volt 5 is toegevoegd aan dit overzicht.\n\nTK Maxx waarschuwt voor verschillende powerbanks van POM en XO Poppy Magsafe Compatible powerbank (in verschillende kleuren en patronen). De...",
+        "nl": "Update 1 juni 2026: de Power Evo Wireless Charging Power Bank Volt 5 is toegevoegd aan dit overzicht.\n\nTK Maxx waarschuwt voor verschillende powerbanks van POM en XO Poppy Magsafe Compatible powerbank (in verschillende kleuren en patronen). De..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/27/veiligheidswaarschuwing-diverse-powerbanks-van-tk-maxx",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa--bonen-in-tomatensaus-350-gram",
+      "source": "NVWA",
+      "date": "2026-05-27",
+      "title": {
+        "en": "Veiligheidswaarschuwing witte bonen in tomatensaus 350 gram",
+        "fr": "Veiligheidswaarschuwing witte bonen in tomatensaus 350 gram",
+        "nl": "Veiligheidswaarschuwing witte bonen in tomatensaus 350 gram"
+      },
+      "description": {
+        "en": "Machandel waarschuwt voor witte bonen in tomatensaus 350 gram. Het product is onvoldoende gesteriliseerd en bevat mogelijk schadelijke micro-organismen.",
+        "fr": "Machandel waarschuwt voor witte bonen in tomatensaus 350 gram. Het product is onvoldoende gesteriliseerd en bevat mogelijk schadelijke micro-organismen.",
+        "nl": "Machandel waarschuwt voor witte bonen in tomatensaus 350 gram. Het product is onvoldoende gesteriliseerd en bevat mogelijk schadelijke micro-organismen."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/27/veiligheidswaarschuwing-witte-bonen-in-tomatensaus-350-gram",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-amburger-2-stuks-van-dekamarkt",
+      "source": "NVWA",
+      "date": "2026-05-27",
+      "title": {
+        "en": "Veiligheidswaarschuwing Slagers runderhamburger 2 stuks van DekaMarkt",
+        "fr": "Veiligheidswaarschuwing Slagers runderhamburger 2 stuks van DekaMarkt",
+        "nl": "Veiligheidswaarschuwing Slagers runderhamburger 2 stuks van DekaMarkt"
+      },
+      "description": {
+        "en": "DekaMarkt waarschuwt voor DekaVers Slagers runderhamburger 2 stuks. Op de verpakking van het product staat mogelijk geen TGT (te gebruiken tot). Eet de runderhamburgers niet als de TGT ontbreekt.\n\nZie de website van DekaMarkt",
+        "fr": "DekaMarkt waarschuwt voor DekaVers Slagers runderhamburger 2 stuks. Op de verpakking van het product staat mogelijk geen TGT (te gebruiken tot). Eet de runderhamburgers niet als de TGT ontbreekt.\n\nZie de website van DekaMarkt",
+        "nl": "DekaMarkt waarschuwt voor DekaVers Slagers runderhamburger 2 stuks. Op de verpakking van het product staat mogelijk geen TGT (te gebruiken tot). Eet de runderhamburgers niet als de TGT ontbreekt.\n\nZie de website van DekaMarkt"
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/27/veiligheidswaarschuwing-slagers-runderhamburger-2-stuks-van-dekamarkt",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-mayo-flavor-popcorn-allergenen",
+      "source": "NVWA",
+      "date": "2026-05-22",
+      "title": {
+        "en": "Veiligheidswaarschuwing HBAF Wasabi Mayo Flavor Popcorn (allergenen)",
+        "fr": "Veiligheidswaarschuwing HBAF Wasabi Mayo Flavor Popcorn (allergenen)",
+        "nl": "Veiligheidswaarschuwing HBAF Wasabi Mayo Flavor Popcorn (allergenen)"
+      },
+      "description": {
+        "en": "Hanjo International B.V. waarschuwt voor HBAF Wasabi Mayo Flavor Popcorn 80 g. In de popcorn zit melk. Dit staat ni",
+        "fr": "Hanjo International B.V. waarschuwt voor HBAF Wasabi Mayo Flavor Popcorn 80 g. In de popcorn zit melk. Dit staat ni",
+        "nl": "Hanjo International B.V. waarschuwt voor HBAF Wasabi Mayo Flavor Popcorn 80 g. In de popcorn zit melk. Dit staat ni"
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/22/veiligheidswaarschuwing-hbaf-wasabi-mayo-flavor-popcorn-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy",
+        "egg"
+      ]
+    },
+    {
+      "id": "nvwa--magnetix-spel-met-24-magneten",
+      "source": "NVWA",
+      "date": "2026-05-22",
+      "title": {
+        "en": "Veiligheidswaarschuwing Magnetix spel met 24 magneten",
+        "fr": "Veiligheidswaarschuwing Magnetix spel met 24 magneten",
+        "nl": "Veiligheidswaarschuwing Magnetix spel met 24 magneten"
+      },
+      "description": {
+        "en": "Otto Simon waarschuwt voor Magnetix spel met 24 magneten. De magneten zijn klein en de magnetische kracht is zeer sterk. Inslikken kan gevaarlijk zijn.",
+        "fr": "Otto Simon waarschuwt voor Magnetix spel met 24 magneten. De magneten zijn klein en de magnetische kracht is zeer sterk. Inslikken kan gevaarlijk zijn.",
+        "nl": "Otto Simon waarschuwt voor Magnetix spel met 24 magneten. De magneten zijn klein en de magnetische kracht is zeer sterk. Inslikken kan gevaarlijk zijn."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/22/veiligheidswaarschuwing-magnetix-spel-met-24-magneten",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg"
+      ]
+    },
+    {
+      "id": "cfia-82109",
+      "source": "CFIA",
+      "date": "2026-05-21",
+      "title": {
+        "en": "Les Fermes Lufa brand Broccoli microgreens recalled due to pathogenic E. coli",
+        "fr": "Les Fermes Lufa brand Broccoli microgreens recalled due to pathogenic E. coli",
+        "nl": "Les Fermes Lufa brand Broccoli microgreens recalled due to pathogenic E. coli"
+      },
+      "description": {
+        "en": "The affected product is being recalled from the marketplace due to possible pathogenic E. coli contamination.",
+        "fr": "The affected product is being recalled from the marketplace due to possible pathogenic E. coli contamination.",
+        "nl": "The affected product is being recalled from the marketplace due to possible pathogenic E. coli contamination."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/fermes-lufa-brand-broccoli-microgreens-recalled-due-pathogenic-e-coli",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "cfia-82089",
+      "source": "CFIA",
+      "date": "2026-05-20",
+      "title": {
+        "en": "El Mexicano brand Agua Fresca de Horchata Instant Horchata Drink recalled due to improperly declared milk",
+        "fr": "El Mexicano brand Agua Fresca de Horchata Instant Horchata Drink recalled due to improperly declared milk",
+        "nl": "El Mexicano brand Agua Fresca de Horchata Instant Horchata Drink recalled due to improperly declared milk"
+      },
+      "description": {
+        "en": "El Mexicano brand Agua Fresca de Horchata Instant Horchata Drink recalled due to improperly declared milk.",
+        "fr": "El Mexicano brand Agua Fresca de Horchata Instant Horchata Drink recalled due to improperly declared milk.",
+        "nl": "El Mexicano brand Agua Fresca de Horchata Instant Horchata Drink recalled due to improperly declared milk."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/el-mexicano-brand-agua-fresca-horchata-instant-horchata-drink-recalled-due-improperly",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ]
+    },
+    {
+      "id": "cfia-81863",
+      "source": "CFIA",
+      "date": "2026-05-20",
+      "title": {
+        "en": "Micro Verdure brand Microgreens recalled due to pathogenic E. coli",
+        "fr": "Micro Verdure brand Microgreens recalled due to pathogenic E. coli",
+        "nl": "Micro Verdure brand Microgreens recalled due to pathogenic E. coli"
+      },
+      "description": {
+        "en": "The affected products are being recalled from the marketplace due to possible pathogenic E. coli contamination.",
+        "fr": "The affected products are being recalled from the marketplace due to possible pathogenic E. coli contamination.",
+        "nl": "The affected products are being recalled from the marketplace due to possible pathogenic E. coli contamination."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/micro-verdure-brand-microgreens-recalled-due-pathogenic-e-coli",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-ashewnoten-ongezouten-170-gram",
+      "source": "NVWA",
+      "date": "2026-05-20",
+      "title": {
+        "en": "Veiligheidswaarschuwing Trader Joe’s cashewnoten ongezouten 170 gram",
+        "fr": "Veiligheidswaarschuwing Trader Joe’s cashewnoten ongezouten 170 gram",
+        "nl": "Veiligheidswaarschuwing Trader Joe’s cashewnoten ongezouten 170 gram"
+      },
+      "description": {
+        "en": "ALDI waarschuwt voor Trader Joe’s cashewnoten ongezouten 170 gram met houdbaarheidsdatum 23-09-2026. Het product bevat mogelijk metaaldeeltjes.",
+        "fr": "ALDI waarschuwt voor Trader Joe’s cashewnoten ongezouten 170 gram met houdbaarheidsdatum 23-09-2026. Het product bevat mogelijk metaaldeeltjes.",
+        "nl": "ALDI waarschuwt voor Trader Joe’s cashewnoten ongezouten 170 gram met houdbaarheidsdatum 23-09-2026. Het product bevat mogelijk metaaldeeltjes."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/20/veiligheidswaarschuwing-trader-joes-cashewnoten-ongezouten-170-gram",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa--artikelen-van-eddy-toyssquish",
+      "source": "NVWA",
+      "date": "2026-05-18",
+      "title": {
+        "en": "Veiligheidswaarschuwing diverse squish- en stretchproducten van Eddy Toys",
+        "fr": "Veiligheidswaarschuwing diverse squish- en stretchproducten van Eddy Toys",
+        "nl": "Veiligheidswaarschuwing diverse squish- en stretchproducten van Eddy Toys"
+      },
+      "description": {
+        "en": "A.I &amp; E. (EDCO) waarschuwt voor diverse squish- en stretchproducten van Eddy Toys. Deze producten kunnen asbest bevatten.",
+        "fr": "A.I &amp; E. (EDCO) waarschuwt voor diverse squish- en stretchproducten van Eddy Toys. Deze producten kunnen asbest bevatten.",
+        "nl": "A.I &amp; E. (EDCO) waarschuwt voor diverse squish- en stretchproducten van Eddy Toys. Deze producten kunnen asbest bevatten."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/18/veiligheidswaarschuwing-diverse-en-stretch-artikelen-van-eddy-toyssquish",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-wing-kip-cordon-bleu-diepvries",
+      "source": "NVWA",
+      "date": "2026-05-16",
+      "title": {
+        "en": "Veiligheidswaarschuwing Kip cordon bleu (diepvries)",
+        "fr": "Veiligheidswaarschuwing Kip cordon bleu (diepvries)",
+        "nl": "Veiligheidswaarschuwing Kip cordon bleu (diepvries)"
+      },
+      "description": {
+        "en": "ALDI waarschuwt voor Kip cordon bleu (diepvries). Het product bevat mogelijk salmonella. Eet de kip cordon bleu niet.\n\nZie de website van ALDI",
+        "fr": "ALDI waarschuwt voor Kip cordon bleu (diepvries). Het product bevat mogelijk salmonella. Eet de kip cordon bleu niet.\n\nZie de website van ALDI",
+        "nl": "ALDI waarschuwt voor Kip cordon bleu (diepvries). Het product bevat mogelijk salmonella. Eet de kip cordon bleu niet.\n\nZie de website van ALDI"
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/16/veiligheidswaarschuwing-kip-cordon-bleu-diepvries",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa--acid-carbon-hybrid-crankarmen",
+      "source": "NVWA",
+      "date": "2026-05-13",
+      "title": {
+        "en": "Veiligheidswaarschuwing CUBE e-bikes met 2026 ACID Carbon Hybrid crankarmen",
+        "fr": "Veiligheidswaarschuwing CUBE e-bikes met 2026 ACID Carbon Hybrid crankarmen",
+        "nl": "Veiligheidswaarschuwing CUBE e-bikes met 2026 ACID Carbon Hybrid crankarmen"
+      },
+      "description": {
+        "en": "CUBE waarschuwt eigenaren van e-bike modellen uit modeljaar 2026 die zijn uitgerust met de 2026 ACID Carbon Hybrid crankarmen en verkocht zijn voor 8 mei 2026.",
+        "fr": "CUBE waarschuwt eigenaren van e-bike modellen uit modeljaar 2026 die zijn uitgerust met de 2026 ACID Carbon Hybrid crankarmen en verkocht zijn voor 8 mei 2026.",
+        "nl": "CUBE waarschuwt eigenaren van e-bike modellen uit modeljaar 2026 die zijn uitgerust met de 2026 ACID Carbon Hybrid crankarmen en verkocht zijn voor 8 mei 2026."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/13/veiligheidswaarschuwing-cube-e-bikes-met-2026-acid-carbon-hybrid-crankarmen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-eister-whey-eiwitshake-vanille",
+      "source": "NVWA",
+      "date": "2026-05-08",
+      "title": {
+        "en": "Veiligheidswaarschuwing Trekpleister Whey eiwitshake vanille (allergenen)",
+        "fr": "Veiligheidswaarschuwing Trekpleister Whey eiwitshake vanille (allergenen)",
+        "nl": "Veiligheidswaarschuwing Trekpleister Whey eiwitshake vanille (allergenen)"
+      },
+      "description": {
+        "en": "Trekpleister waarschuwt voor Trekpleister Whey eiwitshake vanille. Het product bevat mogelijk soja. Dit staat niet op het etiket vermeld. Consumeer het product niet als u allergisch bent voor soja.\n\nZie de website van Trekpleister",
+        "fr": "Trekpleister waarschuwt voor Trekpleister Whey eiwitshake vanille. Het product bevat mogelijk soja. Dit staat niet op het etiket vermeld. Consumeer het product niet als u allergisch bent voor soja.\n\nZie de website van Trekpleister",
+        "nl": "Trekpleister waarschuwt voor Trekpleister Whey eiwitshake vanille. Het product bevat mogelijk soja. Dit staat niet op het etiket vermeld. Consumeer het product niet als u allergisch bent voor soja.\n\nZie de website van Trekpleister"
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/08/veiligheidswaarschuwing-trekpleister-whey-eiwitshake-vanille",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy",
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-rschuwing-kruidvat-mass-gainer",
+      "source": "NVWA",
+      "date": "2026-05-07",
+      "title": {
+        "en": "Veiligheidswaarschuwing Kruidvat Mass Gainer (allergenen)",
+        "fr": "Veiligheidswaarschuwing Kruidvat Mass Gainer (allergenen)",
+        "nl": "Veiligheidswaarschuwing Kruidvat Mass Gainer (allergenen)"
+      },
+      "description": {
+        "en": "Kruidvat waarschuwt voor Kruidvat Mass Gainer. Het product bevat mogelijk soja. Dit staat niet op het etiket vermeld.",
+        "fr": "Kruidvat waarschuwt voor Kruidvat Mass Gainer. Het product bevat mogelijk soja. Dit staat niet op het etiket vermeld.",
+        "nl": "Kruidvat waarschuwt voor Kruidvat Mass Gainer. Het product bevat mogelijk soja. Dit staat niet op het etiket vermeld."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/07/veiligheidswaarschuwing-kruidvat-mass-gainer",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-en-half-van-dirk-van-den-broek",
+      "source": "NVWA",
+      "date": "2026-05-07",
+      "title": {
+        "en": "Veiligheidswaarschuwing Bakker van der Akker Boeren Extra vezels volkoren half van Dirk van den Broek",
+        "fr": "Veiligheidswaarschuwing Bakker van der Akker Boeren Extra vezels volkoren half van Dirk van den Broek",
+        "nl": "Veiligheidswaarschuwing Bakker van der Akker Boeren Extra vezels volkoren half van Dirk van den Broek"
+      },
+      "description": {
+        "en": "Dirk van den Broek waarschuwt voor Bakker van der Akker Boeren Extra vezels volkoren half met houdbaarheidsdatum 04-05-2026.",
+        "fr": "Dirk van den Broek waarschuwt voor Bakker van der Akker Boeren Extra vezels volkoren half met houdbaarheidsdatum 04-05-2026.",
+        "nl": "Dirk van den Broek waarschuwt voor Bakker van der Akker Boeren Extra vezels volkoren half met houdbaarheidsdatum 04-05-2026."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/07/veiligheidswaarschuwing-bakker-van-der-akker-boeren-extra-vezels-volkoren-half-van-dirk-van-den-broek",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "fish",
+        "egg"
+      ]
+    },
+    {
+      "id": "nvwa-aarschuwing-jumbo-whey-protein",
+      "source": "NVWA",
+      "date": "2026-05-04",
+      "title": {
+        "en": "Veiligheidswaarschuwing Jumbo Whey Protein (allergenen)",
+        "fr": "Veiligheidswaarschuwing Jumbo Whey Protein (allergenen)",
+        "nl": "Veiligheidswaarschuwing Jumbo Whey Protein (allergenen)"
+      },
+      "description": {
+        "en": "Jumbo waarschuwt voor Jumbo Whey Protein. Het product bevat mogelijk soja. Dit staat niet op het etiket vermeld. Consumeer het product niet als u allergisch bent voor soja. \n\nZie de website van Jumbo",
+        "fr": "Jumbo waarschuwt voor Jumbo Whey Protein. Het product bevat mogelijk soja. Dit staat niet op het etiket vermeld. Consumeer het product niet als u allergisch bent voor soja. \n\nZie de website van Jumbo",
+        "nl": "Jumbo waarschuwt voor Jumbo Whey Protein. Het product bevat mogelijk soja. Dit staat niet op het etiket vermeld. Consumeer het product niet als u allergisch bent voor soja. \n\nZie de website van Jumbo"
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/04/veiligheidswaarschuwing-jumbo-whey-protein",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy",
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa--scubapro-monorail-loodpockets",
+      "source": "NVWA",
+      "date": "2026-05-01",
+      "title": {
+        "en": "Veiligheidswaarschuwing Scubapro Monorail-loodpockets",
+        "fr": "Veiligheidswaarschuwing Scubapro Monorail-loodpockets",
+        "nl": "Veiligheidswaarschuwing Scubapro Monorail-loodpockets"
+      },
+      "description": {
+        "en": "Scubapro waarschuwt voor hun Monorail-loodpockets. De D-ring-handgreep van het product kan tijdens gebruik losraken.",
+        "fr": "Scubapro waarschuwt voor hun Monorail-loodpockets. De D-ring-handgreep van het product kan tijdens gebruik losraken.",
+        "nl": "Scubapro waarschuwt voor hun Monorail-loodpockets. De D-ring-handgreep van het product kan tijdens gebruik losraken."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/05/01/veiligheidswaarschuwing-scubapro-monorail-loodpockets",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-ng-purasana-moringa-poeder-bio",
+      "source": "NVWA",
+      "date": "2026-04-30",
+      "title": {
+        "en": "Veiligheidswaarschuwing Purasana Moringa poeder BIO",
+        "fr": "Veiligheidswaarschuwing Purasana Moringa poeder BIO",
+        "nl": "Veiligheidswaarschuwing Purasana Moringa poeder BIO"
+      },
+      "description": {
+        "en": "Diverse winkels waarschuwen voor Purasana Moringa poeder BIO. Er kan salmonella in zitten. Consumeer het poeder niet.",
+        "fr": "Diverse winkels waarschuwen voor Purasana Moringa poeder BIO. Er kan salmonella in zitten. Consumeer het poeder niet.",
+        "nl": "Diverse winkels waarschuwen voor Purasana Moringa poeder BIO. Er kan salmonella in zitten. Consumeer het poeder niet."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/30/veiligheidswaarschuwing-purasana-moringa-poeder-bio",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "fish",
+        "egg"
+      ]
+    },
+    {
+      "id": "nvwa-cf-ultra-105-di2-van-decathlon",
+      "source": "NVWA",
+      "date": "2026-04-28",
+      "title": {
+        "en": "Veiligheidswaarschuwing VAN RYSEL racefiets EDR CF ULTRA 105 Di2 van Decathlon",
+        "fr": "Veiligheidswaarschuwing VAN RYSEL racefiets EDR CF ULTRA 105 Di2 van Decathlon",
+        "nl": "Veiligheidswaarschuwing VAN RYSEL racefiets EDR CF ULTRA 105 Di2 van Decathlon"
+      },
+      "description": {
+        "en": "Decathlon Netherlands B.V. waarschuwt voor hun VAN RYSEL racefiets EDR CF ULTRA 105 Di2 (kakigroen en licht blauw). Er zijn te veel spacers gemonteerd, wat kan leiden tot het plotseling verdraaien van de stuurpen. Hierdoor kan het stuur tijdens...",
+        "fr": "Decathlon Netherlands B.V. waarschuwt voor hun VAN RYSEL racefiets EDR CF ULTRA 105 Di2 (kakigroen en licht blauw). Er zijn te veel spacers gemonteerd, wat kan leiden tot het plotseling verdraaien van de stuurpen. Hierdoor kan het stuur tijdens...",
+        "nl": "Decathlon Netherlands B.V. waarschuwt voor hun VAN RYSEL racefiets EDR CF ULTRA 105 Di2 (kakigroen en licht blauw). Er zijn te veel spacers gemonteerd, wat kan leiden tot het plotseling verdraaien van de stuurpen. Hierdoor kan het stuur tijdens..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/28/veiligheidswaarschuwing-van-rysel-racefiets-edr-cf-ultra-105-di2-van-decathlon",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "fish",
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-wing-houten-speelgoed-xylofoon",
+      "source": "NVWA",
+      "date": "2026-04-24",
+      "title": {
+        "en": "Veiligheidswaarschuwing houten speelgoed xylofoon van Flying Tiger",
+        "fr": "Veiligheidswaarschuwing houten speelgoed xylofoon van Flying Tiger",
+        "nl": "Veiligheidswaarschuwing houten speelgoed xylofoon van Flying Tiger"
+      },
+      "description": {
+        "en": "Flying Tiger waarschuwt voor houten xylofoon. De pinnen zijn mogelijk niet stevig genoeg bevestigd. Dit kan verstikkingsgevaar opleveren voor jonge kinderen.",
+        "fr": "Flying Tiger waarschuwt voor houten xylofoon. De pinnen zijn mogelijk niet stevig genoeg bevestigd. Dit kan verstikkingsgevaar opleveren voor jonge kinderen.",
+        "nl": "Flying Tiger waarschuwt voor houten xylofoon. De pinnen zijn mogelijk niet stevig genoeg bevestigd. Dit kan verstikkingsgevaar opleveren voor jonge kinderen."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/24/veiligheidswaarschuwing-houten-speelgoed-xylofoon",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg"
+      ]
+    },
+    {
+      "id": "nvwa-lling-enfinigy-en-enfinigy-pro",
+      "source": "NVWA",
+      "date": "2026-04-23",
+      "title": {
+        "en": "Veiligheidswaarschuwing Waterkokers ZWILLING ENFINIGY (1,5 liter) en ENFINIGY Pro (1,5 liter)",
+        "fr": "Veiligheidswaarschuwing Waterkokers ZWILLING ENFINIGY (1,5 liter) en ENFINIGY Pro (1,5 liter)",
+        "nl": "Veiligheidswaarschuwing Waterkokers ZWILLING ENFINIGY (1,5 liter) en ENFINIGY Pro (1,5 liter)"
+      },
+      "description": {
+        "en": "ZWILLING waarschuwt voor hun waterkokers ENFINIGY (1,5 liter) en ENFINIGY Pro (1,5 liter). Het handvat kan losraken of afbreken. Hierdoor kan heet water ongecontroleerd uit de waterkoker lopen. Gebruikers of omstanders lopen daardoor het risico...",
+        "fr": "ZWILLING waarschuwt voor hun waterkokers ENFINIGY (1,5 liter) en ENFINIGY Pro (1,5 liter). Het handvat kan losraken of afbreken. Hierdoor kan heet water ongecontroleerd uit de waterkoker lopen. Gebruikers of omstanders lopen daardoor het risico...",
+        "nl": "ZWILLING waarschuwt voor hun waterkokers ENFINIGY (1,5 liter) en ENFINIGY Pro (1,5 liter). Het handvat kan losraken of afbreken. Hierdoor kan heet water ongecontroleerd uit de waterkoker lopen. Gebruikers of omstanders lopen daardoor het risico..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/23/veiligheidswaarschuwing-waterkokers-zwilling-enfinigy-en-enfinigy-pro",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-n-couture-princess-van-tk-maxx",
+      "source": "NVWA",
+      "date": "2026-04-22",
+      "title": {
+        "en": "Veiligheidswaarschuwing gelegenheidsjurken American Princess en Couture Princess van TK Maxx",
+        "fr": "Veiligheidswaarschuwing gelegenheidsjurken American Princess en Couture Princess van TK Maxx",
+        "nl": "Veiligheidswaarschuwing gelegenheidsjurken American Princess en Couture Princess van TK Maxx"
+      },
+      "description": {
+        "en": "TK Maxx waarschuwt voor de gelegenheidsjurken American Princess en Couture Princess. Het betreft verschillende decoratieve stijlen, kleuren en leeftijdscategorieën. De stiksels van de plastic balein in de zoom van de jurk kunnen beschadigd raken...",
+        "fr": "TK Maxx waarschuwt voor de gelegenheidsjurken American Princess en Couture Princess. Het betreft verschillende decoratieve stijlen, kleuren en leeftijdscategorieën. De stiksels van de plastic balein in de zoom van de jurk kunnen beschadigd raken...",
+        "nl": "TK Maxx waarschuwt voor de gelegenheidsjurken American Princess en Couture Princess. Het betreft verschillende decoratieve stijlen, kleuren en leeftijdscategorieën. De stiksels van de plastic balein in de zoom van de jurk kunnen beschadigd raken..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/22/veiligheidswaarschuwing-gelegenheidsjurken-american-princess-en-couture-princess-van-tk-maxx",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg"
+      ]
+    },
+    {
+      "id": "nvwa-schuwing-vistasonic-haardroger",
+      "source": "NVWA",
+      "date": "2026-04-16",
+      "title": {
+        "en": "Veiligheidswaarschuwing VistaSonic haardroger",
+        "fr": "Veiligheidswaarschuwing VistaSonic haardroger",
+        "nl": "Veiligheidswaarschuwing VistaSonic haardroger"
+      },
+      "description": {
+        "en": "Vista Global B.V. waarschuwt voor VistaSonic Super Föhn. De isolatie van het product biedt bij het in- en uitschakelen geen bescherming en hulpstukken kunnen bij gebruik smelten. Dit kan leiden tot het krijgen van een elektrische schok en...",
+        "fr": "Vista Global B.V. waarschuwt voor VistaSonic Super Föhn. De isolatie van het product biedt bij het in- en uitschakelen geen bescherming en hulpstukken kunnen bij gebruik smelten. Dit kan leiden tot het krijgen van een elektrische schok en...",
+        "nl": "Vista Global B.V. waarschuwt voor VistaSonic Super Föhn. De isolatie van het product biedt bij het in- en uitschakelen geen bescherming en hulpstukken kunnen bij gebruik smelten. Dit kan leiden tot het krijgen van een elektrische schok en..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/16/veiligheidswaarschuwing-vistasonic-haardroger",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "fish",
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-arschuwing-wahid-knakworst-kip",
+      "source": "NVWA",
+      "date": "2026-04-15",
+      "title": {
+        "en": "Veiligheidswaarschuwing Wahid Knakworst kip",
+        "fr": "Veiligheidswaarschuwing Wahid Knakworst kip",
+        "nl": "Veiligheidswaarschuwing Wahid Knakworst kip"
+      },
+      "description": {
+        "en": "Dirk waarschuwt voor Wahid Knakworst kip pak 4 stuks. Het product is niet goed gekoeld bewaard gebleven. Eet de knakworsten niet.",
+        "fr": "Dirk waarschuwt voor Wahid Knakworst kip pak 4 stuks. Het product is niet goed gekoeld bewaard gebleven. Eet de knakworsten niet.",
+        "nl": "Dirk waarschuwt voor Wahid Knakworst kip pak 4 stuks. Het product is niet goed gekoeld bewaard gebleven. Eet de knakworsten niet."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/15/veiligheidswaarschuwing-wahid-knakworst-kip",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-dinger-cottage-cheese-bieslook",
+      "source": "NVWA",
+      "date": "2026-04-13",
+      "title": {
+        "en": "Veiligheidswaarschuwing Schärdinger Cottage Cheese bieslook (allergenen)",
+        "fr": "Veiligheidswaarschuwing Schärdinger Cottage Cheese bieslook (allergenen)",
+        "nl": "Veiligheidswaarschuwing Schärdinger Cottage Cheese bieslook (allergenen)"
+      },
+      "description": {
+        "en": "Koningszuivel waarschuwt voor Schärdinger Cottage Cheese bieslook. Op de verpakking ontbreekt Nederlandse productinformatie, waardoor het allergeen melk niet wordt vermeld. Eet dit product niet als u een melkallergie heeft.\n\nZie de website van Dirk",
+        "fr": "Koningszuivel waarschuwt voor Schärdinger Cottage Cheese bieslook. Op de verpakking ontbreekt Nederlandse productinformatie, waardoor het allergeen melk niet wordt vermeld. Eet dit product niet als u een melkallergie heeft.\n\nZie de website van Dirk",
+        "nl": "Koningszuivel waarschuwt voor Schärdinger Cottage Cheese bieslook. Op de verpakking ontbreekt Nederlandse productinformatie, waardoor het allergeen melk niet wordt vermeld. Eet dit product niet als u een melkallergie heeft.\n\nZie de website van Dirk"
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/13/veiligheidswaarschuwing-schardinger-cottage-cheese-bieslook",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy",
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-ribbelbrood-grof-volkoren-heel",
+      "source": "NVWA",
+      "date": "2026-04-10",
+      "title": {
+        "en": "Veiligheidswaarschuwing Ribbelbrood Grof Volkoren Half en Ribbelbrood Grof Volkoren Heel (allergenen)",
+        "fr": "Veiligheidswaarschuwing Ribbelbrood Grof Volkoren Half en Ribbelbrood Grof Volkoren Heel (allergenen)",
+        "nl": "Veiligheidswaarschuwing Ribbelbrood Grof Volkoren Half en Ribbelbrood Grof Volkoren Heel (allergenen)"
+      },
+      "description": {
+        "en": "Poiesz Supermarkten waarschuwt voor Ribbelbrood Grof Volkoren Half en Ribbelbrood Grof Volkoren Heel. Er is een verkeerde decoratie gebruikt op de broden, hier zit het allergeen sesam in. Eet het brood niet als u allergisch bent voor sesam.\n\nZie...",
+        "fr": "Poiesz Supermarkten waarschuwt voor Ribbelbrood Grof Volkoren Half en Ribbelbrood Grof Volkoren Heel. Er is een verkeerde decoratie gebruikt op de broden, hier zit het allergeen sesam in. Eet het brood niet als u allergisch bent voor sesam.\n\nZie...",
+        "nl": "Poiesz Supermarkten waarschuwt voor Ribbelbrood Grof Volkoren Half en Ribbelbrood Grof Volkoren Heel. Er is een verkeerde decoratie gebruikt op de broden, hier zit het allergeen sesam in. Eet het brood niet als u allergisch bent voor sesam.\n\nZie..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/10/veiligheidswaarschuwing-ribbelbrood-grof-volkoren-half-en-ribbelbrood-grof-volkoren-heel",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa-gwoon-luxe-desem-pistolets-wit",
+      "source": "NVWA",
+      "date": "2026-04-10",
+      "title": {
+        "en": "Veiligheidswaarschuwing G’woon luxe desem pistolets wit (allergenen)",
+        "fr": "Veiligheidswaarschuwing G’woon luxe desem pistolets wit (allergenen)",
+        "nl": "Veiligheidswaarschuwing G’woon luxe desem pistolets wit (allergenen)"
+      },
+      "description": {
+        "en": "Superunie waarschuwt voor G’woon luxe desem pistolets wit. In de verpakking zitten per ongeluk meergranen pistolets, waardoor niet vermeld staat dat het product rogge kan bevatten. Eet het product niet als u allergisch bent voor rogge.\n\nVoor...",
+        "fr": "Superunie waarschuwt voor G’woon luxe desem pistolets wit. In de verpakking zitten per ongeluk meergranen pistolets, waardoor niet vermeld staat dat het product rogge kan bevatten. Eet het product niet als u allergisch bent voor rogge.\n\nVoor...",
+        "nl": "Superunie waarschuwt voor G’woon luxe desem pistolets wit. In de verpakking zitten per ongeluk meergranen pistolets, waardoor niet vermeld staat dat het product rogge kan bevatten. Eet het product niet als u allergisch bent voor rogge.\n\nVoor..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/10/veiligheidswaarschuwing-gwoon-luxe-desem-pistolets-wit",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg"
+      ]
+    },
+    {
+      "id": "nvwa-letjes-van-magneetjeswinkel.nl",
+      "source": "NVWA",
+      "date": "2026-04-07",
+      "title": {
+        "en": "Veiligheidswaarschuwing magnetisch bordspel met magneetballetjes van MagneetjesWinkel.nl",
+        "fr": "Veiligheidswaarschuwing magnetisch bordspel met magneetballetjes van MagneetjesWinkel.nl",
+        "nl": "Veiligheidswaarschuwing magnetisch bordspel met magneetballetjes van MagneetjesWinkel.nl"
+      },
+      "description": {
+        "en": "Magneetkracht B.V. waarschuwt voor het magnetisch bordspel CIRCULAIR MAGNET CLASH CHESS van MagneetjesWinkel.nl. De magnetische kracht van de magneetballen is te hoog. Wanneer magneten worden ingeslikt, kunnen deze elkaar in het lichaam aantrekken...",
+        "fr": "Magneetkracht B.V. waarschuwt voor het magnetisch bordspel CIRCULAIR MAGNET CLASH CHESS van MagneetjesWinkel.nl. De magnetische kracht van de magneetballen is te hoog. Wanneer magneten worden ingeslikt, kunnen deze elkaar in het lichaam aantrekken...",
+        "nl": "Magneetkracht B.V. waarschuwt voor het magnetisch bordspel CIRCULAIR MAGNET CLASH CHESS van MagneetjesWinkel.nl. De magnetische kracht van de magneetballen is te hoog. Wanneer magneten worden ingeslikt, kunnen deze elkaar in het lichaam aantrekken..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/07/veiligheidswaarschuwing-magnetisch-bordspel-met-magneetballetjes-van-magneetjeswinkel.nl",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg"
+      ]
+    },
+    {
+      "id": "nvwa-doosje-van-magneetjeswinkel.nl",
+      "source": "NVWA",
+      "date": "2026-04-07",
+      "title": {
+        "en": "Veiligheidswaarschuwing magneetballetjes en staafjes – zilver (set in tinnen doosje) van MagneetjesWinkel.nl",
+        "fr": "Veiligheidswaarschuwing magneetballetjes en staafjes – zilver (set in tinnen doosje) van MagneetjesWinkel.nl",
+        "nl": "Veiligheidswaarschuwing magneetballetjes en staafjes – zilver (set in tinnen doosje) van MagneetjesWinkel.nl"
+      },
+      "description": {
+        "en": "Magneetkracht B.V. waarschuwt voor magneetballetjes en staafjes – zilver (set in tinnen doosje) van MagneetjesWinkel.nl. De magnetische kracht van de magneetballetjes en staafjes is te hoog. Wanneer magneten worden ingeslikt, kunnen deze elkaar in...",
+        "fr": "Magneetkracht B.V. waarschuwt voor magneetballetjes en staafjes – zilver (set in tinnen doosje) van MagneetjesWinkel.nl. De magnetische kracht van de magneetballetjes en staafjes is te hoog. Wanneer magneten worden ingeslikt, kunnen deze elkaar in...",
+        "nl": "Magneetkracht B.V. waarschuwt voor magneetballetjes en staafjes – zilver (set in tinnen doosje) van MagneetjesWinkel.nl. De magnetische kracht van de magneetballetjes en staafjes is te hoog. Wanneer magneten worden ingeslikt, kunnen deze elkaar in..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/07/veiligheidswaarschuwing-magneetballetjes-en-staafjes-zilver-set-in-tinnen-doosje-van-magneetjeswinkel.nl",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg"
+      ]
+    },
+    {
+      "id": "nvwa-en-5.0-e-bikes-van-specialized",
+      "source": "NVWA",
+      "date": "2026-04-07",
+      "title": {
+        "en": "Veiligheidswaarschuwing Turbo Como SL 4.0 en 5.0 e-bikes van Specialized",
+        "fr": "Veiligheidswaarschuwing Turbo Como SL 4.0 en 5.0 e-bikes van Specialized",
+        "nl": "Veiligheidswaarschuwing Turbo Como SL 4.0 en 5.0 e-bikes van Specialized"
+      },
+      "description": {
+        "en": "Specialized Germany GmbH waarschuwt voor de Turbo Como SL 4.0 en 5.0 e-bikes. De stuurbuis van de vork van getroffen fietsen kan een kleine vermoeiingsscheur ontwikkelen die, afhankelijk van het gebruik, kan leiden tot geleidelijke beschadiging...",
+        "fr": "Specialized Germany GmbH waarschuwt voor de Turbo Como SL 4.0 en 5.0 e-bikes. De stuurbuis van de vork van getroffen fietsen kan een kleine vermoeiingsscheur ontwikkelen die, afhankelijk van het gebruik, kan leiden tot geleidelijke beschadiging...",
+        "nl": "Specialized Germany GmbH waarschuwt voor de Turbo Como SL 4.0 en 5.0 e-bikes. De stuurbuis van de vork van getroffen fietsen kan een kleine vermoeiingsscheur ontwikkelen die, afhankelijk van het gebruik, kan leiden tot geleidelijke beschadiging..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/07/veiligheidswaarschuwing-turbo-como-sl-4.0-en-5.0-e-bikes-van-specialized",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    },
+    {
+      "id": "nvwa--biologische-linzensoep-570-ml",
+      "source": "NVWA",
+      "date": "2026-04-02",
+      "title": {
+        "en": "Veiligheidswaarschuwing Bio+ biologische linzensoep 570 ml (allergenen)",
+        "fr": "Veiligheidswaarschuwing Bio+ biologische linzensoep 570 ml (allergenen)",
+        "nl": "Veiligheidswaarschuwing Bio+ biologische linzensoep 570 ml (allergenen)"
+      },
+      "description": {
+        "en": "Superunie waarschuwt voor Bio+ biologische linzensoep 570 ml. Op de verpakking staat niet vermeld dat het product tarwe en haver kan bevatten. Eet dit product niet als u allergisch bent voor tarwe en/of haver. \n\nZie de website van Poiesz...",
+        "fr": "Superunie waarschuwt voor Bio+ biologische linzensoep 570 ml. Op de verpakking staat niet vermeld dat het product tarwe en haver kan bevatten. Eet dit product niet als u allergisch bent voor tarwe en/of haver. \n\nZie de website van Poiesz...",
+        "nl": "Superunie waarschuwt voor Bio+ biologische linzensoep 570 ml. Op de verpakking staat niet vermeld dat het product tarwe en haver kan bevatten. Eet dit product niet als u allergisch bent voor tarwe en/of haver. \n\nZie de website van Poiesz..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/04/02/veiligheidswaarschuwing-bio-biologische-linzensoep-570-ml",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ]
+    }
+  ]
+}
