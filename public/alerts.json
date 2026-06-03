@@ -1,6 +1,122 @@
 {
-  "generated": "2026-06-01T20:39:01.517Z",
+  "generated": "2026-06-03T07:33:12.710Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-06-0005",
+      "source": "RappelConso",
+      "date": "2026-06-02",
+      "title": {
+        "en": "saucisson sec à la découpe au rayon charcuterie traditionnelle",
+        "fr": "saucisson sec à la découpe au rayon charcuterie traditionnelle",
+        "nl": "saucisson sec à la découpe au rayon charcuterie traditionnelle"
+      },
+      "description": {
+        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22430/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0015",
+      "source": "RappelConso",
+      "date": "2026-06-02",
+      "title": {
+        "en": "pre saint jean fromagerie du val de sienne",
+        "fr": "pre saint jean fromagerie du val de sienne",
+        "nl": "pre saint jean fromagerie du val de sienne"
+      },
+      "description": {
+        "en": "listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22440/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0004",
+      "source": "RappelConso",
+      "date": "2026-06-02",
+      "title": {
+        "en": "emincé de dinde a l'indienne",
+        "fr": "emincé de dinde a l'indienne",
+        "nl": "emincé de dinde a l'indienne"
+      },
+      "description": {
+        "en": "presence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "presence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "presence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22428/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-06-0018",
+      "source": "RappelConso",
+      "date": "2026-06-02",
+      "title": {
+        "en": "ti guémené",
+        "fr": "ti guémené",
+        "nl": "ti guémené"
+      },
+      "description": {
+        "en": "listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22443/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-05-0232",
       "source": "RappelConso",
@@ -551,321 +667,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-05-0184",
-      "source": "RappelConso",
-      "date": "2026-05-28",
-      "title": {
-        "en": "emballé en magasin",
-        "fr": "emballé en magasin",
-        "nl": "emballé en magasin"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22374/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0198",
-      "source": "RappelConso",
-      "date": "2026-05-28",
-      "title": {
-        "en": "lactiques de chevres frais",
-        "fr": "lactiques de chevres frais",
-        "nl": "lactiques de chevres frais"
-      },
-      "description": {
-        "en": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "presence listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22388/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0200",
-      "source": "RappelConso",
-      "date": "2026-05-28",
-      "title": {
-        "en": "fromages blancs de chevre en barquette de 4",
-        "fr": "fromages blancs de chevre en barquette de 4",
-        "nl": "fromages blancs de chevre en barquette de 4"
-      },
-      "description": {
-        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22390/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0199",
-      "source": "RappelConso",
-      "date": "2026-05-28",
-      "title": {
-        "en": "batusson de chevre",
-        "fr": "batusson de chevre",
-        "nl": "batusson de chevre"
-      },
-      "description": {
-        "en": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "presence listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22389/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0170",
-      "source": "RappelConso",
-      "date": "2026-05-28",
-      "title": {
-        "en": "reblochon aop fermier 27.4% fd 1/2 250g",
-        "fr": "reblochon aop fermier 27.4% fd 1/2 250g",
-        "nl": "reblochon aop fermier 27.4% fd 1/2 250g"
-      },
-      "description": {
-        "en": "detection par le fabricant de reblochon farto de thones d'e.coli stec o26h11 - escherichia coli shiga toxinogène (stec)",
-        "fr": "detection par le fabricant de reblochon farto de thones d'e.coli stec o26h11 - escherichia coli shiga toxinogène (stec)",
-        "nl": "detection par le fabricant de reblochon farto de thones d'e.coli stec o26h11 - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22359/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-05-0194",
-      "source": "RappelConso",
-      "date": "2026-05-27",
-      "title": {
-        "en": "2tartares 180g 5%mg sec.¤2tartares 150g 5%mg¤viande hachee 2kg 5%mg¤2tartare 180g  5%mg",
-        "fr": "2tartares 180g 5%mg sec.¤2tartares 150g 5%mg¤viande hachee 2kg 5%mg¤2tartare 180g  5%mg",
-        "nl": "2tartares 180g 5%mg sec.¤2tartares 150g 5%mg¤viande hachee 2kg 5%mg¤2tartare 180g  5%mg"
-      },
-      "description": {
-        "en": "détection de listéria monocytogène dans le cadre d'un autocontrôle - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listéria monocytogène dans le cadre d'un autocontrôle - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listéria monocytogène dans le cadre d'un autocontrôle - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22384/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0191",
-      "source": "RappelConso",
-      "date": "2026-05-27",
-      "title": {
-        "en": "chipolatas",
-        "fr": "chipolatas",
-        "nl": "chipolatas"
-      },
-      "description": {
-        "en": "presence salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "presence salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "presence salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22381/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-05-0193",
-      "source": "RappelConso",
-      "date": "2026-05-27",
-      "title": {
-        "en": "préparation viande hachée x2¤préparation viande hachée vrac",
-        "fr": "préparation viande hachée x2¤préparation viande hachée vrac",
-        "nl": "préparation viande hachée x2¤préparation viande hachée vrac"
-      },
-      "description": {
-        "en": "détection de escherichia coli stec dans le cadre d'auto-controle - escherichia coli shiga toxinogène (stec)",
-        "fr": "détection de escherichia coli stec dans le cadre d'auto-controle - escherichia coli shiga toxinogène (stec)",
-        "nl": "détection de escherichia coli stec dans le cadre d'auto-controle - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22383/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-05-0188",
-      "source": "RappelConso",
-      "date": "2026-05-27",
-      "title": {
-        "en": "wrap poulet",
-        "fr": "wrap poulet",
-        "nl": "wrap poulet"
-      },
-      "description": {
-        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22378/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0186",
-      "source": "RappelConso",
-      "date": "2026-05-27",
-      "title": {
-        "en": "préparation de viande bovine hachée assaisonnée 5% mg portionnée et vrac",
-        "fr": "préparation de viande bovine hachée assaisonnée 5% mg portionnée et vrac",
-        "nl": "préparation de viande bovine hachée assaisonnée 5% mg portionnée et vrac"
-      },
-      "description": {
-        "en": "détection de salmonelle dans le cadre d'autocontrôle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonelle dans le cadre d'autocontrôle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonelle dans le cadre d'autocontrôle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22376/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-05-0190",
-      "source": "RappelConso",
-      "date": "2026-05-27",
-      "title": {
-        "en": "reblochon de savoie fermier aop 500g",
-        "fr": "reblochon de savoie fermier aop 500g",
-        "nl": "reblochon de savoie fermier aop 500g"
-      },
-      "description": {
-        "en": "présence de escherichia coli stec - escherichia coli shiga toxinogène (stec)",
-        "fr": "présence de escherichia coli stec - escherichia coli shiga toxinogène (stec)",
-        "nl": "présence de escherichia coli stec - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22380/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "nvwa--bonen-in-tomatensaus-350-gram",
       "source": "NVWA",
       "date": "2026-05-27",
@@ -953,6 +754,65 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-06-0022",
+      "source": "RappelConso",
+      "date": "2026-06-02",
+      "title": {
+        "en": "filet de sardine capitaine houat",
+        "fr": "filet de sardine capitaine houat",
+        "nl": "filet de sardine capitaine houat"
+      },
+      "description": {
+        "en": "presence d'histamine - substances allergisantes non déclarées",
+        "fr": "presence d'histamine - substances allergisantes non déclarées",
+        "nl": "presence d'histamine - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22447/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-06-0009",
+      "source": "RappelConso",
+      "date": "2026-06-02",
+      "title": {
+        "en": "fruit de la passion séché 300g",
+        "fr": "fruit de la passion séché 300g",
+        "nl": "fruit de la passion séché 300g"
+      },
+      "description": {
+        "en": "présence de sulfites à une teneur supérieure au seuil réglementaire de déclaration (>10 mg/kg) non mentionnée sur l’étiquetage. ce défaut d’étiquetage peut présenter un risque pour les personnes allergiques aux sulfites dans ce lot - substances allergisantes non déclarées",
+        "fr": "présence de sulfites à une teneur supérieure au seuil réglementaire de déclaration (>10 mg/kg) non mentionnée sur l’étiquetage. ce défaut d’étiquetage peut présenter un risque pour les personnes allergiques aux sulfites dans ce lot - substances allergisantes non déclarées",
+        "nl": "présence de sulfites à une teneur supérieure au seuil réglementaire de déclaration (>10 mg/kg) non mentionnée sur l’étiquetage. ce défaut d’étiquetage peut présenter un risque pour les personnes allergiques aux sulfites dans ce lot - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22434/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-06-0013",
@@ -1102,6 +962,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-06-0014",
+      "source": "RappelConso",
+      "date": "2026-06-02",
+      "title": {
+        "en": "rillettes de porc bio la ferme des colibris",
+        "fr": "rillettes de porc bio la ferme des colibris",
+        "nl": "rillettes de porc bio la ferme des colibris"
+      },
+      "description": {
+        "en": "suite à la réception d’un résultat d’analyse non satisfaisant dépassant un seuil sur un critère de sécurité et déclenchant une situation d’alerte sanitaire (conserve de rillettes de porc non stable, avec une variation de ph supérieure à 0,5) - clostridium botulinum (agent responsable du botulisme)",
+        "fr": "suite à la réception d’un résultat d’analyse non satisfaisant dépassant un seuil sur un critère de sécurité et déclenchant une situation d’alerte sanitaire (conserve de rillettes de porc non stable, avec une variation de ph supérieure à 0,5) - clostridium botulinum (agent responsable du botulisme)",
+        "nl": "suite à la réception d’un résultat d’analyse non satisfaisant dépassant un seuil sur un critère de sécurité et déclenchant une situation d’alerte sanitaire (conserve de rillettes de porc non stable, avec une variation de ph supérieure à 0,5) - clostridium botulinum (agent responsable du botulisme)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22439/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-06-0001",
