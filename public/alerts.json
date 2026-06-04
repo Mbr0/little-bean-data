@@ -1,6 +1,95 @@
 {
-  "generated": "2026-06-03T07:33:12.710Z",
+  "generated": "2026-06-04T07:30:13.270Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-06-0019",
+      "source": "RappelConso",
+      "date": "2026-06-03",
+      "title": {
+        "en": "ti guémené",
+        "fr": "ti guémené",
+        "nl": "ti guémené"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22444/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0010",
+      "source": "RappelConso",
+      "date": "2026-06-03",
+      "title": {
+        "en": "brisures de saumon fumé 150g",
+        "fr": "brisures de saumon fumé 150g",
+        "nl": "brisures de saumon fumé 150g"
+      },
+      "description": {
+        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22435/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0025",
+      "source": "RappelConso",
+      "date": "2026-06-03",
+      "title": {
+        "en": "spaghetti carbonara emballé le 19/05/2026¤panzerotti aux cèpes et champignons emballé le 19/05/26¤croissant (jambon, fromage, champignons) emballé le 20/05/2026",
+        "fr": "spaghetti carbonara emballé le 19/05/2026¤panzerotti aux cèpes et champignons emballé le 19/05/26¤croissant (jambon, fromage, champignons) emballé le 20/05/2026",
+        "nl": "spaghetti carbonara emballé le 19/05/2026¤panzerotti aux cèpes et champignons emballé le 19/05/26¤croissant (jambon, fromage, champignons) emballé le 20/05/2026"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22450/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-06-0005",
       "source": "RappelConso",
@@ -464,93 +553,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-05-0215",
-      "source": "RappelConso",
-      "date": "2026-05-29",
-      "title": {
-        "en": "vendu à la coupe au rayon traditionnel fromage",
-        "fr": "vendu à la coupe au rayon traditionnel fromage",
-        "nl": "vendu à la coupe au rayon traditionnel fromage"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22405/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0203",
-      "source": "RappelConso",
-      "date": "2026-05-29",
-      "title": {
-        "en": "merguez rayon traditionnel",
-        "fr": "merguez rayon traditionnel",
-        "nl": "merguez rayon traditionnel"
-      },
-      "description": {
-        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22393/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-05-0202",
-      "source": "RappelConso",
-      "date": "2026-05-29",
-      "title": {
-        "en": "merguez barquette sous atmosphère",
-        "fr": "merguez barquette sous atmosphère",
-        "nl": "merguez barquette sous atmosphère"
-      },
-      "description": {
-        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22392/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "fda-aHR0cDovL3d3dy5m",
       "source": "FDA",
       "date": "2026-05-29",
@@ -564,7 +566,7 @@
         "fr": "MAY 29, 2026 – Champion Foods LLC of New Boston, Michigan, is voluntarily recalling certain batches of Motor City Pizza Co. 5 Cheese Bread (“5 Cheese Bread”) because they have the potential to be contaminated with Salmonella. This action follows a California Dairies, Inc. milk powder recall due to a",
         "nl": "MAY 29, 2026 – Champion Foods LLC of New Boston, Michigan, is voluntarily recalling certain batches of Motor City Pizza Co. 5 Cheese Bread (“5 Cheese Bread”) because they have the potential to be contaminated with Salmonella. This action follows a California Dairies, Inc. milk powder recall due to a"
       },
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/champion-foods-recalls-some-batches-motor-city-pizza-co-5-cheese-bread-because-possible-health-risk",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/champion-foods-recalls-some-batches-motor-city-pizza-co-5-cheese-bread-because-possible-health-risk",
       "countries": [
         "US"
       ],
@@ -578,93 +580,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-05-0207",
-      "source": "RappelConso",
-      "date": "2026-05-28",
-      "title": {
-        "en": "lhous pt l eveque aop cru 400",
-        "fr": "lhous pt l eveque aop cru 400",
-        "nl": "lhous pt l eveque aop cru 400"
-      },
-      "description": {
-        "en": "détection listeria monocytogenèse sur les ponts l'evêque du lot 2610098 - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection listeria monocytogenèse sur les ponts l'evêque du lot 2610098 - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection listeria monocytogenèse sur les ponts l'evêque du lot 2610098 - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22397/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0209",
-      "source": "RappelConso",
-      "date": "2026-05-28",
-      "title": {
-        "en": "crevettes grises cuites non decortiquees jumbo msc s-at",
-        "fr": "crevettes grises cuites non decortiquees jumbo msc s-at",
-        "nl": "crevettes grises cuites non decortiquees jumbo msc s-at"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22399/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0197",
-      "source": "RappelConso",
-      "date": "2026-05-28",
-      "title": {
-        "en": "aromatises ail et fines herbes¤echalote¤bruschetta",
-        "fr": "aromatises ail et fines herbes¤echalote¤bruschetta",
-        "nl": "aromatises ail et fines herbes¤echalote¤bruschetta"
-      },
-      "description": {
-        "en": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "presence listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "presence listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22387/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "nvwa--bonen-in-tomatensaus-350-gram",
@@ -964,6 +879,114 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-06-0026",
+      "source": "RappelConso",
+      "date": "2026-06-04",
+      "title": {
+        "en": "conserves pâté de foie de volaille¤120g / 200g / 280g / 1580g",
+        "fr": "conserves pâté de foie de volaille¤120g / 200g / 280g / 1580g",
+        "nl": "conserves pâté de foie de volaille¤120g / 200g / 280g / 1580g"
+      },
+      "description": {
+        "en": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)",
+        "fr": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)",
+        "nl": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22451/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-06-0027",
+      "source": "RappelConso",
+      "date": "2026-06-04",
+      "title": {
+        "en": "conserves pâté de foie pur porc¤120g / 200g / 280g / 1580g",
+        "fr": "conserves pâté de foie pur porc¤120g / 200g / 280g / 1580g",
+        "nl": "conserves pâté de foie pur porc¤120g / 200g / 280g / 1580g"
+      },
+      "description": {
+        "en": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)",
+        "fr": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)",
+        "nl": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22452/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-06-0028",
+      "source": "RappelConso",
+      "date": "2026-06-04",
+      "title": {
+        "en": "conserves jambonneau¤280g",
+        "fr": "conserves jambonneau¤280g",
+        "nl": "conserves jambonneau¤280g"
+      },
+      "description": {
+        "en": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)",
+        "fr": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)",
+        "nl": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22453/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-06-0029",
+      "source": "RappelConso",
+      "date": "2026-06-04",
+      "title": {
+        "en": "conserves dindonneau¤280g",
+        "fr": "conserves dindonneau¤280g",
+        "nl": "conserves dindonneau¤280g"
+      },
+      "description": {
+        "en": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)",
+        "fr": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)",
+        "nl": "absence de test d'étanchéité et de test de stabilité - barème de stérilisation non validé - clostridium botulinum (agent responsable du botulisme)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22454/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-06-0014",
       "source": "RappelConso",
       "date": "2026-06-02",
@@ -1147,60 +1170,6 @@
         "nl": "une teneur insuffisante en sel dans le produit ne permet pas sa bonne conservation. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/22404/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-05-0213",
-      "source": "RappelConso",
-      "date": "2026-05-29",
-      "title": {
-        "en": "confiture cerises 370g",
-        "fr": "confiture cerises 370g",
-        "nl": "confiture cerises 370g"
-      },
-      "description": {
-        "en": "présence de corps étrangers verre - inertes (verre, métal, plastique, papier, textile…)",
-        "fr": "présence de corps étrangers verre - inertes (verre, métal, plastique, papier, textile…)",
-        "nl": "présence de corps étrangers verre - inertes (verre, métal, plastique, papier, textile…)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22403/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-05-0196",
-      "source": "RappelConso",
-      "date": "2026-05-29",
-      "title": {
-        "en": "taboulé au poulet 500g + 20% offert (600g) marque pierre martinet",
-        "fr": "taboulé au poulet 500g + 20% offert (600g) marque pierre martinet",
-        "nl": "taboulé au poulet 500g + 20% offert (600g) marque pierre martinet"
-      },
-      "description": {
-        "en": "risque de consommation du produit à date limite de consommation (dlc) dépassée - autres contaminants biologiques|autre risque",
-        "fr": "risque de consommation du produit à date limite de consommation (dlc) dépassée - autres contaminants biologiques|autre risque",
-        "nl": "risque de consommation du produit à date limite de consommation (dlc) dépassée - autres contaminants biologiques|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22386/interne",
       "countries": [
         "FR"
       ],
