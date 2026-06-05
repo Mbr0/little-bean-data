@@ -1,6 +1,64 @@
 {
-  "generated": "2026-06-04T07:30:13.270Z",
+  "generated": "2026-06-04T13:09:31.698Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-06-0034",
+      "source": "RappelConso",
+      "date": "2026-06-04",
+      "title": {
+        "en": "fromage brebis montagne aramits 18/05/2026  au 29/05/2026",
+        "fr": "fromage brebis montagne aramits 18/05/2026  au 29/05/2026",
+        "nl": "fromage brebis montagne aramits 18/05/2026  au 29/05/2026"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22459/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0030",
+      "source": "RappelConso",
+      "date": "2026-06-04",
+      "title": {
+        "en": "saucisses pérugines au poivre",
+        "fr": "saucisses pérugines au poivre",
+        "nl": "saucisses pérugines au poivre"
+      },
+      "description": {
+        "en": "déclaration non conformité listéria commerce de détail - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "déclaration non conformité listéria commerce de détail - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "déclaration non conformité listéria commerce de détail - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22455/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-06-0019",
       "source": "RappelConso",
@@ -495,64 +553,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-05-0174",
-      "source": "RappelConso",
-      "date": "2026-05-29",
-      "title": {
-        "en": "mascarpone gorgonzola",
-        "fr": "mascarpone gorgonzola",
-        "nl": "mascarpone gorgonzola"
-      },
-      "description": {
-        "en": "presence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "presence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "presence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22363/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-05-0212",
-      "source": "RappelConso",
-      "date": "2026-05-29",
-      "title": {
-        "en": "gorgonzola dop doux",
-        "fr": "gorgonzola dop doux",
-        "nl": "gorgonzola dop doux"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22402/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "fda-aHR0cDovL3d3dy5m",
       "source": "FDA",
       "date": "2026-05-29",
@@ -669,6 +669,94 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fsa-FSA-PRIN-15-2026",
+      "source": "FSA",
+      "date": "2026-04-05",
+      "title": {
+        "en": "The Curing Barn recalls British Bresaola because of contamination with Listeria monocytogenes",
+        "fr": "The Curing Barn recalls British Bresaola because of contamination with Listeria monocytogenes",
+        "nl": "The Curing Barn recalls British Bresaola because of contamination with Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "fr": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "nl": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-15-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fsa-FSA-PRIN-14-2026",
+      "source": "FSA",
+      "date": "2026-03-29",
+      "title": {
+        "en": "Gilbert’s recalls Turkey Breast Pastrami because of contamination with Listeria monocytogenes",
+        "fr": "Gilbert’s recalls Turkey Breast Pastrami because of contamination with Listeria monocytogenes",
+        "nl": "Gilbert’s recalls Turkey Breast Pastrami because of contamination with Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "fr": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "nl": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-14-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0036",
+      "source": "RappelConso",
+      "date": "2026-06-04",
+      "title": {
+        "en": "hbaf wasabi mayo flavor popcorn",
+        "fr": "hbaf wasabi mayo flavor popcorn",
+        "nl": "hbaf wasabi mayo flavor popcorn"
+      },
+      "description": {
+        "en": "absence de la mention  lait  sur l'étiquetage du produit - substances allergisantes non déclarées",
+        "fr": "absence de la mention  lait  sur l'étiquetage du produit - substances allergisantes non déclarées",
+        "nl": "absence de la mention  lait  sur l'étiquetage du produit - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22462/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-06-0022",
@@ -789,6 +877,93 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "fsa-FSA-AA-27-2026",
+      "source": "FSA",
+      "date": "2026-05-22",
+      "title": {
+        "en": "Sunrise International Foods Ltd recalls Shama Falooda Almond flavour drink because of undeclared milk",
+        "fr": "Sunrise International Foods Ltd recalls Shama Falooda Almond flavour drink because of undeclared milk",
+        "nl": "Sunrise International Foods Ltd recalls Shama Falooda Almond flavour drink because of undeclared milk"
+      },
+      "description": {
+        "en": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
+        "fr": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
+        "nl": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-27-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-26-2026",
+      "source": "FSA",
+      "date": "2026-05-21",
+      "title": {
+        "en": "Divilly’s recalls Divilly Brothers No Added Nitrite Crumbed Ham because of undeclared wheat (gluten)",
+        "fr": "Divilly’s recalls Divilly Brothers No Added Nitrite Crumbed Ham because of undeclared wheat (gluten)",
+        "nl": "Divilly’s recalls Divilly Brothers No Added Nitrite Crumbed Ham because of undeclared wheat (gluten)"
+      },
+      "description": {
+        "en": "This product contains wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten, or with coeliac disease.",
+        "fr": "This product contains wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten, or with coeliac disease.",
+        "nl": "This product contains wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten, or with coeliac disease."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-26-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-25-2026",
+      "source": "FSA",
+      "date": "2026-05-16",
+      "title": {
+        "en": "Filippo Berio UK recalls Hot Chilli Pesto because of undeclared fish",
+        "fr": "Filippo Berio UK recalls Hot Chilli Pesto because of undeclared fish",
+        "nl": "Filippo Berio UK recalls Hot Chilli Pesto because of undeclared fish"
+      },
+      "description": {
+        "en": "Fish\nThis product contains fish making it a possible health risk for anyone with an allergy to fish",
+        "fr": "Fish\nThis product contains fish making it a possible health risk for anyone with an allergy to fish",
+        "nl": "Fish\nThis product contains fish making it a possible health risk for anyone with an allergy to fish"
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-25-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "nvwa-eister-whey-eiwitshake-vanille",
       "source": "NVWA",
       "date": "2026-05-08",
@@ -814,6 +989,36 @@
       "audience": "general",
       "hazardTypes": [
         "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-24-2026",
+      "source": "FSA",
+      "date": "2026-05-06",
+      "title": {
+        "en": "Daylesford Organic Ltd recalls Daylesford Organic Minestrone Soup with Cannellini Beans, Pasta Shells & Olive Oil because wheat (gluten) is not emphasised on the label",
+        "fr": "Daylesford Organic Ltd recalls Daylesford Organic Minestrone Soup with Cannellini Beans, Pasta Shells & Olive Oil because wheat (gluten) is not emphasised on the label",
+        "nl": "Daylesford Organic Ltd recalls Daylesford Organic Minestrone Soup with Cannellini Beans, Pasta Shells & Olive Oil because wheat (gluten) is not emphasised on the label"
+      },
+      "description": {
+        "en": "Allergens: Wheat (Gluten)\nThe product contains wheat (gluten), making it a health risk to those with an allergy or intolerance to wheat or gluten, or those with coeliac disease.",
+        "fr": "Allergens: Wheat (Gluten)\nThe product contains wheat (gluten), making it a health risk to those with an allergy or intolerance to wheat or gluten, or those with coeliac disease.",
+        "nl": "Allergens: Wheat (Gluten)\nThe product contains wheat (gluten), making it a health risk to those with an allergy or intolerance to wheat or gluten, or those with coeliac disease."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-24-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -849,6 +1054,96 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "fsa-FSA-AA-23-2026",
+      "source": "FSA",
+      "date": "2026-04-24",
+      "title": {
+        "en": "HiPP Organic UK recalls 7+ months Vegetable Lasagne 190g jar because celeriac is not emphasised on the label",
+        "fr": "HiPP Organic UK recalls 7+ months Vegetable Lasagne 190g jar because celeriac is not emphasised on the label",
+        "nl": "HiPP Organic UK recalls 7+ months Vegetable Lasagne 190g jar because celeriac is not emphasised on the label"
+      },
+      "description": {
+        "en": "Allergen: Celery\nThis product contains celeriac making it a possible health risk for anyone with an allergy to celery.",
+        "fr": "Allergen: Celery\nThis product contains celeriac making it a possible health risk for anyone with an allergy to celery.",
+        "nl": "Allergen: Celery\nThis product contains celeriac making it a possible health risk for anyone with an allergy to celery."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-23-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-22-2026",
+      "source": "FSA",
+      "date": "2026-04-18",
+      "title": {
+        "en": "Marks & Spencer is recalling Authentic Greek Yoghurt with Vanilla because of undeclared gluten",
+        "fr": "Marks & Spencer is recalling Authentic Greek Yoghurt with Vanilla because of undeclared gluten",
+        "nl": "Marks & Spencer is recalling Authentic Greek Yoghurt with Vanilla because of undeclared gluten"
+      },
+      "description": {
+        "en": "Gluten\nThis product may contain gluten making it a possible health risk for anyone with an allergy or intolerance to gluten or have coeliac disease.",
+        "fr": "Gluten\nThis product may contain gluten making it a possible health risk for anyone with an allergy or intolerance to gluten or have coeliac disease.",
+        "nl": "Gluten\nThis product may contain gluten making it a possible health risk for anyone with an allergy or intolerance to gluten or have coeliac disease."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-22-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-21-2026",
+      "source": "FSA",
+      "date": "2026-04-17",
+      "title": {
+        "en": "Loudwater Trade & Finance Ltd is recalling Millennium Peanuts Caramel Milk Chocolate because allergens are not declared in English on the label",
+        "fr": "Loudwater Trade & Finance Ltd is recalling Millennium Peanuts Caramel Milk Chocolate because allergens are not declared in English on the label",
+        "nl": "Loudwater Trade & Finance Ltd is recalling Millennium Peanuts Caramel Milk Chocolate because allergens are not declared in English on the label"
+      },
+      "description": {
+        "en": "Allergens: Almonds, Cashew Nuts, Cereals containing Gluten, Hazelnuts, Milk, Peanuts, Soya.\nThis product contains milk, peanuts and soya, and may contain almonds, cashew nuts, cereals containing gluten, and hazelnuts. This makes it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents, an allergy to peanuts, soya, almonds, cashew nuts, an allergy or intolerance to cereals containing gluten or coeliac disease, and/or an allergy to hazelnuts.",
+        "fr": "Allergens: Almonds, Cashew Nuts, Cereals containing Gluten, Hazelnuts, Milk, Peanuts, Soya.\nThis product contains milk, peanuts and soya, and may contain almonds, cashew nuts, cereals containing gluten, and hazelnuts. This makes it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents, an allergy to peanuts, soya, almonds, cashew nuts, an allergy or intolerance to cereals containing gluten or coeliac disease, and/or an allergy to hazelnuts.",
+        "nl": "Allergens: Almonds, Cashew Nuts, Cereals containing Gluten, Hazelnuts, Milk, Peanuts, Soya.\nThis product contains milk, peanuts and soya, and may contain almonds, cashew nuts, cereals containing gluten, and hazelnuts. This makes it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents, an allergy to peanuts, soya, almonds, cashew nuts, an allergy or intolerance to cereals containing gluten or coeliac disease, and/or an allergy to hazelnuts."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-21-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "nvwa-dinger-cottage-cheese-bieslook",
       "source": "NVWA",
       "date": "2026-04-13",
@@ -877,6 +1172,183 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-20-2026",
+      "source": "FSA",
+      "date": "2026-03-31",
+      "title": {
+        "en": "3D Trading recalls M&M’s Pipoca (popcorn) because of undeclared allergens",
+        "fr": "3D Trading recalls M&M’s Pipoca (popcorn) because of undeclared allergens",
+        "nl": "3D Trading recalls M&M’s Pipoca (popcorn) because of undeclared allergens"
+      },
+      "description": {
+        "en": "peanut, gluten, barley, rye and wheat.\nThis product contains peanut and gluten and may contain barley, rye and wheat making it a possible health risk for anyone with an allergy to peanut, an allergy or intolerance to barley, rye, wheat or cereals containing gluten or with coeliac disease.",
+        "fr": "peanut, gluten, barley, rye and wheat.\nThis product contains peanut and gluten and may contain barley, rye and wheat making it a possible health risk for anyone with an allergy to peanut, an allergy or intolerance to barley, rye, wheat or cereals containing gluten or with coeliac disease.",
+        "nl": "peanut, gluten, barley, rye and wheat.\nThis product contains peanut and gluten and may contain barley, rye and wheat making it a possible health risk for anyone with an allergy to peanut, an allergy or intolerance to barley, rye, wheat or cereals containing gluten or with coeliac disease."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-20-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-19-2026",
+      "source": "FSA",
+      "date": "2026-03-27",
+      "title": {
+        "en": "HECK recalls Minted Lamb Burgers because of undeclared milk",
+        "fr": "HECK recalls Minted Lamb Burgers because of undeclared milk",
+        "nl": "HECK recalls Minted Lamb Burgers because of undeclared milk"
+      },
+      "description": {
+        "en": "Allergens: Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "fr": "Allergens: Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "nl": "Allergens: Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-19-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-18-2026",
+      "source": "FSA",
+      "date": "2026-03-19",
+      "title": {
+        "en": "Seggiano recalls two nougat products because of undeclared milk and soy lecithin",
+        "fr": "Seggiano recalls two nougat products because of undeclared milk and soy lecithin",
+        "nl": "Seggiano recalls two nougat products because of undeclared milk and soy lecithin"
+      },
+      "description": {
+        "en": "Milk and soya.\nThese products contain milk and soy lecithin making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents or an allergy to soya.",
+        "fr": "Milk and soya.\nThese products contain milk and soy lecithin making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents or an allergy to soya.",
+        "nl": "Milk and soya.\nThese products contain milk and soy lecithin making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents or an allergy to soya."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-18-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-17-2026",
+      "source": "FSA",
+      "date": "2026-03-15",
+      "title": {
+        "en": "Walkers recalls Walkers Hot Honey Crisps 6 pack because of undeclared milk",
+        "fr": "Walkers recalls Walkers Hot Honey Crisps 6 pack because of undeclared milk",
+        "nl": "Walkers recalls Walkers Hot Honey Crisps 6 pack because of undeclared milk"
+      },
+      "description": {
+        "en": "Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents",
+        "fr": "Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents",
+        "nl": "Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents"
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-17-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-16-2026",
+      "source": "FSA",
+      "date": "2026-03-06",
+      "title": {
+        "en": "Gü Indulgent Foods recalls Gü Blonde Chocolate Cheesecake because of undeclared hazelnuts (nuts)",
+        "fr": "Gü Indulgent Foods recalls Gü Blonde Chocolate Cheesecake because of undeclared hazelnuts (nuts)",
+        "nl": "Gü Indulgent Foods recalls Gü Blonde Chocolate Cheesecake because of undeclared hazelnuts (nuts)"
+      },
+      "description": {
+        "en": "This product may contain hazelnuts making it a possible health risk for anyone with an allergy to hazelnuts (nuts).",
+        "fr": "This product may contain hazelnuts making it a possible health risk for anyone with an allergy to hazelnuts (nuts).",
+        "nl": "This product may contain hazelnuts making it a possible health risk for anyone with an allergy to hazelnuts (nuts)."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-16-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-05-0230",
+      "source": "RappelConso",
+      "date": "2026-06-04",
+      "title": {
+        "en": "filets de maquereaux vendu au rayon traditionnel",
+        "fr": "filets de maquereaux vendu au rayon traditionnel",
+        "nl": "filets de maquereaux vendu au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22420/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-06-0026",
@@ -1127,62 +1599,6 @@
       "pregnancySummaryKey": "labeling"
     },
     {
-      "id": "rappelconso-2026-05-0220",
-      "source": "RappelConso",
-      "date": "2026-05-29",
-      "title": {
-        "en": "chipolatas x18",
-        "fr": "chipolatas x18",
-        "nl": "chipolatas x18"
-      },
-      "description": {
-        "en": "absence de dlc (date limite de consommation) sur le produit. - anomalie d'étiquetage",
-        "fr": "absence de dlc (date limite de consommation) sur le produit. - anomalie d'étiquetage",
-        "nl": "absence de dlc (date limite de consommation) sur le produit. - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22410/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
-    },
-    {
-      "id": "rappelconso-2026-05-0214",
-      "source": "RappelConso",
-      "date": "2026-05-29",
-      "title": {
-        "en": "lardons fumés au bois de hêtre",
-        "fr": "lardons fumés au bois de hêtre",
-        "nl": "lardons fumés au bois de hêtre"
-      },
-      "description": {
-        "en": "une teneur insuffisante en sel dans le produit ne permet pas sa bonne conservation. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "une teneur insuffisante en sel dans le produit ne permet pas sa bonne conservation. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "une teneur insuffisante en sel dans le produit ne permet pas sa bonne conservation. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22404/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "nvwa-groenteburger-2-stuks-100-gram",
       "source": "NVWA",
       "date": "2026-05-28",
@@ -1271,6 +1687,88 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "fsa-FSA-PRIN-23-2026",
+      "source": "FSA",
+      "date": "2026-05-20",
+      "title": {
+        "en": "Glenisk recalls Organic Baby Fromage Frais due to the possible presence of mould",
+        "fr": "Glenisk recalls Organic Baby Fromage Frais due to the possible presence of mould",
+        "nl": "Glenisk recalls Organic Baby Fromage Frais due to the possible presence of mould"
+      },
+      "description": {
+        "en": "These products may contain mould which makes them unfit for human consumption.",
+        "fr": "These products may contain mould which makes them unfit for human consumption.",
+        "nl": "These products may contain mould which makes them unfit for human consumption."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-23-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "children",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fsa-FSA-PRIN-21-2026",
+      "source": "FSA",
+      "date": "2026-04-30",
+      "title": {
+        "en": "Goodlife recalls Goodlife Spicy Bean Burger because it may contain pieces of plastic",
+        "fr": "Goodlife recalls Goodlife Spicy Bean Burger because it may contain pieces of plastic",
+        "nl": "Goodlife recalls Goodlife Spicy Bean Burger because it may contain pieces of plastic"
+      },
+      "description": {
+        "en": "This product may contain pieces of plastic, which makes the product unsafe to eat.",
+        "fr": "This product may contain pieces of plastic, which makes the product unsafe to eat.",
+        "nl": "This product may contain pieces of plastic, which makes the product unsafe to eat."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-21-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fsa-FSA-PRIN-22-2026",
+      "source": "FSA",
+      "date": "2026-04-30",
+      "title": {
+        "en": "ASDA recalls Exceptional by ASDA Beer Battered Cod Fishcakes because it may contain pieces of plastic or metal",
+        "fr": "ASDA recalls Exceptional by ASDA Beer Battered Cod Fishcakes because it may contain pieces of plastic or metal",
+        "nl": "ASDA recalls Exceptional by ASDA Beer Battered Cod Fishcakes because it may contain pieces of plastic or metal"
+      },
+      "description": {
+        "en": "This product may contain pieces of plastic or metal, which makes the product unsafe to eat.",
+        "fr": "This product may contain pieces of plastic or metal, which makes the product unsafe to eat.",
+        "nl": "This product may contain pieces of plastic or metal, which makes the product unsafe to eat."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-22-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "nvwa-arschuwing-wahid-knakworst-kip",
       "source": "NVWA",
       "date": "2026-04-15",
@@ -1291,6 +1789,60 @@
       ],
       "foodGroups": [
         "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fsa-FSA-PRIN-18-2026",
+      "source": "FSA",
+      "date": "2026-04-14",
+      "title": {
+        "en": "ALDI recalls The Fishmonger Hot Smoked 2 Salmon Fillets – Honey Roasted because of incorrect use-by date.",
+        "fr": "ALDI recalls The Fishmonger Hot Smoked 2 Salmon Fillets – Honey Roasted because of incorrect use-by date.",
+        "nl": "ALDI recalls The Fishmonger Hot Smoked 2 Salmon Fillets – Honey Roasted because of incorrect use-by date."
+      },
+      "description": {
+        "en": "This product is labelled with an incorrect ‘use-by’ date of 25 June 2026 which makes it unsafe to eat after the correct use-by date of 25 April 2026.",
+        "fr": "This product is labelled with an incorrect ‘use-by’ date of 25 June 2026 which makes it unsafe to eat after the correct use-by date of 25 April 2026.",
+        "nl": "This product is labelled with an incorrect ‘use-by’ date of 25 June 2026 which makes it unsafe to eat after the correct use-by date of 25 April 2026."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-18-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fsa-FSA-PRIN-16-2026",
+      "source": "FSA",
+      "date": "2026-04-09",
+      "title": {
+        "en": "Tesco recalls Tesco Finest Summer Edition Chocolate Affogato Dessert because it may contain pieces of plastic",
+        "fr": "Tesco recalls Tesco Finest Summer Edition Chocolate Affogato Dessert because it may contain pieces of plastic",
+        "nl": "Tesco recalls Tesco Finest Summer Edition Chocolate Affogato Dessert because it may contain pieces of plastic"
+      },
+      "description": {
+        "en": "This product may contain pieces of plastic which makes the product unsafe to eat.",
+        "fr": "This product may contain pieces of plastic which makes the product unsafe to eat.",
+        "nl": "This product may contain pieces of plastic which makes the product unsafe to eat."
+      },
+      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-16-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
