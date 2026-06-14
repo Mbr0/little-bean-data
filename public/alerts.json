@@ -1,6 +1,33 @@
 {
-  "generated": "2026-06-13T07:12:23.924Z",
+  "generated": "2026-06-14T07:28:56.584Z",
   "alerts": [
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-06-13",
+      "title": {
+        "en": "NARA ORGANICS RECALLS ALL LOTS OF NARA INFANT FORMULA BECAUSE OF POSSIBLE HEALTH RISK",
+        "fr": "NARA ORGANICS RECALLS ALL LOTS OF NARA INFANT FORMULA BECAUSE OF POSSIBLE HEALTH RISK",
+        "nl": "NARA ORGANICS RECALLS ALL LOTS OF NARA INFANT FORMULA BECAUSE OF POSSIBLE HEALTH RISK"
+      },
+      "description": {
+        "en": "Nara Organics of New York, NY, is voluntarily recalling all lots of Nara Organics Powdered Infant Formula currently on the market out of an abundance of caution due to the potential risk of Clostridium botulinum contamination.\nInfant botulism is a rare but potentially fatal illness that presents a s",
+        "fr": "Nara Organics of New York, NY, is voluntarily recalling all lots of Nara Organics Powdered Infant Formula currently on the market out of an abundance of caution due to the potential risk of Clostridium botulinum contamination.\nInfant botulism is a rare but potentially fatal illness that presents a s",
+        "nl": "Nara Organics of New York, NY, is voluntarily recalling all lots of Nara Organics Powdered Infant Formula currently on the market out of an abundance of caution due to the potential risk of Clostridium botulinum contamination.\nInfant botulism is a rare but potentially fatal illness that presents a s"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nara-organics-recalls-all-lots-nara-infant-formula-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "children",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "microbial"
+    },
     {
       "id": "nvwa--bevroren-oesters-van-surasang",
       "source": "NVWA",
@@ -846,33 +873,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-06-11",
-      "title": {
-        "en": "Azuma Foods International, Inc. Issues Allergy Alert on Undeclared Fish in Tako Wasabi",
-        "fr": "Azuma Foods International, Inc. Issues Allergy Alert on Undeclared Fish in Tako Wasabi",
-        "nl": "Azuma Foods International, Inc. Issues Allergy Alert on Undeclared Fish in Tako Wasabi"
-      },
-      "description": {
-        "en": "Azuma Foods International Inc., U.S.A. of Hayward, CA is recalling 545 cases of the 3 pack (5.3 oz.) Azuma Foods Brand Tako Wasabi- Seasoned Octopus with Wasabi retail packages, because they may contain undeclared fish. People who have an allergy or severe sensitivity to fish run the risk of serious",
-        "fr": "Azuma Foods International Inc., U.S.A. of Hayward, CA is recalling 545 cases of the 3 pack (5.3 oz.) Azuma Foods Brand Tako Wasabi- Seasoned Octopus with Wasabi retail packages, because they may contain undeclared fish. People who have an allergy or severe sensitivity to fish run the risk of serious",
-        "nl": "Azuma Foods International Inc., U.S.A. of Hayward, CA is recalling 545 cases of the 3 pack (5.3 oz.) Azuma Foods Brand Tako Wasabi- Seasoned Octopus with Wasabi retail packages, because they may contain undeclared fish. People who have an allergy or severe sensitivity to fish run the risk of serious"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/azuma-foods-international-inc-issues-allergy-alert-undeclared-fish-tako-wasabi",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "fsa-FSA-AA-30-2026",
       "source": "FSA",
       "date": "2026-06-11",
@@ -1391,35 +1391,6 @@
         "nl": "Milk and soya.\nThese products contain milk and soy lecithin making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents or an allergy to soya."
       },
       "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-18-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fsa-FSA-AA-17-2026",
-      "source": "FSA",
-      "date": "2026-03-15",
-      "title": {
-        "en": "Walkers recalls Walkers Hot Honey Crisps 6 pack because of undeclared milk",
-        "fr": "Walkers recalls Walkers Hot Honey Crisps 6 pack because of undeclared milk",
-        "nl": "Walkers recalls Walkers Hot Honey Crisps 6 pack because of undeclared milk"
-      },
-      "description": {
-        "en": "Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents",
-        "fr": "Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents",
-        "nl": "Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents"
-      },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-17-2026",
       "countries": [
         "GB"
       ],
