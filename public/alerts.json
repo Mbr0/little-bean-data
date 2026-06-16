@@ -1,6 +1,123 @@
 {
-  "generated": "2026-06-15T07:47:05.483Z",
+  "generated": "2026-06-16T07:48:58.006Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-06-0137",
+      "source": "RappelConso",
+      "date": "2026-06-16",
+      "title": {
+        "en": "allumettes nature ubio vpf 2x75g",
+        "fr": "allumettes nature ubio vpf 2x75g",
+        "nl": "allumettes nature ubio vpf 2x75g"
+      },
+      "description": {
+        "en": "non-conformité microbiologique - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "non-conformité microbiologique - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "non-conformité microbiologique - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22566/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-06-0143",
+      "source": "RappelConso",
+      "date": "2026-06-15",
+      "title": {
+        "en": "012921.001 salade de lentilles et cervelas",
+        "fr": "012921.001 salade de lentilles et cervelas",
+        "nl": "012921.001 salade de lentilles et cervelas"
+      },
+      "description": {
+        "en": "détection de présence listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de présence listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de présence listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22572/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0130",
+      "source": "RappelConso",
+      "date": "2026-06-15",
+      "title": {
+        "en": "tous les lots vendus au rayon traditionnel poissonnerie stand entre le 04/06/2026 et le 05/06/2026 inclus",
+        "fr": "tous les lots vendus au rayon traditionnel poissonnerie stand entre le 04/06/2026 et le 05/06/2026 inclus",
+        "nl": "tous les lots vendus au rayon traditionnel poissonnerie stand entre le 04/06/2026 et le 05/06/2026 inclus"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22559/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0127",
+      "source": "RappelConso",
+      "date": "2026-06-15",
+      "title": {
+        "en": "bifsteck hache",
+        "fr": "bifsteck hache",
+        "nl": "bifsteck hache"
+      },
+      "description": {
+        "en": "détection de listéria monocytogènese <10 ufc/g - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listéria monocytogènese <10 ufc/g - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listéria monocytogènese <10 ufc/g - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22556/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "fda-aHR0cDovL3d3dy5m",
       "source": "FDA",
@@ -550,64 +667,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-06-0071",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "mâche en sachet 125g",
-        "fr": "mâche en sachet 125g",
-        "nl": "mâche en sachet 125g"
-      },
-      "description": {
-        "en": "une analyse a mis en évidence la présence de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "une analyse a mis en évidence la présence de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "une analyse a mis en évidence la présence de salmonella spp - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22499/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-06-0070",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "bouquet de mache 125g - notre jardin",
-        "fr": "bouquet de mache 125g - notre jardin",
-        "nl": "bouquet de mache 125g - notre jardin"
-      },
-      "description": {
-        "en": "présence de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonella spp - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22498/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "nvwa--bonen-in-tomatensaus-350-gram",
       "source": "NVWA",
       "date": "2026-05-27",
@@ -726,6 +785,36 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-06-0132",
+      "source": "RappelConso",
+      "date": "2026-06-15",
+      "title": {
+        "en": "crémeux aux fleurs lait de vache et crémeux nature lait de vache",
+        "fr": "crémeux aux fleurs lait de vache et crémeux nature lait de vache",
+        "nl": "crémeux aux fleurs lait de vache et crémeux nature lait de vache"
+      },
+      "description": {
+        "en": "contradiction d’étiquetage - substances allergisantes non déclarées",
+        "fr": "contradiction d’étiquetage - substances allergisantes non déclarées",
+        "nl": "contradiction d’étiquetage - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22561/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-06-0112",
       "source": "RappelConso",
       "date": "2026-06-12",
@@ -782,36 +871,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "rappelconso-2026-06-0114",
-      "source": "RappelConso",
-      "date": "2026-06-12",
-      "title": {
-        "en": "crémeux aux fleurs lait de vache et crémeux nature lait de vache",
-        "fr": "crémeux aux fleurs lait de vache et crémeux nature lait de vache",
-        "nl": "crémeux aux fleurs lait de vache et crémeux nature lait de vache"
-      },
-      "description": {
-        "en": "contradiction d’étiquetage - substances allergisantes non déclarées",
-        "fr": "contradiction d’étiquetage - substances allergisantes non déclarées",
-        "nl": "contradiction d’étiquetage - substances allergisantes non déclarées"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22543/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-06-0109",
@@ -897,66 +956,6 @@
       "audience": "general",
       "hazardTypes": [
         "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-06-0066",
-      "source": "RappelConso",
-      "date": "2026-06-08",
-      "title": {
-        "en": "gaufres pur beurre chocolat noir",
-        "fr": "gaufres pur beurre chocolat noir",
-        "nl": "gaufres pur beurre chocolat noir"
-      },
-      "description": {
-        "en": "mauvais étiquetage - substances allergisantes non déclarées",
-        "fr": "mauvais étiquetage - substances allergisantes non déclarées",
-        "nl": "mauvais étiquetage - substances allergisantes non déclarées"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22492/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-06-0069",
-      "source": "RappelConso",
-      "date": "2026-06-08",
-      "title": {
-        "en": "gaufres pur beurre chocolat",
-        "fr": "gaufres pur beurre chocolat",
-        "nl": "gaufres pur beurre chocolat"
-      },
-      "description": {
-        "en": "mauvais étiquetage - substances allergisantes non déclarées",
-        "fr": "mauvais étiquetage - substances allergisantes non déclarées",
-        "nl": "mauvais étiquetage - substances allergisantes non déclarées"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22495/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1406,6 +1405,33 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-06-0129",
+      "source": "RappelConso",
+      "date": "2026-06-15",
+      "title": {
+        "en": "poulet dinde 405g",
+        "fr": "poulet dinde 405g",
+        "nl": "poulet dinde 405g"
+      },
+      "description": {
+        "en": "présence de corps étranger plastique - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "présence de corps étranger plastique - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "présence de corps étranger plastique - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22558/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "cfia-82198",
       "source": "CFIA",
       "date": "2026-06-12",
@@ -1650,33 +1676,6 @@
       "foodGroups": [
         "dairy",
         "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0078",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "harengs sales fumes 500g sar'ocean",
-        "fr": "harengs sales fumes 500g sar'ocean",
-        "nl": "harengs sales fumes 500g sar'ocean"
-      },
-      "description": {
-        "en": "taux de hap trop élevé - hydrocarbures aromatiques polycycliques",
-        "fr": "taux de hap trop élevé - hydrocarbures aromatiques polycycliques",
-        "nl": "taux de hap trop élevé - hydrocarbures aromatiques polycycliques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22506/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
