@@ -1,6 +1,94 @@
 {
-  "generated": "2026-06-16T07:48:58.006Z",
+  "generated": "2026-06-17T07:40:07.741Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-06-0146",
+      "source": "RappelConso",
+      "date": "2026-06-17",
+      "title": {
+        "en": "chorizo iberique",
+        "fr": "chorizo iberique",
+        "nl": "chorizo iberique"
+      },
+      "description": {
+        "en": "presence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "presence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "presence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22575/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0144",
+      "source": "RappelConso",
+      "date": "2026-06-16",
+      "title": {
+        "en": "roulade de sommiere",
+        "fr": "roulade de sommiere",
+        "nl": "roulade de sommiere"
+      },
+      "description": {
+        "en": "presence de listeria monocytogenes au dela du seuil reglementaire - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "presence de listeria monocytogenes au dela du seuil reglementaire - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "presence de listeria monocytogenes au dela du seuil reglementaire - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22573/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0142",
+      "source": "RappelConso",
+      "date": "2026-06-16",
+      "title": {
+        "en": "salade farfalles de saison, légumes du soleil , parmesan aop & basilic biocoop",
+        "fr": "salade farfalles de saison, légumes du soleil , parmesan aop & basilic biocoop",
+        "nl": "salade farfalles de saison, légumes du soleil , parmesan aop & basilic biocoop"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22571/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-06-0137",
       "source": "RappelConso",
@@ -119,33 +207,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-06-13",
-      "title": {
-        "en": "NARA ORGANICS RECALLS ALL LOTS OF NARA INFANT FORMULA BECAUSE OF POSSIBLE HEALTH RISK",
-        "fr": "NARA ORGANICS RECALLS ALL LOTS OF NARA INFANT FORMULA BECAUSE OF POSSIBLE HEALTH RISK",
-        "nl": "NARA ORGANICS RECALLS ALL LOTS OF NARA INFANT FORMULA BECAUSE OF POSSIBLE HEALTH RISK"
-      },
-      "description": {
-        "en": "Nara Organics of New York, NY, is voluntarily recalling all lots of Nara Organics Powdered Infant Formula currently on the market out of an abundance of caution due to the potential risk of Clostridium botulinum contamination.\nInfant botulism is a rare but potentially fatal illness that presents a s",
-        "fr": "Nara Organics of New York, NY, is voluntarily recalling all lots of Nara Organics Powdered Infant Formula currently on the market out of an abundance of caution due to the potential risk of Clostridium botulinum contamination.\nInfant botulism is a rare but potentially fatal illness that presents a s",
-        "nl": "Nara Organics of New York, NY, is voluntarily recalling all lots of Nara Organics Powdered Infant Formula currently on the market out of an abundance of caution due to the potential risk of Clostridium botulinum contamination.\nInfant botulism is a rare but potentially fatal illness that presents a s"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nara-organics-recalls-all-lots-nara-infant-formula-because-possible-health-risk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "children",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
       "id": "nvwa--bevroren-oesters-van-surasang",
       "source": "NVWA",
       "date": "2026-06-12",
@@ -155,9 +216,9 @@
         "nl": "Veiligheidswaarschuwing Bevroren Oesters van Surasang"
       },
       "description": {
-        "en": "Asia Express Food B.V. waarschuwt voor Bevroren Oesters van het merk Surasang. Uit onderzoek is gebleken dat dit product mogelijk het norovirus bevat. Daarnaast staat op de verpakking niet in het Nederlands dat de oesters voor gebruik verhit...",
-        "fr": "Asia Express Food B.V. waarschuwt voor Bevroren Oesters van het merk Surasang. Uit onderzoek is gebleken dat dit product mogelijk het norovirus bevat. Daarnaast staat op de verpakking niet in het Nederlands dat de oesters voor gebruik verhit...",
-        "nl": "Asia Express Food B.V. waarschuwt voor Bevroren Oesters van het merk Surasang. Uit onderzoek is gebleken dat dit product mogelijk het norovirus bevat. Daarnaast staat op de verpakking niet in het Nederlands dat de oesters voor gebruik verhit..."
+        "en": "Update 16 juni 2026: De lijst met THT-datums van dit product is uitgebreid.\n\nAsia Express Food B.V. waarschuwt voor Bevroren Oesters van het merk Surasang. Uit onderzoek is gebleken dat dit product mogelijk het norovirus bevat. Daarnaast staat op...",
+        "fr": "Update 16 juni 2026: De lijst met THT-datums van dit product is uitgebreid.\n\nAsia Express Food B.V. waarschuwt voor Bevroren Oesters van het merk Surasang. Uit onderzoek is gebleken dat dit product mogelijk het norovirus bevat. Daarnaast staat op...",
+        "nl": "Update 16 juni 2026: De lijst met THT-datums van dit product is uitgebreid.\n\nAsia Express Food B.V. waarschuwt voor Bevroren Oesters van het merk Surasang. Uit onderzoek is gebleken dat dit product mogelijk het norovirus bevat. Daarnaast staat op..."
       },
       "url": "https://www.nvwa.nl/documenten/2026/06/12/veiligheidswaarschuwing-bevroren-oesters-van-surasang",
       "countries": [
@@ -493,180 +554,6 @@
       "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "rappelconso-2026-06-0082",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "bacon vendu au rayon traditionnel",
-        "fr": "bacon vendu au rayon traditionnel",
-        "nl": "bacon vendu au rayon traditionnel"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22510/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-06-0077",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "fromage des bien vivants preemballe grand frais",
-        "fr": "fromage des bien vivants preemballe grand frais",
-        "nl": "fromage des bien vivants preemballe grand frais"
-      },
-      "description": {
-        "en": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22505/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-06-0074",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "mâche u sachet 200 g",
-        "fr": "mâche u sachet 200 g",
-        "nl": "mâche u sachet 200 g"
-      },
-      "description": {
-        "en": "non conformite microbiologique - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "non conformite microbiologique - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "non conformite microbiologique - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22502/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-06-0079",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "fondant d'lintan",
-        "fr": "fondant d'lintan",
-        "nl": "fondant d'lintan"
-      },
-      "description": {
-        "en": "suspicion de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listéria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22507/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-06-0072",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "mâche carrefour - sachet 125g - ean : 3270190021889¤mâche carrefour - sachet 200g - ean : 3560070384181",
-        "fr": "mâche carrefour - sachet 125g - ean : 3270190021889¤mâche carrefour - sachet 200g - ean : 3560070384181",
-        "nl": "mâche carrefour - sachet 125g - ean : 3270190021889¤mâche carrefour - sachet 200g - ean : 3560070384181"
-      },
-      "description": {
-        "en": "suspicion de contamination bactériologique¤ - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suspicion de contamination bactériologique¤ - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suspicion de contamination bactériologique¤ - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22500/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-06-0080",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "ti guémené",
-        "fr": "ti guémené",
-        "nl": "ti guémené"
-      },
-      "description": {
-        "en": "suspicion de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listéria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22508/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "nvwa--bonen-in-tomatensaus-350-gram",
       "source": "NVWA",
       "date": "2026-05-27",
@@ -785,6 +672,33 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-06-0153",
+      "source": "RappelConso",
+      "date": "2026-06-17",
+      "title": {
+        "en": "nectarines crf bio : 3276550054122, barquette 4 fruits¤peches crf bio : 3276550054115, barquette 4 fruits",
+        "fr": "nectarines crf bio : 3276550054122, barquette 4 fruits¤peches crf bio : 3276550054115, barquette 4 fruits",
+        "nl": "nectarines crf bio : 3276550054122, barquette 4 fruits¤peches crf bio : 3276550054115, barquette 4 fruits"
+      },
+      "description": {
+        "en": "potentielle contamination chimique - autres contaminants chimiques",
+        "fr": "potentielle contamination chimique - autres contaminants chimiques",
+        "nl": "potentielle contamination chimique - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22582/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-06-0132",
       "source": "RappelConso",
       "date": "2026-06-15",
@@ -810,6 +724,35 @@
       "hazardTypes": [
         "allergen",
         "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-06-15",
+      "title": {
+        "en": "Western Mixers Produce & Nuts Issues Allergy Alert on Undeclared Peanuts in First Street Brand, Dark Chocolate Raisins",
+        "fr": "Western Mixers Produce & Nuts Issues Allergy Alert on Undeclared Peanuts in First Street Brand, Dark Chocolate Raisins",
+        "nl": "Western Mixers Produce & Nuts Issues Allergy Alert on Undeclared Peanuts in First Street Brand, Dark Chocolate Raisins"
+      },
+      "description": {
+        "en": "Western Mixers Produce & Nuts, Inc., Ontario, California is recalling: First Street brand, Dark Chocolate Raisins, 9 oz., because the product may contain undeclared dark chocolate peanuts. People who have an allergy or severe sensitivity to peanuts run the risk of serious or life-threatening allergi",
+        "fr": "Western Mixers Produce & Nuts, Inc., Ontario, California is recalling: First Street brand, Dark Chocolate Raisins, 9 oz., because the product may contain undeclared dark chocolate peanuts. People who have an allergy or severe sensitivity to peanuts run the risk of serious or life-threatening allergi",
+        "nl": "Western Mixers Produce & Nuts, Inc., Ontario, California is recalling: First Street brand, Dark Chocolate Raisins, 9 oz., because the product may contain undeclared dark chocolate peanuts. People who have an allergy or severe sensitivity to peanuts run the risk of serious or life-threatening allergi"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/western-mixers-produce-nuts-issues-allergy-alert-undeclared-peanuts-first-street-brand-dark",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
