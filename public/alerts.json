@@ -1,6 +1,35 @@
 {
-  "generated": "2026-06-17T07:40:07.741Z",
+  "generated": "2026-06-18T07:32:02.961Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-06-0154",
+      "source": "RappelConso",
+      "date": "2026-06-17",
+      "title": {
+        "en": "tous les lots vendus au rayon traditionnel poissonnerie stand entre le 04/06/2026 et le 05/06/2026 inclus",
+        "fr": "tous les lots vendus au rayon traditionnel poissonnerie stand entre le 04/06/2026 et le 05/06/2026 inclus",
+        "nl": "tous les lots vendus au rayon traditionnel poissonnerie stand entre le 04/06/2026 et le 05/06/2026 inclus"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22583/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-06-0146",
       "source": "RappelConso",
@@ -525,35 +554,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-06-0085",
-      "source": "RappelConso",
-      "date": "2026-06-09",
-      "title": {
-        "en": "galet bleute 60g",
-        "fr": "galet bleute 60g",
-        "nl": "galet bleute 60g"
-      },
-      "description": {
-        "en": "présence présumée de e.coli stec o26:h11 - escherichia coli shiga toxinogène (stec)",
-        "fr": "présence présumée de e.coli stec o26:h11 - escherichia coli shiga toxinogène (stec)",
-        "nl": "présence présumée de e.coli stec o26:h11 - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22513/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
       "id": "nvwa--bonen-in-tomatensaus-350-gram",
       "source": "NVWA",
       "date": "2026-05-27",
@@ -670,6 +670,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0163",
+      "source": "RappelConso",
+      "date": "2026-06-17",
+      "title": {
+        "en": "melons jaunes origine algerie",
+        "fr": "melons jaunes origine algerie",
+        "nl": "melons jaunes origine algerie"
+      },
+      "description": {
+        "en": "teneur en bifenthrine superieure a la valeur de reference - dépassement des limites autorisées de pesticides",
+        "fr": "teneur en bifenthrine superieure a la valeur de reference - dépassement des limites autorisées de pesticides",
+        "nl": "teneur en bifenthrine superieure a la valeur de reference - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22593/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "rappelconso-2026-06-0153",
@@ -901,34 +930,6 @@
         "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-81423",
-      "source": "CFIA",
-      "date": "2026-06-05",
-      "title": {
-        "en": "Tako Wasabi products recalled due to undeclared fish",
-        "fr": "Tako Wasabi products recalled due to undeclared fish",
-        "nl": "Tako Wasabi products recalled due to undeclared fish"
-      },
-      "description": {
-        "en": "The affected products are being recalled from the marketplace because they contain fish which is not declared on the label.",
-        "fr": "The affected products are being recalled from the marketplace because they contain fish which is not declared on the label.",
-        "nl": "The affected products are being recalled from the marketplace because they contain fish which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/tako-wasabi-products-recalled-due-undeclared-fish",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": false,
       "pregnancySummaryKey": "allergen"
     },
     {
@@ -1319,35 +1320,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-18-2026",
-      "source": "FSA",
-      "date": "2026-03-19",
-      "title": {
-        "en": "Seggiano recalls two nougat products because of undeclared milk and soy lecithin",
-        "fr": "Seggiano recalls two nougat products because of undeclared milk and soy lecithin",
-        "nl": "Seggiano recalls two nougat products because of undeclared milk and soy lecithin"
-      },
-      "description": {
-        "en": "Milk and soya.\nThese products contain milk and soy lecithin making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents or an allergy to soya.",
-        "fr": "Milk and soya.\nThese products contain milk and soy lecithin making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents or an allergy to soya.",
-        "nl": "Milk and soya.\nThese products contain milk and soy lecithin making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents or an allergy to soya."
-      },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-18-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "rappelconso-2026-06-0129",
       "source": "RappelConso",
       "date": "2026-06-15",
@@ -1429,35 +1401,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "labeling"
-    },
-    {
-      "id": "rappelconso-2026-06-0125",
-      "source": "RappelConso",
-      "date": "2026-06-12",
-      "title": {
-        "en": "filet maquereau double cal.60/100g pavillon france pêché ane",
-        "fr": "filet maquereau double cal.60/100g pavillon france pêché ane",
-        "nl": "filet maquereau double cal.60/100g pavillon france pêché ane"
-      },
-      "description": {
-        "en": "risque présence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "fr": "risque présence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "nl": "risque présence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22554/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-06-0126",
@@ -1564,33 +1507,6 @@
         "meat",
         "fish",
         "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0073",
-      "source": "RappelConso",
-      "date": "2026-06-10",
-      "title": {
-        "en": "salade mélangée - sachet 200g - ean: 3560071494438",
-        "fr": "salade mélangée - sachet 200g - ean: 3560071494438",
-        "nl": "salade mélangée - sachet 200g - ean: 3560071494438"
-      },
-      "description": {
-        "en": "suspicion de corps étrangers - non inertes (insectes larves etc)",
-        "fr": "suspicion de corps étrangers - non inertes (insectes larves etc)",
-        "nl": "suspicion de corps étrangers - non inertes (insectes larves etc)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22501/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
