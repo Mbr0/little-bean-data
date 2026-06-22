@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-21T07:31:29.459Z",
+  "generated": "2026-06-22T07:48:50.791Z",
   "alerts": [
     {
       "id": "rappelconso-2026-06-0184",
@@ -818,35 +818,6 @@
       "pregnancySummaryKey": "chemical"
     },
     {
-      "id": "rappelconso-2026-06-0109",
-      "source": "RappelConso",
-      "date": "2026-06-12",
-      "title": {
-        "en": "melon galia",
-        "fr": "melon galia",
-        "nl": "melon galia"
-      },
-      "description": {
-        "en": "dépassement de la limite autorisée en pesticide (flonicamide) - dépassement des limites autorisées de pesticides",
-        "fr": "dépassement de la limite autorisée en pesticide (flonicamide) - dépassement des limites autorisées de pesticides",
-        "nl": "dépassement de la limite autorisée en pesticide (flonicamide) - dépassement des limites autorisées de pesticides"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22538/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
       "id": "nvwa-n-vegan-van-moin-bio-backwaren",
       "source": "NVWA",
       "date": "2026-06-12",
@@ -1291,6 +1262,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-06-0187",
+      "source": "RappelConso",
+      "date": "2026-06-22",
+      "title": {
+        "en": "lot 106",
+        "fr": "lot 106",
+        "nl": "lot 106"
+      },
+      "description": {
+        "en": "entérotoxine - staphylococcus aureus (agent responsable d'intoxination staphylococcique)",
+        "fr": "entérotoxine - staphylococcus aureus (agent responsable d'intoxination staphylococcique)",
+        "nl": "entérotoxine - staphylococcus aureus (agent responsable d'intoxination staphylococcique)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22617/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-06-0147",
