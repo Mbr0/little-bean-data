@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T06:58:42.993Z",
+  "generated": "2026-06-28T07:14:46.452Z",
   "alerts": [
     {
       "id": "rappelconso-2026-06-0200",
@@ -507,35 +507,6 @@
         "nl": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
       },
       "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-15-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fsa-FSA-PRIN-14-2026",
-      "source": "FSA",
-      "date": "2026-03-29",
-      "title": {
-        "en": "Gilbert’s recalls Turkey Breast Pastrami because of contamination with Listeria monocytogenes",
-        "fr": "Gilbert’s recalls Turkey Breast Pastrami because of contamination with Listeria monocytogenes",
-        "nl": "Gilbert’s recalls Turkey Breast Pastrami because of contamination with Listeria monocytogenes"
-      },
-      "description": {
-        "en": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "fr": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "nl": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
-      },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-14-2026",
       "countries": [
         "GB"
       ],
