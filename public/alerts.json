@@ -1,6 +1,62 @@
 {
-  "generated": "2026-06-28T07:14:46.452Z",
+  "generated": "2026-06-29T07:31:12.259Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-06-0231",
+      "source": "RappelConso",
+      "date": "2026-06-29",
+      "title": {
+        "en": "jambon de bayonne igp vpf 9m dr montagne noire",
+        "fr": "jambon de bayonne igp vpf 9m dr montagne noire",
+        "nl": "jambon de bayonne igp vpf 9m dr montagne noire"
+      },
+      "description": {
+        "en": "présence de listéria monocytogenes dans 25g - < 10 ufc/ g  et une  aw 0.935¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogenes dans 25g - < 10 ufc/ g  et une  aw 0.935¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogenes dans 25g - < 10 ufc/ g  et une  aw 0.935¤ - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22662/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0233",
+      "source": "RappelConso",
+      "date": "2026-06-28",
+      "title": {
+        "en": "n° lot ab94859¤fr24551002ce",
+        "fr": "n° lot ab94859¤fr24551002ce",
+        "nl": "n° lot ab94859¤fr24551002ce"
+      },
+      "description": {
+        "en": "analyse bacteriologique non conforme escherichia coli - escherichia coli",
+        "fr": "analyse bacteriologique non conforme escherichia coli - escherichia coli",
+        "nl": "analyse bacteriologique non conforme escherichia coli - escherichia coli"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22664/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
     {
       "id": "rappelconso-2026-06-0200",
       "source": "RappelConso",
@@ -425,64 +481,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-06-0178",
-      "source": "RappelConso",
-      "date": "2026-06-18",
-      "title": {
-        "en": "steak haché vendu au rayon traditionnel à la demande du client",
-        "fr": "steak haché vendu au rayon traditionnel à la demande du client",
-        "nl": "steak haché vendu au rayon traditionnel à la demande du client"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22608/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-06-0169",
-      "source": "RappelConso",
-      "date": "2026-06-18",
-      "title": {
-        "en": "mélange brebis-vache fermier du baretous",
-        "fr": "mélange brebis-vache fermier du baretous",
-        "nl": "mélange brebis-vache fermier du baretous"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22599/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
