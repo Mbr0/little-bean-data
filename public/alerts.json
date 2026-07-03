@@ -1,6 +1,122 @@
 {
-  "generated": "2026-07-02T07:01:22.164Z",
+  "generated": "2026-07-03T07:00:07.172Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-07-0001",
+      "source": "RappelConso",
+      "date": "2026-07-03",
+      "title": {
+        "en": "saumon fumé",
+        "fr": "saumon fumé",
+        "nl": "saumon fumé"
+      },
+      "description": {
+        "en": "présence de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22692/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0020",
+      "source": "RappelConso",
+      "date": "2026-07-02",
+      "title": {
+        "en": "aile de poulet jaune volaille française",
+        "fr": "aile de poulet jaune volaille française",
+        "nl": "aile de poulet jaune volaille française"
+      },
+      "description": {
+        "en": "info consommateur pour suspicion de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "info consommateur pour suspicion de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "info consommateur pour suspicion de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22718/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0023",
+      "source": "RappelConso",
+      "date": "2026-07-02",
+      "title": {
+        "en": "lot 260226",
+        "fr": "lot 260226",
+        "nl": "lot 260226"
+      },
+      "description": {
+        "en": "détection de listeria monocytogenes au stade de la mise sur le marché - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria monocytogenes au stade de la mise sur le marché - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria monocytogenes au stade de la mise sur le marché - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22715/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-06-0256",
+      "source": "RappelConso",
+      "date": "2026-07-02",
+      "title": {
+        "en": "eminces de truite aneth 100g",
+        "fr": "eminces de truite aneth 100g",
+        "nl": "eminces de truite aneth 100g"
+      },
+      "description": {
+        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22688/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-07-0014",
       "source": "RappelConso",
@@ -321,60 +437,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-06-0233",
-      "source": "RappelConso",
-      "date": "2026-06-28",
-      "title": {
-        "en": "n° lot ab94859¤fr24551002ce",
-        "fr": "n° lot ab94859¤fr24551002ce",
-        "nl": "n° lot ab94859¤fr24551002ce"
-      },
-      "description": {
-        "en": "analyse bacteriologique non conforme escherichia coli - escherichia coli",
-        "fr": "analyse bacteriologique non conforme escherichia coli - escherichia coli",
-        "nl": "analyse bacteriologique non conforme escherichia coli - escherichia coli"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22664/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0200",
-      "source": "RappelConso",
-      "date": "2026-06-26",
-      "title": {
-        "en": "146",
-        "fr": "146",
-        "nl": "146"
-      },
-      "description": {
-        "en": "positif stec - escherichia coli shiga toxinogène (stec)",
-        "fr": "positif stec - escherichia coli shiga toxinogène (stec)",
-        "nl": "positif stec - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22630/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "fsa-FSA-PRIN-15-2026",
       "source": "FSA",
       "date": "2026-04-05",
@@ -429,36 +491,6 @@
       "hazardTypes": [
         "allergen",
         "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-07-01",
-      "title": {
-        "en": "Eunha Fisheries Co., LTD. Issues Allergy Alert on Undeclared Wheat, Soy, and Sesame in Certain Frozen Olive Flounder Sashimi Products",
-        "fr": "Eunha Fisheries Co., LTD. Issues Allergy Alert on Undeclared Wheat, Soy, and Sesame in Certain Frozen Olive Flounder Sashimi Products",
-        "nl": "Eunha Fisheries Co., LTD. Issues Allergy Alert on Undeclared Wheat, Soy, and Sesame in Certain Frozen Olive Flounder Sashimi Products"
-      },
-      "description": {
-        "en": "July 01, 2026 EUNHA FISHERIES CO., LTD., Busan, Republic of Korea, is recalling certain Sliced Korean Halibut and Flounder Sashimi products because the accompanying soy sauce and vinegar red pepper paste packets contain wheat, soy, and sesame that were not declared in English on the individual condi",
-        "fr": "July 01, 2026 EUNHA FISHERIES CO., LTD., Busan, Republic of Korea, is recalling certain Sliced Korean Halibut and Flounder Sashimi products because the accompanying soy sauce and vinegar red pepper paste packets contain wheat, soy, and sesame that were not declared in English on the individual condi",
-        "nl": "July 01, 2026 EUNHA FISHERIES CO., LTD., Busan, Republic of Korea, is recalling certain Sliced Korean Halibut and Flounder Sashimi products because the accompanying soy sauce and vinegar red pepper paste packets contain wheat, soy, and sesame that were not declared in English on the individual condi"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eunha-fisheries-co-ltd-issues-allergy-alert-undeclared-wheat-soy-and-sesame-certain-frozen-olive",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "fish",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -703,6 +735,62 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-07-03",
+      "title": {
+        "en": "Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet  Dog Food Due to Potential Fraudulent Distribution of Product Which May Contain Foreign Material",
+        "fr": "Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet  Dog Food Due to Potential Fraudulent Distribution of Product Which May Contain Foreign Material",
+        "nl": "Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet  Dog Food Due to Potential Fraudulent Distribution of Product Which May Contain Foreign Material"
+      },
+      "description": {
+        "en": "FRANKLIN, Tenn., (July 2, 2026): Mars Petcare US, Inc. is issuing a voluntary recall for two lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor 13.2oz for dogs.",
+        "fr": "FRANKLIN, Tenn., (July 2, 2026): Mars Petcare US, Inc. is issuing a voluntary recall for two lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor 13.2oz for dogs.",
+        "nl": "FRANKLIN, Tenn., (July 2, 2026): Mars Petcare US, Inc. is issuing a voluntary recall for two lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor 13.2oz for dogs."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0022",
+      "source": "RappelConso",
+      "date": "2026-07-02",
+      "title": {
+        "en": "barquette 6 saucisse volaille nature",
+        "fr": "barquette 6 saucisse volaille nature",
+        "nl": "barquette 6 saucisse volaille nature"
+      },
+      "description": {
+        "en": "anomalie d'étiquetage: erreur de date limite de consommation sur les barquettes. dlc étiquetée au 11/10/2026 au lieu du¤11/07/2026. - anomalie d'étiquetage",
+        "fr": "anomalie d'étiquetage: erreur de date limite de consommation sur les barquettes. dlc étiquetée au 11/10/2026 au lieu du¤11/07/2026. - anomalie d'étiquetage",
+        "nl": "anomalie d'étiquetage: erreur de date limite de consommation sur les barquettes. dlc étiquetée au 11/10/2026 au lieu du¤11/07/2026. - anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22714/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "labeling"
+    },
+    {
       "id": "rappelconso-2026-07-0002",
       "source": "RappelConso",
       "date": "2026-07-01",
@@ -799,195 +887,6 @@
         "nl": "il existe un risque de perte d’étanchéité au niveau du couvercle de la boîte - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/22641/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0203",
-      "source": "RappelConso",
-      "date": "2026-06-26",
-      "title": {
-        "en": "pâté verrine aux cèpes bio 180g",
-        "fr": "pâté verrine aux cèpes bio 180g",
-        "nl": "pâté verrine aux cèpes bio 180g"
-      },
-      "description": {
-        "en": "morceau de verre retrouvé dans une verrine par un consommateur - blessures|étouffement",
-        "fr": "morceau de verre retrouvé dans une verrine par un consommateur - blessures|étouffement",
-        "nl": "morceau de verre retrouvé dans une verrine par un consommateur - blessures|étouffement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22642/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0221",
-      "source": "RappelConso",
-      "date": "2026-06-26",
-      "title": {
-        "en": "bacs 3.4kg de pâte fraîche rustique (qui serviront aux magasins pour faire des baguettes rustique)",
-        "fr": "bacs 3.4kg de pâte fraîche rustique (qui serviront aux magasins pour faire des baguettes rustique)",
-        "nl": "bacs 3.4kg de pâte fraîche rustique (qui serviront aux magasins pour faire des baguettes rustique)"
-      },
-      "description": {
-        "en": "suspicion de présence de morceaux de plastique dur. - inertes (verre, métal, plastique, papier, textile…)",
-        "fr": "suspicion de présence de morceaux de plastique dur. - inertes (verre, métal, plastique, papier, textile…)",
-        "nl": "suspicion de présence de morceaux de plastique dur. - inertes (verre, métal, plastique, papier, textile…)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22652/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0215",
-      "source": "RappelConso",
-      "date": "2026-06-26",
-      "title": {
-        "en": "haricots rouge 265g",
-        "fr": "haricots rouge 265g",
-        "nl": "haricots rouge 265g"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22646/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0222",
-      "source": "RappelConso",
-      "date": "2026-06-26",
-      "title": {
-        "en": "haricots rouges 400g rochambeau",
-        "fr": "haricots rouges 400g rochambeau",
-        "nl": "haricots rouges 400g rochambeau"
-      },
-      "description": {
-        "en": "défaut de fabrication de l’ouverture facile - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication de l’ouverture facile - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication de l’ouverture facile - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22653/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0219",
-      "source": "RappelConso",
-      "date": "2026-06-26",
-      "title": {
-        "en": "haricots rouges bio 250g - la fourche",
-        "fr": "haricots rouges bio 250g - la fourche",
-        "nl": "haricots rouges bio 250g - la fourche"
-      },
-      "description": {
-        "en": "il existe un risque de perte d’étanchéité au niveau du couvercle de la boîte - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "il existe un risque de perte d’étanchéité au niveau du couvercle de la boîte - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "il existe un risque de perte d’étanchéité au niveau du couvercle de la boîte - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22650/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0218",
-      "source": "RappelConso",
-      "date": "2026-06-26",
-      "title": {
-        "en": "boîte conserve pois chiches bio 265g - la fourche",
-        "fr": "boîte conserve pois chiches bio 265g - la fourche",
-        "nl": "boîte conserve pois chiches bio 265g - la fourche"
-      },
-      "description": {
-        "en": "il existe un risque de perte d’étanchéité au niveau du couvercle de la boîte - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "il existe un risque de perte d’étanchéité au niveau du couvercle de la boîte - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "il existe un risque de perte d’étanchéité au niveau du couvercle de la boîte - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22649/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-06-0217",
-      "source": "RappelConso",
-      "date": "2026-06-26",
-      "title": {
-        "en": "haricots rouges u 1/2 250g",
-        "fr": "haricots rouges u 1/2 250g",
-        "nl": "haricots rouges u 1/2 250g"
-      },
-      "description": {
-        "en": "le produit présente un défaut d’étanchéité, ce qui peut entraîner une dégradation organoleptique du produit. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "le produit présente un défaut d’étanchéité, ce qui peut entraîner une dégradation organoleptique du produit. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "le produit présente un défaut d’étanchéité, ce qui peut entraîner une dégradation organoleptique du produit. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22648/interne",
       "countries": [
         "FR"
       ],
