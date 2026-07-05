@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T06:56:23.755Z",
+  "generated": "2026-07-05T07:01:13.489Z",
   "alerts": [
     {
       "id": "rappelconso-2026-07-0034",
@@ -380,35 +380,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "fsa-FSA-PRIN-15-2026",
-      "source": "FSA",
-      "date": "2026-04-05",
-      "title": {
-        "en": "The Curing Barn recalls British Bresaola because of contamination with Listeria monocytogenes",
-        "fr": "The Curing Barn recalls British Bresaola because of contamination with Listeria monocytogenes",
-        "nl": "The Curing Barn recalls British Bresaola because of contamination with Listeria monocytogenes"
-      },
-      "description": {
-        "en": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "fr": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "nl": "The presence of Listeria monocytogenes in the product listed above.  \n  \nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature,  muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \n  \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
-      },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-15-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "rappelconso-2026-06-0257",
       "source": "RappelConso",
       "date": "2026-07-01",
@@ -676,6 +647,64 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-81987",
+      "source": "CFIA",
+      "date": "2026-07-04",
+      "title": {
+        "en": "Gummy Gainz brand Protein Candy recalled due to improperly declared milk",
+        "fr": "Gummy Gainz brand Protein Candy recalled due to improperly declared milk",
+        "nl": "Gummy Gainz brand Protein Candy recalled due to improperly declared milk"
+      },
+      "description": {
+        "en": "The affected products are being recalled from the marketplace because they contain milk which is improperly declared on the label.",
+        "fr": "The affected products are being recalled from the marketplace because they contain milk which is improperly declared on the label.",
+        "nl": "The affected products are being recalled from the marketplace because they contain milk which is improperly declared on the label."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/gummy-gainz-brand-protein-candy-recalled-due-improperly-declared-milk",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "labeling"
+    },
+    {
+      "id": "rappelconso-2026-07-0039",
+      "source": "RappelConso",
+      "date": "2026-07-04",
+      "title": {
+        "en": "saint marcellin igp 80g",
+        "fr": "saint marcellin igp 80g",
+        "nl": "saint marcellin igp 80g"
+      },
+      "description": {
+        "en": "erreur de dlc.¤dlc étiquetée au 09/09/2027 au lieu du 24/06/2026. - anomalie d'étiquetage",
+        "fr": "erreur de dlc.¤dlc étiquetée au 09/09/2027 au lieu du 24/06/2026. - anomalie d'étiquetage",
+        "nl": "erreur de dlc.¤dlc étiquetée au 09/09/2027 au lieu du 24/06/2026. - anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22733/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "labeling"
     },
     {
       "id": "rappelconso-2026-07-0015",
