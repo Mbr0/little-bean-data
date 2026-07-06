@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T07:01:13.489Z",
+  "generated": "2026-07-06T07:23:36.957Z",
   "alerts": [
     {
       "id": "rappelconso-2026-07-0034",
@@ -351,35 +351,6 @@
       "pregnancySummaryKey": "labeling"
     },
     {
-      "id": "rappelconso-2026-06-0229",
-      "source": "RappelConso",
-      "date": "2026-06-30",
-      "title": {
-        "en": "non concerné",
-        "fr": "non concerné",
-        "nl": "non concerné"
-      },
-      "description": {
-        "en": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22660/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "rappelconso-2026-06-0257",
       "source": "RappelConso",
       "date": "2026-07-01",
@@ -647,6 +618,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-07-0042",
+      "source": "RappelConso",
+      "date": "2026-07-06",
+      "title": {
+        "en": "f maq butt ap ane pf 3k",
+        "fr": "f maq butt ap ane pf 3k",
+        "nl": "f maq butt ap ane pf 3k"
+      },
+      "description": {
+        "en": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22736/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "cfia-81987",
