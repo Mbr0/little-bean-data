@@ -1,6 +1,181 @@
 {
-  "generated": "2026-07-07T07:05:37.700Z",
+  "generated": "2026-07-08T06:45:32.104Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-07-0069",
+      "source": "RappelConso",
+      "date": "2026-07-07",
+      "title": {
+        "en": "variété thon - oeuf",
+        "fr": "variété thon - oeuf",
+        "nl": "variété thon - oeuf"
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence de listeria monocytogenes dans le produit. ¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "une analyse a mis en évidence la présence de listeria monocytogenes dans le produit. ¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "une analyse a mis en évidence la présence de listeria monocytogenes dans le produit. ¤ - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22766/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "egg"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0063",
+      "source": "RappelConso",
+      "date": "2026-07-07",
+      "title": {
+        "en": "tartinable chèvre ail et fines herbes",
+        "fr": "tartinable chèvre ail et fines herbes",
+        "nl": "tartinable chèvre ail et fines herbes"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22760/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0065",
+      "source": "RappelConso",
+      "date": "2026-07-07",
+      "title": {
+        "en": "salade de taboulé poulet¤salade de taboulé poulet mariné",
+        "fr": "salade de taboulé poulet¤salade de taboulé poulet mariné",
+        "nl": "salade de taboulé poulet¤salade de taboulé poulet mariné"
+      },
+      "description": {
+        "en": "possible contamination du taboulé par la listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "possible contamination du taboulé par la listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "possible contamination du taboulé par la listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22762/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0060",
+      "source": "RappelConso",
+      "date": "2026-07-07",
+      "title": {
+        "en": "salade de taboulé poulet¤salade de taboulé poulet mariné",
+        "fr": "salade de taboulé poulet¤salade de taboulé poulet mariné",
+        "nl": "salade de taboulé poulet¤salade de taboulé poulet mariné"
+      },
+      "description": {
+        "en": "possible contamination du taboulé par la listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "possible contamination du taboulé par la listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "possible contamination du taboulé par la listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22757/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0059",
+      "source": "RappelConso",
+      "date": "2026-07-07",
+      "title": {
+        "en": "tomme tradition lait de coco",
+        "fr": "tomme tradition lait de coco",
+        "nl": "tomme tradition lait de coco"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22756/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0043",
+      "source": "RappelConso",
+      "date": "2026-07-07",
+      "title": {
+        "en": "saucisson sec pur porc",
+        "fr": "saucisson sec pur porc",
+        "nl": "saucisson sec pur porc"
+      },
+      "description": {
+        "en": "détection de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonella spp - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22737/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-07-0055",
       "source": "RappelConso",
@@ -497,35 +672,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0014",
-      "source": "RappelConso",
-      "date": "2026-07-01",
-      "title": {
-        "en": "croissant au jambon x2 pour le libre-service ou à l'unité pour le rayon traditionnel.",
-        "fr": "croissant au jambon x2 pour le libre-service ou à l'unité pour le rayon traditionnel.",
-        "nl": "croissant au jambon x2 pour le libre-service ou à l'unité pour le rayon traditionnel."
-      },
-      "description": {
-        "en": "mise en évidence de la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "mise en évidence de la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "mise en évidence de la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22706/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "cfia-82264",
       "source": "CFIA",
       "date": "2026-06-30",
@@ -612,25 +758,25 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "rappelconso-2026-06-0257",
-      "source": "RappelConso",
-      "date": "2026-07-01",
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-07-06",
       "title": {
-        "en": "abricots moelleux dénoyautés carrefour bio - sachet 250g",
-        "fr": "abricots moelleux dénoyautés carrefour bio - sachet 250g",
-        "nl": "abricots moelleux dénoyautés carrefour bio - sachet 250g"
+        "en": "Faysu Inc., dba Yusol International Foods Recalls OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen",
+        "fr": "Faysu Inc., dba Yusol International Foods Recalls OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen",
+        "nl": "Faysu Inc., dba Yusol International Foods Recalls OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen"
       },
       "description": {
-        "en": "présence de sulfites, non mentionnée sur l’étiquetage - substances allergisantes non déclarées",
-        "fr": "présence de sulfites, non mentionnée sur l’étiquetage - substances allergisantes non déclarées",
-        "nl": "présence de sulfites, non mentionnée sur l’étiquetage - substances allergisantes non déclarées"
+        "en": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is voluntarily recalling OLA-OLA POUNDED YAM because the product may contain undeclared milk in the form of sodium caseinate, which is not declared on the label.",
+        "fr": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is voluntarily recalling OLA-OLA POUNDED YAM because the product may contain undeclared milk in the form of sodium caseinate, which is not declared on the label.",
+        "nl": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is voluntarily recalling OLA-OLA POUNDED YAM because the product may contain undeclared milk in the form of sodium caseinate, which is not declared on the label."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22689/interne",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/faysu-inc-dba-yusol-international-foods-recalls-ola-ola-pounded-yam-due-undeclared-milk-allergen",
       "countries": [
-        "FR"
+        "US"
       ],
       "foodGroups": [
-        "plant"
+        "dairy"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -849,6 +995,63 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "cfia-81987",
+      "source": "CFIA",
+      "date": "2026-07-07",
+      "title": {
+        "en": "Gummy Gainz brand Protein Candy recalled due to improperly declared milk",
+        "fr": "Gummy Gainz brand Protein Candy recalled due to improperly declared milk",
+        "nl": "Gummy Gainz brand Protein Candy recalled due to improperly declared milk"
+      },
+      "description": {
+        "en": "The food recall warning issued on 2026-07-04 has been updated to include additional product information, marked by an asterisk (*). This additional information was identified during the Canadian Food Inspection Agency’s food safety investigation.The affected products are being recalled from the marketplace because they contain milk which is improperly declared on the label.",
+        "fr": "The food recall warning issued on 2026-07-04 has been updated to include additional product information, marked by an asterisk (*). This additional information was identified during the Canadian Food Inspection Agency’s food safety investigation.The affected products are being recalled from the marketplace because they contain milk which is improperly declared on the label.",
+        "nl": "The food recall warning issued on 2026-07-04 has been updated to include additional product information, marked by an asterisk (*). This additional information was identified during the Canadian Food Inspection Agency’s food safety investigation.The affected products are being recalled from the marketplace because they contain milk which is improperly declared on the label."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/gummy-gainz-brand-protein-candy-recalled-due-improperly-declared-milk",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "labeling"
+    },
+    {
+      "id": "rappelconso-2026-06-0251",
+      "source": "RappelConso",
+      "date": "2026-07-07",
+      "title": {
+        "en": "vegetarian mushroom jerky (hot) – 169 g¤référence paris store : 050280",
+        "fr": "vegetarian mushroom jerky (hot) – 169 g¤référence paris store : 050280",
+        "nl": "vegetarian mushroom jerky (hot) – 169 g¤référence paris store : 050280"
+      },
+      "description": {
+        "en": "présence d’un corps étranger dans le produit. - blessures|étouffement",
+        "fr": "présence d’un corps étranger dans le produit. - blessures|étouffement",
+        "nl": "présence d’un corps étranger dans le produit. - blessures|étouffement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22753/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-07-0042",
       "source": "RappelConso",
       "date": "2026-07-06",
@@ -876,35 +1079,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "cfia-81987",
-      "source": "CFIA",
-      "date": "2026-07-04",
-      "title": {
-        "en": "Gummy Gainz brand Protein Candy recalled due to improperly declared milk",
-        "fr": "Gummy Gainz brand Protein Candy recalled due to improperly declared milk",
-        "nl": "Gummy Gainz brand Protein Candy recalled due to improperly declared milk"
-      },
-      "description": {
-        "en": "The affected products are being recalled from the marketplace because they contain milk which is improperly declared on the label.",
-        "fr": "The affected products are being recalled from the marketplace because they contain milk which is improperly declared on the label.",
-        "nl": "The affected products are being recalled from the marketplace because they contain milk which is improperly declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/gummy-gainz-brand-protein-candy-recalled-due-improperly-declared-milk",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
     },
     {
       "id": "rappelconso-2026-07-0039",
@@ -963,33 +1137,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-07-03",
-      "title": {
-        "en": "Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet  Dog Food Due to Potential Fraudulent Distribution of Product Which May Contain Foreign Material",
-        "fr": "Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet  Dog Food Due to Potential Fraudulent Distribution of Product Which May Contain Foreign Material",
-        "nl": "Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet  Dog Food Due to Potential Fraudulent Distribution of Product Which May Contain Foreign Material"
-      },
-      "description": {
-        "en": "FRANKLIN, Tenn., (July 2, 2026): Mars Petcare US, Inc. is issuing a voluntary recall for two lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor 13.2oz for dogs.",
-        "fr": "FRANKLIN, Tenn., (July 2, 2026): Mars Petcare US, Inc. is issuing a voluntary recall for two lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor 13.2oz for dogs.",
-        "nl": "FRANKLIN, Tenn., (July 2, 2026): Mars Petcare US, Inc. is issuing a voluntary recall for two lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor 13.2oz for dogs."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "rappelconso-2026-07-0022",
       "source": "RappelConso",
       "date": "2026-07-02",
@@ -1017,33 +1164,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "labeling"
-    },
-    {
-      "id": "rappelconso-2026-07-0002",
-      "source": "RappelConso",
-      "date": "2026-07-01",
-      "title": {
-        "en": "les moulinettes - coquillettes lentilles vertes",
-        "fr": "les moulinettes - coquillettes lentilles vertes",
-        "nl": "les moulinettes - coquillettes lentilles vertes"
-      },
-      "description": {
-        "en": "taux de t-2 toxine et ht-2 toxine supérieures à la valeur réglementaire - autres contaminants chimiques",
-        "fr": "taux de t-2 toxine et ht-2 toxine supérieures à la valeur réglementaire - autres contaminants chimiques",
-        "nl": "taux de t-2 toxine et ht-2 toxine supérieures à la valeur réglementaire - autres contaminants chimiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22693/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
     },
     {
       "id": "fsa-FSA-PRIN-23-2026",
