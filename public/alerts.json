@@ -1,6 +1,64 @@
 {
-  "generated": "2026-07-08T06:45:32.104Z",
+  "generated": "2026-07-10T07:04:54.332Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-07-0064",
+      "source": "RappelConso",
+      "date": "2026-07-08",
+      "title": {
+        "en": "sans marque",
+        "fr": "sans marque",
+        "nl": "sans marque"
+      },
+      "description": {
+        "en": "salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22761/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-07-0067",
+      "source": "RappelConso",
+      "date": "2026-07-08",
+      "title": {
+        "en": "emincés de saumon fumé aux 5 baies",
+        "fr": "emincés de saumon fumé aux 5 baies",
+        "nl": "emincés de saumon fumé aux 5 baies"
+      },
+      "description": {
+        "en": "présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22764/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-07-0069",
       "source": "RappelConso",
@@ -614,91 +672,34 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0020",
-      "source": "RappelConso",
-      "date": "2026-07-02",
-      "title": {
-        "en": "aile de poulet jaune volaille française",
-        "fr": "aile de poulet jaune volaille française",
-        "nl": "aile de poulet jaune volaille française"
-      },
-      "description": {
-        "en": "info consommateur pour suspicion de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "info consommateur pour suspicion de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "info consommateur pour suspicion de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22718/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-06-0256",
-      "source": "RappelConso",
-      "date": "2026-07-02",
-      "title": {
-        "en": "eminces de truite aneth 100g",
-        "fr": "eminces de truite aneth 100g",
-        "nl": "eminces de truite aneth 100g"
-      },
-      "description": {
-        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22688/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82264",
+      "id": "cfia-82293",
       "source": "CFIA",
-      "date": "2026-06-30",
+      "date": "2026-07-09",
       "title": {
-        "en": "Certain Five Star Shellfish Inc. brand oysters recalled due to Salmonella",
-        "fr": "Certain Five Star Shellfish Inc. brand oysters recalled due to Salmonella",
-        "nl": "Certain Five Star Shellfish Inc. brand oysters recalled due to Salmonella"
+        "en": "The Butcher Barn brand meat products recalled due to undeclared mustard and soy",
+        "fr": "The Butcher Barn brand meat products recalled due to undeclared mustard and soy",
+        "nl": "The Butcher Barn brand meat products recalled due to undeclared mustard and soy"
       },
       "description": {
-        "en": "The affected products are being recalled from the marketplace due to possible Salmonella contamination.",
-        "fr": "The affected products are being recalled from the marketplace due to possible Salmonella contamination.",
-        "nl": "The affected products are being recalled from the marketplace due to possible Salmonella contamination."
+        "en": "The affected products are being recalled from the marketplace because they contain mustard and soy which are not declared on the label.",
+        "fr": "The affected products are being recalled from the marketplace because they contain mustard and soy which are not declared on the label.",
+        "nl": "The affected products are being recalled from the marketplace because they contain mustard and soy which are not declared on the label."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-five-star-shellfish-inc-brand-oysters-recalled-due-salmonella",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/butcher-barn-brand-meat-products-recalled-due-undeclared-mustard-and-soy",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "fish"
+        "meat"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82275",
@@ -995,6 +996,35 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-07-0068",
+      "source": "RappelConso",
+      "date": "2026-07-08",
+      "title": {
+        "en": "cube de dorade surgele coryphene 360g",
+        "fr": "cube de dorade surgele coryphene 360g",
+        "nl": "cube de dorade surgele coryphene 360g"
+      },
+      "description": {
+        "en": "présence d'histamine supérieure au seuil règlementaire - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "présence d'histamine supérieure au seuil règlementaire - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "présence d'histamine supérieure au seuil règlementaire - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22765/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "cfia-81987",
       "source": "CFIA",
       "date": "2026-07-07",
@@ -1137,35 +1167,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-07-0022",
-      "source": "RappelConso",
-      "date": "2026-07-02",
-      "title": {
-        "en": "barquette 6 saucisse volaille nature",
-        "fr": "barquette 6 saucisse volaille nature",
-        "nl": "barquette 6 saucisse volaille nature"
-      },
-      "description": {
-        "en": "anomalie d'étiquetage: erreur de date limite de consommation sur les barquettes. dlc étiquetée au 11/10/2026 au lieu du¤11/07/2026. - anomalie d'étiquetage",
-        "fr": "anomalie d'étiquetage: erreur de date limite de consommation sur les barquettes. dlc étiquetée au 11/10/2026 au lieu du¤11/07/2026. - anomalie d'étiquetage",
-        "nl": "anomalie d'étiquetage: erreur de date limite de consommation sur les barquettes. dlc étiquetée au 11/10/2026 au lieu du¤11/07/2026. - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22714/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
-    },
-    {
       "id": "fsa-FSA-PRIN-23-2026",
       "source": "FSA",
       "date": "2026-05-20",
@@ -1267,33 +1268,6 @@
       ],
       "foodGroups": [
         "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fsa-FSA-PRIN-16-2026",
-      "source": "FSA",
-      "date": "2026-04-09",
-      "title": {
-        "en": "Tesco recalls Tesco Finest Summer Edition Chocolate Affogato Dessert because it may contain pieces of plastic",
-        "fr": "Tesco recalls Tesco Finest Summer Edition Chocolate Affogato Dessert because it may contain pieces of plastic",
-        "nl": "Tesco recalls Tesco Finest Summer Edition Chocolate Affogato Dessert because it may contain pieces of plastic"
-      },
-      "description": {
-        "en": "This product may contain pieces of plastic which makes the product unsafe to eat.",
-        "fr": "This product may contain pieces of plastic which makes the product unsafe to eat.",
-        "nl": "This product may contain pieces of plastic which makes the product unsafe to eat."
-      },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-16-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
