@@ -1,6 +1,35 @@
 {
-  "generated": "2026-07-12T06:49:31.145Z",
+  "generated": "2026-07-13T06:59:26.263Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-07-0097",
+      "source": "RappelConso",
+      "date": "2026-07-12",
+      "title": {
+        "en": "pavé de saumon rôti et fume à chaud aux épices de provence sous vide 120g",
+        "fr": "pavé de saumon rôti et fume à chaud aux épices de provence sous vide 120g",
+        "nl": "pavé de saumon rôti et fume à chaud aux épices de provence sous vide 120g"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22802/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "cfia-82303",
       "source": "CFIA",
@@ -104,35 +133,6 @@
         "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/22798/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0097",
-      "source": "RappelConso",
-      "date": "2026-07-10",
-      "title": {
-        "en": "pavé de saumon rôti et fume à chaud aux épices de provence sous vide 120g",
-        "fr": "pavé de saumon rôti et fume à chaud aux épices de provence sous vide 120g",
-        "nl": "pavé de saumon rôti et fume à chaud aux épices de provence sous vide 120g"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22795/interne",
       "countries": [
         "FR"
       ],
