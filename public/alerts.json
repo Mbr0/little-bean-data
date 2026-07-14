@@ -1,6 +1,64 @@
 {
-  "generated": "2026-07-13T06:59:26.263Z",
+  "generated": "2026-07-14T06:39:23.189Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-07-0116",
+      "source": "RappelConso",
+      "date": "2026-07-13",
+      "title": {
+        "en": "salade charcutiere",
+        "fr": "salade charcutiere",
+        "nl": "salade charcutiere"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes (agent responsable de la listeriose) - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes (agent responsable de la listeriose) - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes (agent responsable de la listeriose) - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22816/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0106",
+      "source": "RappelConso",
+      "date": "2026-07-13",
+      "title": {
+        "en": "pilon de poulet marine  ( toute marinade) et non marine  - cru",
+        "fr": "pilon de poulet marine  ( toute marinade) et non marine  - cru",
+        "nl": "pilon de poulet marine  ( toute marinade) et non marine  - cru"
+      },
+      "description": {
+        "en": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22805/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-07-0097",
       "source": "RappelConso",
@@ -35,16 +93,16 @@
       "source": "CFIA",
       "date": "2026-07-10",
       "title": {
-        "en": "Charlevoisienne and Joe Smoked Meat brand meat products recalled due to Listeria monocytogenes",
-        "fr": "Charlevoisienne and Joe Smoked Meat brand meat products recalled due to Listeria monocytogenes",
-        "nl": "Charlevoisienne and Joe Smoked Meat brand meat products recalled due to Listeria monocytogenes"
+        "en": "Charcuterie Charlevoisienne and Joe Smoked Meat brand meat products recalled due to Listeria monocytogenes",
+        "fr": "Charcuterie Charlevoisienne and Joe Smoked Meat brand meat products recalled due to Listeria monocytogenes",
+        "nl": "Charcuterie Charlevoisienne and Joe Smoked Meat brand meat products recalled due to Listeria monocytogenes"
       },
       "description": {
         "en": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
         "fr": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
         "nl": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/charlevoisienne-and-joe-smoked-meat-brand-meat-products-recalled-due-listeria",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/charcuterie-charlevoisienne-and-joe-smoked-meat-brand-meat-products-recalled-due",
       "countries": [
         "CA"
       ],
@@ -614,91 +672,60 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0046",
+      "id": "rappelconso-2026-07-0094",
       "source": "RappelConso",
-      "date": "2026-07-07",
+      "date": "2026-07-13",
       "title": {
-        "en": "coeur de truite fumé ail des ours 120g",
-        "fr": "coeur de truite fumé ail des ours 120g",
-        "nl": "coeur de truite fumé ail des ours 120g"
+        "en": "truite fumée ggn 100g",
+        "fr": "truite fumée ggn 100g",
+        "nl": "truite fumée ggn 100g"
       },
       "description": {
-        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "en raison d'une suspicion de contamination à un produit de nettoyage, les produits peuvent avoir un goût et une odeur anormale et provoquer des nausées et des vomissements. ¤ - autres contaminants chimiques",
+        "fr": "en raison d'une suspicion de contamination à un produit de nettoyage, les produits peuvent avoir un goût et une odeur anormale et provoquer des nausées et des vomissements. ¤ - autres contaminants chimiques",
+        "nl": "en raison d'une suspicion de contamination à un produit de nettoyage, les produits peuvent avoir un goût et une odeur anormale et provoquer des nausées et des vomissements. ¤ - autres contaminants chimiques"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22741/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22792/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
         "fish"
       ],
-      "pregnancyRelevance": "high",
+      "pregnancyRelevance": "medium",
       "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
+      "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-06-0193",
-      "source": "RappelConso",
-      "date": "2026-07-07",
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-07-13",
       "title": {
-        "en": "brisures de truite fumée 150g",
-        "fr": "brisures de truite fumée 150g",
-        "nl": "brisures de truite fumée 150g"
+        "en": "Khong Guan Corporation Issues Recall of Glutinous Rice Balls With Black Sesame Filling Due to Undeclared Peanuts",
+        "fr": "Khong Guan Corporation Issues Recall of Glutinous Rice Balls With Black Sesame Filling Due to Undeclared Peanuts",
+        "nl": "Khong Guan Corporation Issues Recall of Glutinous Rice Balls With Black Sesame Filling Due to Undeclared Peanuts"
       },
       "description": {
-        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "Khong Guan Corporation is recalling specific lots of “Glutinous Rice Balls with Black Sesame Filling” because they may contain undeclared peanuts. People who have an allergy or severe sensitivity to peanuts run the risk of serious or life-threatening allergic reactions if they consume these products",
+        "fr": "Khong Guan Corporation is recalling specific lots of “Glutinous Rice Balls with Black Sesame Filling” because they may contain undeclared peanuts. People who have an allergy or severe sensitivity to peanuts run the risk of serious or life-threatening allergic reactions if they consume these products",
+        "nl": "Khong Guan Corporation is recalling specific lots of “Glutinous Rice Balls with Black Sesame Filling” because they may contain undeclared peanuts. People who have an allergy or severe sensitivity to peanuts run the risk of serious or life-threatening allergic reactions if they consume these products"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22740/interne",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/khong-guan-corporation-issues-recall-glutinous-rice-balls-black-sesame-filling-due-undeclared",
       "countries": [
-        "FR"
+        "US"
       ],
       "foodGroups": [
-        "fish"
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0023",
-      "source": "RappelConso",
-      "date": "2026-07-06",
-      "title": {
-        "en": "lot 260226 et 050326",
-        "fr": "lot 260226 et 050326",
-        "nl": "lot 260226 et 050326"
-      },
-      "description": {
-        "en": "détection ou suspicion de listeria monocytogenes au stade de la mise sur le marché - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection ou suspicion de listeria monocytogenes au stade de la mise sur le marché - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection ou suspicion de listeria monocytogenes au stade de la mise sur le marché - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22745/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82317",
@@ -814,36 +841,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-07-06",
-      "title": {
-        "en": "Faysu Inc., dba Yusol International Foods Recalls OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen",
-        "fr": "Faysu Inc., dba Yusol International Foods Recalls OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen",
-        "nl": "Faysu Inc., dba Yusol International Foods Recalls OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen"
-      },
-      "description": {
-        "en": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is voluntarily recalling OLA-OLA POUNDED YAM because the product may contain undeclared milk in the form of sodium caseinate, which is not declared on the label.",
-        "fr": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is voluntarily recalling OLA-OLA POUNDED YAM because the product may contain undeclared milk in the form of sodium caseinate, which is not declared on the label.",
-        "nl": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is voluntarily recalling OLA-OLA POUNDED YAM because the product may contain undeclared milk in the form of sodium caseinate, which is not declared on the label."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/faysu-inc-dba-yusol-international-foods-recalls-ola-ola-pounded-yam-due-undeclared-milk-allergen",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "fsa-FSA-AA-27-2026",
@@ -1262,33 +1259,6 @@
         "nl": "This product may contain pieces of plastic or metal, which makes the product unsafe to eat."
       },
       "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-22-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fsa-FSA-PRIN-18-2026",
-      "source": "FSA",
-      "date": "2026-04-14",
-      "title": {
-        "en": "ALDI recalls The Fishmonger Hot Smoked 2 Salmon Fillets – Honey Roasted because of incorrect use-by date.",
-        "fr": "ALDI recalls The Fishmonger Hot Smoked 2 Salmon Fillets – Honey Roasted because of incorrect use-by date.",
-        "nl": "ALDI recalls The Fishmonger Hot Smoked 2 Salmon Fillets – Honey Roasted because of incorrect use-by date."
-      },
-      "description": {
-        "en": "This product is labelled with an incorrect ‘use-by’ date of 25 June 2026 which makes it unsafe to eat after the correct use-by date of 25 April 2026.",
-        "fr": "This product is labelled with an incorrect ‘use-by’ date of 25 June 2026 which makes it unsafe to eat after the correct use-by date of 25 April 2026.",
-        "nl": "This product is labelled with an incorrect ‘use-by’ date of 25 June 2026 which makes it unsafe to eat after the correct use-by date of 25 April 2026."
-      },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-18-2026",
       "countries": [
         "GB"
       ],
