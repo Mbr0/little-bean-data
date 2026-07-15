@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T06:39:23.189Z",
+  "generated": "2026-07-15T06:40:02.415Z",
   "alerts": [
     {
       "id": "rappelconso-2026-07-0116",
@@ -599,64 +599,6 @@
         "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/22744/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0048",
-      "source": "RappelConso",
-      "date": "2026-07-07",
-      "title": {
-        "en": "coeur de saumon fumé citron basilic 150g",
-        "fr": "coeur de saumon fumé citron basilic 150g",
-        "nl": "coeur de saumon fumé citron basilic 150g"
-      },
-      "description": {
-        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22743/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0047",
-      "source": "RappelConso",
-      "date": "2026-07-07",
-      "title": {
-        "en": "emincés de truite aneth 100g",
-        "fr": "emincés de truite aneth 100g",
-        "nl": "emincés de truite aneth 100g"
-      },
-      "description": {
-        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22742/interne",
       "countries": [
         "FR"
       ],
