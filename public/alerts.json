@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T06:34:35.994Z",
+  "generated": "2026-07-19T06:46:49.838Z",
   "alerts": [
     {
       "id": "cfia-82354",
@@ -959,35 +959,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0128",
-      "source": "RappelConso",
-      "date": "2026-07-16",
-      "title": {
-        "en": "cabecous, fougères, cabécous à l'ail, cabécous au persil, frais figue, fougères cendrées, cabécous au thym, buches natures, buches cendrées, tartichèvre.",
-        "fr": "cabecous, fougères, cabécous à l'ail, cabécous au persil, frais figue, fougères cendrées, cabécous au thym, buches natures, buches cendrées, tartichèvre.",
-        "nl": "cabecous, fougères, cabécous à l'ail, cabécous au persil, frais figue, fougères cendrées, cabécous au thym, buches natures, buches cendrées, tartichèvre."
-      },
-      "description": {
-        "en": "présence de traces de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de traces de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de traces de listéria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22828/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "fda-aHR0cDovL3d3dy5m",
       "source": "FDA",
       "date": "2026-07-18",
@@ -1221,6 +1192,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-07-0182",
+      "source": "RappelConso",
+      "date": "2026-07-18",
+      "title": {
+        "en": "tous produits du rayon marée  frais emballé  vendus dans le meuble froid anti gaspi (dates courtes)",
+        "fr": "tous produits du rayon marée  frais emballé  vendus dans le meuble froid anti gaspi (dates courtes)",
+        "nl": "tous produits du rayon marée  frais emballé  vendus dans le meuble froid anti gaspi (dates courtes)"
+      },
+      "description": {
+        "en": "il s'agit d'un rappel pour tous produits du rayon marée frais emballé vendus dans le bac anti gaspi (dates courtes) sur la période du 2 au 10 juillet 2026 pour problème d'analyse non conforme  histamine . - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "il s'agit d'un rappel pour tous produits du rayon marée frais emballé vendus dans le bac anti gaspi (dates courtes) sur la période du 2 au 10 juillet 2026 pour problème d'analyse non conforme  histamine . - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "il s'agit d'un rappel pour tous produits du rayon marée frais emballé vendus dans le bac anti gaspi (dates courtes) sur la période du 2 au 10 juillet 2026 pour problème d'analyse non conforme  histamine . - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22882/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-07-0179",
