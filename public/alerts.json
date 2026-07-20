@@ -1,26 +1,26 @@
 {
-  "generated": "2026-07-19T06:46:49.838Z",
+  "generated": "2026-07-20T06:57:34.183Z",
   "alerts": [
     {
-      "id": "cfia-82354",
-      "source": "CFIA",
-      "date": "2026-07-17",
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-07-19",
       "title": {
-        "en": "Various brands of  meat products recalled due to Listeria monocytogenes",
-        "fr": "Various brands of  meat products recalled due to Listeria monocytogenes",
-        "nl": "Various brands of  meat products recalled due to Listeria monocytogenes"
+        "en": "Relay Peak Research LLC Recalls Zen Principle® Moringa Capsules Because of Possible Health Risk",
+        "fr": "Relay Peak Research LLC Recalls Zen Principle® Moringa Capsules Because of Possible Health Risk",
+        "nl": "Relay Peak Research LLC Recalls Zen Principle® Moringa Capsules Because of Possible Health Risk"
       },
       "description": {
-        "en": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "fr": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "nl": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination."
+        "en": "Relay Peak Research LLC (Zen Principle Naturals) of Incline Village, NV is voluntarily recalling its Zen Principle® brand Moringa Capsules dietary supplement because the product has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections i",
+        "fr": "Relay Peak Research LLC (Zen Principle Naturals) of Incline Village, NV is voluntarily recalling its Zen Principle® brand Moringa Capsules dietary supplement because the product has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections i",
+        "nl": "Relay Peak Research LLC (Zen Principle Naturals) of Incline Village, NV is voluntarily recalling its Zen Principle® brand Moringa Capsules dietary supplement because the product has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections i"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-brands-meat-products-recalled-due-listeria-monocytogenes",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/relay-peak-research-llc-recalls-zen-principler-moringa-capsules-because-possible-health-risk",
       "countries": [
-        "CA"
+        "US"
       ],
       "foodGroups": [
-        "meat"
+        "plant"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -28,7 +28,7 @@
         "microbial"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-07-0166",
@@ -957,65 +957,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-07-18",
-      "title": {
-        "en": "Fayus Inc., dba Yusol International Foods Expands Recall of OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen",
-        "fr": "Fayus Inc., dba Yusol International Foods Expands Recall of OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen",
-        "nl": "Fayus Inc., dba Yusol International Foods Expands Recall of OLA-OLA POUNDED YAM Due to Undeclared Milk Allergen"
-      },
-      "description": {
-        "en": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is expanding its recall of OLA-OLA POUNDED YAM to include product sizes 2lbs, 4lbs, 5lbs, and 10lbs due to product labeling omission of an undeclared milk allergen for sodium caseinate, a milk derivative. People who have an all",
-        "fr": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is expanding its recall of OLA-OLA POUNDED YAM to include product sizes 2lbs, 4lbs, 5lbs, and 10lbs due to product labeling omission of an undeclared milk allergen for sodium caseinate, a milk derivative. People who have an all",
-        "nl": "Fayus Inc., doing business as Yusol International Foods (Sacramento, CA) is expanding its recall of OLA-OLA POUNDED YAM to include product sizes 2lbs, 4lbs, 5lbs, and 10lbs due to product labeling omission of an undeclared milk allergen for sodium caseinate, a milk derivative. People who have an all"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fayus-inc-dba-yusol-international-foods-expands-recall-ola-ola-pounded-yam-due-undeclared-milk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-81988",
-      "source": "CFIA",
-      "date": "2026-07-16",
-      "title": {
-        "en": "Ola-Ola brand Authentic Pounded Yam (Iyan) IYANINSTANT recalled due to undeclared milk",
-        "fr": "Ola-Ola brand Authentic Pounded Yam (Iyan) IYANINSTANT recalled due to undeclared milk",
-        "nl": "Ola-Ola brand Authentic Pounded Yam (Iyan) IYANINSTANT recalled due to undeclared milk"
-      },
-      "description": {
-        "en": "The food recall warning issued on 2026-06-26 has been updated to include additional product information, marked by an asterisk (*). This additional information was identified during the Canadian Food Inspection Agency’s food safety investigation.The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
-        "fr": "The food recall warning issued on 2026-06-26 has been updated to include additional product information, marked by an asterisk (*). This additional information was identified during the Canadian Food Inspection Agency’s food safety investigation.The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
-        "nl": "The food recall warning issued on 2026-06-26 has been updated to include additional product information, marked by an asterisk (*). This additional information was identified during the Canadian Food Inspection Agency’s food safety investigation.The affected products are being recalled from the marketplace because they contain milk which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/ola-ola-brand-authentic-pounded-yam-iyan-iyaninstant-recalled-due-undeclared-milk",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-07-0102",
