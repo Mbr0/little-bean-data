@@ -1,6 +1,239 @@
 {
-  "generated": "2026-07-22T06:47:19.525Z",
+  "generated": "2026-07-23T06:45:55.837Z",
   "alerts": [
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-07-23",
+      "title": {
+        "en": "Midwest Poultry Services. L.P. Recalls Shell Eggs Due to Possible Salmonella Enteritidis Contamination",
+        "fr": "Midwest Poultry Services. L.P. Recalls Shell Eggs Due to Possible Salmonella Enteritidis Contamination",
+        "nl": "Midwest Poultry Services. L.P. Recalls Shell Eggs Due to Possible Salmonella Enteritidis Contamination"
+      },
+      "description": {
+        "en": "Midwest Poultry Services, L.P. is voluntarily recalling 1,589,577 dozen white shell eggs and brown cage free shell eggs produced in Texas because they have the potential to be contaminated with Salmonella Enteritidis. Salmonella is an organism which can cause serious and sometimes fatal infections i",
+        "fr": "Midwest Poultry Services, L.P. is voluntarily recalling 1,589,577 dozen white shell eggs and brown cage free shell eggs produced in Texas because they have the potential to be contaminated with Salmonella Enteritidis. Salmonella is an organism which can cause serious and sometimes fatal infections i",
+        "nl": "Midwest Poultry Services, L.P. is voluntarily recalling 1,589,577 dozen white shell eggs and brown cage free shell eggs produced in Texas because they have the potential to be contaminated with Salmonella Enteritidis. Salmonella is an organism which can cause serious and sometimes fatal infections i"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/midwest-poultry-services-lp-recalls-shell-eggs-due-possible-salmonella-enteritidis-contamination",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-07-0212",
+      "source": "RappelConso",
+      "date": "2026-07-22",
+      "title": {
+        "en": "merguez de volaille halal 50*100 gr - 5 kg",
+        "fr": "merguez de volaille halal 50*100 gr - 5 kg",
+        "nl": "merguez de volaille halal 50*100 gr - 5 kg"
+      },
+      "description": {
+        "en": "détection de salmonelle dans les produits - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelle dans les produits - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelle dans les produits - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22931/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-07-0200",
+      "source": "RappelConso",
+      "date": "2026-07-22",
+      "title": {
+        "en": "jambon cuit sup avec son os ac¤pate de camp. fines herbes¤tete roulee¤jambon cuit a os¤pate de campagne anc",
+        "fr": "jambon cuit sup avec son os ac¤pate de camp. fines herbes¤tete roulee¤jambon cuit a os¤pate de campagne anc",
+        "nl": "jambon cuit sup avec son os ac¤pate de camp. fines herbes¤tete roulee¤jambon cuit a os¤pate de campagne anc"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22919/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0203",
+      "source": "RappelConso",
+      "date": "2026-07-22",
+      "title": {
+        "en": "rillette d’oie supérieure 1 kg rustadou",
+        "fr": "rillette d’oie supérieure 1 kg rustadou",
+        "nl": "rillette d’oie supérieure 1 kg rustadou"
+      },
+      "description": {
+        "en": "contamination potentielle à la listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "contamination potentielle à la listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "contamination potentielle à la listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22922/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0198",
+      "source": "RappelConso",
+      "date": "2026-07-22",
+      "title": {
+        "en": "boudin blanc a l'ancienne aux morilles - vendu au stand traditionnel /coupe",
+        "fr": "boudin blanc a l'ancienne aux morilles - vendu au stand traditionnel /coupe",
+        "nl": "boudin blanc a l'ancienne aux morilles - vendu au stand traditionnel /coupe"
+      },
+      "description": {
+        "en": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22917/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0197",
+      "source": "RappelConso",
+      "date": "2026-07-22",
+      "title": {
+        "en": "boudin blanc a l'ancienne forestier - vendu au stand traditionnel /coupe",
+        "fr": "boudin blanc a l'ancienne forestier - vendu au stand traditionnel /coupe",
+        "nl": "boudin blanc a l'ancienne forestier - vendu au stand traditionnel /coupe"
+      },
+      "description": {
+        "en": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22916/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0196",
+      "source": "RappelConso",
+      "date": "2026-07-22",
+      "title": {
+        "en": "boudin blanc a l'ancienne  a la truffe - vendu au stand traditionnel /coupe",
+        "fr": "boudin blanc a l'ancienne  a la truffe - vendu au stand traditionnel /coupe",
+        "nl": "boudin blanc a l'ancienne  a la truffe - vendu au stand traditionnel /coupe"
+      },
+      "description": {
+        "en": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22915/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0195",
+      "source": "RappelConso",
+      "date": "2026-07-22",
+      "title": {
+        "en": "boudin blanc a l'ancienne porto - vendu au stand traditionnel /coupe",
+        "fr": "boudin blanc a l'ancienne porto - vendu au stand traditionnel /coupe",
+        "nl": "boudin blanc a l'ancienne porto - vendu au stand traditionnel /coupe"
+      },
+      "description": {
+        "en": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de contamination bactériologique - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22914/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-07-0202",
       "source": "RappelConso",
@@ -872,64 +1105,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0166",
-      "source": "RappelConso",
-      "date": "2026-07-17",
-      "title": {
-        "en": "filet de hareng fumé conditionné sous vide",
-        "fr": "filet de hareng fumé conditionné sous vide",
-        "nl": "filet de hareng fumé conditionné sous vide"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22866/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0174",
-      "source": "RappelConso",
-      "date": "2026-07-17",
-      "title": {
-        "en": "tommette de chèvre",
-        "fr": "tommette de chèvre",
-        "nl": "tommette de chèvre"
-      },
-      "description": {
-        "en": "listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22874/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "cfia-82368",
       "source": "CFIA",
       "date": "2026-07-20",
@@ -1106,33 +1281,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-07-21",
-      "title": {
-        "en": "PT Organics Limited Recalls Select Pumpkin Tree Peter Rabbit Organics Banana & Strawberry Fruit Puree Pouches Due to the Potential for Soft Plastic to Enter the Finished Product",
-        "fr": "PT Organics Limited Recalls Select Pumpkin Tree Peter Rabbit Organics Banana & Strawberry Fruit Puree Pouches Due to the Potential for Soft Plastic to Enter the Finished Product",
-        "nl": "PT Organics Limited Recalls Select Pumpkin Tree Peter Rabbit Organics Banana & Strawberry Fruit Puree Pouches Due to the Potential for Soft Plastic to Enter the Finished Product"
-      },
-      "description": {
-        "en": "July 21st, 2026, PT Organics Limited of Lake Oswego, Oregon is voluntarily recalling select Pumpkin Tree Peter Rabbit Organics Banana & Strawberry 4 oz. (113 g) pouches because of an internal packaging defect that may result in the presence of a strand of soft, food-grade plastic in the finished pro",
-        "fr": "July 21st, 2026, PT Organics Limited of Lake Oswego, Oregon is voluntarily recalling select Pumpkin Tree Peter Rabbit Organics Banana & Strawberry 4 oz. (113 g) pouches because of an internal packaging defect that may result in the presence of a strand of soft, food-grade plastic in the finished pro",
-        "nl": "July 21st, 2026, PT Organics Limited of Lake Oswego, Oregon is voluntarily recalling select Pumpkin Tree Peter Rabbit Organics Banana & Strawberry 4 oz. (113 g) pouches because of an internal packaging defect that may result in the presence of a strand of soft, food-grade plastic in the finished pro"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pt-organics-limited-recalls-select-pumpkin-tree-peter-rabbit-organics-banana-strawberry-fruit-puree",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "rappelconso-2026-07-0178",
       "source": "RappelConso",
       "date": "2026-07-20",
@@ -1147,93 +1295,6 @@
         "nl": "non conformite presence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/22878/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0181",
-      "source": "RappelConso",
-      "date": "2026-07-20",
-      "title": {
-        "en": "escalopes cordons bleus dinde 400g",
-        "fr": "escalopes cordons bleus dinde 400g",
-        "nl": "escalopes cordons bleus dinde 400g"
-      },
-      "description": {
-        "en": "erreur de dlc - dlc erronee - anomalie d'étiquetage",
-        "fr": "erreur de dlc - dlc erronee - anomalie d'étiquetage",
-        "nl": "erreur de dlc - dlc erronee - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22881/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
-    },
-    {
-      "id": "rappelconso-2026-07-0182",
-      "source": "RappelConso",
-      "date": "2026-07-18",
-      "title": {
-        "en": "tous produits du rayon marée  frais emballé  vendus dans le meuble froid anti gaspi (dates courtes)",
-        "fr": "tous produits du rayon marée  frais emballé  vendus dans le meuble froid anti gaspi (dates courtes)",
-        "nl": "tous produits du rayon marée  frais emballé  vendus dans le meuble froid anti gaspi (dates courtes)"
-      },
-      "description": {
-        "en": "il s'agit d'un rappel pour tous produits du rayon marée frais emballé vendus dans le bac anti gaspi (dates courtes) sur la période du 2 au 10 juillet 2026 pour problème d'analyse non conforme  histamine . - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "fr": "il s'agit d'un rappel pour tous produits du rayon marée frais emballé vendus dans le bac anti gaspi (dates courtes) sur la période du 2 au 10 juillet 2026 pour problème d'analyse non conforme  histamine . - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "nl": "il s'agit d'un rappel pour tous produits du rayon marée frais emballé vendus dans le bac anti gaspi (dates courtes) sur la période du 2 au 10 juillet 2026 pour problème d'analyse non conforme  histamine . - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22882/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0179",
-      "source": "RappelConso",
-      "date": "2026-07-17",
-      "title": {
-        "en": "longe de thon vendu en tranches au rayon traditionnel uniquement",
-        "fr": "longe de thon vendu en tranches au rayon traditionnel uniquement",
-        "nl": "longe de thon vendu en tranches au rayon traditionnel uniquement"
-      },
-      "description": {
-        "en": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "fr": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "nl": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22879/interne",
       "countries": [
         "FR"
       ],
