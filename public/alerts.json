@@ -1,6 +1,122 @@
 {
-  "generated": "2026-07-23T06:45:55.837Z",
+  "generated": "2026-07-24T06:45:59.478Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-07-0217",
+      "source": "RappelConso",
+      "date": "2026-07-23",
+      "title": {
+        "en": "saucisson ail nature et fume vendu a la coupe",
+        "fr": "saucisson ail nature et fume vendu a la coupe",
+        "nl": "saucisson ail nature et fume vendu a la coupe"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22936/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0222",
+      "source": "RappelConso",
+      "date": "2026-07-23",
+      "title": {
+        "en": "saucisse sèche courbe 250g",
+        "fr": "saucisse sèche courbe 250g",
+        "nl": "saucisse sèche courbe 250g"
+      },
+      "description": {
+        "en": "suspicion de salmonelle suite à auto contrôle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de salmonelle suite à auto contrôle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de salmonelle suite à auto contrôle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22941/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-07-0219",
+      "source": "RappelConso",
+      "date": "2026-07-23",
+      "title": {
+        "en": "crevettes cuites 25/35 vendues au rayon traditionnel",
+        "fr": "crevettes cuites 25/35 vendues au rayon traditionnel",
+        "nl": "crevettes cuites 25/35 vendues au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22938/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0213",
+      "source": "RappelConso",
+      "date": "2026-07-23",
+      "title": {
+        "en": "auchan langue de porc en gelee tranchee 180g",
+        "fr": "auchan langue de porc en gelee tranchee 180g",
+        "nl": "auchan langue de porc en gelee tranchee 180g"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22932/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "fda-aHR0cDovL3d3dy5m",
       "source": "FDA",
@@ -960,178 +1076,33 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0189",
+      "id": "rappelconso-2026-07-0218",
       "source": "RappelConso",
-      "date": "2026-07-21",
+      "date": "2026-07-23",
       "title": {
-        "en": "steak haches¤",
-        "fr": "steak haches¤",
-        "nl": "steak haches¤"
+        "en": "melon du haut poitou igp rdf - vrac",
+        "fr": "melon du haut poitou igp rdf - vrac",
+        "nl": "melon du haut poitou igp rdf - vrac"
       },
       "description": {
-        "en": "presence de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "presence de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "presence de salmonella spp - salmonella spp (agent responsable de la salmonellose)"
+        "en": "teneur en cadmium supérieure à la limite autorisée par la réglementation européenne. - eléments traces métalliques (métaux lourds : plomb, mercure, cadmium...)",
+        "fr": "teneur en cadmium supérieure à la limite autorisée par la réglementation européenne. - eléments traces métalliques (métaux lourds : plomb, mercure, cadmium...)",
+        "nl": "teneur en cadmium supérieure à la limite autorisée par la réglementation européenne. - eléments traces métalliques (métaux lourds : plomb, mercure, cadmium...)"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22891/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22937/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-07-0186",
-      "source": "RappelConso",
-      "date": "2026-07-21",
-      "title": {
-        "en": "steak haches¤hache vrac",
-        "fr": "steak haches¤hache vrac",
-        "nl": "steak haches¤hache vrac"
-      },
-      "description": {
-        "en": "presence de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "presence de salmonella spp - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "presence de salmonella spp - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22888/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-07-0185",
-      "source": "RappelConso",
-      "date": "2026-07-20",
-      "title": {
-        "en": "jambon sec sans os 9 mois // dss3005021-00 // lot 13084",
-        "fr": "jambon sec sans os 9 mois // dss3005021-00 // lot 13084",
-        "nl": "jambon sec sans os 9 mois // dss3005021-00 // lot 13084"
-      },
-      "description": {
-        "en": "rappel du lot 13084 de jambon sec avec os 9 mois en provenance des salaisons limousines en raison d'un risque de contamination de listeria monocytogenes. rappel demandé par la ddetssp 87. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "rappel du lot 13084 de jambon sec avec os 9 mois en provenance des salaisons limousines en raison d'un risque de contamination de listeria monocytogenes. rappel demandé par la ddetssp 87. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "rappel du lot 13084 de jambon sec avec os 9 mois en provenance des salaisons limousines en raison d'un risque de contamination de listeria monocytogenes. rappel demandé par la ddetssp 87. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22887/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0184",
-      "source": "RappelConso",
-      "date": "2026-07-20",
-      "title": {
-        "en": "jambon sec avec os 9 mois // dss3001021-00 // lot 11070",
-        "fr": "jambon sec avec os 9 mois // dss3001021-00 // lot 11070",
-        "nl": "jambon sec avec os 9 mois // dss3001021-00 // lot 11070"
-      },
-      "description": {
-        "en": "rappel du lot 11070 de jambon sec avec os 9 mois en provenance des salaisons limousines en raison d'un risque de contamination de listeria monocytogenes. rappel demandé par la ddetssp 87. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "rappel du lot 11070 de jambon sec avec os 9 mois en provenance des salaisons limousines en raison d'un risque de contamination de listeria monocytogenes. rappel demandé par la ddetssp 87. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "rappel du lot 11070 de jambon sec avec os 9 mois en provenance des salaisons limousines en raison d'un risque de contamination de listeria monocytogenes. rappel demandé par la ddetssp 87. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22886/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82354",
-      "source": "CFIA",
-      "date": "2026-07-17",
-      "title": {
-        "en": "Various brands of  meat products recalled due to Listeria monocytogenes",
-        "fr": "Various brands of  meat products recalled due to Listeria monocytogenes",
-        "nl": "Various brands of  meat products recalled due to Listeria monocytogenes"
-      },
-      "description": {
-        "en": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "fr": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "nl": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-brands-meat-products-recalled-due-listeria-monocytogenes",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82368",
-      "source": "CFIA",
-      "date": "2026-07-20",
-      "title": {
-        "en": "Goodfood brand meatball meals recalled due to undeclared egg and sesame",
-        "fr": "Goodfood brand meatball meals recalled due to undeclared egg and sesame",
-        "nl": "Goodfood brand meatball meals recalled due to undeclared egg and sesame"
-      },
-      "description": {
-        "en": "Goodfood brand meatball meals recalled due to undeclared egg and sesame.",
-        "fr": "Goodfood brand meatball meals recalled due to undeclared egg and sesame.",
-        "nl": "Goodfood brand meatball meals recalled due to undeclared egg and sesame."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/goodfood-brand-meatball-meals-recalled-due-undeclared-egg-and-sesame",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "egg"
+        "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "chemical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "fsa-FSA-AA-27-2026",
@@ -1251,50 +1222,45 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-23-2026",
-      "source": "FSA",
-      "date": "2026-04-24",
+      "id": "cfia-82396",
+      "source": "CFIA",
+      "date": "2026-07-23",
       "title": {
-        "en": "HiPP Organic UK recalls 7+ months Vegetable Lasagne 190g jar because celeriac is not emphasised on the label",
-        "fr": "HiPP Organic UK recalls 7+ months Vegetable Lasagne 190g jar because celeriac is not emphasised on the label",
-        "nl": "HiPP Organic UK recalls 7+ months Vegetable Lasagne 190g jar because celeriac is not emphasised on the label"
+        "en": "Westside Sauce brand Peanut Thai recalled due to spoilage",
+        "fr": "Westside Sauce brand Peanut Thai recalled due to spoilage",
+        "nl": "Westside Sauce brand Peanut Thai recalled due to spoilage"
       },
       "description": {
-        "en": "Allergen: Celery\nThis product contains celeriac making it a possible health risk for anyone with an allergy to celery.",
-        "fr": "Allergen: Celery\nThis product contains celeriac making it a possible health risk for anyone with an allergy to celery.",
-        "nl": "Allergen: Celery\nThis product contains celeriac making it a possible health risk for anyone with an allergy to celery."
+        "en": "Westside Sauce brand Peanut Thai recalled due to spoilage.",
+        "fr": "Westside Sauce brand Peanut Thai recalled due to spoilage.",
+        "nl": "Westside Sauce brand Peanut Thai recalled due to spoilage."
       },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-23-2026",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/westside-sauce-brand-peanut-thai-recalled-due-spoilage",
       "countries": [
-        "GB"
+        "CA"
       ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-07-0178",
+      "id": "rappelconso-2026-07-0226",
       "source": "RappelConso",
-      "date": "2026-07-20",
+      "date": "2026-07-23",
       "title": {
-        "en": "filet de sardine",
-        "fr": "filet de sardine",
-        "nl": "filet de sardine"
+        "en": "darne de thonine vendu au rayon traditionnel uniquement",
+        "fr": "darne de thonine vendu au rayon traditionnel uniquement",
+        "nl": "darne de thonine vendu au rayon traditionnel uniquement"
       },
       "description": {
-        "en": "non conformite presence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "fr": "non conformite presence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "nl": "non conformite presence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+        "en": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22878/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22945/interne",
       "countries": [
         "FR"
       ],
