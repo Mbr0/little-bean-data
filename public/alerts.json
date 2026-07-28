@@ -1,6 +1,94 @@
 {
-  "generated": "2026-07-27T07:00:30.987Z",
+  "generated": "2026-07-28T06:47:26.897Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-07-0263",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "fourme de montbrison aop",
+        "fr": "fourme de montbrison aop",
+        "nl": "fourme de montbrison aop"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22983/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0273",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "poitrine de porc marinée, aile de poulet marinée, filet de poulet mariné, pilon de poulet mariné, émincé de poulet mariné, filet mignon mariné.",
+        "fr": "poitrine de porc marinée, aile de poulet marinée, filet de poulet mariné, pilon de poulet mariné, émincé de poulet mariné, filet mignon mariné.",
+        "nl": "poitrine de porc marinée, aile de poulet marinée, filet de poulet mariné, pilon de poulet mariné, émincé de poulet mariné, filet mignon mariné."
+      },
+      "description": {
+        "en": "l'analyse d'un échantillon de viande marinée au paprika a révélé la présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "l'analyse d'un échantillon de viande marinée au paprika a révélé la présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "l'analyse d'un échantillon de viande marinée au paprika a révélé la présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22993/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "cfia-82407",
+      "source": "CFIA",
+      "date": "2026-07-27",
+      "title": {
+        "en": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli",
+        "fr": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli",
+        "nl": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli"
+      },
+      "description": {
+        "en": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli.",
+        "fr": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli.",
+        "nl": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/fromagerie-p-jacquin-fils-brand-valencay-aop-fromage-chevre-au-lait-cru-recalled-due",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
     {
       "id": "rappelconso-2026-07-0270",
       "source": "RappelConso",
@@ -989,35 +1077,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0213",
-      "source": "RappelConso",
-      "date": "2026-07-23",
-      "title": {
-        "en": "auchan langue de porc en gelee tranchee 180g",
-        "fr": "auchan langue de porc en gelee tranchee 180g",
-        "nl": "auchan langue de porc en gelee tranchee 180g"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22932/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "fda-aHR0cDovL3d3dy5m",
       "source": "FDA",
       "date": "2026-07-23",
@@ -1038,35 +1097,6 @@
       "foodGroups": [
         "meat",
         "egg"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-07-0212",
-      "source": "RappelConso",
-      "date": "2026-07-22",
-      "title": {
-        "en": "merguez de volaille halal 50*100 gr - 5 kg",
-        "fr": "merguez de volaille halal 50*100 gr - 5 kg",
-        "nl": "merguez de volaille halal 50*100 gr - 5 kg"
-      },
-      "description": {
-        "en": "détection de salmonelle dans les produits - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonelle dans les produits - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonelle dans les produits - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22931/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -1277,31 +1307,6 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "cfia-82396",
-      "source": "CFIA",
-      "date": "2026-07-23",
-      "title": {
-        "en": "Westside Sauce brand Peanut Thai recalled due to spoilage",
-        "fr": "Westside Sauce brand Peanut Thai recalled due to spoilage",
-        "nl": "Westside Sauce brand Peanut Thai recalled due to spoilage"
-      },
-      "description": {
-        "en": "Westside Sauce brand Peanut Thai recalled due to spoilage.",
-        "fr": "Westside Sauce brand Peanut Thai recalled due to spoilage.",
-        "nl": "Westside Sauce brand Peanut Thai recalled due to spoilage."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/westside-sauce-brand-peanut-thai-recalled-due-spoilage",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
       "pregnancySummaryKey": "general"
     },
     {
