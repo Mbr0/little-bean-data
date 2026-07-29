@@ -1,6 +1,528 @@
 {
-  "generated": "2026-07-28T06:47:26.897Z",
+  "generated": "2026-07-29T06:49:05.111Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-07-0295",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "tonnelet",
+        "fr": "tonnelet",
+        "nl": "tonnelet"
+      },
+      "description": {
+        "en": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
+        "fr": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
+        "nl": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23015/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-07-0297",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "bouchons",
+        "fr": "bouchons",
+        "nl": "bouchons"
+      },
+      "description": {
+        "en": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
+        "fr": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
+        "nl": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23017/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-07-0282",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "brie kg 60%",
+        "fr": "brie kg 60%",
+        "nl": "brie kg 60%"
+      },
+      "description": {
+        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23002/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0260",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "travers de porc cuit- vendu au stand traditionnel / coupe",
+        "fr": "travers de porc cuit- vendu au stand traditionnel / coupe",
+        "nl": "travers de porc cuit- vendu au stand traditionnel / coupe"
+      },
+      "description": {
+        "en": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22979/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0298",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "tonnelet",
+        "fr": "tonnelet",
+        "nl": "tonnelet"
+      },
+      "description": {
+        "en": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
+        "fr": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
+        "nl": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23018/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-07-0299",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "mini barattes",
+        "fr": "mini barattes",
+        "nl": "mini barattes"
+      },
+      "description": {
+        "en": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
+        "fr": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
+        "nl": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23019/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-07-0259",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "travers de porc cuit bruni - vendu au stand traditionnel / coupe",
+        "fr": "travers de porc cuit bruni - vendu au stand traditionnel / coupe",
+        "nl": "travers de porc cuit bruni - vendu au stand traditionnel / coupe"
+      },
+      "description": {
+        "en": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22978/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0258",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "petit sale de porc cuit - vendu au stand traditionnel / coupe",
+        "fr": "petit sale de porc cuit - vendu au stand traditionnel / coupe",
+        "nl": "petit sale de porc cuit - vendu au stand traditionnel / coupe"
+      },
+      "description": {
+        "en": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22977/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0257",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "roti de boeuf cuit braisse - vendu au stand traditionnel / coupe",
+        "fr": "roti de boeuf cuit braisse - vendu au stand traditionnel / coupe",
+        "nl": "roti de boeuf cuit braisse - vendu au stand traditionnel / coupe"
+      },
+      "description": {
+        "en": "présence listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22976/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0286",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "rond blanc, rond cendré, rond fleuris, rond échalote, demi-buchette blanche, rond blanc sans sel",
+        "fr": "rond blanc, rond cendré, rond fleuris, rond échalote, demi-buchette blanche, rond blanc sans sel",
+        "nl": "rond blanc, rond cendré, rond fleuris, rond échalote, demi-buchette blanche, rond blanc sans sel"
+      },
+      "description": {
+        "en": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23006/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0285",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "museau vinaigrette 2kg environ¤",
+        "fr": "museau vinaigrette 2kg environ¤",
+        "nl": "museau vinaigrette 2kg environ¤"
+      },
+      "description": {
+        "en": "contamination microbiologique - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "contamination microbiologique - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "contamination microbiologique - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23005/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0284",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "salade ty-louët 2kg environ¤salade ty-louët 500g",
+        "fr": "salade ty-louët 2kg environ¤salade ty-louët 500g",
+        "nl": "salade ty-louët 2kg environ¤salade ty-louët 500g"
+      },
+      "description": {
+        "en": "contamination microbiologique - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "contamination microbiologique - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "contamination microbiologique - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23004/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0221",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "tramezzino kebab 150g",
+        "fr": "tramezzino kebab 150g",
+        "nl": "tramezzino kebab 150g"
+      },
+      "description": {
+        "en": "suspicion présence listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion présence listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion présence listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22940/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0279",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "cocktail de fruits rouges bio 400g",
+        "fr": "cocktail de fruits rouges bio 400g",
+        "nl": "cocktail de fruits rouges bio 400g"
+      },
+      "description": {
+        "en": "détection de norovirus - norovirus",
+        "fr": "détection de norovirus - norovirus",
+        "nl": "détection de norovirus - norovirus"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22999/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-07-0246",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "conditionnés en barquettes multiportions 1.5kg clipsées",
+        "fr": "conditionnés en barquettes multiportions 1.5kg clipsées",
+        "nl": "conditionnés en barquettes multiportions 1.5kg clipsées"
+      },
+      "description": {
+        "en": "notre fournisseur de museaux en saumure : prestige de la sarthe procède au retrait et rappel des produits de charcuterie suite à une suspicion de listeria monocytogenes pour les produits qu'il a commercialisé entre le 01/04/26 et 21/07/26. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "notre fournisseur de museaux en saumure : prestige de la sarthe procède au retrait et rappel des produits de charcuterie suite à une suspicion de listeria monocytogenes pour les produits qu'il a commercialisé entre le 01/04/26 et 21/07/26. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "notre fournisseur de museaux en saumure : prestige de la sarthe procède au retrait et rappel des produits de charcuterie suite à une suspicion de listeria monocytogenes pour les produits qu'il a commercialisé entre le 01/04/26 et 21/07/26. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22965/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0245",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "conditionnés en barquettes multiportions 1.5kg clipsées",
+        "fr": "conditionnés en barquettes multiportions 1.5kg clipsées",
+        "nl": "conditionnés en barquettes multiportions 1.5kg clipsées"
+      },
+      "description": {
+        "en": "notre fournisseur de museaux en saumure : prestige de la sarthe procède au retrait et rappel des produits de charcuterie suite à une suspicion de listeria monocytogenes pour les produits qu'il a commercialisé entre le 01/04/26 et 21/07/26. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "notre fournisseur de museaux en saumure : prestige de la sarthe procède au retrait et rappel des produits de charcuterie suite à une suspicion de listeria monocytogenes pour les produits qu'il a commercialisé entre le 01/04/26 et 21/07/26. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "notre fournisseur de museaux en saumure : prestige de la sarthe procède au retrait et rappel des produits de charcuterie suite à une suspicion de listeria monocytogenes pour les produits qu'il a commercialisé entre le 01/04/26 et 21/07/26. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22964/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0271",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "epaule de porc cuite",
+        "fr": "epaule de porc cuite",
+        "nl": "epaule de porc cuite"
+      },
+      "description": {
+        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22991/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0274",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "boudin noir aux pommes -sous vide congele¤jambonneaux cuits-sous vide congele¤jarrotin cuit -sous vide congele¤pieds de porc cuit - sous vide congele",
+        "fr": "boudin noir aux pommes -sous vide congele¤jambonneaux cuits-sous vide congele¤jarrotin cuit -sous vide congele¤pieds de porc cuit - sous vide congele",
+        "nl": "boudin noir aux pommes -sous vide congele¤jambonneaux cuits-sous vide congele¤jarrotin cuit -sous vide congele¤pieds de porc cuit - sous vide congele"
+      },
+      "description": {
+        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22994/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-07-0263",
       "source": "RappelConso",
@@ -148,963 +670,33 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0268",
+      "id": "rappelconso-2026-07-0306",
       "source": "RappelConso",
-      "date": "2026-07-24",
+      "date": "2026-07-29",
       "title": {
-        "en": "langue de porc en gelee- en pain sous vide et en tranches¤vendus au rayon à la coupe et frais emballé",
-        "fr": "langue de porc en gelee- en pain sous vide et en tranches¤vendus au rayon à la coupe et frais emballé",
-        "nl": "langue de porc en gelee- en pain sous vide et en tranches¤vendus au rayon à la coupe et frais emballé"
+        "en": "piment rouge congele , sachet de 150g",
+        "fr": "piment rouge congele , sachet de 150g",
+        "nl": "piment rouge congele , sachet de 150g"
       },
       "description": {
-        "en": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "détection de pesticides au dessus de la limite maximale de résidus au sens du règlement (eu) 396/2005. - produits phytosanitaires non autorisés|dépassement des limites autorisées de pesticides",
+        "fr": "détection de pesticides au dessus de la limite maximale de résidus au sens du règlement (eu) 396/2005. - produits phytosanitaires non autorisés|dépassement des limites autorisées de pesticides",
+        "nl": "détection de pesticides au dessus de la limite maximale de résidus au sens du règlement (eu) 396/2005. - produits phytosanitaires non autorisés|dépassement des limites autorisées de pesticides"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22988/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23026/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0266",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "conditionné en barquette",
-        "fr": "conditionné en barquette",
-        "nl": "conditionné en barquette"
-      },
-      "description": {
-        "en": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22986/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0233",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "rillettes du mans  - rillettes d'oie - rillettes du mans porc fermier- rillettes du mans crispy¤vendus au rayon à la coupe",
-        "fr": "rillettes du mans  - rillettes d'oie - rillettes du mans porc fermier- rillettes du mans crispy¤vendus au rayon à la coupe",
-        "nl": "rillettes du mans  - rillettes d'oie - rillettes du mans porc fermier- rillettes du mans crispy¤vendus au rayon à la coupe"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22952/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0234",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "poitrine de porc cuite : nature, fumé- sous vide ¤poitrine de porc cuite : nature, fumé- tranchées en barquette¤emince de poitrine cuite fumee grillee  - en barquette",
-        "fr": "poitrine de porc cuite : nature, fumé- sous vide ¤poitrine de porc cuite : nature, fumé- tranchées en barquette¤emince de poitrine cuite fumee grillee  - en barquette",
-        "nl": "poitrine de porc cuite : nature, fumé- sous vide ¤poitrine de porc cuite : nature, fumé- tranchées en barquette¤emince de poitrine cuite fumee grillee  - en barquette"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22953/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0264",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "saucisson a l'ail, nature et fumé, droit ou courbé, conditionnés sous vide ou tranchés en barquette¤saucisses de francfort, conditionnés sous vide",
-        "fr": "saucisson a l'ail, nature et fumé, droit ou courbé, conditionnés sous vide ou tranchés en barquette¤saucisses de francfort, conditionnés sous vide",
-        "nl": "saucisson a l'ail, nature et fumé, droit ou courbé, conditionnés sous vide ou tranchés en barquette¤saucisses de francfort, conditionnés sous vide"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22984/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0252",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "truite fumée biologique",
-        "fr": "truite fumée biologique",
-        "nl": "truite fumée biologique"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22971/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0253",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "truite fumée biologique",
-        "fr": "truite fumée biologique",
-        "nl": "truite fumée biologique"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22972/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0254",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "truite fumée biologique",
-        "fr": "truite fumée biologique",
-        "nl": "truite fumée biologique"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22973/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0255",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "truite fumée biologique",
-        "fr": "truite fumée biologique",
-        "nl": "truite fumée biologique"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes sur la matière première. il ne faut pas consommer le produit. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22974/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0207",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "crevettes cuites réfrigérées sauvages boite polystyrène 2 kg",
-        "fr": "crevettes cuites réfrigérées sauvages boite polystyrène 2 kg",
-        "nl": "crevettes cuites réfrigérées sauvages boite polystyrène 2 kg"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22926/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0261",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "pont-l'evêque aop 400g ou 220g",
-        "fr": "pont-l'evêque aop 400g ou 220g",
-        "nl": "pont-l'evêque aop 400g ou 220g"
-      },
-      "description": {
-        "en": "rappel imposé par arrêté préfectoral - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "rappel imposé par arrêté préfectoral - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "rappel imposé par arrêté préfectoral - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22980/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0262",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "camembert de normandie aop 250g",
-        "fr": "camembert de normandie aop 250g",
-        "nl": "camembert de normandie aop 250g"
-      },
-      "description": {
-        "en": "rappel imposé par arrêté préfectoral - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "rappel imposé par arrêté préfectoral - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "rappel imposé par arrêté préfectoral - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22981/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0184",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "jambon sec avec os 9 mois // dss3001021-00 // lot 11070",
-        "fr": "jambon sec avec os 9 mois // dss3001021-00 // lot 11070",
-        "nl": "jambon sec avec os 9 mois // dss3001021-00 // lot 11070"
-      },
-      "description": {
-        "en": "rappel du lot 11070 de jambon sec avec os 9 mois en provenance des salaisons limousines en raison d'un risque de contamination de listeria monocytogenes. rappel demandé par la ddetssp 87. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "rappel du lot 11070 de jambon sec avec os 9 mois en provenance des salaisons limousines en raison d'un risque de contamination de listeria monocytogenes. rappel demandé par la ddetssp 87. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "rappel du lot 11070 de jambon sec avec os 9 mois en provenance des salaisons limousines en raison d'un risque de contamination de listeria monocytogenes. rappel demandé par la ddetssp 87. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22982/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0241",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "crevette sauvage cuite 40/60 pêchée en océan indien",
-        "fr": "crevette sauvage cuite 40/60 pêchée en océan indien",
-        "nl": "crevette sauvage cuite 40/60 pêchée en océan indien"
-      },
-      "description": {
-        "en": "détection de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listéria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22960/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0210",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "brie marque maubert",
-        "fr": "brie marque maubert",
-        "nl": "brie marque maubert"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22929/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0244",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "crevettes cuites sauvages 40/60 emballées sous atmosphère modifiée et vendues au rayon poissonnerie libre-service¤",
-        "fr": "crevettes cuites sauvages 40/60 emballées sous atmosphère modifiée et vendues au rayon poissonnerie libre-service¤",
-        "nl": "crevettes cuites sauvages 40/60 emballées sous atmosphère modifiée et vendues au rayon poissonnerie libre-service¤"
-      },
-      "description": {
-        "en": "mise en évidence de la présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "mise en évidence de la présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "mise en évidence de la présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22963/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0247",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "000751.001 / 5163 museau de boeuf à la lyonnaise 1.5 kg",
-        "fr": "000751.001 / 5163 museau de boeuf à la lyonnaise 1.5 kg",
-        "nl": "000751.001 / 5163 museau de boeuf à la lyonnaise 1.5 kg"
-      },
-      "description": {
-        "en": "suspicion de contamination par listeria monocytogenes d’une matière première fournie par prestige de la sarthe et qui rentre dans la fabrication de notre salade de museau de boeuf à la lyonnaise. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de contamination par listeria monocytogenes d’une matière première fournie par prestige de la sarthe et qui rentre dans la fabrication de notre salade de museau de boeuf à la lyonnaise. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de contamination par listeria monocytogenes d’une matière première fournie par prestige de la sarthe et qui rentre dans la fabrication de notre salade de museau de boeuf à la lyonnaise. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22966/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0249",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "crevettes roses cuites vrac",
-        "fr": "crevettes roses cuites vrac",
-        "nl": "crevettes roses cuites vrac"
-      },
-      "description": {
-        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22968/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0235",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "vendus au rayon coupe et frais emballé",
-        "fr": "vendus au rayon coupe et frais emballé",
-        "nl": "vendus au rayon coupe et frais emballé"
-      },
-      "description": {
-        "en": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22954/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0232",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "pate de campagne a l'ancienne (recette: fines herbes, poivre vert, nature, poivrons, olives), pate de foie superieur, pate de campagne superieur pauvre en sel, pate de foie superieur pauvre en sel",
-        "fr": "pate de campagne a l'ancienne (recette: fines herbes, poivre vert, nature, poivrons, olives), pate de foie superieur, pate de campagne superieur pauvre en sel, pate de foie superieur pauvre en sel",
-        "nl": "pate de campagne a l'ancienne (recette: fines herbes, poivre vert, nature, poivrons, olives), pate de foie superieur, pate de campagne superieur pauvre en sel, pate de foie superieur pauvre en sel"
-      },
-      "description": {
-        "en": "suspicion listeria monocyogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion listeria monocyogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion listeria monocyogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22951/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
         "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "chemical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0236",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "salade de museau de porc, museau de boeuf, langue de porc, en vinaigrette",
-        "fr": "salade de museau de porc, museau de boeuf, langue de porc, en vinaigrette",
-        "nl": "salade de museau de porc, museau de boeuf, langue de porc, en vinaigrette"
-      },
-      "description": {
-        "en": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22955/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0230",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "jambon persille de bourgogne, tete roulee, rillons",
-        "fr": "jambon persille de bourgogne, tete roulee, rillons",
-        "nl": "jambon persille de bourgogne, tete roulee, rillons"
-      },
-      "description": {
-        "en": "¤suspicion de contamination bactériologique (listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "¤suspicion de contamination bactériologique (listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "¤suspicion de contamination bactériologique (listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22949/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0237",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "museau de boeuf et museau de porc en marinade",
-        "fr": "museau de boeuf et museau de porc en marinade",
-        "nl": "museau de boeuf et museau de porc en marinade"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22956/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0229",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "boudin blanc a l'ancienne (porto, morilles et forestier), vendus au rayon coupe et frais emballé",
-        "fr": "boudin blanc a l'ancienne (porto, morilles et forestier), vendus au rayon coupe et frais emballé",
-        "nl": "boudin blanc a l'ancienne (porto, morilles et forestier), vendus au rayon coupe et frais emballé"
-      },
-      "description": {
-        "en": "suspicion de contamination bactériologique (listeria) - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de contamination bactériologique (listeria) - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de contamination bactériologique (listeria) - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22948/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0238",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "pieds de porc sous vide et pieds de porc en vinaigrette",
-        "fr": "pieds de porc sous vide et pieds de porc en vinaigrette",
-        "nl": "pieds de porc sous vide et pieds de porc en vinaigrette"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22957/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0239",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "roti de boeuf cuit",
-        "fr": "roti de boeuf cuit",
-        "nl": "roti de boeuf cuit"
-      },
-      "description": {
-        "en": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22958/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0231",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "jambon cuit superieur- jambon cuit superieur fume- veritable jambon a l'os-jambon cuit superieur porc fermier-jambon cuit superieur porc fermier bruni- jambon festif-jambon 3 tranches-talons de jambon",
-        "fr": "jambon cuit superieur- jambon cuit superieur fume- veritable jambon a l'os-jambon cuit superieur porc fermier-jambon cuit superieur porc fermier bruni- jambon festif-jambon 3 tranches-talons de jambon",
-        "nl": "jambon cuit superieur- jambon cuit superieur fume- veritable jambon a l'os-jambon cuit superieur porc fermier-jambon cuit superieur porc fermier bruni- jambon festif-jambon 3 tranches-talons de jambon"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22950/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0223",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "saucisson a l'ail fume au bois de hetre - 10 tranches - 85g",
-        "fr": "saucisson a l'ail fume au bois de hetre - 10 tranches - 85g",
-        "nl": "saucisson a l'ail fume au bois de hetre - 10 tranches - 85g"
-      },
-      "description": {
-        "en": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22942/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0215",
-      "source": "RappelConso",
-      "date": "2026-07-24",
-      "title": {
-        "en": "a la marque auchan le charcutier :¤salade museau boeuf 250g, ¤salade de museau de porc 250g, ¤saucisson a l'ail fume a l'ancienne 10 tr, ¤langue en gelee 180g, ¤salade de langue de porc 250g",
-        "fr": "a la marque auchan le charcutier :¤salade museau boeuf 250g, ¤salade de museau de porc 250g, ¤saucisson a l'ail fume a l'ancienne 10 tr, ¤langue en gelee 180g, ¤salade de langue de porc 250g",
-        "nl": "a la marque auchan le charcutier :¤salade museau boeuf 250g, ¤salade de museau de porc 250g, ¤saucisson a l'ail fume a l'ancienne 10 tr, ¤langue en gelee 180g, ¤salade de langue de porc 250g"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22934/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0217",
-      "source": "RappelConso",
-      "date": "2026-07-23",
-      "title": {
-        "en": "saucisson ail nature et fume vendu a la coupe",
-        "fr": "saucisson ail nature et fume vendu a la coupe",
-        "nl": "saucisson ail nature et fume vendu a la coupe"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22936/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0222",
-      "source": "RappelConso",
-      "date": "2026-07-23",
-      "title": {
-        "en": "saucisse sèche courbe 250g",
-        "fr": "saucisse sèche courbe 250g",
-        "nl": "saucisse sèche courbe 250g"
-      },
-      "description": {
-        "en": "suspicion de salmonelle suite à auto contrôle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suspicion de salmonelle suite à auto contrôle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suspicion de salmonelle suite à auto contrôle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22941/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-07-0219",
-      "source": "RappelConso",
-      "date": "2026-07-23",
-      "title": {
-        "en": "crevettes cuites 25/35 vendues au rayon traditionnel",
-        "fr": "crevettes cuites 25/35 vendues au rayon traditionnel",
-        "nl": "crevettes cuites 25/35 vendues au rayon traditionnel"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22938/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-07-23",
-      "title": {
-        "en": "Midwest Poultry Services. L.P. Recalls Shell Eggs Due to Possible Salmonella Enteritidis Contamination",
-        "fr": "Midwest Poultry Services. L.P. Recalls Shell Eggs Due to Possible Salmonella Enteritidis Contamination",
-        "nl": "Midwest Poultry Services. L.P. Recalls Shell Eggs Due to Possible Salmonella Enteritidis Contamination"
-      },
-      "description": {
-        "en": "Midwest Poultry Services, L.P. is voluntarily recalling 1,589,577 dozen white shell eggs and brown cage free shell eggs produced in Texas because they have the potential to be contaminated with Salmonella Enteritidis. Salmonella is an organism which can cause serious and sometimes fatal infections i",
-        "fr": "Midwest Poultry Services, L.P. is voluntarily recalling 1,589,577 dozen white shell eggs and brown cage free shell eggs produced in Texas because they have the potential to be contaminated with Salmonella Enteritidis. Salmonella is an organism which can cause serious and sometimes fatal infections i",
-        "nl": "Midwest Poultry Services, L.P. is voluntarily recalling 1,589,577 dozen white shell eggs and brown cage free shell eggs produced in Texas because they have the potential to be contaminated with Salmonella Enteritidis. Salmonella is an organism which can cause serious and sometimes fatal infections i"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/midwest-poultry-services-lp-recalls-shell-eggs-due-possible-salmonella-enteritidis-contamination",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "meat",
-        "egg"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "cfia-82405",
@@ -1137,33 +729,35 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "rappelconso-2026-07-0218",
-      "source": "RappelConso",
-      "date": "2026-07-23",
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-07-24",
       "title": {
-        "en": "melon du haut poitou igp rdf - vrac",
-        "fr": "melon du haut poitou igp rdf - vrac",
-        "nl": "melon du haut poitou igp rdf - vrac"
+        "en": "LIDL US Recalls Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling due to Undeclared Wheat, Soy, Milk, and Eggs",
+        "fr": "LIDL US Recalls Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling due to Undeclared Wheat, Soy, Milk, and Eggs",
+        "nl": "LIDL US Recalls Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling due to Undeclared Wheat, Soy, Milk, and Eggs"
       },
       "description": {
-        "en": "teneur en cadmium supérieure à la limite autorisée par la réglementation européenne. - eléments traces métalliques (métaux lourds : plomb, mercure, cadmium...)",
-        "fr": "teneur en cadmium supérieure à la limite autorisée par la réglementation européenne. - eléments traces métalliques (métaux lourds : plomb, mercure, cadmium...)",
-        "nl": "teneur en cadmium supérieure à la limite autorisée par la réglementation européenne. - eléments traces métalliques (métaux lourds : plomb, mercure, cadmium...)"
+        "en": "ARLINGTON, VA – JULY 24, 2026 – Lidl US is recalling all units of Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling 11.6 oz (330 g) box UPC 4056489125839 with foreign language ingredients and nutrition facts panel due to undeclared wheat, soy, milk, and egg allergens. Peo",
+        "fr": "ARLINGTON, VA – JULY 24, 2026 – Lidl US is recalling all units of Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling 11.6 oz (330 g) box UPC 4056489125839 with foreign language ingredients and nutrition facts panel due to undeclared wheat, soy, milk, and egg allergens. Peo",
+        "nl": "ARLINGTON, VA – JULY 24, 2026 – Lidl US is recalling all units of Eridanous Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling 11.6 oz (330 g) box UPC 4056489125839 with foreign language ingredients and nutrition facts panel due to undeclared wheat, soy, milk, and egg allergens. Peo"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22937/interne",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-us-recalls-eridanous-shortbread-cookies-chocolate-truffle-coating-apricot-filling-due",
       "countries": [
-        "FR"
+        "US"
       ],
       "foodGroups": [
+        "dairy",
+        "egg",
         "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
-        "chemical"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "fsa-FSA-AA-27-2026",
@@ -1283,20 +877,155 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "rappelconso-2026-07-0243",
-      "source": "RappelConso",
-      "date": "2026-07-24",
+      "id": "cfia-82411",
+      "source": "CFIA",
+      "date": "2026-07-28",
       "title": {
-        "en": "steack haché fabriqué à partir de la matière première poitrine gros bout poitrine vbf lot 61/628204",
-        "fr": "steack haché fabriqué à partir de la matière première poitrine gros bout poitrine vbf lot 61/628204",
-        "nl": "steack haché fabriqué à partir de la matière première poitrine gros bout poitrine vbf lot 61/628204"
+        "en": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone",
+        "fr": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone",
+        "nl": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone"
       },
       "description": {
-        "en": "détection de parasite : sarcosporidiose sur une partie de carcasse restante dans l’atelier de découpe. pas de détection sur la poitrine livrée à la boucherie, utilisée pour la fabrication de steak haché. - autres contaminants biologiques",
-        "fr": "détection de parasite : sarcosporidiose sur une partie de carcasse restante dans l’atelier de découpe. pas de détection sur la poitrine livrée à la boucherie, utilisée pour la fabrication de steak haché. - autres contaminants biologiques",
-        "nl": "détection de parasite : sarcosporidiose sur une partie de carcasse restante dans l’atelier de découpe. pas de détection sur la poitrine livrée à la boucherie, utilisée pour la fabrication de steak haché. - autres contaminants biologiques"
+        "en": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone.",
+        "fr": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone.",
+        "nl": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22962/interne",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/our-finest-brand-shrimp-ring-mild-cocktail-sauce-recalled-due-3-amino-2-oxazolidinone",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0305",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "confiture extra cerise",
+        "fr": "confiture extra cerise",
+        "nl": "confiture extra cerise"
+      },
+      "description": {
+        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23025/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0304",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "figue confite",
+        "fr": "figue confite",
+        "nl": "figue confite"
+      },
+      "description": {
+        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23024/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0303",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "jus de tomate",
+        "fr": "jus de tomate",
+        "nl": "jus de tomate"
+      },
+      "description": {
+        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23023/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0301",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "coulis de tomate",
+        "fr": "coulis de tomate",
+        "nl": "coulis de tomate"
+      },
+      "description": {
+        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23021/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0240",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "pâté de cochon aneth lot 2201, ddm 06/26¤",
+        "fr": "pâté de cochon aneth lot 2201, ddm 06/26¤",
+        "nl": "pâté de cochon aneth lot 2201, ddm 06/26¤"
+      },
+      "description": {
+        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22959/interne",
       "countries": [
         "FR"
       ],
@@ -1310,33 +1039,141 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-07-0226",
+      "id": "rappelconso-2026-07-0272",
       "source": "RappelConso",
-      "date": "2026-07-23",
+      "date": "2026-07-28",
       "title": {
-        "en": "darne de thonine vendu au rayon traditionnel uniquement",
-        "fr": "darne de thonine vendu au rayon traditionnel uniquement",
-        "nl": "darne de thonine vendu au rayon traditionnel uniquement"
+        "en": "rillette maison",
+        "fr": "rillette maison",
+        "nl": "rillette maison"
       },
       "description": {
-        "en": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "fr": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "nl": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22945/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22992/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
-        "meat",
-        "fish",
-        "dairy"
+        "meat"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0275",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "pâté de sanglier",
+        "fr": "pâté de sanglier",
+        "nl": "pâté de sanglier"
+      },
+      "description": {
+        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22995/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0276",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "pâté d'agneau",
+        "fr": "pâté d'agneau",
+        "nl": "pâté d'agneau"
+      },
+      "description": {
+        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22996/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0277",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "pâté de cochon maison aux shiitakes",
+        "fr": "pâté de cochon maison aux shiitakes",
+        "nl": "pâté de cochon maison aux shiitakes"
+      },
+      "description": {
+        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement ¤ - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement ¤ - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement ¤ - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22997/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-07-0267",
+      "source": "RappelConso",
+      "date": "2026-07-28",
+      "title": {
+        "en": "brochettes de porc extra tendre 7x80g¤brochettes de boeuf extra tendre 7x80g",
+        "fr": "brochettes de porc extra tendre 7x80g¤brochettes de boeuf extra tendre 7x80g",
+        "nl": "brochettes de porc extra tendre 7x80g¤brochettes de boeuf extra tendre 7x80g"
+      },
+      "description": {
+        "en": "erreur d'étiquetage de la date limite de consommation (dlc) - anomalie d'étiquetage",
+        "fr": "erreur d'étiquetage de la date limite de consommation (dlc) - anomalie d'étiquetage",
+        "nl": "erreur d'étiquetage de la date limite de consommation (dlc) - anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22987/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "labeling"
     },
     {
       "id": "fsa-FSA-PRIN-23-2026",
