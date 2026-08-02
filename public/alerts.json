@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T06:45:50.008Z",
+  "generated": "2026-08-02T06:49:06.062Z",
   "alerts": [
     {
       "id": "rappelconso-2026-07-0190",
@@ -466,33 +466,35 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "cfia-82407",
+      "id": "cfia-82433",
       "source": "CFIA",
-      "date": "2026-07-27",
+      "date": "2026-08-01",
       "title": {
-        "en": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli",
-        "fr": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli",
-        "nl": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli"
+        "en": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond",
+        "fr": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond",
+        "nl": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond"
       },
       "description": {
-        "en": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli.",
-        "fr": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli.",
-        "nl": "Fromagerie P. Jacquin & Fils brand Valençay AOP \"fromage de chèvre au lait cru\" recalled due to generic E. coli."
+        "en": "The affected products are being recalled from the marketplace because they may contain almonds which are not declared on the label.",
+        "fr": "The affected products are being recalled from the marketplace because they may contain almonds which are not declared on the label.",
+        "nl": "The affected products are being recalled from the marketplace because they may contain almonds which are not declared on the label."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/fromagerie-p-jacquin-fils-brand-valencay-aop-fromage-chevre-au-lait-cru-recalled-due",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/hershey-s-brand-kisses-creamy-milk-chocolate-recalled-due-undeclared-almond",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "dairy"
+        "dairy",
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "fda-aHR0cDovL3d3dy5m",
