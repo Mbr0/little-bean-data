@@ -1,6 +1,182 @@
 {
-  "generated": "2026-08-03T07:00:06.953Z",
+  "generated": "2026-08-04T06:47:10.785Z",
   "alerts": [
+    {
+      "id": "cfia-82436",
+      "source": "CFIA",
+      "date": "2026-08-03",
+      "title": {
+        "en": "Coaticook brand White Cheddar cheeses recalled due to Listeria monocytogenes",
+        "fr": "Coaticook brand White Cheddar cheeses recalled due to Listeria monocytogenes",
+        "nl": "Coaticook brand White Cheddar cheeses recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
+        "fr": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
+        "nl": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/coaticook-brand-white-cheddar-cheeses-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0007",
+      "source": "RappelConso",
+      "date": "2026-08-03",
+      "title": {
+        "en": "brebis du bois",
+        "fr": "brebis du bois",
+        "nl": "brebis du bois"
+      },
+      "description": {
+        "en": "contamination à la salmonellle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "contamination à la salmonellle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "contamination à la salmonellle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23075/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0003",
+      "source": "RappelConso",
+      "date": "2026-08-03",
+      "title": {
+        "en": "saucisses de poulet cheddar",
+        "fr": "saucisses de poulet cheddar",
+        "nl": "saucisses de poulet cheddar"
+      },
+      "description": {
+        "en": "détection salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection salmonelle spp - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23071/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0002",
+      "source": "RappelConso",
+      "date": "2026-08-03",
+      "title": {
+        "en": "fromage frais nature et enrobé",
+        "fr": "fromage frais nature et enrobé",
+        "nl": "fromage frais nature et enrobé"
+      },
+      "description": {
+        "en": "susceptibles d'être contaminés en listeria monocytogenes¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "susceptibles d'être contaminés en listeria monocytogenes¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "susceptibles d'être contaminés en listeria monocytogenes¤ - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23070/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0345",
+      "source": "RappelConso",
+      "date": "2026-08-03",
+      "title": {
+        "en": "grands munsters fermiers au lait cru de 15 cm et petits munsters fermiers de 11cm de diamètre",
+        "fr": "grands munsters fermiers au lait cru de 15 cm et petits munsters fermiers de 11cm de diamètre",
+        "nl": "grands munsters fermiers au lait cru de 15 cm et petits munsters fermiers de 11cm de diamètre"
+      },
+      "description": {
+        "en": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23066/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-08-03",
+      "title": {
+        "en": "Boticelli Foods Recalls Bettergoods Pistachio Nut Butter Because of Possible Health Risk",
+        "fr": "Boticelli Foods Recalls Bettergoods Pistachio Nut Butter Because of Possible Health Risk",
+        "nl": "Boticelli Foods Recalls Bettergoods Pistachio Nut Butter Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Boticelli Foods of Melville NY, is recalling 1 lot of bettergoods Pistachio Nut Butter, NET WT 6.7oz (190g), UPC 194346207961, Lot LB028ACP04, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail",
+        "fr": "Boticelli Foods of Melville NY, is recalling 1 lot of bettergoods Pistachio Nut Butter, NET WT 6.7oz (190g), UPC 194346207961, Lot LB028ACP04, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail",
+        "nl": "Boticelli Foods of Melville NY, is recalling 1 lot of bettergoods Pistachio Nut Butter, NET WT 6.7oz (190g), UPC 194346207961, Lot LB028ACP04, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/boticelli-foods-recalls-bettergoods-pistachio-nut-butter-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "children",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-07-0190",
       "source": "RappelConso",
@@ -497,37 +673,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-07-31",
-      "title": {
-        "en": "Lidl US Expands Recall of Eridanous Shortbread Cookies Due to Undeclared Wheat, Soy, Milk, Egg and Tree Nut (Coconut) Allergens",
-        "fr": "Lidl US Expands Recall of Eridanous Shortbread Cookies Due to Undeclared Wheat, Soy, Milk, Egg and Tree Nut (Coconut) Allergens",
-        "nl": "Lidl US Expands Recall of Eridanous Shortbread Cookies Due to Undeclared Wheat, Soy, Milk, Egg and Tree Nut (Coconut) Allergens"
-      },
-      "description": {
-        "en": "ARLINGTON, VA – JULY 31, 2026 – Lidl US is expanding its July 24, 2026 recall of Eridanous Shortbread Cookies to include all units with a foreign language ingredients and nutrition facts panel for the following products:",
-        "fr": "ARLINGTON, VA – JULY 31, 2026 – Lidl US is expanding its July 24, 2026 recall of Eridanous Shortbread Cookies to include all units with a foreign language ingredients and nutrition facts panel for the following products:",
-        "nl": "ARLINGTON, VA – JULY 31, 2026 – Lidl US is expanding its July 24, 2026 recall of Eridanous Shortbread Cookies to include all units with a foreign language ingredients and nutrition facts panel for the following products:"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-us-expands-recall-eridanous-shortbread-cookies-due-undeclared-wheat-soy-milk-egg-and-tree-nut",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy",
-        "egg",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "rappelconso-2026-07-0306",
       "source": "RappelConso",
       "date": "2026-07-29",
@@ -899,33 +1044,6 @@
       "pregnancySummaryKey": "labeling"
     },
     {
-      "id": "cfia-82411",
-      "source": "CFIA",
-      "date": "2026-07-28",
-      "title": {
-        "en": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone",
-        "fr": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone",
-        "nl": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone"
-      },
-      "description": {
-        "en": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone.",
-        "fr": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone.",
-        "nl": "Our Finest brand Shrimp Ring with Mild Cocktail Sauce recalled due to 3-amino-2-oxazolidinone."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/our-finest-brand-shrimp-ring-mild-cocktail-sauce-recalled-due-3-amino-2-oxazolidinone",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "rappelconso-2026-07-0305",
       "source": "RappelConso",
       "date": "2026-07-28",
@@ -999,141 +1117,6 @@
       ],
       "foodGroups": [
         "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0301",
-      "source": "RappelConso",
-      "date": "2026-07-28",
-      "title": {
-        "en": "coulis de tomate",
-        "fr": "coulis de tomate",
-        "nl": "coulis de tomate"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23021/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0240",
-      "source": "RappelConso",
-      "date": "2026-07-28",
-      "title": {
-        "en": "pâté de cochon aneth lot 2201, ddm 06/26¤",
-        "fr": "pâté de cochon aneth lot 2201, ddm 06/26¤",
-        "nl": "pâté de cochon aneth lot 2201, ddm 06/26¤"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22959/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0272",
-      "source": "RappelConso",
-      "date": "2026-07-28",
-      "title": {
-        "en": "rillette maison",
-        "fr": "rillette maison",
-        "nl": "rillette maison"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22992/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0275",
-      "source": "RappelConso",
-      "date": "2026-07-28",
-      "title": {
-        "en": "pâté de sanglier",
-        "fr": "pâté de sanglier",
-        "nl": "pâté de sanglier"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22995/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0276",
-      "source": "RappelConso",
-      "date": "2026-07-28",
-      "title": {
-        "en": "pâté d'agneau",
-        "fr": "pâté d'agneau",
-        "nl": "pâté d'agneau"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/22996/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
