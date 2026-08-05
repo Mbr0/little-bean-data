@@ -1,6 +1,122 @@
 {
-  "generated": "2026-08-04T06:47:10.785Z",
+  "generated": "2026-08-05T06:48:09.047Z",
   "alerts": [
+    {
+      "id": "cfia-82439",
+      "source": "CFIA",
+      "date": "2026-08-04",
+      "title": {
+        "en": "Highline brand Organic Mini Bella Mushrooms Sliced recalled due to Listeria monocytogenes",
+        "fr": "Highline brand Organic Mini Bella Mushrooms Sliced recalled due to Listeria monocytogenes",
+        "nl": "Highline brand Organic Mini Bella Mushrooms Sliced recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
+        "fr": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
+        "nl": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/highline-brand-organic-mini-bella-mushrooms-sliced-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0020",
+      "source": "RappelConso",
+      "date": "2026-08-04",
+      "title": {
+        "en": "sachet de truite fumée bio 120g.¤sachet de truite fumée bio 130g.¤chutes de truite fumée bio 200g.¤sachet de truite fumée bio 500g.",
+        "fr": "sachet de truite fumée bio 120g.¤sachet de truite fumée bio 130g.¤chutes de truite fumée bio 200g.¤sachet de truite fumée bio 500g.",
+        "nl": "sachet de truite fumée bio 120g.¤sachet de truite fumée bio 130g.¤chutes de truite fumée bio 200g.¤sachet de truite fumée bio 500g."
+      },
+      "description": {
+        "en": "détection de listeria monocytogenes dans les produits. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria monocytogenes dans les produits. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria monocytogenes dans les produits. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23088/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0013",
+      "source": "RappelConso",
+      "date": "2026-08-04",
+      "title": {
+        "en": "roule au fromage x8 0.960 kg¤",
+        "fr": "roule au fromage x8 0.960 kg¤",
+        "nl": "roule au fromage x8 0.960 kg¤"
+      },
+      "description": {
+        "en": "détection de listeria monocytogenes dans le produit - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria monocytogenes dans le produit - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria monocytogenes dans le produit - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23081/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0010",
+      "source": "RappelConso",
+      "date": "2026-08-04",
+      "title": {
+        "en": "préparation de viande bovine  à consommer cuit à cœur",
+        "fr": "préparation de viande bovine  à consommer cuit à cœur",
+        "nl": "préparation de viande bovine  à consommer cuit à cœur"
+      },
+      "description": {
+        "en": "présence de salmonella spp dans 10g - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonella spp dans 10g - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonella spp dans 10g - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23078/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "cfia-82436",
       "source": "CFIA",
@@ -146,36 +262,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-08-03",
-      "title": {
-        "en": "Boticelli Foods Recalls Bettergoods Pistachio Nut Butter Because of Possible Health Risk",
-        "fr": "Boticelli Foods Recalls Bettergoods Pistachio Nut Butter Because of Possible Health Risk",
-        "nl": "Boticelli Foods Recalls Bettergoods Pistachio Nut Butter Because of Possible Health Risk"
-      },
-      "description": {
-        "en": "Boticelli Foods of Melville NY, is recalling 1 lot of bettergoods Pistachio Nut Butter, NET WT 6.7oz (190g), UPC 194346207961, Lot LB028ACP04, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail",
-        "fr": "Boticelli Foods of Melville NY, is recalling 1 lot of bettergoods Pistachio Nut Butter, NET WT 6.7oz (190g), UPC 194346207961, Lot LB028ACP04, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail",
-        "nl": "Boticelli Foods of Melville NY, is recalling 1 lot of bettergoods Pistachio Nut Butter, NET WT 6.7oz (190g), UPC 194346207961, Lot LB028ACP04, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/boticelli-foods-recalls-bettergoods-pistachio-nut-butter-because-possible-health-risk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "children",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-07-0190",
@@ -613,33 +699,34 @@
       "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "rappelconso-2026-07-0282",
-      "source": "RappelConso",
-      "date": "2026-07-28",
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-08-04",
       "title": {
-        "en": "brie kg 60%",
-        "fr": "brie kg 60%",
-        "nl": "brie kg 60%"
+        "en": "Blank Slate Creamery Issues Allergy Alert on Undeclared Egg in Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches",
+        "fr": "Blank Slate Creamery Issues Allergy Alert on Undeclared Egg in Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches",
+        "nl": "Blank Slate Creamery Issues Allergy Alert on Undeclared Egg in Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches"
       },
       "description": {
-        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "Blank Slate Creamery of Ann Arbor, MI is recalling its 4.5 oz. packaged VEGAN NON-DAIRY FROZEN DESSERT COCONUT FUDGE SANDWICHES, because it may contain undeclared egg. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consu",
+        "fr": "Blank Slate Creamery of Ann Arbor, MI is recalling its 4.5 oz. packaged VEGAN NON-DAIRY FROZEN DESSERT COCONUT FUDGE SANDWICHES, because it may contain undeclared egg. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consu",
+        "nl": "Blank Slate Creamery of Ann Arbor, MI is recalling its 4.5 oz. packaged VEGAN NON-DAIRY FROZEN DESSERT COCONUT FUDGE SANDWICHES, because it may contain undeclared egg. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consu"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23002/interne",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blank-slate-creamery-issues-allergy-alert-undeclared-egg-vegan-non-dairy-frozen-dessert-coconut",
       "countries": [
-        "FR"
+        "US"
       ],
       "foodGroups": [
-        "dairy"
+        "dairy",
+        "egg"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82433",
@@ -786,36 +873,6 @@
         "allergen"
       ],
       "dietRelevant": false,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fsa-FSA-AA-24-2026",
-      "source": "FSA",
-      "date": "2026-05-06",
-      "title": {
-        "en": "Daylesford Organic Ltd recalls Daylesford Organic Minestrone Soup with Cannellini Beans, Pasta Shells & Olive Oil because wheat (gluten) is not emphasised on the label",
-        "fr": "Daylesford Organic Ltd recalls Daylesford Organic Minestrone Soup with Cannellini Beans, Pasta Shells & Olive Oil because wheat (gluten) is not emphasised on the label",
-        "nl": "Daylesford Organic Ltd recalls Daylesford Organic Minestrone Soup with Cannellini Beans, Pasta Shells & Olive Oil because wheat (gluten) is not emphasised on the label"
-      },
-      "description": {
-        "en": "Allergens: Wheat (Gluten)\nThe product contains wheat (gluten), making it a health risk to those with an allergy or intolerance to wheat or gluten, or those with coeliac disease.",
-        "fr": "Allergens: Wheat (Gluten)\nThe product contains wheat (gluten), making it a health risk to those with an allergy or intolerance to wheat or gluten, or those with coeliac disease.",
-        "nl": "Allergens: Wheat (Gluten)\nThe product contains wheat (gluten), making it a health risk to those with an allergy or intolerance to wheat or gluten, or those with coeliac disease."
-      },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-24-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
     },
     {
@@ -1042,87 +1099,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "labeling"
-    },
-    {
-      "id": "rappelconso-2026-07-0305",
-      "source": "RappelConso",
-      "date": "2026-07-28",
-      "title": {
-        "en": "confiture extra cerise",
-        "fr": "confiture extra cerise",
-        "nl": "confiture extra cerise"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23025/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0304",
-      "source": "RappelConso",
-      "date": "2026-07-28",
-      "title": {
-        "en": "figue confite",
-        "fr": "figue confite",
-        "nl": "figue confite"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23024/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0303",
-      "source": "RappelConso",
-      "date": "2026-07-28",
-      "title": {
-        "en": "jus de tomate",
-        "fr": "jus de tomate",
-        "nl": "jus de tomate"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23023/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
     },
     {
       "id": "fsa-FSA-PRIN-23-2026",
