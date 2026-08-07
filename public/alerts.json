@@ -1,6 +1,151 @@
 {
-  "generated": "2026-08-06T06:49:47.694Z",
+  "generated": "2026-08-07T06:20:58.305Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0018",
+      "source": "RappelConso",
+      "date": "2026-08-06",
+      "title": {
+        "en": "pilons de poulets cru marinés",
+        "fr": "pilons de poulets cru marinés",
+        "nl": "pilons de poulets cru marinés"
+      },
+      "description": {
+        "en": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23086/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0035",
+      "source": "RappelConso",
+      "date": "2026-08-06",
+      "title": {
+        "en": "escalopes de dinde crues marinées vendues au rayon traditionnel",
+        "fr": "escalopes de dinde crues marinées vendues au rayon traditionnel",
+        "nl": "escalopes de dinde crues marinées vendues au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de salmonelle typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23104/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0027",
+      "source": "RappelConso",
+      "date": "2026-08-06",
+      "title": {
+        "en": "st nectaire fermier aop wälchli 140g pf",
+        "fr": "st nectaire fermier aop wälchli 140g pf",
+        "nl": "st nectaire fermier aop wälchli 140g pf"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes <10 ufc/g dans une portion de ce lot - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes <10 ufc/g dans une portion de ce lot - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes <10 ufc/g dans une portion de ce lot - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23096/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0034",
+      "source": "RappelConso",
+      "date": "2026-08-06",
+      "title": {
+        "en": "st nectaire fermier aop",
+        "fr": "st nectaire fermier aop",
+        "nl": "st nectaire fermier aop"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes <10 ufc/g dans une portion de ce lot - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes <10 ufc/g dans une portion de ce lot - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes <10 ufc/g dans une portion de ce lot - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23103/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0327",
+      "source": "RappelConso",
+      "date": "2026-08-06",
+      "title": {
+        "en": "crevettes cuites 20/30 vendues au rayon libre service",
+        "fr": "crevettes cuites 20/30 vendues au rayon libre service",
+        "nl": "crevettes cuites 20/30 vendues au rayon libre service"
+      },
+      "description": {
+        "en": "présence de  de salmonella sérotype s. typhimurium variant - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de  de salmonella sérotype s. typhimurium variant - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de  de salmonella sérotype s. typhimurium variant - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23047/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-08-0033",
       "source": "RappelConso",
@@ -263,35 +408,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "cfia-82439",
-      "source": "CFIA",
-      "date": "2026-08-04",
-      "title": {
-        "en": "Highline brand Organic Mini Bella Mushrooms Sliced recalled due to Listeria monocytogenes",
-        "fr": "Highline brand Organic Mini Bella Mushrooms Sliced recalled due to Listeria monocytogenes",
-        "nl": "Highline brand Organic Mini Bella Mushrooms Sliced recalled due to Listeria monocytogenes"
-      },
-      "description": {
-        "en": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "fr": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "nl": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/highline-brand-organic-mini-bella-mushrooms-sliced-recalled-due-listeria-monocytogenes",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "rappelconso-2026-08-0020",
       "source": "RappelConso",
       "date": "2026-08-04",
@@ -377,35 +493,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "cfia-82436",
-      "source": "CFIA",
-      "date": "2026-08-03",
-      "title": {
-        "en": "Coaticook brand White Cheddar cheeses recalled due to Listeria monocytogenes",
-        "fr": "Coaticook brand White Cheddar cheeses recalled due to Listeria monocytogenes",
-        "nl": "Coaticook brand White Cheddar cheeses recalled due to Listeria monocytogenes"
-      },
-      "description": {
-        "en": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "fr": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "nl": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/coaticook-brand-white-cheddar-cheeses-recalled-due-listeria-monocytogenes",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "rappelconso-2026-08-0007",
@@ -699,149 +786,35 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0323",
-      "source": "RappelConso",
-      "date": "2026-07-30",
+      "id": "cfia-82453",
+      "source": "CFIA",
+      "date": "2026-08-06",
       "title": {
-        "en": "beurre doux¤beurre demi sel",
-        "fr": "beurre doux¤beurre demi sel",
-        "nl": "beurre doux¤beurre demi sel"
+        "en": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
+        "fr": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
+        "nl": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg"
       },
       "description": {
-        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg.",
+        "fr": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg.",
+        "nl": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23043/interne",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/compliments-brand-smashed-100-chicken-burgers-recalled-due-undeclared-egg",
       "countries": [
-        "FR"
+        "CA"
       ],
       "foodGroups": [
-        "dairy"
+        "meat",
+        "egg",
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0315",
-      "source": "RappelConso",
-      "date": "2026-07-30",
-      "title": {
-        "en": "brochette de poulet marine au curry vendue au sein du rayon boucherie traditionnelle",
-        "fr": "brochette de poulet marine au curry vendue au sein du rayon boucherie traditionnelle",
-        "nl": "brochette de poulet marine au curry vendue au sein du rayon boucherie traditionnelle"
-      },
-      "description": {
-        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23035/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-07-0320",
-      "source": "RappelConso",
-      "date": "2026-07-30",
-      "title": {
-        "en": "steak haché",
-        "fr": "steak haché",
-        "nl": "steak haché"
-      },
-      "description": {
-        "en": "contamination à e. coli / stec - escherichia coli shiga toxinogène (stec)",
-        "fr": "contamination à e. coli / stec - escherichia coli shiga toxinogène (stec)",
-        "nl": "contamination à e. coli / stec - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23040/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-07-0319",
-      "source": "RappelConso",
-      "date": "2026-07-30",
-      "title": {
-        "en": "steak haché",
-        "fr": "steak haché",
-        "nl": "steak haché"
-      },
-      "description": {
-        "en": "contamination à e. coli / stec - escherichia coli shiga toxinogène (stec)",
-        "fr": "contamination à e. coli / stec - escherichia coli shiga toxinogène (stec)",
-        "nl": "contamination à e. coli / stec - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23039/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-07-0324",
-      "source": "RappelConso",
-      "date": "2026-07-29",
-      "title": {
-        "en": "crevettes cuites 30/50 vendues au rayon libre service",
-        "fr": "crevettes cuites 30/50 vendues au rayon libre service",
-        "nl": "crevettes cuites 30/50 vendues au rayon libre service"
-      },
-      "description": {
-        "en": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23044/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "fda-aHR0cDovL3d3dy5m",
@@ -869,37 +842,6 @@
       "audience": "general",
       "hazardTypes": [
         "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82433",
-      "source": "CFIA",
-      "date": "2026-08-01",
-      "title": {
-        "en": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond",
-        "fr": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond",
-        "nl": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond"
-      },
-      "description": {
-        "en": "The affected products are being recalled from the marketplace because they may contain almonds which are not declared on the label.",
-        "fr": "The affected products are being recalled from the marketplace because they may contain almonds which are not declared on the label.",
-        "nl": "The affected products are being recalled from the marketplace because they may contain almonds which are not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/hershey-s-brand-kisses-creamy-milk-chocolate-recalled-due-undeclared-almond",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1123,35 +1065,6 @@
       ],
       "foodGroups": [
         "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0326",
-      "source": "RappelConso",
-      "date": "2026-07-30",
-      "title": {
-        "en": "longe de thon et coeur de thon vendues en vente assistée au rayon traditionnel dans les magasins listés",
-        "fr": "longe de thon et coeur de thon vendues en vente assistée au rayon traditionnel dans les magasins listés",
-        "nl": "longe de thon et coeur de thon vendues en vente assistée au rayon traditionnel dans les magasins listés"
-      },
-      "description": {
-        "en": "suite à la présence de substances allergisantes: histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "fr": "suite à la présence de substances allergisantes: histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "nl": "suite à la présence de substances allergisantes: histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23046/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish",
-        "dairy"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
