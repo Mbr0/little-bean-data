@@ -1,6 +1,178 @@
 {
-  "generated": "2026-08-07T06:20:58.305Z",
+  "generated": "2026-08-08T06:11:23.320Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-07-0332",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "piémontaise jambon¤trio de choux",
+        "fr": "piémontaise jambon¤trio de choux",
+        "nl": "piémontaise jambon¤trio de choux"
+      },
+      "description": {
+        "en": "rappel préventif suite à une résultat d'analyse non conforme concernant un ingrédient utilisé dans la fabrication de ces produits. ¤l'ingrédient a été utilisé dans les préparations emballées entre le 15/07/2026 et le 22/07/2026 - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "rappel préventif suite à une résultat d'analyse non conforme concernant un ingrédient utilisé dans la fabrication de ces produits. ¤l'ingrédient a été utilisé dans les préparations emballées entre le 15/07/2026 et le 22/07/2026 - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "rappel préventif suite à une résultat d'analyse non conforme concernant un ingrédient utilisé dans la fabrication de ces produits. ¤l'ingrédient a été utilisé dans les préparations emballées entre le 15/07/2026 et le 22/07/2026 - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23052/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-07-0333",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "jambon cuit supérieur découenné dégraissé",
+        "fr": "jambon cuit supérieur découenné dégraissé",
+        "nl": "jambon cuit supérieur découenné dégraissé"
+      },
+      "description": {
+        "en": "analyse non conforme sur le critère listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "analyse non conforme sur le critère listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "analyse non conforme sur le critère listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23053/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0053",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "paupiette de dinde forestière",
+        "fr": "paupiette de dinde forestière",
+        "nl": "paupiette de dinde forestière"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23123/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0052",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "filet de dinde cru vendu au rayon traditionnel",
+        "fr": "filet de dinde cru vendu au rayon traditionnel",
+        "nl": "filet de dinde cru vendu au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de salmonelle typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23122/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0049",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "crevettes roses cuites vrac - 30/50 equateur - 60/80 madagascar",
+        "fr": "crevettes roses cuites vrac - 30/50 equateur - 60/80 madagascar",
+        "nl": "crevettes roses cuites vrac - 30/50 equateur - 60/80 madagascar"
+      },
+      "description": {
+        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23118/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-08-07",
+      "title": {
+        "en": "Lexunder Inc Recalls Food to Live Brand Green Powder Products Because of Possible Health Risk",
+        "fr": "Lexunder Inc Recalls Food to Live Brand Green Powder Products Because of Possible Health Risk",
+        "nl": "Lexunder Inc Recalls Food to Live Brand Green Powder Products Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Lexunder Inc., doing business as Food To Live of Brooklyn, NY, is recalling Food to Live brand green powder products because they have the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and",
+        "fr": "Lexunder Inc., doing business as Food To Live of Brooklyn, NY, is recalling Food to Live brand green powder products because they have the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and",
+        "nl": "Lexunder Inc., doing business as Food To Live of Brooklyn, NY, is recalling Food to Live brand green powder products because they have the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lexunder-inc-recalls-food-live-brand-green-powder-products-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "children",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-08-0018",
       "source": "RappelConso",
@@ -670,120 +842,93 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-07-0296",
-      "source": "RappelConso",
-      "date": "2026-07-31",
+      "id": "cfia-82462",
+      "source": "CFIA",
+      "date": "2026-08-07",
       "title": {
-        "en": "satonnay 140g",
-        "fr": "satonnay 140g",
-        "nl": "satonnay 140g"
+        "en": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared gluten",
+        "fr": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared gluten",
+        "nl": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared gluten"
       },
       "description": {
-        "en": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
-        "fr": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
-        "nl": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)"
+        "en": "The affected product is being recalled from the marketplace because it contains gluten which is not declared on the label.",
+        "fr": "The affected product is being recalled from the marketplace because it contains gluten which is not declared on the label.",
+        "nl": "The affected product is being recalled from the marketplace because it contains gluten which is not declared on the label."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23016/interne",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/momchipz-brand-veggie-chips-broccoli-florets-cauliflower-recalled-due-undeclared",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-08-0046",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "piment rouge vrac",
+        "fr": "piment rouge vrac",
+        "nl": "piment rouge vrac"
+      },
+      "description": {
+        "en": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23115/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "rappelconso-2026-08-0043",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "assiette 250 g spaghetti bolognaise pour bébé 15 mois - carrefour baby bio",
+        "fr": "assiette 250 g spaghetti bolognaise pour bébé 15 mois - carrefour baby bio",
+        "nl": "assiette 250 g spaghetti bolognaise pour bébé 15 mois - carrefour baby bio"
+      },
+      "description": {
+        "en": "erreur d'étiquetage du produit et allergène lait non déclaré - substances allergisantes non déclarées",
+        "fr": "erreur d'étiquetage du produit et allergène lait non déclaré - substances allergisantes non déclarées",
+        "nl": "erreur d'étiquetage du produit et allergène lait non déclaré - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23112/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
         "dairy"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "children",
       "hazardTypes": [
-        "microbial"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-07-0335",
-      "source": "RappelConso",
-      "date": "2026-07-31",
-      "title": {
-        "en": "rond blanc, rond cendré, rond fleuris, rond échalote, rond bruschetta, rond herbe de provence, rond poivre, bûche cendrée 200gr, bûche blanche 200gr",
-        "fr": "rond blanc, rond cendré, rond fleuris, rond échalote, rond bruschetta, rond herbe de provence, rond poivre, bûche cendrée 200gr, bûche blanche 200gr",
-        "nl": "rond blanc, rond cendré, rond fleuris, rond échalote, rond bruschetta, rond herbe de provence, rond poivre, bûche cendrée 200gr, bûche blanche 200gr"
-      },
-      "description": {
-        "en": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23055/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0340",
-      "source": "RappelConso",
-      "date": "2026-07-31",
-      "title": {
-        "en": "brie a l'ail",
-        "fr": "brie a l'ail",
-        "nl": "brie a l'ail"
-      },
-      "description": {
-        "en": "présence listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23060/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0341",
-      "source": "RappelConso",
-      "date": "2026-07-30",
-      "title": {
-        "en": "vol au vent au ris de veau",
-        "fr": "vol au vent au ris de veau",
-        "nl": "vol au vent au ris de veau"
-      },
-      "description": {
-        "en": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23061/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82453",
@@ -807,36 +952,6 @@
         "meat",
         "egg",
         "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-08-04",
-      "title": {
-        "en": "Blank Slate Creamery Issues Allergy Alert on Undeclared Egg in Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches",
-        "fr": "Blank Slate Creamery Issues Allergy Alert on Undeclared Egg in Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches",
-        "nl": "Blank Slate Creamery Issues Allergy Alert on Undeclared Egg in Vegan Non-Dairy Frozen Dessert Coconut Fudge Sandwiches"
-      },
-      "description": {
-        "en": "Blank Slate Creamery of Ann Arbor, MI is recalling its 4.5 oz. packaged VEGAN NON-DAIRY FROZEN DESSERT COCONUT FUDGE SANDWICHES, because it may contain undeclared egg. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consu",
-        "fr": "Blank Slate Creamery of Ann Arbor, MI is recalling its 4.5 oz. packaged VEGAN NON-DAIRY FROZEN DESSERT COCONUT FUDGE SANDWICHES, because it may contain undeclared egg. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consu",
-        "nl": "Blank Slate Creamery of Ann Arbor, MI is recalling its 4.5 oz. packaged VEGAN NON-DAIRY FROZEN DESSERT COCONUT FUDGE SANDWICHES, because it may contain undeclared egg. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consu"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blank-slate-creamery-issues-allergy-alert-undeclared-egg-vegan-non-dairy-frozen-dessert-coconut",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy",
-        "egg"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -934,6 +1049,89 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-08-0036",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "filet de sardine",
+        "fr": "filet de sardine",
+        "nl": "filet de sardine"
+      },
+      "description": {
+        "en": "présence d'histamines - autres contaminants biologiques",
+        "fr": "présence d'histamines - autres contaminants biologiques",
+        "nl": "présence d'histamines - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23105/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0037",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "hache de boeuf 15% mg 300g sa¤steak hache bf 15% mg 120g x8 ¤steak hache bf 15% mg 120g x2 ¤steak hache bf 15% mg 100g x8 ¤steak hache bf 15%mg 180g x4 ¤steak hache bf 15%mg 180g x2 ¤steak hache bf 15% mg 100g x2¤",
+        "fr": "hache de boeuf 15% mg 300g sa¤steak hache bf 15% mg 120g x8 ¤steak hache bf 15% mg 120g x2 ¤steak hache bf 15% mg 100g x8 ¤steak hache bf 15%mg 180g x4 ¤steak hache bf 15%mg 180g x2 ¤steak hache bf 15% mg 100g x2¤",
+        "nl": "hache de boeuf 15% mg 300g sa¤steak hache bf 15% mg 120g x8 ¤steak hache bf 15% mg 120g x2 ¤steak hache bf 15% mg 100g x8 ¤steak hache bf 15%mg 180g x4 ¤steak hache bf 15%mg 180g x2 ¤steak hache bf 15% mg 100g x2¤"
+      },
+      "description": {
+        "en": "conditionnement sous atmosphere: mauvais gaz utilise - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "conditionnement sous atmosphere: mauvais gaz utilise - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "conditionnement sous atmosphere: mauvais gaz utilise - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23106/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0019",
+      "source": "RappelConso",
+      "date": "2026-08-07",
+      "title": {
+        "en": "filets de maquereaux vendus au rayon traditionnel",
+        "fr": "filets de maquereaux vendus au rayon traditionnel",
+        "nl": "filets de maquereaux vendus au rayon traditionnel"
+      },
+      "description": {
+        "en": "taux d'histamine supérieur à 200 mg/kg - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "taux d'histamine supérieur à 200 mg/kg - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "taux d'histamine supérieur à 200 mg/kg - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23087/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-08-0017",
       "source": "RappelConso",
       "date": "2026-08-05",
@@ -988,89 +1186,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "labeling"
-    },
-    {
-      "id": "rappelconso-2026-07-0337",
-      "source": "RappelConso",
-      "date": "2026-07-31",
-      "title": {
-        "en": "chips de pommes de terre artisanales romarin sel marin 120 g",
-        "fr": "chips de pommes de terre artisanales romarin sel marin 120 g",
-        "nl": "chips de pommes de terre artisanales romarin sel marin 120 g"
-      },
-      "description": {
-        "en": "il n'est malheureusement pas possible d'exclure la présence d'un corps étranger (éclat de verre brun) dans certains emballages. le produit n'est donc pas propre à la consommation - inertes (verre, métal, plastique, papier, textile…)",
-        "fr": "il n'est malheureusement pas possible d'exclure la présence d'un corps étranger (éclat de verre brun) dans certains emballages. le produit n'est donc pas propre à la consommation - inertes (verre, métal, plastique, papier, textile…)",
-        "nl": "il n'est malheureusement pas possible d'exclure la présence d'un corps étranger (éclat de verre brun) dans certains emballages. le produit n'est donc pas propre à la consommation - inertes (verre, métal, plastique, papier, textile…)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23057/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0343",
-      "source": "RappelConso",
-      "date": "2026-07-31",
-      "title": {
-        "en": "durango",
-        "fr": "durango",
-        "nl": "durango"
-      },
-      "description": {
-        "en": "erreur d'etiquetage: etiquette en allemand - anomalie d'étiquetage",
-        "fr": "erreur d'etiquetage: etiquette en allemand - anomalie d'étiquetage",
-        "nl": "erreur d'etiquetage: etiquette en allemand - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23063/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
-    },
-    {
-      "id": "rappelconso-2026-07-0293",
-      "source": "RappelConso",
-      "date": "2026-07-31",
-      "title": {
-        "en": "rayon traditionnel",
-        "fr": "rayon traditionnel",
-        "nl": "rayon traditionnel"
-      },
-      "description": {
-        "en": "quantité d'abvt (azote basique volatile total - indicateur d'altération des filets de certaines espèces) supérieur à 35mg d'azote pour 100 gr de chaire de poisson. - autres contaminants biologiques",
-        "fr": "quantité d'abvt (azote basique volatile total - indicateur d'altération des filets de certaines espèces) supérieur à 35mg d'azote pour 100 gr de chaire de poisson. - autres contaminants biologiques",
-        "nl": "quantité d'abvt (azote basique volatile total - indicateur d'altération des filets de certaines espèces) supérieur à 35mg d'azote pour 100 gr de chaire de poisson. - autres contaminants biologiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23013/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
     },
     {
       "id": "fsa-FSA-PRIN-23-2026",
