@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T06:11:23.320Z",
+  "generated": "2026-08-09T06:12:09.948Z",
   "alerts": [
     {
       "id": "rappelconso-2026-07-0332",
@@ -840,6 +840,36 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "cfia-82463",
+      "source": "CFIA",
+      "date": "2026-08-08",
+      "title": {
+        "en": "PC Organics brand and Frankie's Organic brand Plant-based cheddar corn puffs and crunchies recalled due to undeclared milk",
+        "fr": "PC Organics brand and Frankie's Organic brand Plant-based cheddar corn puffs and crunchies recalled due to undeclared milk",
+        "nl": "PC Organics brand and Frankie's Organic brand Plant-based cheddar corn puffs and crunchies recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
+        "fr": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
+        "nl": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/pc-organics-brand-and-frankie-s-organic-brand-plant-based-cheddar-corn-puffs-and",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82462",
