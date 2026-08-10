@@ -1,6 +1,35 @@
 {
-  "generated": "2026-08-09T06:12:09.948Z",
+  "generated": "2026-08-10T06:23:26.960Z",
   "alerts": [
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-08-09",
+      "title": {
+        "en": "Taylor Fresh Foods Recalls Products Made With Jalapeno Peppers Because of Possible Health Risk",
+        "fr": "Taylor Fresh Foods Recalls Products Made With Jalapeno Peppers Because of Possible Health Risk",
+        "nl": "Taylor Fresh Foods Recalls Products Made With Jalapeno Peppers Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Salinas, Calif., August 9, 2026 – Upon notification that Coast Citrus Distributors is voluntarily recalling fresh jalapeños due to potential Salmonella contamination, Taylor Fresh Foods is recalling finished products containing jalapeños subject to this recall.Salmonella, an organism which can cause",
+        "fr": "Salinas, Calif., August 9, 2026 – Upon notification that Coast Citrus Distributors is voluntarily recalling fresh jalapeños due to potential Salmonella contamination, Taylor Fresh Foods is recalling finished products containing jalapeños subject to this recall.Salmonella, an organism which can cause",
+        "nl": "Salinas, Calif., August 9, 2026 – Upon notification that Coast Citrus Distributors is voluntarily recalling fresh jalapeños due to potential Salmonella contamination, Taylor Fresh Foods is recalling finished products containing jalapeños subject to this recall.Salmonella, an organism which can cause"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/taylor-fresh-foods-recalls-products-made-jalapeno-peppers-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-07-0332",
       "source": "RappelConso",
@@ -145,33 +174,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-08-07",
-      "title": {
-        "en": "Lexunder Inc Recalls Food to Live Brand Green Powder Products Because of Possible Health Risk",
-        "fr": "Lexunder Inc Recalls Food to Live Brand Green Powder Products Because of Possible Health Risk",
-        "nl": "Lexunder Inc Recalls Food to Live Brand Green Powder Products Because of Possible Health Risk"
-      },
-      "description": {
-        "en": "Lexunder Inc., doing business as Food To Live of Brooklyn, NY, is recalling Food to Live brand green powder products because they have the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and",
-        "fr": "Lexunder Inc., doing business as Food To Live of Brooklyn, NY, is recalling Food to Live brand green powder products because they have the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and",
-        "nl": "Lexunder Inc., doing business as Food To Live of Brooklyn, NY, is recalling Food to Live brand green powder products because they have the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lexunder-inc-recalls-food-live-brand-green-powder-products-because-possible-health-risk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "children",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-08-0018",
