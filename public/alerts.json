@@ -1,14 +1,128 @@
 {
-  "generated": "2026-08-10T06:23:26.960Z",
+  "generated": "2026-08-11T06:14:58.487Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0060",
+      "source": "RappelConso",
+      "date": "2026-08-10",
+      "title": {
+        "en": "fromage frais égoutté, fromage frais cendré, fromages fermiers",
+        "fr": "fromage frais égoutté, fromage frais cendré, fromages fermiers",
+        "nl": "fromage frais égoutté, fromage frais cendré, fromages fermiers"
+      },
+      "description": {
+        "en": "potentielle présence de la bactérie escherichia coli (stec) - autre risque",
+        "fr": "potentielle présence de la bactérie escherichia coli (stec) - autre risque",
+        "nl": "potentielle présence de la bactérie escherichia coli (stec) - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23130/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0058",
+      "source": "RappelConso",
+      "date": "2026-08-10",
+      "title": {
+        "en": "pied de porc cuit x1",
+        "fr": "pied de porc cuit x1",
+        "nl": "pied de porc cuit x1"
+      },
+      "description": {
+        "en": "détection listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23128/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0054",
+      "source": "RappelConso",
+      "date": "2026-08-10",
+      "title": {
+        "en": "viande hachée",
+        "fr": "viande hachée",
+        "nl": "viande hachée"
+      },
+      "description": {
+        "en": "détection de listéria monocytogènese <10 ufc/g - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listéria monocytogènese <10 ufc/g - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listéria monocytogènese <10 ufc/g - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23124/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0042",
+      "source": "RappelConso",
+      "date": "2026-08-10",
+      "title": {
+        "en": "merguez véritables",
+        "fr": "merguez véritables",
+        "nl": "merguez véritables"
+      },
+      "description": {
+        "en": "un contrôle microbiologique a mis en évidence dans ce produit la présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "un contrôle microbiologique a mis en évidence dans ce produit la présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "un contrôle microbiologique a mis en évidence dans ce produit la présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23111/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "fda-aHR0cDovL3d3dy5m",
       "source": "FDA",
       "date": "2026-08-09",
       "title": {
-        "en": "Taylor Fresh Foods Recalls Products Made With Jalapeno Peppers Because of Possible Health Risk",
-        "fr": "Taylor Fresh Foods Recalls Products Made With Jalapeno Peppers Because of Possible Health Risk",
-        "nl": "Taylor Fresh Foods Recalls Products Made With Jalapeno Peppers Because of Possible Health Risk"
+        "en": "Taylor Fresh Foods Recalls Products Made with Jalapeno Peppers Because of Possible Health Risk",
+        "fr": "Taylor Fresh Foods Recalls Products Made with Jalapeno Peppers Because of Possible Health Risk",
+        "nl": "Taylor Fresh Foods Recalls Products Made with Jalapeno Peppers Because of Possible Health Risk"
       },
       "description": {
         "en": "Salinas, Calif., August 9, 2026 – Upon notification that Coast Citrus Distributors is voluntarily recalling fresh jalapeños due to potential Salmonella contamination, Taylor Fresh Foods is recalling finished products containing jalapeños subject to this recall.Salmonella, an organism which can cause",
@@ -728,122 +842,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-08-0002",
-      "source": "RappelConso",
-      "date": "2026-08-03",
-      "title": {
-        "en": "fromage frais nature et enrobé",
-        "fr": "fromage frais nature et enrobé",
-        "nl": "fromage frais nature et enrobé"
-      },
-      "description": {
-        "en": "susceptibles d'être contaminés en listeria monocytogenes¤ - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "susceptibles d'être contaminés en listeria monocytogenes¤ - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "susceptibles d'être contaminés en listeria monocytogenes¤ - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23070/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0345",
-      "source": "RappelConso",
-      "date": "2026-08-03",
-      "title": {
-        "en": "grands munsters fermiers au lait cru de 15 cm et petits munsters fermiers de 11cm de diamètre",
-        "fr": "grands munsters fermiers au lait cru de 15 cm et petits munsters fermiers de 11cm de diamètre",
-        "nl": "grands munsters fermiers au lait cru de 15 cm et petits munsters fermiers de 11cm de diamètre"
-      },
-      "description": {
-        "en": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23066/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-07-0190",
-      "source": "RappelConso",
-      "date": "2026-07-31",
-      "title": {
-        "en": "charcuterie seche",
-        "fr": "charcuterie seche",
-        "nl": "charcuterie seche"
-      },
-      "description": {
-        "en": "présence de salmonelle dans le produit. - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle dans le produit. - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle dans le produit. - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23067/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-07-0342",
-      "source": "RappelConso",
-      "date": "2026-07-31",
-      "title": {
-        "en": "lots 1/26, 1/28, 1/29, 2/2, 2/3, 2/4, 2/5, 2/8, 2/9, 2/10, 2/13, 2/15, 2/17, 2/23, 2/26",
-        "fr": "lots 1/26, 1/28, 1/29, 2/2, 2/3, 2/4, 2/5, 2/8, 2/9, 2/10, 2/13, 2/15, 2/17, 2/23, 2/26",
-        "nl": "lots 1/26, 1/28, 1/29, 2/2, 2/3, 2/4, 2/5, 2/8, 2/9, 2/10, 2/13, 2/15, 2/17, 2/23, 2/26"
-      },
-      "description": {
-        "en": "présence listéria monocytogénése - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence listéria monocytogénése - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence listéria monocytogénése - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23062/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "cfia-82463",
       "source": "CFIA",
       "date": "2026-08-08",
@@ -1081,6 +1079,35 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-08-0059",
+      "source": "RappelConso",
+      "date": "2026-08-10",
+      "title": {
+        "en": "filets de sardine",
+        "fr": "filets de sardine",
+        "nl": "filets de sardine"
+      },
+      "description": {
+        "en": "teneur en histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "teneur en histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "teneur en histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23129/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-08-0036",
       "source": "RappelConso",
       "date": "2026-08-07",
@@ -1189,35 +1216,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-07-0346",
-      "source": "RappelConso",
-      "date": "2026-07-31",
-      "title": {
-        "en": "boudin langue portion",
-        "fr": "boudin langue portion",
-        "nl": "boudin langue portion"
-      },
-      "description": {
-        "en": "faute de frappe entrainant un défaut d'étiquetage sur certains boudins langue portion. dlc au 31/12/2026 au lieu du 31/08/2026 du numéro de lot 201. - anomalie d'étiquetage",
-        "fr": "faute de frappe entrainant un défaut d'étiquetage sur certains boudins langue portion. dlc au 31/12/2026 au lieu du 31/08/2026 du numéro de lot 201. - anomalie d'étiquetage",
-        "nl": "faute de frappe entrainant un défaut d'étiquetage sur certains boudins langue portion. dlc au 31/12/2026 au lieu du 31/08/2026 du numéro de lot 201. - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23068/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
     },
     {
       "id": "fsa-FSA-PRIN-23-2026",
