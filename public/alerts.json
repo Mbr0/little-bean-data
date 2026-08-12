@@ -1,6 +1,93 @@
 {
-  "generated": "2026-08-11T06:14:58.487Z",
+  "generated": "2026-08-12T06:24:56.751Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0068",
+      "source": "RappelConso",
+      "date": "2026-08-12",
+      "title": {
+        "en": "brie kg 50%",
+        "fr": "brie kg 50%",
+        "nl": "brie kg 50%"
+      },
+      "description": {
+        "en": "rappel préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "rappel préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "rappel préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23138/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0063",
+      "source": "RappelConso",
+      "date": "2026-08-11",
+      "title": {
+        "en": "crevettes entières cuites réfrigérées élevage 40/60  signature du poissonnier  300g¤crevettes entières cuites réfrigérées 40/60 sauvages fao 51.6   signature du poissonnier  320g",
+        "fr": "crevettes entières cuites réfrigérées élevage 40/60  signature du poissonnier  300g¤crevettes entières cuites réfrigérées 40/60 sauvages fao 51.6   signature du poissonnier  320g",
+        "nl": "crevettes entières cuites réfrigérées élevage 40/60  signature du poissonnier  300g¤crevettes entières cuites réfrigérées 40/60 sauvages fao 51.6   signature du poissonnier  320g"
+      },
+      "description": {
+        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23133/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0062",
+      "source": "RappelConso",
+      "date": "2026-08-11",
+      "title": {
+        "en": "crevettes roses cuites vrac - 25/35 equateur - 10/20, 30/40 et 60/80 madagascar",
+        "fr": "crevettes roses cuites vrac - 25/35 equateur - 10/20, 30/40 et 60/80 madagascar",
+        "nl": "crevettes roses cuites vrac - 25/35 equateur - 10/20, 30/40 et 60/80 madagascar"
+      },
+      "description": {
+        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23132/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-08-0060",
       "source": "RappelConso",
@@ -725,123 +812,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0013",
-      "source": "RappelConso",
-      "date": "2026-08-04",
-      "title": {
-        "en": "roule au fromage x8 0.960 kg¤",
-        "fr": "roule au fromage x8 0.960 kg¤",
-        "nl": "roule au fromage x8 0.960 kg¤"
-      },
-      "description": {
-        "en": "détection de listeria monocytogenes dans le produit - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listeria monocytogenes dans le produit - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listeria monocytogenes dans le produit - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23081/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0010",
-      "source": "RappelConso",
-      "date": "2026-08-04",
-      "title": {
-        "en": "préparation de viande bovine  à consommer cuit à cœur",
-        "fr": "préparation de viande bovine  à consommer cuit à cœur",
-        "nl": "préparation de viande bovine  à consommer cuit à cœur"
-      },
-      "description": {
-        "en": "présence de salmonella spp dans 10g - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonella spp dans 10g - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonella spp dans 10g - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23078/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-08-0007",
-      "source": "RappelConso",
-      "date": "2026-08-03",
-      "title": {
-        "en": "brebis du bois",
-        "fr": "brebis du bois",
-        "nl": "brebis du bois"
-      },
-      "description": {
-        "en": "contamination à la salmonellle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "contamination à la salmonellle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "contamination à la salmonellle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23075/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-08-0003",
-      "source": "RappelConso",
-      "date": "2026-08-03",
-      "title": {
-        "en": "saucisses de poulet cheddar",
-        "fr": "saucisses de poulet cheddar",
-        "nl": "saucisses de poulet cheddar"
-      },
-      "description": {
-        "en": "détection salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection salmonelle spp - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23071/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "cfia-82463",
       "source": "CFIA",
       "date": "2026-08-08",
@@ -1077,6 +1047,60 @@
       ],
       "dietRelevant": false,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-08-0065",
+      "source": "RappelConso",
+      "date": "2026-08-11",
+      "title": {
+        "en": "glaces",
+        "fr": "glaces",
+        "nl": "glaces"
+      },
+      "description": {
+        "en": "rupture de la chaîne du froid - autre risque",
+        "fr": "rupture de la chaîne du froid - autre risque",
+        "nl": "rupture de la chaîne du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23135/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0061",
+      "source": "RappelConso",
+      "date": "2026-08-11",
+      "title": {
+        "en": "dipster saveur crème oignon tube 170 g - carrefour sensation",
+        "fr": "dipster saveur crème oignon tube 170 g - carrefour sensation",
+        "nl": "dipster saveur crème oignon tube 170 g - carrefour sensation"
+      },
+      "description": {
+        "en": "mise en évidence d’un rancissement précoce en raison d’une oxydation de l’huile de friture. - modifications organoleptiques",
+        "fr": "mise en évidence d’un rancissement précoce en raison d’une oxydation de l’huile de friture. - modifications organoleptiques",
+        "nl": "mise en évidence d’un rancissement précoce en raison d’une oxydation de l’huile de friture. - modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23131/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-08-0059",
