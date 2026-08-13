@@ -1,6 +1,123 @@
 {
-  "generated": "2026-08-12T06:24:56.751Z",
+  "generated": "2026-08-13T06:26:06.123Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0076",
+      "source": "RappelConso",
+      "date": "2026-08-12",
+      "title": {
+        "en": "lot de filets de poulet qualiko lot 09720 b2, production du 30/05/2026, best before 29/05/2028",
+        "fr": "lot de filets de poulet qualiko lot 09720 b2, production du 30/05/2026, best before 29/05/2028",
+        "nl": "lot de filets de poulet qualiko lot 09720 b2, production du 30/05/2026, best before 29/05/2028"
+      },
+      "description": {
+        "en": "blanc poulet congele teste positif a la salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "blanc poulet congele teste positif a la salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "blanc poulet congele teste positif a la salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23147/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0067",
+      "source": "RappelConso",
+      "date": "2026-08-12",
+      "title": {
+        "en": "crevettes entières cuites réfrigérées élevées à madagscar - calibre 10/20 sx¤crevettes mada¤crevettes elevages",
+        "fr": "crevettes entières cuites réfrigérées élevées à madagscar - calibre 10/20 sx¤crevettes mada¤crevettes elevages",
+        "nl": "crevettes entières cuites réfrigérées élevées à madagscar - calibre 10/20 sx¤crevettes mada¤crevettes elevages"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes détectée lors d'une analyse microbilogique. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes détectée lors d'une analyse microbilogique. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes détectée lors d'une analyse microbilogique. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23137/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0066",
+      "source": "RappelConso",
+      "date": "2026-08-12",
+      "title": {
+        "en": "manicamp",
+        "fr": "manicamp",
+        "nl": "manicamp"
+      },
+      "description": {
+        "en": "présence potentielle de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence potentielle de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence potentielle de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23136/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0064",
+      "source": "RappelConso",
+      "date": "2026-08-12",
+      "title": {
+        "en": "filet de truite fume pretranche sans peau sans arete poids variable sous vide¤elevé en norvège",
+        "fr": "filet de truite fume pretranche sans peau sans arete poids variable sous vide¤elevé en norvège",
+        "nl": "filet de truite fume pretranche sans peau sans arete poids variable sous vide¤elevé en norvège"
+      },
+      "description": {
+        "en": "des analyses ont mis en évidence la présence de listeria monocytogenes dans ce produit. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "des analyses ont mis en évidence la présence de listeria monocytogenes dans ce produit. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "des analyses ont mis en évidence la présence de listeria monocytogenes dans ce produit. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23134/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-08-0068",
       "source": "RappelConso",
@@ -29,6 +146,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-08-12",
+      "title": {
+        "en": "Oma's Pride Voluntarily Recalls One Lot of Woof Complete Canine Chicken Recipe (6 Lb Bag) Because of Possible Salmonella Health Risk",
+        "fr": "Oma's Pride Voluntarily Recalls One Lot of Woof Complete Canine Chicken Recipe (6 Lb Bag) Because of Possible Salmonella Health Risk",
+        "nl": "Oma's Pride Voluntarily Recalls One Lot of Woof Complete Canine Chicken Recipe (6 Lb Bag) Because of Possible Salmonella Health Risk"
+      },
+      "description": {
+        "en": "Oma's Pride of Avon, Connecticut, is voluntarily recalling one lot of Woof Complete Canine Chicken Recipe, 6 lb bag (Lot BB012729) because it is contaminated with Salmonella.",
+        "fr": "Oma's Pride of Avon, Connecticut, is voluntarily recalling one lot of Woof Complete Canine Chicken Recipe, 6 lb bag (Lot BB012729) because it is contaminated with Salmonella.",
+        "nl": "Oma's Pride of Avon, Connecticut, is voluntarily recalling one lot of Woof Complete Canine Chicken Recipe, 6 lb bag (Lot BB012729) because it is contaminated with Salmonella."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/omas-pride-voluntarily-recalls-one-lot-woof-complete-canine-chicken-recipe-6-lb-bag-because-possible",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-08-0063",
@@ -193,35 +339,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-08-09",
-      "title": {
-        "en": "Taylor Fresh Foods Recalls Products Made with Jalapeno Peppers Because of Possible Health Risk",
-        "fr": "Taylor Fresh Foods Recalls Products Made with Jalapeno Peppers Because of Possible Health Risk",
-        "nl": "Taylor Fresh Foods Recalls Products Made with Jalapeno Peppers Because of Possible Health Risk"
-      },
-      "description": {
-        "en": "Salinas, Calif., August 9, 2026 – Upon notification that Coast Citrus Distributors is voluntarily recalling fresh jalapeños due to potential Salmonella contamination, Taylor Fresh Foods is recalling finished products containing jalapeños subject to this recall.Salmonella, an organism which can cause",
-        "fr": "Salinas, Calif., August 9, 2026 – Upon notification that Coast Citrus Distributors is voluntarily recalling fresh jalapeños due to potential Salmonella contamination, Taylor Fresh Foods is recalling finished products containing jalapeños subject to this recall.Salmonella, an organism which can cause",
-        "nl": "Salinas, Calif., August 9, 2026 – Upon notification that Coast Citrus Distributors is voluntarily recalling fresh jalapeños due to potential Salmonella contamination, Taylor Fresh Foods is recalling finished products containing jalapeños subject to this recall.Salmonella, an organism which can cause"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/taylor-fresh-foods-recalls-products-made-jalapeno-peppers-because-possible-health-risk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -754,64 +871,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0023",
-      "source": "RappelConso",
-      "date": "2026-08-05",
-      "title": {
-        "en": "morbier aop à la coupe",
-        "fr": "morbier aop à la coupe",
-        "nl": "morbier aop à la coupe"
-      },
-      "description": {
-        "en": "détection de listeria innocua & listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listeria innocua & listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listeria innocua & listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23091/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0020",
-      "source": "RappelConso",
-      "date": "2026-08-04",
-      "title": {
-        "en": "sachet de truite fumée bio 120g.¤sachet de truite fumée bio 130g.¤chutes de truite fumée bio 200g.¤sachet de truite fumée bio 500g.",
-        "fr": "sachet de truite fumée bio 120g.¤sachet de truite fumée bio 130g.¤chutes de truite fumée bio 200g.¤sachet de truite fumée bio 500g.",
-        "nl": "sachet de truite fumée bio 120g.¤sachet de truite fumée bio 130g.¤chutes de truite fumée bio 200g.¤sachet de truite fumée bio 500g."
-      },
-      "description": {
-        "en": "détection de listeria monocytogenes dans les produits. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listeria monocytogenes dans les produits. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listeria monocytogenes dans les produits. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23088/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "cfia-82463",
       "source": "CFIA",
       "date": "2026-08-08",
@@ -926,37 +985,6 @@
       "hazardTypes": [
         "allergen",
         "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82453",
-      "source": "CFIA",
-      "date": "2026-08-06",
-      "title": {
-        "en": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
-        "fr": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
-        "nl": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg"
-      },
-      "description": {
-        "en": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg.",
-        "fr": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg.",
-        "nl": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/compliments-brand-smashed-100-chicken-burgers-recalled-due-undeclared-egg",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat",
-        "egg",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1207,33 +1235,6 @@
         "meat",
         "fish",
         "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0017",
-      "source": "RappelConso",
-      "date": "2026-08-05",
-      "title": {
-        "en": "auchan sh strie 6x100g¤prix bas sh strie 6x100g",
-        "fr": "auchan sh strie 6x100g¤prix bas sh strie 6x100g",
-        "nl": "auchan sh strie 6x100g¤prix bas sh strie 6x100g"
-      },
-      "description": {
-        "en": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement¤ - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement¤ - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement¤ - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23085/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
