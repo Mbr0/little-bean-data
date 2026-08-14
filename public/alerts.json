@@ -1,6 +1,94 @@
 {
-  "generated": "2026-08-13T06:26:06.123Z",
+  "generated": "2026-08-14T06:24:57.965Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0085",
+      "source": "RappelConso",
+      "date": "2026-08-13",
+      "title": {
+        "en": "hachis de veau 1kg",
+        "fr": "hachis de veau 1kg",
+        "nl": "hachis de veau 1kg"
+      },
+      "description": {
+        "en": "détection salmonelle sur 2 échantillons sur 5 suite à analyse - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection salmonelle sur 2 échantillons sur 5 suite à analyse - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection salmonelle sur 2 échantillons sur 5 suite à analyse - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23156/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0081",
+      "source": "RappelConso",
+      "date": "2026-08-13",
+      "title": {
+        "en": "merguez",
+        "fr": "merguez",
+        "nl": "merguez"
+      },
+      "description": {
+        "en": "risque listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "risque listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "risque listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23152/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0079",
+      "source": "RappelConso",
+      "date": "2026-08-13",
+      "title": {
+        "en": "club oeuf bacon 175g",
+        "fr": "club oeuf bacon 175g",
+        "nl": "club oeuf bacon 175g"
+      },
+      "description": {
+        "en": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23150/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-08-0076",
       "source": "RappelConso",
@@ -726,200 +814,55 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0028",
-      "source": "RappelConso",
-      "date": "2026-08-05",
-      "title": {
-        "en": "saucisson sec andré cazaux¤saucisson sec le montagnard",
-        "fr": "saucisson sec andré cazaux¤saucisson sec le montagnard",
-        "nl": "saucisson sec andré cazaux¤saucisson sec le montagnard"
-      },
-      "description": {
-        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23097/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-08-0029",
-      "source": "RappelConso",
-      "date": "2026-08-05",
-      "title": {
-        "en": "friton de porc",
-        "fr": "friton de porc",
-        "nl": "friton de porc"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23098/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0024",
-      "source": "RappelConso",
-      "date": "2026-08-05",
-      "title": {
-        "en": "petits pois carottes u bio 600g",
-        "fr": "petits pois carottes u bio 600g",
-        "nl": "petits pois carottes u bio 600g"
-      },
-      "description": {
-        "en": "non conformite microbiologique - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "non conformite microbiologique - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "non conformite microbiologique - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23092/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0022",
-      "source": "RappelConso",
-      "date": "2026-08-05",
-      "title": {
-        "en": "andouille de dinan",
-        "fr": "andouille de dinan",
-        "nl": "andouille de dinan"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23090/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0016",
-      "source": "RappelConso",
-      "date": "2026-08-05",
-      "title": {
-        "en": "grand munsters¤petit munsters",
-        "fr": "grand munsters¤petit munsters",
-        "nl": "grand munsters¤petit munsters"
-      },
-      "description": {
-        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23084/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82463",
+      "id": "cfia-82483",
       "source": "CFIA",
-      "date": "2026-08-08",
+      "date": "2026-08-13",
       "title": {
-        "en": "PC Organics brand and Frankie's Organic brand Plant-based cheddar corn puffs and crunchies recalled due to undeclared milk",
-        "fr": "PC Organics brand and Frankie's Organic brand Plant-based cheddar corn puffs and crunchies recalled due to undeclared milk",
-        "nl": "PC Organics brand and Frankie's Organic brand Plant-based cheddar corn puffs and crunchies recalled due to undeclared milk"
+        "en": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg",
+        "fr": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg",
+        "nl": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg"
       },
       "description": {
-        "en": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
-        "fr": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
-        "nl": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label."
+        "en": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg.",
+        "fr": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg.",
+        "nl": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/pc-organics-brand-and-frankie-s-organic-brand-plant-based-cheddar-corn-puffs-and",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/aqua-gems-brand-tempura-shrimp-recalled-due-undeclared-egg",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "dairy"
+        "fish",
+        "egg"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
-        "allergen",
-        "labeling"
+        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82462",
+      "id": "cfia-82481",
       "source": "CFIA",
-      "date": "2026-08-07",
+      "date": "2026-08-13",
       "title": {
-        "en": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared gluten",
-        "fr": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared gluten",
-        "nl": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared gluten"
+        "en": "Zhou Hei Ya brand Wide Vermicelli with Sesame Sauce recalled due to undeclared shrimp",
+        "fr": "Zhou Hei Ya brand Wide Vermicelli with Sesame Sauce recalled due to undeclared shrimp",
+        "nl": "Zhou Hei Ya brand Wide Vermicelli with Sesame Sauce recalled due to undeclared shrimp"
       },
       "description": {
-        "en": "The affected product is being recalled from the marketplace because it contains gluten which is not declared on the label.",
-        "fr": "The affected product is being recalled from the marketplace because it contains gluten which is not declared on the label.",
-        "nl": "The affected product is being recalled from the marketplace because it contains gluten which is not declared on the label."
+        "en": "The affected product is being recalled from the marketplace because it contains shrimp which is not declared on the label.",
+        "fr": "The affected product is being recalled from the marketplace because it contains shrimp which is not declared on the label.",
+        "nl": "The affected product is being recalled from the marketplace because it contains shrimp which is not declared on the label."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/momchipz-brand-veggie-chips-broccoli-florets-cauliflower-recalled-due-undeclared",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/zhou-hei-ya-brand-wide-vermicelli-sesame-sauce-recalled-due-undeclared-shrimp",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "plant"
+        "fish"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -1075,6 +1018,35 @@
       ],
       "dietRelevant": false,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-08-0080",
+      "source": "RappelConso",
+      "date": "2026-08-13",
+      "title": {
+        "en": "filet de maquereaux vendu au rayon traditionnel.",
+        "fr": "filet de maquereaux vendu au rayon traditionnel.",
+        "nl": "filet de maquereaux vendu au rayon traditionnel."
+      },
+      "description": {
+        "en": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23151/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-08-0065",
