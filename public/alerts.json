@@ -1,6 +1,65 @@
 {
-  "generated": "2026-08-17T06:06:31.616Z",
+  "generated": "2026-08-18T06:05:07.780Z",
   "alerts": [
+    {
+      "id": "cfia-82493",
+      "source": "CFIA",
+      "date": "2026-08-17",
+      "title": {
+        "en": "Various brands of cheese products recalled due to generic E. coli",
+        "fr": "Various brands of cheese products recalled due to generic E. coli",
+        "nl": "Various brands of cheese products recalled due to generic E. coli"
+      },
+      "description": {
+        "en": "Various brands of cheese products recalled due to generic E. coli.",
+        "fr": "Various brands of cheese products recalled due to generic E. coli.",
+        "nl": "Various brands of cheese products recalled due to generic E. coli."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-brands-cheese-products-recalled-due-generic-e-coli",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-08-0106",
+      "source": "RappelConso",
+      "date": "2026-08-17",
+      "title": {
+        "en": "saucisse au fromage comtesse de vichy",
+        "fr": "saucisse au fromage comtesse de vichy",
+        "nl": "saucisse au fromage comtesse de vichy"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23177/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-08-0143",
       "source": "RappelConso",
@@ -855,208 +914,62 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0109",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "truite fumée pyrénée 4t¤truite aquitaine 4t 120g¤tranche de truite fumée 100g¤ovive bretagne 2t 60g¤ovive aquitaine 2t 60g",
-        "fr": "truite fumée pyrénée 4t¤truite aquitaine 4t 120g¤tranche de truite fumée 100g¤ovive bretagne 2t 60g¤ovive aquitaine 2t 60g",
-        "nl": "truite fumée pyrénée 4t¤truite aquitaine 4t 120g¤tranche de truite fumée 100g¤ovive bretagne 2t 60g¤ovive aquitaine 2t 60g"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23180/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82491",
-      "source": "CFIA",
-      "date": "2026-08-14",
-      "title": {
-        "en": "Clément le Gourmand brand meat products recalled due to Listeria monocytogenes",
-        "fr": "Clément le Gourmand brand meat products recalled due to Listeria monocytogenes",
-        "nl": "Clément le Gourmand brand meat products recalled due to Listeria monocytogenes"
-      },
-      "description": {
-        "en": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "fr": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "nl": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/clement-gourmand-brand-meat-products-recalled-due-listeria-monocytogenes",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82488",
-      "source": "CFIA",
-      "date": "2026-08-14",
-      "title": {
-        "en": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes",
-        "fr": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes",
-        "nl": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes"
-      },
-      "description": {
-        "en": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes.",
-        "fr": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes.",
-        "nl": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/coaticook-brand-mild-cheddar-curds-white-frozen-recalled-due-listeria-monocytogenes",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0105",
-      "source": "RappelConso",
-      "date": "2026-08-14",
-      "title": {
-        "en": "burger maxi bacon 195g",
-        "fr": "burger maxi bacon 195g",
-        "nl": "burger maxi bacon 195g"
-      },
-      "description": {
-        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23176/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0091",
-      "source": "RappelConso",
-      "date": "2026-08-14",
-      "title": {
-        "en": "crevettes cuites entières 60/80 asc 300g itm",
-        "fr": "crevettes cuites entières 60/80 asc 300g itm",
-        "nl": "crevettes cuites entières 60/80 asc 300g itm"
-      },
-      "description": {
-        "en": "présence de listéria monocytogenes à dlc - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogenes à dlc - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogenes à dlc - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23162/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0094",
-      "source": "RappelConso",
-      "date": "2026-08-14",
-      "title": {
-        "en": "pain d'epices figues spécial foie gras 300g¤pain d'epices gourmet figues & piment d'espelette 200g¤",
-        "fr": "pain d'epices figues spécial foie gras 300g¤pain d'epices gourmet figues & piment d'espelette 200g¤",
-        "nl": "pain d'epices figues spécial foie gras 300g¤pain d'epices gourmet figues & piment d'espelette 200g¤"
-      },
-      "description": {
-        "en": "teneur en ochratoxine a supérieure à la limite réglementaire applicable - autres contaminants chimiques",
-        "fr": "teneur en ochratoxine a supérieure à la limite réglementaire applicable - autres contaminants chimiques",
-        "nl": "teneur en ochratoxine a supérieure à la limite réglementaire applicable - autres contaminants chimiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23165/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
       "id": "fda-aHR0cDovL3d3dy5m",
       "source": "FDA",
-      "date": "2026-08-12",
+      "date": "2026-08-18",
       "title": {
-        "en": "Oma's Pride Voluntarily Recalls One Lot of Woof Complete Canine Chicken Recipe (6 Lb Bag) Because of Possible Salmonella Health Risk",
-        "fr": "Oma's Pride Voluntarily Recalls One Lot of Woof Complete Canine Chicken Recipe (6 Lb Bag) Because of Possible Salmonella Health Risk",
-        "nl": "Oma's Pride Voluntarily Recalls One Lot of Woof Complete Canine Chicken Recipe (6 Lb Bag) Because of Possible Salmonella Health Risk"
+        "en": "L-Nutra Issues Allergy Alert on Undeclared Tree Nuts in Prolon Brand Apulian Almond & Cocoa Spread",
+        "fr": "L-Nutra Issues Allergy Alert on Undeclared Tree Nuts in Prolon Brand Apulian Almond & Cocoa Spread",
+        "nl": "L-Nutra Issues Allergy Alert on Undeclared Tree Nuts in Prolon Brand Apulian Almond & Cocoa Spread"
       },
       "description": {
-        "en": "Oma's Pride of Avon, Connecticut, is voluntarily recalling one lot of Woof Complete Canine Chicken Recipe, 6 lb bag (Lot BB012729) because it is contaminated with Salmonella.",
-        "fr": "Oma's Pride of Avon, Connecticut, is voluntarily recalling one lot of Woof Complete Canine Chicken Recipe, 6 lb bag (Lot BB012729) because it is contaminated with Salmonella.",
-        "nl": "Oma's Pride of Avon, Connecticut, is voluntarily recalling one lot of Woof Complete Canine Chicken Recipe, 6 lb bag (Lot BB012729) because it is contaminated with Salmonella."
+        "en": "L-Nutra of Culver City, California is recalling Prolon brand Apulian Almond & Cocoa Spread because it contains undeclared cashew, pistachio, and hazelnut. People who have an allergy or severe sensitivity to cashew, pistachio, and/or hazelnut run the risk of serious or life-threatening allergic react",
+        "fr": "L-Nutra of Culver City, California is recalling Prolon brand Apulian Almond & Cocoa Spread because it contains undeclared cashew, pistachio, and hazelnut. People who have an allergy or severe sensitivity to cashew, pistachio, and/or hazelnut run the risk of serious or life-threatening allergic react",
+        "nl": "L-Nutra of Culver City, California is recalling Prolon brand Apulian Almond & Cocoa Spread because it contains undeclared cashew, pistachio, and hazelnut. People who have an allergy or severe sensitivity to cashew, pistachio, and/or hazelnut run the risk of serious or life-threatening allergic react"
       },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/omas-pride-voluntarily-recalls-one-lot-woof-complete-canine-chicken-recipe-6-lb-bag-because-possible",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/l-nutra-issues-allergy-alert-undeclared-tree-nuts-prolon-brand-apulian-almond-cocoa-spread",
       "countries": [
         "US"
       ],
       "foodGroups": [
-        "meat"
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82492",
+      "source": "CFIA",
+      "date": "2026-08-17",
+      "title": {
+        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard",
+        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard",
+        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard"
+      },
+      "description": {
+        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard.",
+        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard.",
+        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/olymel-brand-cooked-turkey-breast-roast-honey-dijon-recalled-due-undeclared-mustard",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82494",
@@ -1083,36 +996,6 @@
       "audience": "general",
       "hazardTypes": [
         "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-08-0102",
-      "source": "RappelConso",
-      "date": "2026-08-14",
-      "title": {
-        "en": "olives dénoyautées a la provencale carrefour le marché - barquette 160g",
-        "fr": "olives dénoyautées a la provencale carrefour le marché - barquette 160g",
-        "nl": "olives dénoyautées a la provencale carrefour le marché - barquette 160g"
-      },
-      "description": {
-        "en": "erreur d’étiquetage : la contre étiquette (l’étiquette située sous le produit comportant le code ean : 3560071370534) ne correspond pas au produit réel et ne mentionne pas la présence de sulfites. - substances allergisantes non déclarées",
-        "fr": "erreur d’étiquetage : la contre étiquette (l’étiquette située sous le produit comportant le code ean : 3560071370534) ne correspond pas au produit réel et ne mentionne pas la présence de sulfites. - substances allergisantes non déclarées",
-        "nl": "erreur d’étiquetage : la contre étiquette (l’étiquette située sous le produit comportant le code ean : 3560071370534) ne correspond pas au produit réel et ne mentionne pas la présence de sulfites. - substances allergisantes non déclarées"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23173/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1176,6 +1059,62 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-08-0103",
+      "source": "RappelConso",
+      "date": "2026-08-17",
+      "title": {
+        "en": "fromage blanc battu chèvre¤gros chèvre",
+        "fr": "fromage blanc battu chèvre¤gros chèvre",
+        "nl": "fromage blanc battu chèvre¤gros chèvre"
+      },
+      "description": {
+        "en": "critère d'hygiène non satisfaisant sur ce lot - autre risque",
+        "fr": "critère d'hygiène non satisfaisant sur ce lot - autre risque",
+        "nl": "critère d'hygiène non satisfaisant sur ce lot - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23174/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0092",
+      "source": "RappelConso",
+      "date": "2026-08-17",
+      "title": {
+        "en": "tracabilite :  mdv/lhp/alam6/23g26/yft¤grn no        :   010690¤no lot          :    26072026",
+        "fr": "tracabilite :  mdv/lhp/alam6/23g26/yft¤grn no        :   010690¤no lot          :    26072026",
+        "nl": "tracabilite :  mdv/lhp/alam6/23g26/yft¤grn no        :   010690¤no lot          :    26072026"
+      },
+      "description": {
+        "en": "présence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "présence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "présence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23163/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "fsa-FSA-PRIN-23-2026",
