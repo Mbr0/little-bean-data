@@ -1,6 +1,94 @@
 {
-  "generated": "2026-08-18T06:05:07.780Z",
+  "generated": "2026-08-19T06:05:45.592Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0153",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "ronds cendrés",
+        "fr": "ronds cendrés",
+        "nl": "ronds cendrés"
+      },
+      "description": {
+        "en": "potentielle présence e.coli stec 0103 - escherichia coli shiga toxinogène (stec)",
+        "fr": "potentielle présence e.coli stec 0103 - escherichia coli shiga toxinogène (stec)",
+        "nl": "potentielle présence e.coli stec 0103 - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23224/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-08-0146",
+      "source": "RappelConso",
+      "date": "2026-08-18",
+      "title": {
+        "en": "figues calabacita bio en sachet kraft  500g - la fourche",
+        "fr": "figues calabacita bio en sachet kraft  500g - la fourche",
+        "nl": "figues calabacita bio en sachet kraft  500g - la fourche"
+      },
+      "description": {
+        "en": "une analyse de contrôle a révélé la présence d'ochratoxine a à un niveau supérieur à la limite réglementaire. - autres contaminants biologiques",
+        "fr": "une analyse de contrôle a révélé la présence d'ochratoxine a à un niveau supérieur à la limite réglementaire. - autres contaminants biologiques",
+        "nl": "une analyse de contrôle a révélé la présence d'ochratoxine a à un niveau supérieur à la limite réglementaire. - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23217/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-08-18",
+      "title": {
+        "en": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
+        "fr": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
+        "nl": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination"
+      },
+      "description": {
+        "en": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
+        "fr": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
+        "nl": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-dreyers-grand-ice-cream-inc-issues-voluntary-recall-select-outshine-fruit-bars-due-possible",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
     {
       "id": "cfia-82493",
       "source": "CFIA",
@@ -854,109 +942,20 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0111",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "terrine bretonne noix de saint jacques¤terrine saumon saint jacques 2*60g¤tartinable thon formage madame loik",
-        "fr": "terrine bretonne noix de saint jacques¤terrine saumon saint jacques 2*60g¤tartinable thon formage madame loik",
-        "nl": "terrine bretonne noix de saint jacques¤terrine saumon saint jacques 2*60g¤tartinable thon formage madame loik"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23182/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0110",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "18 batônnets de surimi moelleux¤14 batônnets de surimi ail et fines herbes¤12 bat se surimi moelleux ¤24 bat surimi moelleux¤14 bat surimi mayonnaise¤30 bat surimi moelleux¤14 bat surimi -25% de sel",
-        "fr": "18 batônnets de surimi moelleux¤14 batônnets de surimi ail et fines herbes¤12 bat se surimi moelleux ¤24 bat surimi moelleux¤14 bat surimi mayonnaise¤30 bat surimi moelleux¤14 bat surimi -25% de sel",
-        "nl": "18 batônnets de surimi moelleux¤14 batônnets de surimi ail et fines herbes¤12 bat se surimi moelleux ¤24 bat surimi moelleux¤14 bat surimi mayonnaise¤30 bat surimi moelleux¤14 bat surimi -25% de sel"
-      },
-      "description": {
-        "en": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23181/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish",
-        "egg"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-08-18",
-      "title": {
-        "en": "L-Nutra Issues Allergy Alert on Undeclared Tree Nuts in Prolon Brand Apulian Almond & Cocoa Spread",
-        "fr": "L-Nutra Issues Allergy Alert on Undeclared Tree Nuts in Prolon Brand Apulian Almond & Cocoa Spread",
-        "nl": "L-Nutra Issues Allergy Alert on Undeclared Tree Nuts in Prolon Brand Apulian Almond & Cocoa Spread"
-      },
-      "description": {
-        "en": "L-Nutra of Culver City, California is recalling Prolon brand Apulian Almond & Cocoa Spread because it contains undeclared cashew, pistachio, and hazelnut. People who have an allergy or severe sensitivity to cashew, pistachio, and/or hazelnut run the risk of serious or life-threatening allergic react",
-        "fr": "L-Nutra of Culver City, California is recalling Prolon brand Apulian Almond & Cocoa Spread because it contains undeclared cashew, pistachio, and hazelnut. People who have an allergy or severe sensitivity to cashew, pistachio, and/or hazelnut run the risk of serious or life-threatening allergic react",
-        "nl": "L-Nutra of Culver City, California is recalling Prolon brand Apulian Almond & Cocoa Spread because it contains undeclared cashew, pistachio, and hazelnut. People who have an allergy or severe sensitivity to cashew, pistachio, and/or hazelnut run the risk of serious or life-threatening allergic react"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/l-nutra-issues-allergy-alert-undeclared-tree-nuts-prolon-brand-apulian-almond-cocoa-spread",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "cfia-82492",
       "source": "CFIA",
       "date": "2026-08-17",
       "title": {
-        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard",
-        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard",
-        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard"
+        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard",
+        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard",
+        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard"
       },
       "description": {
-        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard.",
-        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard.",
-        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard."
+        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling and undeclared mustard.",
+        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling and undeclared mustard.",
+        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling and undeclared mustard."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/olymel-brand-cooked-turkey-breast-roast-honey-dijon-recalled-due-undeclared-mustard",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/olymel-brand-cooked-turkey-breast-roast-honey-dijon-recalled-due-incorrect-labelling",
       "countries": [
         "CA"
       ],
@@ -1112,33 +1111,6 @@
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fsa-FSA-PRIN-23-2026",
-      "source": "FSA",
-      "date": "2026-05-20",
-      "title": {
-        "en": "Glenisk recalls Organic Baby Fromage Frais due to the possible presence of mould",
-        "fr": "Glenisk recalls Organic Baby Fromage Frais due to the possible presence of mould",
-        "nl": "Glenisk recalls Organic Baby Fromage Frais due to the possible presence of mould"
-      },
-      "description": {
-        "en": "These products may contain mould which makes them unfit for human consumption.",
-        "fr": "These products may contain mould which makes them unfit for human consumption.",
-        "nl": "These products may contain mould which makes them unfit for human consumption."
-      },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-prin-23-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "children",
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
