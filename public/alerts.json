@@ -1,21 +1,109 @@
 {
-  "generated": "2026-08-19T06:05:45.592Z",
+  "generated": "2026-08-20T06:05:18.685Z",
   "alerts": [
     {
-      "id": "rappelconso-2026-08-0153",
+      "id": "rappelconso-2026-08-0144",
       "source": "RappelConso",
       "date": "2026-08-19",
       "title": {
-        "en": "ronds cendrés",
-        "fr": "ronds cendrés",
-        "nl": "ronds cendrés"
+        "en": "farce a tomate fabriquées sur place",
+        "fr": "farce a tomate fabriquées sur place",
+        "nl": "farce a tomate fabriquées sur place"
       },
       "description": {
-        "en": "potentielle présence e.coli stec 0103 - escherichia coli shiga toxinogène (stec)",
-        "fr": "potentielle présence e.coli stec 0103 - escherichia coli shiga toxinogène (stec)",
-        "nl": "potentielle présence e.coli stec 0103 - escherichia coli shiga toxinogène (stec)"
+        "en": "présence de listéria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogène - listeria monocytogenes (agent responsable de la listériose)"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23224/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23215/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0167",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "mesclun carrefour le marché - sachet 125 g",
+        "fr": "mesclun carrefour le marché - sachet 125 g",
+        "nl": "mesclun carrefour le marché - sachet 125 g"
+      },
+      "description": {
+        "en": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23275/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0150",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "mini pâté en croûte",
+        "fr": "mini pâté en croûte",
+        "nl": "mini pâté en croûte"
+      },
+      "description": {
+        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23221/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0152",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "comte nrt aop",
+        "fr": "comte nrt aop",
+        "nl": "comte nrt aop"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23223/interne",
       "countries": [
         "FR"
       ],
@@ -28,58 +116,28 @@
         "microbial"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
+      "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0146",
+      "id": "rappelconso-2026-08-0156",
       "source": "RappelConso",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "title": {
-        "en": "figues calabacita bio en sachet kraft  500g - la fourche",
-        "fr": "figues calabacita bio en sachet kraft  500g - la fourche",
-        "nl": "figues calabacita bio en sachet kraft  500g - la fourche"
+        "en": "viande hachée de boeuf du rayon boucherie traditionnel",
+        "fr": "viande hachée de boeuf du rayon boucherie traditionnel",
+        "nl": "viande hachée de boeuf du rayon boucherie traditionnel"
       },
       "description": {
-        "en": "une analyse de contrôle a révélé la présence d'ochratoxine a à un niveau supérieur à la limite réglementaire. - autres contaminants biologiques",
-        "fr": "une analyse de contrôle a révélé la présence d'ochratoxine a à un niveau supérieur à la limite réglementaire. - autres contaminants biologiques",
-        "nl": "une analyse de contrôle a révélé la présence d'ochratoxine a à un niveau supérieur à la limite réglementaire. - autres contaminants biologiques"
+        "en": "detection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "detection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "detection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23217/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23235/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-08-18",
-      "title": {
-        "en": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
-        "fr": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
-        "nl": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination"
-      },
-      "description": {
-        "en": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
-        "fr": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
-        "nl": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-dreyers-grand-ice-cream-inc-issues-voluntary-recall-select-outshine-fruit-bars-due-possible",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
+        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -87,7 +145,7 @@
         "microbial"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
+      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "cfia-82493",
@@ -119,827 +177,93 @@
       "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "rappelconso-2026-08-0106",
-      "source": "RappelConso",
-      "date": "2026-08-17",
+      "id": "cfia-82506",
+      "source": "CFIA",
+      "date": "2026-08-19",
       "title": {
-        "en": "saucisse au fromage comtesse de vichy",
-        "fr": "saucisse au fromage comtesse de vichy",
-        "nl": "saucisse au fromage comtesse de vichy"
+        "en": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat",
+        "fr": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat",
+        "nl": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat"
       },
       "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label.",
+        "fr": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label.",
+        "nl": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23177/interne",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/wu-xian-zhai-brand-vegetarian-beef-and-preserved-beancurd-recalled-due-undeclared",
       "countries": [
-        "FR"
+        "CA"
       ],
       "foodGroups": [
         "meat",
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0143",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "batonnet de surimi*12 200g msc marque repère ¤miettes de surimi msc 180g marque repère ¤hareng nature 200g marque repère",
-        "fr": "batonnet de surimi*12 200g msc marque repère ¤miettes de surimi msc 180g marque repère ¤hareng nature 200g marque repère",
-        "nl": "batonnet de surimi*12 200g msc marque repère ¤miettes de surimi msc 180g marque repère ¤hareng nature 200g marque repère"
-      },
-      "description": {
-        "en": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23214/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0140",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "houmous libanaise 175g¤tarama msc 250g¤houmous basilic 175g¤tomate et ricotta 140g¤houmous 200g",
-        "fr": "houmous libanaise 175g¤tarama msc 250g¤houmous basilic 175g¤tomate et ricotta 140g¤houmous 200g",
-        "nl": "houmous libanaise 175g¤tarama msc 250g¤houmous basilic 175g¤tomate et ricotta 140g¤houmous 200g"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23211/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy",
         "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "rappelconso-2026-08-0138",
+      "id": "rappelconso-2026-08-0163",
       "source": "RappelConso",
-      "date": "2026-08-15",
+      "date": "2026-08-19",
       "title": {
-        "en": "au fromage frais 140g¤ktipiti 175g atelier ¤tzatziki 175 g atelier ¤guacamole 200g ¤patate douce rotie 140g",
-        "fr": "au fromage frais 140g¤ktipiti 175g atelier ¤tzatziki 175 g atelier ¤guacamole 200g ¤patate douce rotie 140g",
-        "nl": "au fromage frais 140g¤ktipiti 175g atelier ¤tzatziki 175 g atelier ¤guacamole 200g ¤patate douce rotie 140g"
+        "en": "melon charentais caissette",
+        "fr": "melon charentais caissette",
+        "nl": "melon charentais caissette"
       },
       "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
+        "en": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23209/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0137",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "maquereaux nature 150g ¤hareng doux 200g¤truite fumée france 4tranches 120g¤saumon fumé sauvage 2t 65g ¤saumon fumé bio 2t 65g¤",
-        "fr": "maquereaux nature 150g ¤hareng doux 200g¤truite fumée france 4tranches 120g¤saumon fumé sauvage 2t 65g ¤saumon fumé bio 2t 65g¤",
-        "nl": "maquereaux nature 150g ¤hareng doux 200g¤truite fumée france 4tranches 120g¤saumon fumé sauvage 2t 65g ¤saumon fumé bio 2t 65g¤"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23208/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0136",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "saumon fumé atelier à cuisiner 100g¤saumon fumé norvège 4tranches 120g¤saumon fumé éco 4tranches 120g¤saumon fumé norvège 2t 75g¤saumon fumé sauvage 4tranches 110g pacifique",
-        "fr": "saumon fumé atelier à cuisiner 100g¤saumon fumé norvège 4tranches 120g¤saumon fumé éco 4tranches 120g¤saumon fumé norvège 2t 75g¤saumon fumé sauvage 4tranches 110g pacifique",
-        "nl": "saumon fumé atelier à cuisiner 100g¤saumon fumé norvège 4tranches 120g¤saumon fumé éco 4tranches 120g¤saumon fumé norvège 2t 75g¤saumon fumé sauvage 4tranches 110g pacifique"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23207/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0135",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "houmous tomate séchées 175g¤tarama 175g atelier¤houmous 175g atelier ¤tarama 100g msc¤houmous citron 175g atelier",
-        "fr": "houmous tomate séchées 175g¤tarama 175g atelier¤houmous 175g atelier ¤tarama 100g msc¤houmous citron 175g atelier",
-        "nl": "houmous tomate séchées 175g¤tarama 175g atelier¤houmous 175g atelier ¤tarama 100g msc¤houmous citron 175g atelier"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23206/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23271/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
         "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "chemical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "chemical"
     },
     {
-      "id": "rappelconso-2026-08-0134",
-      "source": "RappelConso",
-      "date": "2026-08-15",
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-08-19",
       "title": {
-        "en": "houmous extra betterave 175g*6¤tzatziki 200g *6 ¤au fromage frais saumon 140g *6¤blini apéro 125g*9¤guacamole 175g atelier *6",
-        "fr": "houmous extra betterave 175g*6¤tzatziki 200g *6 ¤au fromage frais saumon 140g *6¤blini apéro 125g*9¤guacamole 175g atelier *6",
-        "nl": "houmous extra betterave 175g*6¤tzatziki 200g *6 ¤au fromage frais saumon 140g *6¤blini apéro 125g*9¤guacamole 175g atelier *6"
+        "en": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads",
+        "fr": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads",
+        "nl": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads"
       },
       "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
+        "en": "Prince Bakery of Bronx, New York is recalling Prince brand Sesame Italian Bread, Large Italian Bread, Large Sesame French Bread, Long Sesame French Bread and Pan de Manteca Spanish Style Bread because they may contain undeclared sesame or milk.  People who have an allergy or severe sensitivity to s",
+        "fr": "Prince Bakery of Bronx, New York is recalling Prince brand Sesame Italian Bread, Large Italian Bread, Large Sesame French Bread, Long Sesame French Bread and Pan de Manteca Spanish Style Bread because they may contain undeclared sesame or milk.  People who have an allergy or severe sensitivity to s",
+        "nl": "Prince Bakery of Bronx, New York is recalling Prince brand Sesame Italian Bread, Large Italian Bread, Large Sesame French Bread, Long Sesame French Bread and Pan de Manteca Spanish Style Bread because they may contain undeclared sesame or milk.  People who have an allergy or severe sensitivity to s"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23205/interne",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prince-bakery-inc-issues-allergy-alert-undeclared-milk-and-sesame-prince-bakery-breads",
       "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0133",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "saumon fumé norvège 4t 100g",
-        "fr": "saumon fumé norvège 4t 100g",
-        "nl": "saumon fumé norvège 4t 100g"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23204/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0132",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "saumon fumé 2t 60g biovillage¤saumon fumé islande 4t 140g marque repère ¤saumon fumé norvège 8t asc300g marque repère ¤saumon fumé ecosse 8t 300g marque repère ¤saumon fumé 4t 120g bio",
-        "fr": "saumon fumé 2t 60g biovillage¤saumon fumé islande 4t 140g marque repère ¤saumon fumé norvège 8t asc300g marque repère ¤saumon fumé ecosse 8t 300g marque repère ¤saumon fumé 4t 120g bio",
-        "nl": "saumon fumé 2t 60g biovillage¤saumon fumé islande 4t 140g marque repère ¤saumon fumé norvège 8t asc300g marque repère ¤saumon fumé ecosse 8t 300g marque repère ¤saumon fumé 4t 120g bio"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23203/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0131",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "harengs hv aro 200g marque repère¤filets de maquereaux fumés poivre 150g marque repère ¤2 haches de saumon ciboulette 200g marque repère ¤truite de mer fumée 4t 120g ¤saumon fumé norvège 4t asc marque repère 140g",
-        "fr": "harengs hv aro 200g marque repère¤filets de maquereaux fumés poivre 150g marque repère ¤2 haches de saumon ciboulette 200g marque repère ¤truite de mer fumée 4t 120g ¤saumon fumé norvège 4t asc marque repère 140g",
-        "nl": "harengs hv aro 200g marque repère¤filets de maquereaux fumés poivre 150g marque repère ¤2 haches de saumon ciboulette 200g marque repère ¤truite de mer fumée 4t 120g ¤saumon fumé norvège 4t asc marque repère 140g"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23202/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0130",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "batonnets saveur crabe *24 400g eco+¤batonnets surimi *18 msc 300g marque repère ¤mini batonnet surimi msc 210g marque repère ¤batonnet surimi fpk*24 msc 400g marque repère¤batonnet  surimi *30 msc 500g marque repère",
-        "fr": "batonnets saveur crabe *24 400g eco+¤batonnets surimi *18 msc 300g marque repère ¤mini batonnet surimi msc 210g marque repère ¤batonnet surimi fpk*24 msc 400g marque repère¤batonnet  surimi *30 msc 500g marque repère",
-        "nl": "batonnets saveur crabe *24 400g eco+¤batonnets surimi *18 msc 300g marque repère ¤mini batonnet surimi msc 210g marque repère ¤batonnet surimi fpk*24 msc 400g marque repère¤batonnet  surimi *30 msc 500g marque repère"
-      },
-      "description": {
-        "en": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23201/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0129",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "thon fromage frais 140g¤tarama cabillaud 250g marque repère ¤houmous 200g marque repère ¤mini blini bio *16 135g",
-        "fr": "thon fromage frais 140g¤tarama cabillaud 250g marque repère ¤houmous 200g marque repère ¤mini blini bio *16 135g",
-        "nl": "thon fromage frais 140g¤tarama cabillaud 250g marque repère ¤houmous 200g marque repère ¤mini blini bio *16 135g"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23200/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0128",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "tartinable thon 120g marque repère ¤rillettes de saumon asc 150g marque repère ¤rillettes de thon msc 150g marque répère ¤tzatziki 100g marque repère ¤tzatziki 200g marque repère",
-        "fr": "tartinable thon 120g marque repère ¤rillettes de saumon asc 150g marque repère ¤rillettes de thon msc 150g marque répère ¤tzatziki 100g marque repère ¤tzatziki 200g marque repère",
-        "nl": "tartinable thon 120g marque repère ¤rillettes de saumon asc 150g marque repère ¤rillettes de thon msc 150g marque répère ¤tzatziki 100g marque repère ¤tzatziki 200g marque repère"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23199/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0127",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "saumon sauvage4 t120g¤filets d'anchois all 65g pot¤filets harengs doux 200g marque repère ¤saumon écosse 4t marque repère ¤saumon fumé norvège 6t asc 210g marque repère",
-        "fr": "saumon sauvage4 t120g¤filets d'anchois all 65g pot¤filets harengs doux 200g marque repère ¤saumon écosse 4t marque repère ¤saumon fumé norvège 6t asc 210g marque repère",
-        "nl": "saumon sauvage4 t120g¤filets d'anchois all 65g pot¤filets harengs doux 200g marque repère ¤saumon écosse 4t marque repère ¤saumon fumé norvège 6t asc 210g marque repère"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23198/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0126",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "ktipiti 200g¤guacamole 200g marque repère ¤mini blini *16 135g marque repère ¤rillettes de crabe 150g marque repère ¤blini médium *8 160g marque repère",
-        "fr": "ktipiti 200g¤guacamole 200g marque repère ¤mini blini *16 135g marque repère ¤rillettes de crabe 150g marque repère ¤blini médium *8 160g marque repère",
-        "nl": "ktipiti 200g¤guacamole 200g marque repère ¤mini blini *16 135g marque repère ¤rillettes de crabe 150g marque repère ¤blini médium *8 160g marque repère"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23197/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0125",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "lardons de saumon fumé 90g¤émincé de saumon fumé bio 100g biovillage¤émincé de saumon aneth asc 100g marque repère¤dés de saumon fumé nature asc 90g ¤petites tranches de saumon fumé 100g ¤¤",
-        "fr": "lardons de saumon fumé 90g¤émincé de saumon fumé bio 100g biovillage¤émincé de saumon aneth asc 100g marque repère¤dés de saumon fumé nature asc 90g ¤petites tranches de saumon fumé 100g ¤¤",
-        "nl": "lardons de saumon fumé 90g¤émincé de saumon fumé bio 100g biovillage¤émincé de saumon aneth asc 100g marque repère¤dés de saumon fumé nature asc 90g ¤petites tranches de saumon fumé 100g ¤¤"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23196/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0124",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "émincé de truite fumé asc 100g ronde des mers¤truite de bretagne 4t 120g nos régions ont du talent¤truite fumée aquitaine 120g nos régions ont du talent",
-        "fr": "émincé de truite fumé asc 100g ronde des mers¤truite de bretagne 4t 120g nos régions ont du talent¤truite fumée aquitaine 120g nos régions ont du talent",
-        "nl": "émincé de truite fumé asc 100g ronde des mers¤truite de bretagne 4t 120g nos régions ont du talent¤truite fumée aquitaine 120g nos régions ont du talent"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23195/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0123",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "roulés de surimi saveur crabe 300g¤happy surimi rapé saveur crabe 200g¤batonnet de surimi saveur crabe 1kg¤batonnet surimi surimi 500g¤batonnet surimi crabe 200g",
-        "fr": "roulés de surimi saveur crabe 300g¤happy surimi rapé saveur crabe 200g¤batonnet de surimi saveur crabe 1kg¤batonnet surimi surimi 500g¤batonnet surimi crabe 200g",
-        "nl": "roulés de surimi saveur crabe 300g¤happy surimi rapé saveur crabe 200g¤batonnet de surimi saveur crabe 1kg¤batonnet surimi surimi 500g¤batonnet surimi crabe 200g"
-      },
-      "description": {
-        "en": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion  de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23194/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0121",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "truite fumée landvika 2t 60g¤ovive pyrénées minitranche 100g¤ovive france 6t garanties 160g¤ovive normandie 4t 110g¤landvika 4t garanties 100g",
-        "fr": "truite fumée landvika 2t 60g¤ovive pyrénées minitranche 100g¤ovive france 6t garanties 160g¤ovive normandie 4t 110g¤landvika 4t garanties 100g",
-        "nl": "truite fumée landvika 2t 60g¤ovive pyrénées minitranche 100g¤ovive france 6t garanties 160g¤ovive normandie 4t 110g¤landvika 4t garanties 100g"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23192/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0120",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "kubes de saumons fumés apéro aux épices barbecue",
-        "fr": "kubes de saumons fumés apéro aux épices barbecue",
-        "nl": "kubes de saumons fumés apéro aux épices barbecue"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23191/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0119",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "truite fumée bretonne 4t¤truite fumée 4t malin¤saumon fumé de norvège 4t",
-        "fr": "truite fumée bretonne 4t¤truite fumée 4t malin¤saumon fumé de norvège 4t",
-        "nl": "truite fumée bretonne 4t¤truite fumée 4t malin¤saumon fumé de norvège 4t"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23190/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0118",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "filets de harengs à la crème ¤filets de harengs crème et aneth",
-        "fr": "filets de harengs à la crème ¤filets de harengs crème et aneth",
-        "nl": "filets de harengs à la crème ¤filets de harengs crème et aneth"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23189/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0117",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "rillettes thon cap ocean 140g¤rillettes thon msc cap ocean 250g¤rillettes thon cap ocean 150g¤rillettes saumon cap ocean 140g¤rillettes saumon cap ocean 150g",
-        "fr": "rillettes thon cap ocean 140g¤rillettes thon msc cap ocean 250g¤rillettes thon cap ocean 150g¤rillettes saumon cap ocean 140g¤rillettes saumon cap ocean 150g",
-        "nl": "rillettes thon cap ocean 140g¤rillettes thon msc cap ocean 250g¤rillettes thon cap ocean 150g¤rillettes saumon cap ocean 140g¤rillettes saumon cap ocean 150g"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23188/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0115",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "saumon élevé en écosse fumé 4t",
-        "fr": "saumon élevé en écosse fumé 4t",
-        "nl": "saumon élevé en écosse fumé 4t"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23186/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0114",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "sauce hollandaise 200g¤sauce  beurre blanc 200g¤rouille 100g¤sauce beurre citronnée 200g",
-        "fr": "sauce hollandaise 200g¤sauce  beurre blanc 200g¤rouille 100g¤sauce beurre citronnée 200g",
-        "nl": "sauce hollandaise 200g¤sauce  beurre blanc 200g¤rouille 100g¤sauce beurre citronnée 200g"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23185/interne",
-      "countries": [
-        "FR"
+        "US"
       ],
       "foodGroups": [
         "dairy"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0113",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "émietté de maquereaux moutarde150g¤émietté surimi crème 150g¤rillettes thon poivre-vert 150g¤émietté sardine citron 150g¤rillettes sardines-citron 150g¤rillettes maquereaux 150g¤émietté thon chorizo 150g",
-        "fr": "émietté de maquereaux moutarde150g¤émietté surimi crème 150g¤rillettes thon poivre-vert 150g¤émietté sardine citron 150g¤rillettes sardines-citron 150g¤rillettes maquereaux 150g¤émietté thon chorizo 150g",
-        "nl": "émietté de maquereaux moutarde150g¤émietté surimi crème 150g¤rillettes thon poivre-vert 150g¤émietté sardine citron 150g¤rillettes sardines-citron 150g¤rillettes maquereaux 150g¤émietté thon chorizo 150g"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23184/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0112",
-      "source": "RappelConso",
-      "date": "2026-08-15",
-      "title": {
-        "en": "truite fumée des pyrénées vendue au rayon libre-service¤truite fumée du pays basque  vendue au rayon libre-service¤truite fumage intense  vendue au rayon libre-service",
-        "fr": "truite fumée des pyrénées vendue au rayon libre-service¤truite fumée du pays basque  vendue au rayon libre-service¤truite fumage intense  vendue au rayon libre-service",
-        "nl": "truite fumée des pyrénées vendue au rayon libre-service¤truite fumée du pays basque  vendue au rayon libre-service¤truite fumage intense  vendue au rayon libre-service"
-      },
-      "description": {
-        "en": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "fr": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque",
-        "nl": "suspicion de rupture de la chaine du froid - listeria monocytogenes (agent responsable de la listériose)|autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23183/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82492",
@@ -961,35 +285,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82494",
-      "source": "CFIA",
-      "date": "2026-08-14",
-      "title": {
-        "en": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame",
-        "fr": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame",
-        "nl": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame"
-      },
-      "description": {
-        "en": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame.",
-        "fr": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame.",
-        "nl": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-salem-foods-brand-jarred-products-recalled-due-undeclared-wheat-mustard-and",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -1030,50 +325,244 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-26-2026",
-      "source": "FSA",
-      "date": "2026-05-21",
+      "id": "rappelconso-2026-08-0171",
+      "source": "RappelConso",
+      "date": "2026-08-19",
       "title": {
-        "en": "Divilly’s recalls Divilly Brothers No Added Nitrite Crumbed Ham because of undeclared wheat (gluten)",
-        "fr": "Divilly’s recalls Divilly Brothers No Added Nitrite Crumbed Ham because of undeclared wheat (gluten)",
-        "nl": "Divilly’s recalls Divilly Brothers No Added Nitrite Crumbed Ham because of undeclared wheat (gluten)"
+        "en": "spéculoos beurre salé 6p. et spéculooos beurre salé x2",
+        "fr": "spéculoos beurre salé 6p. et spéculooos beurre salé x2",
+        "nl": "spéculoos beurre salé 6p. et spéculooos beurre salé x2"
       },
       "description": {
-        "en": "This product contains wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten, or with coeliac disease.",
-        "fr": "This product contains wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten, or with coeliac disease.",
-        "nl": "This product contains wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten, or with coeliac disease."
+        "en": "erreur d' etiquetage avec la mention e171, et ce colorant n' est plus utilisé depuis 2020. - additifs et arômes non autorisés",
+        "fr": "erreur d' etiquetage avec la mention e171, et ce colorant n' est plus utilisé depuis 2020. - additifs et arômes non autorisés",
+        "nl": "erreur d' etiquetage avec la mention e171, et ce colorant n' est plus utilisé depuis 2020. - additifs et arômes non autorisés"
       },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-26-2026",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23279/interne",
       "countries": [
-        "GB"
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "labeling"
+    },
+    {
+      "id": "rappelconso-2026-08-0166",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "steak hache 100% pur bœuf 800g - surgele",
+        "fr": "steak hache 100% pur bœuf 800g - surgele",
+        "nl": "steak hache 100% pur bœuf 800g - surgele"
+      },
+      "description": {
+        "en": "rupture de chaine du froid lors du transport - autre risque",
+        "fr": "rupture de chaine du froid lors du transport - autre risque",
+        "nl": "rupture de chaine du froid lors du transport - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23274/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0169",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "longe de thon albacore 3/5 kg pêché en océan indien",
+        "fr": "longe de thon albacore 3/5 kg pêché en océan indien",
+        "nl": "longe de thon albacore 3/5 kg pêché en océan indien"
+      },
+      "description": {
+        "en": "non conformité caractéristiques alimentaires - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "non conformité caractéristiques alimentaires - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "non conformité caractéristiques alimentaires - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23277/interne",
+      "countries": [
+        "FR"
       ],
       "foodGroups": [
         "meat",
-        "plant"
+        "fish",
+        "dairy"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
+      "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-08-0103",
+      "id": "rappelconso-2026-08-0109",
       "source": "RappelConso",
-      "date": "2026-08-17",
+      "date": "2026-08-19",
       "title": {
-        "en": "fromage blanc battu chèvre¤gros chèvre",
-        "fr": "fromage blanc battu chèvre¤gros chèvre",
-        "nl": "fromage blanc battu chèvre¤gros chèvre"
+        "en": "truite fumée pyrénée 4t¤truite aquitaine 4t 120g¤tranche de truite fumée 100g¤ovive bretagne 2t 60g¤ovive aquitaine 2t 60g",
+        "fr": "truite fumée pyrénée 4t¤truite aquitaine 4t 120g¤tranche de truite fumée 100g¤ovive bretagne 2t 60g¤ovive aquitaine 2t 60g",
+        "nl": "truite fumée pyrénée 4t¤truite aquitaine 4t 120g¤tranche de truite fumée 100g¤ovive bretagne 2t 60g¤ovive aquitaine 2t 60g"
       },
       "description": {
-        "en": "critère d'hygiène non satisfaisant sur ce lot - autre risque",
-        "fr": "critère d'hygiène non satisfaisant sur ce lot - autre risque",
-        "nl": "critère d'hygiène non satisfaisant sur ce lot - autre risque"
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23174/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23265/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0110",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "18 batônnets de surimi moelleux¤14 batônnets de surimi ail et fines herbes¤12 bat se surimi moelleux ¤24 bat surimi moelleux¤14 bat surimi mayonnaise¤30 bat surimi moelleux¤14 bat surimi -25% de sel",
+        "fr": "18 batônnets de surimi moelleux¤14 batônnets de surimi ail et fines herbes¤12 bat se surimi moelleux ¤24 bat surimi moelleux¤14 bat surimi mayonnaise¤30 bat surimi moelleux¤14 bat surimi -25% de sel",
+        "nl": "18 batônnets de surimi moelleux¤14 batônnets de surimi ail et fines herbes¤12 bat se surimi moelleux ¤24 bat surimi moelleux¤14 bat surimi mayonnaise¤30 bat surimi moelleux¤14 bat surimi -25% de sel"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23263/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "egg"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0111",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "terrine bretonne noix de saint jacques¤terrine saumon saint jacques 2*60g¤tartinable thon formage madame loik",
+        "fr": "terrine bretonne noix de saint jacques¤terrine saumon saint jacques 2*60g¤tartinable thon formage madame loik",
+        "nl": "terrine bretonne noix de saint jacques¤terrine saumon saint jacques 2*60g¤tartinable thon formage madame loik"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23262/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0112",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "truite fumée des pyrénées vendue au rayon libre-service¤truite fumée du pays basque  vendue au rayon libre-service¤truite fumage intense  vendue au rayon libre-service",
+        "fr": "truite fumée des pyrénées vendue au rayon libre-service¤truite fumée du pays basque  vendue au rayon libre-service¤truite fumage intense  vendue au rayon libre-service",
+        "nl": "truite fumée des pyrénées vendue au rayon libre-service¤truite fumée du pays basque  vendue au rayon libre-service¤truite fumage intense  vendue au rayon libre-service"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23260/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0113",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "émietté de maquereaux moutarde150g¤émietté surimi crème 150g¤rillettes thon poivre-vert 150g¤émietté sardine citron 150g¤rillettes sardines-citron 150g¤rillettes maquereaux 150g¤émietté thon chorizo 150g",
+        "fr": "émietté de maquereaux moutarde150g¤émietté surimi crème 150g¤rillettes thon poivre-vert 150g¤émietté sardine citron 150g¤rillettes sardines-citron 150g¤rillettes maquereaux 150g¤émietté thon chorizo 150g",
+        "nl": "émietté de maquereaux moutarde150g¤émietté surimi crème 150g¤rillettes thon poivre-vert 150g¤émietté sardine citron 150g¤rillettes sardines-citron 150g¤rillettes maquereaux 150g¤émietté thon chorizo 150g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23259/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0114",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "sauce hollandaise 200g¤sauce  beurre blanc 200g¤rouille 100g¤sauce beurre citronnée 200g",
+        "fr": "sauce hollandaise 200g¤sauce  beurre blanc 200g¤rouille 100g¤sauce beurre citronnée 200g",
+        "nl": "sauce hollandaise 200g¤sauce  beurre blanc 200g¤rouille 100g¤sauce beurre citronnée 200g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23258/interne",
       "countries": [
         "FR"
       ],
@@ -1087,27 +576,518 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-08-0092",
+      "id": "rappelconso-2026-08-0115",
       "source": "RappelConso",
-      "date": "2026-08-17",
+      "date": "2026-08-19",
       "title": {
-        "en": "tracabilite :  mdv/lhp/alam6/23g26/yft¤grn no        :   010690¤no lot          :    26072026",
-        "fr": "tracabilite :  mdv/lhp/alam6/23g26/yft¤grn no        :   010690¤no lot          :    26072026",
-        "nl": "tracabilite :  mdv/lhp/alam6/23g26/yft¤grn no        :   010690¤no lot          :    26072026"
+        "en": "saumon élevé en écosse fumé 4t",
+        "fr": "saumon élevé en écosse fumé 4t",
+        "nl": "saumon élevé en écosse fumé 4t"
       },
       "description": {
-        "en": "présence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "fr": "présence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "nl": "présence histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23163/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23257/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0117",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "rillettes thon cap ocean 140g¤rillettes thon msc cap ocean 250g¤rillettes thon cap ocean 150g¤rillettes saumon cap ocean 140g¤rillettes saumon cap ocean 150g",
+        "fr": "rillettes thon cap ocean 140g¤rillettes thon msc cap ocean 250g¤rillettes thon cap ocean 150g¤rillettes saumon cap ocean 140g¤rillettes saumon cap ocean 150g",
+        "nl": "rillettes thon cap ocean 140g¤rillettes thon msc cap ocean 250g¤rillettes thon cap ocean 150g¤rillettes saumon cap ocean 140g¤rillettes saumon cap ocean 150g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23255/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
         "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0118",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "filets de harengs à la crème ¤filets de harengs crème et aneth",
+        "fr": "filets de harengs à la crème ¤filets de harengs crème et aneth",
+        "nl": "filets de harengs à la crème ¤filets de harengs crème et aneth"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23254/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
         "fish",
         "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0119",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "truite fumée bretonne 4t¤truite fumée 4t malin¤saumon fumé de norvège 4t",
+        "fr": "truite fumée bretonne 4t¤truite fumée 4t malin¤saumon fumé de norvège 4t",
+        "nl": "truite fumée bretonne 4t¤truite fumée 4t malin¤saumon fumé de norvège 4t"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23253/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0120",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "kubes de saumons fumés apéro aux épices barbecue",
+        "fr": "kubes de saumons fumés apéro aux épices barbecue",
+        "nl": "kubes de saumons fumés apéro aux épices barbecue"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23252/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0121",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "truite fumée landvika 2t 60g¤ovive pyrénées minitranche 100g¤ovive france 6t garanties 160g¤ovive normandie 4t 110g¤landvika 4t garanties 100g",
+        "fr": "truite fumée landvika 2t 60g¤ovive pyrénées minitranche 100g¤ovive france 6t garanties 160g¤ovive normandie 4t 110g¤landvika 4t garanties 100g",
+        "nl": "truite fumée landvika 2t 60g¤ovive pyrénées minitranche 100g¤ovive france 6t garanties 160g¤ovive normandie 4t 110g¤landvika 4t garanties 100g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23251/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0123",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "roulés de surimi saveur crabe 300g¤happy surimi rapé saveur crabe 200g¤batonnet de surimi saveur crabe 1kg¤batonnet surimi surimi 500g¤batonnet surimi crabe 200g",
+        "fr": "roulés de surimi saveur crabe 300g¤happy surimi rapé saveur crabe 200g¤batonnet de surimi saveur crabe 1kg¤batonnet surimi surimi 500g¤batonnet surimi crabe 200g",
+        "nl": "roulés de surimi saveur crabe 300g¤happy surimi rapé saveur crabe 200g¤batonnet de surimi saveur crabe 1kg¤batonnet surimi surimi 500g¤batonnet surimi crabe 200g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23249/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0124",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "émincé de truite fumé asc 100g ronde des mers¤truite de bretagne 4t 120g nos régions ont du talent¤truite fumée aquitaine 120g nos régions ont du talent",
+        "fr": "émincé de truite fumé asc 100g ronde des mers¤truite de bretagne 4t 120g nos régions ont du talent¤truite fumée aquitaine 120g nos régions ont du talent",
+        "nl": "émincé de truite fumé asc 100g ronde des mers¤truite de bretagne 4t 120g nos régions ont du talent¤truite fumée aquitaine 120g nos régions ont du talent"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23248/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0125",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "lardons de saumon fumé 90g¤émincé de saumon fumé bio 100g biovillage¤émincé de saumon aneth asc 100g marque repère¤dés de saumon fumé nature asc 90g ¤petites tranches de saumon fumé 100g ¤¤",
+        "fr": "lardons de saumon fumé 90g¤émincé de saumon fumé bio 100g biovillage¤émincé de saumon aneth asc 100g marque repère¤dés de saumon fumé nature asc 90g ¤petites tranches de saumon fumé 100g ¤¤",
+        "nl": "lardons de saumon fumé 90g¤émincé de saumon fumé bio 100g biovillage¤émincé de saumon aneth asc 100g marque repère¤dés de saumon fumé nature asc 90g ¤petites tranches de saumon fumé 100g ¤¤"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23247/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0126",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "ktipiti 200g¤guacamole 200g marque repère ¤mini blini *16 135g marque repère ¤rillettes de crabe 150g marque repère ¤blini médium *8 160g marque repère",
+        "fr": "ktipiti 200g¤guacamole 200g marque repère ¤mini blini *16 135g marque repère ¤rillettes de crabe 150g marque repère ¤blini médium *8 160g marque repère",
+        "nl": "ktipiti 200g¤guacamole 200g marque repère ¤mini blini *16 135g marque repère ¤rillettes de crabe 150g marque repère ¤blini médium *8 160g marque repère"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23246/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0127",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "saumon sauvage4 t120g¤filets d'anchois all 65g pot¤filets harengs doux 200g marque repère ¤saumon écosse 4t marque repère ¤saumon fumé norvège 6t asc 210g marque repère",
+        "fr": "saumon sauvage4 t120g¤filets d'anchois all 65g pot¤filets harengs doux 200g marque repère ¤saumon écosse 4t marque repère ¤saumon fumé norvège 6t asc 210g marque repère",
+        "nl": "saumon sauvage4 t120g¤filets d'anchois all 65g pot¤filets harengs doux 200g marque repère ¤saumon écosse 4t marque repère ¤saumon fumé norvège 6t asc 210g marque repère"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23245/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0128",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "tartinable thon 120g marque repère ¤rillettes de saumon asc 150g marque repère ¤rillettes de thon msc 150g marque répère ¤tzatziki 100g marque repère ¤tzatziki 200g marque repère",
+        "fr": "tartinable thon 120g marque repère ¤rillettes de saumon asc 150g marque repère ¤rillettes de thon msc 150g marque répère ¤tzatziki 100g marque repère ¤tzatziki 200g marque repère",
+        "nl": "tartinable thon 120g marque repère ¤rillettes de saumon asc 150g marque repère ¤rillettes de thon msc 150g marque répère ¤tzatziki 100g marque repère ¤tzatziki 200g marque repère"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23244/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0129",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "thon fromage frais 140g¤tarama cabillaud 250g marque repère ¤houmous 200g marque repère ¤mini blini bio *16 135g",
+        "fr": "thon fromage frais 140g¤tarama cabillaud 250g marque repère ¤houmous 200g marque repère ¤mini blini bio *16 135g",
+        "nl": "thon fromage frais 140g¤tarama cabillaud 250g marque repère ¤houmous 200g marque repère ¤mini blini bio *16 135g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23243/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0130",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "batonnets saveur crabe *24 400g eco+¤batonnets surimi *18 msc 300g marque repère ¤mini batonnet surimi msc 210g marque repère ¤batonnet surimi fpk*24 msc 400g marque repère¤batonnet  surimi *30 msc 500g marque repère",
+        "fr": "batonnets saveur crabe *24 400g eco+¤batonnets surimi *18 msc 300g marque repère ¤mini batonnet surimi msc 210g marque repère ¤batonnet surimi fpk*24 msc 400g marque repère¤batonnet  surimi *30 msc 500g marque repère",
+        "nl": "batonnets saveur crabe *24 400g eco+¤batonnets surimi *18 msc 300g marque repère ¤mini batonnet surimi msc 210g marque repère ¤batonnet surimi fpk*24 msc 400g marque repère¤batonnet  surimi *30 msc 500g marque repère"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23242/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0131",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "harengs hv aro 200g marque repère¤filets de maquereaux fumés poivre 150g marque repère ¤2 haches de saumon ciboulette 200g marque repère ¤truite de mer fumée 4t 120g ¤saumon fumé norvège 4t asc marque repère 140g",
+        "fr": "harengs hv aro 200g marque repère¤filets de maquereaux fumés poivre 150g marque repère ¤2 haches de saumon ciboulette 200g marque repère ¤truite de mer fumée 4t 120g ¤saumon fumé norvège 4t asc marque repère 140g",
+        "nl": "harengs hv aro 200g marque repère¤filets de maquereaux fumés poivre 150g marque repère ¤2 haches de saumon ciboulette 200g marque repère ¤truite de mer fumée 4t 120g ¤saumon fumé norvège 4t asc marque repère 140g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23241/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0132",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "saumon fumé 2t 60g biovillage¤saumon fumé islande 4t 140g marque repère ¤saumon fumé norvège 8t asc300g marque repère ¤saumon fumé ecosse 8t 300g marque repère ¤saumon fumé 4t 120g bio",
+        "fr": "saumon fumé 2t 60g biovillage¤saumon fumé islande 4t 140g marque repère ¤saumon fumé norvège 8t asc300g marque repère ¤saumon fumé ecosse 8t 300g marque repère ¤saumon fumé 4t 120g bio",
+        "nl": "saumon fumé 2t 60g biovillage¤saumon fumé islande 4t 140g marque repère ¤saumon fumé norvège 8t asc300g marque repère ¤saumon fumé ecosse 8t 300g marque repère ¤saumon fumé 4t 120g bio"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23240/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0133",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "saumon fumé norvège 4t 100g",
+        "fr": "saumon fumé norvège 4t 100g",
+        "nl": "saumon fumé norvège 4t 100g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23239/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0134",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "houmous extra betterave 175g*6¤tzatziki 200g *6 ¤au fromage frais saumon 140g *6¤blini apéro 125g*9¤guacamole 175g atelier *6",
+        "fr": "houmous extra betterave 175g*6¤tzatziki 200g *6 ¤au fromage frais saumon 140g *6¤blini apéro 125g*9¤guacamole 175g atelier *6",
+        "nl": "houmous extra betterave 175g*6¤tzatziki 200g *6 ¤au fromage frais saumon 140g *6¤blini apéro 125g*9¤guacamole 175g atelier *6"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23238/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0135",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "houmous tomate séchées 175g¤tarama 175g atelier¤houmous 175g atelier ¤tarama 100g msc¤houmous citron 175g atelier",
+        "fr": "houmous tomate séchées 175g¤tarama 175g atelier¤houmous 175g atelier ¤tarama 100g msc¤houmous citron 175g atelier",
+        "nl": "houmous tomate séchées 175g¤tarama 175g atelier¤houmous 175g atelier ¤tarama 100g msc¤houmous citron 175g atelier"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid - autre risque",
+        "fr": "rupture de la chaine du froid - autre risque",
+        "nl": "rupture de la chaine du froid - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23237/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
