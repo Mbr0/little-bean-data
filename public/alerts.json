@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T06:05:18.685Z",
+  "generated": "2026-08-21T06:05:54.755Z",
   "alerts": [
     {
       "id": "rappelconso-2026-08-0144",
@@ -295,34 +295,412 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-27-2026",
-      "source": "FSA",
-      "date": "2026-05-22",
+      "id": "nvwa--bonen-in-tomatensaus-350-gram",
+      "source": "NVWA",
+      "date": "2026-05-27",
       "title": {
-        "en": "Sunrise International Foods Ltd recalls Shama Falooda Almond flavour drink because of undeclared milk",
-        "fr": "Sunrise International Foods Ltd recalls Shama Falooda Almond flavour drink because of undeclared milk",
-        "nl": "Sunrise International Foods Ltd recalls Shama Falooda Almond flavour drink because of undeclared milk"
+        "en": "Veiligheidswaarschuwing witte bonen in tomatensaus 350 gram",
+        "fr": "Veiligheidswaarschuwing witte bonen in tomatensaus 350 gram",
+        "nl": "Veiligheidswaarschuwing witte bonen in tomatensaus 350 gram"
       },
       "description": {
-        "en": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
-        "fr": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
-        "nl": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents."
+        "en": "Machandel waarschuwt voor witte bonen in tomatensaus 350 gram. Het product is onvoldoende gesteriliseerd.",
+        "fr": "Machandel waarschuwt voor witte bonen in tomatensaus 350 gram. Het product is onvoldoende gesteriliseerd.",
+        "nl": "Machandel waarschuwt voor witte bonen in tomatensaus 350 gram. Het product is onvoldoende gesteriliseerd."
       },
-      "url": "https://www.food.gov.uk/news-alerts/alert/fsa-aa-27-2026",
+      "url": "https://www.nvwa.nl/documenten/2026/05/27/veiligheidswaarschuwing-witte-bonen-in-tomatensaus-350-gram",
       "countries": [
-        "GB"
+        "NL",
+        "BE"
       ],
       "foodGroups": [
-        "dairy",
         "plant"
       ],
       "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0187",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "mous foie sup vpf 300g u ¤terrine for vpf 180g  u¤mousse foie superieur vpf 2x50g u ¤mousse canard superieur 2x50g u ¤pate campagne superieur vpf 180g u ¤pate campagne superieur vpf 300g u ¤pate campagne superieur vpf 2x50g u ¤mini terrine  mousse ca",
+        "fr": "mous foie sup vpf 300g u ¤terrine for vpf 180g  u¤mousse foie superieur vpf 2x50g u ¤mousse canard superieur 2x50g u ¤pate campagne superieur vpf 180g u ¤pate campagne superieur vpf 300g u ¤pate campagne superieur vpf 2x50g u ¤mini terrine  mousse ca",
+        "nl": "mous foie sup vpf 300g u ¤terrine for vpf 180g  u¤mousse foie superieur vpf 2x50g u ¤mousse canard superieur 2x50g u ¤pate campagne superieur vpf 180g u ¤pate campagne superieur vpf 300g u ¤pate campagne superieur vpf 2x50g u ¤mini terrine  mousse ca"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid pendant le transport - autre risque",
+        "fr": "rupture de la chaine du froid pendant le transport - autre risque",
+        "nl": "rupture de la chaine du froid pendant le transport - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23296/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0178",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 2 tranches 80 g madrange ¤",
+        "fr": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 2 tranches 80 g madrange ¤",
+        "nl": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 2 tranches 80 g madrange ¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23286/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0179",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 6 tranches 240 g madrange ¤",
+        "fr": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 6 tranches 240 g madrange ¤",
+        "nl": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 6 tranches 240 g madrange ¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23287/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0180",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon supérieur au torchon sans nitrite 4 tranches 160 g madrange¤",
+        "fr": "le jambon supérieur au torchon sans nitrite 4 tranches 160 g madrange¤",
+        "nl": "le jambon supérieur au torchon sans nitrite 4 tranches 160 g madrange¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23288/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0181",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon gourmand & engagé impact climat réduit sans nitrite 4 tranches 140 g madrange ¤",
+        "fr": "le jambon gourmand & engagé impact climat réduit sans nitrite 4 tranches 140 g madrange ¤",
+        "nl": "le jambon gourmand & engagé impact climat réduit sans nitrite 4 tranches 140 g madrange ¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23289/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0182",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon supérieur cuisiné à l’os sans nitrite 4 tranches 160 g madrange¤",
+        "fr": "le jambon supérieur cuisiné à l’os sans nitrite 4 tranches 160 g madrange¤",
+        "nl": "le jambon supérieur cuisiné à l’os sans nitrite 4 tranches 160 g madrange¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23290/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0177",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le foué jambon cuit supérieur aux 3 poivres 4 tranches  240 g paul prédault¤",
+        "fr": "le foué jambon cuit supérieur aux 3 poivres 4 tranches  240 g paul prédault¤",
+        "nl": "le foué jambon cuit supérieur aux 3 poivres 4 tranches  240 g paul prédault¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23285/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0185",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "saumon fumé bio 100g / truite fumée bio 80g / chutes de truite 150g / truite fumée de mer française 100g",
+        "fr": "saumon fumé bio 100g / truite fumée bio 80g / chutes de truite 150g / truite fumée de mer française 100g",
+        "nl": "saumon fumé bio 100g / truite fumée bio 80g / chutes de truite 150g / truite fumée de mer française 100g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid lors du transport. défaut de température de la remorque impactant une palette de 18 colis. cette situation concerne uniquement les produits situés sur la palette, et non la totalité du lot. - risque microbiologique",
+        "fr": "rupture de la chaine du froid lors du transport. défaut de température de la remorque impactant une palette de 18 colis. cette situation concerne uniquement les produits situés sur la palette, et non la totalité du lot. - risque microbiologique",
+        "nl": "rupture de la chaine du froid lors du transport. défaut de température de la remorque impactant une palette de 18 colis. cette situation concerne uniquement les produits situés sur la palette, et non la totalité du lot. - risque microbiologique"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23293/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0176",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "mousse de foie supérieure 200g  neutre",
+        "fr": "mousse de foie supérieure 200g  neutre",
+        "nl": "mousse de foie supérieure 200g  neutre"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23284/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0175",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le foué cuisiné à l’os 4 tranches  240 g paul prédault",
+        "fr": "le foué cuisiné à l’os 4 tranches  240 g paul prédault",
+        "nl": "le foué cuisiné à l’os 4 tranches  240 g paul prédault"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23283/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0174",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "mousse de campagne supérieure 200g neutre",
+        "fr": "mousse de campagne supérieure 200g neutre",
+        "nl": "mousse de campagne supérieure 200g neutre"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23282/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0173",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le mousson - mousse de canard  180 g - paul predault",
+        "fr": "le mousson - mousse de canard  180 g - paul predault",
+        "nl": "le mousson - mousse de canard  180 g - paul predault"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23281/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0172",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "mousse de canard au porto -25% de sel 150g madrange",
+        "fr": "mousse de canard au porto -25% de sel 150g madrange",
+        "nl": "mousse de canard au porto -25% de sel 150g madrange"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23280/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0164",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "sans marque",
+        "fr": "sans marque",
+        "nl": "sans marque"
+      },
+      "description": {
+        "en": "histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23272/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-08-0171",
@@ -713,387 +1091,35 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-08-0121",
-      "source": "RappelConso",
-      "date": "2026-08-19",
+      "id": "nvwa-amburger-2-stuks-van-dekamarkt",
+      "source": "NVWA",
+      "date": "2026-05-27",
       "title": {
-        "en": "truite fumée landvika 2t 60g¤ovive pyrénées minitranche 100g¤ovive france 6t garanties 160g¤ovive normandie 4t 110g¤landvika 4t garanties 100g",
-        "fr": "truite fumée landvika 2t 60g¤ovive pyrénées minitranche 100g¤ovive france 6t garanties 160g¤ovive normandie 4t 110g¤landvika 4t garanties 100g",
-        "nl": "truite fumée landvika 2t 60g¤ovive pyrénées minitranche 100g¤ovive france 6t garanties 160g¤ovive normandie 4t 110g¤landvika 4t garanties 100g"
+        "en": "Veiligheidswaarschuwing Slagers runderhamburger 2 stuks van DekaMarkt",
+        "fr": "Veiligheidswaarschuwing Slagers runderhamburger 2 stuks van DekaMarkt",
+        "nl": "Veiligheidswaarschuwing Slagers runderhamburger 2 stuks van DekaMarkt"
       },
       "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
+        "en": "DekaMarkt waarschuwt voor DekaVers Slagers runderhamburger 2 stuks. Op de verpakking van het product staat mogelijk geen TGT (te gebruiken tot). Eet de runderhamburgers niet als de TGT ontbreekt.\n\nZie de website van DekaMarkt",
+        "fr": "DekaMarkt waarschuwt voor DekaVers Slagers runderhamburger 2 stuks. Op de verpakking van het product staat mogelijk geen TGT (te gebruiken tot). Eet de runderhamburgers niet als de TGT ontbreekt.\n\nZie de website van DekaMarkt",
+        "nl": "DekaMarkt waarschuwt voor DekaVers Slagers runderhamburger 2 stuks. Op de verpakking van het product staat mogelijk geen TGT (te gebruiken tot). Eet de runderhamburgers niet als de TGT ontbreekt.\n\nZie de website van DekaMarkt"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23251/interne",
+      "url": "https://www.nvwa.nl/documenten/2026/05/27/veiligheidswaarschuwing-slagers-runderhamburger-2-stuks-van-dekamarkt",
       "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0123",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "roulés de surimi saveur crabe 300g¤happy surimi rapé saveur crabe 200g¤batonnet de surimi saveur crabe 1kg¤batonnet surimi surimi 500g¤batonnet surimi crabe 200g",
-        "fr": "roulés de surimi saveur crabe 300g¤happy surimi rapé saveur crabe 200g¤batonnet de surimi saveur crabe 1kg¤batonnet surimi surimi 500g¤batonnet surimi crabe 200g",
-        "nl": "roulés de surimi saveur crabe 300g¤happy surimi rapé saveur crabe 200g¤batonnet de surimi saveur crabe 1kg¤batonnet surimi surimi 500g¤batonnet surimi crabe 200g"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23249/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0124",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "émincé de truite fumé asc 100g ronde des mers¤truite de bretagne 4t 120g nos régions ont du talent¤truite fumée aquitaine 120g nos régions ont du talent",
-        "fr": "émincé de truite fumé asc 100g ronde des mers¤truite de bretagne 4t 120g nos régions ont du talent¤truite fumée aquitaine 120g nos régions ont du talent",
-        "nl": "émincé de truite fumé asc 100g ronde des mers¤truite de bretagne 4t 120g nos régions ont du talent¤truite fumée aquitaine 120g nos régions ont du talent"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23248/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0125",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "lardons de saumon fumé 90g¤émincé de saumon fumé bio 100g biovillage¤émincé de saumon aneth asc 100g marque repère¤dés de saumon fumé nature asc 90g ¤petites tranches de saumon fumé 100g ¤¤",
-        "fr": "lardons de saumon fumé 90g¤émincé de saumon fumé bio 100g biovillage¤émincé de saumon aneth asc 100g marque repère¤dés de saumon fumé nature asc 90g ¤petites tranches de saumon fumé 100g ¤¤",
-        "nl": "lardons de saumon fumé 90g¤émincé de saumon fumé bio 100g biovillage¤émincé de saumon aneth asc 100g marque repère¤dés de saumon fumé nature asc 90g ¤petites tranches de saumon fumé 100g ¤¤"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23247/interne",
-      "countries": [
-        "FR"
+        "NL",
+        "BE"
       ],
       "foodGroups": [
         "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0126",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "ktipiti 200g¤guacamole 200g marque repère ¤mini blini *16 135g marque repère ¤rillettes de crabe 150g marque repère ¤blini médium *8 160g marque repère",
-        "fr": "ktipiti 200g¤guacamole 200g marque repère ¤mini blini *16 135g marque repère ¤rillettes de crabe 150g marque repère ¤blini médium *8 160g marque repère",
-        "nl": "ktipiti 200g¤guacamole 200g marque repère ¤mini blini *16 135g marque repère ¤rillettes de crabe 150g marque repère ¤blini médium *8 160g marque repère"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23246/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0127",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "saumon sauvage4 t120g¤filets d'anchois all 65g pot¤filets harengs doux 200g marque repère ¤saumon écosse 4t marque repère ¤saumon fumé norvège 6t asc 210g marque repère",
-        "fr": "saumon sauvage4 t120g¤filets d'anchois all 65g pot¤filets harengs doux 200g marque repère ¤saumon écosse 4t marque repère ¤saumon fumé norvège 6t asc 210g marque repère",
-        "nl": "saumon sauvage4 t120g¤filets d'anchois all 65g pot¤filets harengs doux 200g marque repère ¤saumon écosse 4t marque repère ¤saumon fumé norvège 6t asc 210g marque repère"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23245/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0128",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "tartinable thon 120g marque repère ¤rillettes de saumon asc 150g marque repère ¤rillettes de thon msc 150g marque répère ¤tzatziki 100g marque repère ¤tzatziki 200g marque repère",
-        "fr": "tartinable thon 120g marque repère ¤rillettes de saumon asc 150g marque repère ¤rillettes de thon msc 150g marque répère ¤tzatziki 100g marque repère ¤tzatziki 200g marque repère",
-        "nl": "tartinable thon 120g marque repère ¤rillettes de saumon asc 150g marque repère ¤rillettes de thon msc 150g marque répère ¤tzatziki 100g marque repère ¤tzatziki 200g marque repère"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23244/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0129",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "thon fromage frais 140g¤tarama cabillaud 250g marque repère ¤houmous 200g marque repère ¤mini blini bio *16 135g",
-        "fr": "thon fromage frais 140g¤tarama cabillaud 250g marque repère ¤houmous 200g marque repère ¤mini blini bio *16 135g",
-        "nl": "thon fromage frais 140g¤tarama cabillaud 250g marque repère ¤houmous 200g marque repère ¤mini blini bio *16 135g"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23243/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0130",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "batonnets saveur crabe *24 400g eco+¤batonnets surimi *18 msc 300g marque repère ¤mini batonnet surimi msc 210g marque repère ¤batonnet surimi fpk*24 msc 400g marque repère¤batonnet  surimi *30 msc 500g marque repère",
-        "fr": "batonnets saveur crabe *24 400g eco+¤batonnets surimi *18 msc 300g marque repère ¤mini batonnet surimi msc 210g marque repère ¤batonnet surimi fpk*24 msc 400g marque repère¤batonnet  surimi *30 msc 500g marque repère",
-        "nl": "batonnets saveur crabe *24 400g eco+¤batonnets surimi *18 msc 300g marque repère ¤mini batonnet surimi msc 210g marque repère ¤batonnet surimi fpk*24 msc 400g marque repère¤batonnet  surimi *30 msc 500g marque repère"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23242/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0131",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "harengs hv aro 200g marque repère¤filets de maquereaux fumés poivre 150g marque repère ¤2 haches de saumon ciboulette 200g marque repère ¤truite de mer fumée 4t 120g ¤saumon fumé norvège 4t asc marque repère 140g",
-        "fr": "harengs hv aro 200g marque repère¤filets de maquereaux fumés poivre 150g marque repère ¤2 haches de saumon ciboulette 200g marque repère ¤truite de mer fumée 4t 120g ¤saumon fumé norvège 4t asc marque repère 140g",
-        "nl": "harengs hv aro 200g marque repère¤filets de maquereaux fumés poivre 150g marque repère ¤2 haches de saumon ciboulette 200g marque repère ¤truite de mer fumée 4t 120g ¤saumon fumé norvège 4t asc marque repère 140g"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23241/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0132",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "saumon fumé 2t 60g biovillage¤saumon fumé islande 4t 140g marque repère ¤saumon fumé norvège 8t asc300g marque repère ¤saumon fumé ecosse 8t 300g marque repère ¤saumon fumé 4t 120g bio",
-        "fr": "saumon fumé 2t 60g biovillage¤saumon fumé islande 4t 140g marque repère ¤saumon fumé norvège 8t asc300g marque repère ¤saumon fumé ecosse 8t 300g marque repère ¤saumon fumé 4t 120g bio",
-        "nl": "saumon fumé 2t 60g biovillage¤saumon fumé islande 4t 140g marque repère ¤saumon fumé norvège 8t asc300g marque repère ¤saumon fumé ecosse 8t 300g marque repère ¤saumon fumé 4t 120g bio"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23240/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0133",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "saumon fumé norvège 4t 100g",
-        "fr": "saumon fumé norvège 4t 100g",
-        "nl": "saumon fumé norvège 4t 100g"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23239/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0134",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "houmous extra betterave 175g*6¤tzatziki 200g *6 ¤au fromage frais saumon 140g *6¤blini apéro 125g*9¤guacamole 175g atelier *6",
-        "fr": "houmous extra betterave 175g*6¤tzatziki 200g *6 ¤au fromage frais saumon 140g *6¤blini apéro 125g*9¤guacamole 175g atelier *6",
-        "nl": "houmous extra betterave 175g*6¤tzatziki 200g *6 ¤au fromage frais saumon 140g *6¤blini apéro 125g*9¤guacamole 175g atelier *6"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23238/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0135",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "houmous tomate séchées 175g¤tarama 175g atelier¤houmous 175g atelier ¤tarama 100g msc¤houmous citron 175g atelier",
-        "fr": "houmous tomate séchées 175g¤tarama 175g atelier¤houmous 175g atelier ¤tarama 100g msc¤houmous citron 175g atelier",
-        "nl": "houmous tomate séchées 175g¤tarama 175g atelier¤houmous 175g atelier ¤tarama 100g msc¤houmous citron 175g atelier"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23237/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
         "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
+      "hazardTypes": [
+        "labeling"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "labeling"
     }
   ]
 }
