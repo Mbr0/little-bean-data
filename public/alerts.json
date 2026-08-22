@@ -1,6 +1,298 @@
 {
-  "generated": "2026-08-21T06:05:54.755Z",
+  "generated": "2026-08-22T06:03:59.500Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0186",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "sans objet",
+        "fr": "sans objet",
+        "nl": "sans objet"
+      },
+      "description": {
+        "en": "presence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "presence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "presence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23294/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0093",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "sandwich focaccia courgettes grillees, ricotta, jambon serrano 160g carrefour le marche",
+        "fr": "sandwich focaccia courgettes grillees, ricotta, jambon serrano 160g carrefour le marche",
+        "nl": "sandwich focaccia courgettes grillees, ricotta, jambon serrano 160g carrefour le marche"
+      },
+      "description": {
+        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23297/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0189",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "rond blanc, rond cendré",
+        "fr": "rond blanc, rond cendré",
+        "nl": "rond blanc, rond cendré"
+      },
+      "description": {
+        "en": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23299/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0193",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "jambon cuit a l'os - reflets de france - barquette 180g",
+        "fr": "jambon cuit a l'os - reflets de france - barquette 180g",
+        "nl": "jambon cuit a l'os - reflets de france - barquette 180g"
+      },
+      "description": {
+        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23303/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0194",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "jambon cuit supérieur piment d'espelette - barquette 180g",
+        "fr": "jambon cuit supérieur piment d'espelette - barquette 180g",
+        "nl": "jambon cuit supérieur piment d'espelette - barquette 180g"
+      },
+      "description": {
+        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23304/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0195",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "crevettes entières cuites vrac vannamei - equateur - 30/50",
+        "fr": "crevettes entières cuites vrac vannamei - equateur - 30/50",
+        "nl": "crevettes entières cuites vrac vannamei - equateur - 30/50"
+      },
+      "description": {
+        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23305/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0196",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "crevettes entières cuites réfrigérées monodon mada élevage 30/40  origine du goût  300g",
+        "fr": "crevettes entières cuites réfrigérées monodon mada élevage 30/40  origine du goût  300g",
+        "nl": "crevettes entières cuites réfrigérées monodon mada élevage 30/40  origine du goût  300g"
+      },
+      "description": {
+        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23306/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0191",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "talon de jambon cuit",
+        "fr": "talon de jambon cuit",
+        "nl": "talon de jambon cuit"
+      },
+      "description": {
+        "en": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23301/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0190",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "effeuillade de jambon cuit",
+        "fr": "effeuillade de jambon cuit",
+        "nl": "effeuillade de jambon cuit"
+      },
+      "description": {
+        "en": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23300/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination",
+        "fr": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination",
+        "nl": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination"
+      },
+      "description": {
+        "en": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination.",
+        "fr": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination.",
+        "nl": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromm-family-foods-voluntarily-recalls-turkey-pate-wet-food-dogs-and-diner-classic-milos-meatloaf",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
     {
       "id": "rappelconso-2026-08-0144",
       "source": "RappelConso",
@@ -148,54 +440,26 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "cfia-82493",
+      "id": "cfia-82523",
       "source": "CFIA",
-      "date": "2026-08-17",
+      "date": "2026-08-21",
       "title": {
-        "en": "Various brands of cheese products recalled due to generic E. coli",
-        "fr": "Various brands of cheese products recalled due to generic E. coli",
-        "nl": "Various brands of cheese products recalled due to generic E. coli"
+        "en": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
+        "fr": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
+        "nl": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat"
       },
       "description": {
-        "en": "Various brands of cheese products recalled due to generic E. coli.",
-        "fr": "Various brands of cheese products recalled due to generic E. coli.",
-        "nl": "Various brands of cheese products recalled due to generic E. coli."
+        "en": "The affected product is being recalled from the marketplace because it contains egg, fish, soy, and wheat which are not declared on the label.",
+        "fr": "The affected product is being recalled from the marketplace because it contains egg, fish, soy, and wheat which are not declared on the label.",
+        "nl": "The affected product is being recalled from the marketplace because it contains egg, fish, soy, and wheat which are not declared on the label."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-brands-cheese-products-recalled-due-generic-e-coli",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/kim-phat-brand-seafood-medley-recalled-due-undeclared-egg-fish-soy-and-wheat",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "cfia-82506",
-      "source": "CFIA",
-      "date": "2026-08-19",
-      "title": {
-        "en": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat",
-        "fr": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat",
-        "nl": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat"
-      },
-      "description": {
-        "en": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label.",
-        "fr": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label.",
-        "nl": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/wu-xian-zhai-brand-vegetarian-beef-and-preserved-beancurd-recalled-due-undeclared",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat",
+        "fish",
+        "egg",
         "plant"
       ],
       "pregnancyRelevance": "medium",
@@ -206,6 +470,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-08-0203",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "producteur p861 w33 d3",
+        "fr": "producteur p861 w33 d3",
+        "nl": "producteur p861 w33 d3"
+      },
+      "description": {
+        "en": "la valeur de résidu autorisé pour la substance  flonicamid  a été dépassée - dépassement des limites autorisées de pesticides",
+        "fr": "la valeur de résidu autorisé pour la substance  flonicamid  a été dépassée - dépassement des limites autorisées de pesticides",
+        "nl": "la valeur de résidu autorisé pour la substance  flonicamid  a été dépassée - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23313/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "rappelconso-2026-08-0163",
@@ -237,64 +530,6 @@
       "pregnancySummaryKey": "chemical"
     },
     {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-08-19",
-      "title": {
-        "en": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads",
-        "fr": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads",
-        "nl": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads"
-      },
-      "description": {
-        "en": "Prince Bakery of Bronx, New York is recalling Prince brand Sesame Italian Bread, Large Italian Bread, Large Sesame French Bread, Long Sesame French Bread and Pan de Manteca Spanish Style Bread because they may contain undeclared sesame or milk.  People who have an allergy or severe sensitivity to s",
-        "fr": "Prince Bakery of Bronx, New York is recalling Prince brand Sesame Italian Bread, Large Italian Bread, Large Sesame French Bread, Long Sesame French Bread and Pan de Manteca Spanish Style Bread because they may contain undeclared sesame or milk.  People who have an allergy or severe sensitivity to s",
-        "nl": "Prince Bakery of Bronx, New York is recalling Prince brand Sesame Italian Bread, Large Italian Bread, Large Sesame French Bread, Long Sesame French Bread and Pan de Manteca Spanish Style Bread because they may contain undeclared sesame or milk.  People who have an allergy or severe sensitivity to s"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prince-bakery-inc-issues-allergy-alert-undeclared-milk-and-sesame-prince-bakery-breads",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82492",
-      "source": "CFIA",
-      "date": "2026-08-17",
-      "title": {
-        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard",
-        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard",
-        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard"
-      },
-      "description": {
-        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling and undeclared mustard.",
-        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling and undeclared mustard.",
-        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling and undeclared mustard."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/olymel-brand-cooked-turkey-breast-roast-honey-dijon-recalled-due-incorrect-labelling",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "nvwa--bonen-in-tomatensaus-350-gram",
       "source": "NVWA",
       "date": "2026-05-27",
@@ -318,6 +553,33 @@
       ],
       "pregnancyRelevance": "medium",
       "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82522",
+      "source": "CFIA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones",
+        "fr": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones",
+        "nl": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones"
+      },
+      "description": {
+        "en": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones.",
+        "fr": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones.",
+        "nl": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/onetang-brand-walnut-soft-candy-black-sesame-recalled-due-presence-stones",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
@@ -802,282 +1064,6 @@
         "nl": "rupture de la chaine du froid - autre risque"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/23265/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0110",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "18 batônnets de surimi moelleux¤14 batônnets de surimi ail et fines herbes¤12 bat se surimi moelleux ¤24 bat surimi moelleux¤14 bat surimi mayonnaise¤30 bat surimi moelleux¤14 bat surimi -25% de sel",
-        "fr": "18 batônnets de surimi moelleux¤14 batônnets de surimi ail et fines herbes¤12 bat se surimi moelleux ¤24 bat surimi moelleux¤14 bat surimi mayonnaise¤30 bat surimi moelleux¤14 bat surimi -25% de sel",
-        "nl": "18 batônnets de surimi moelleux¤14 batônnets de surimi ail et fines herbes¤12 bat se surimi moelleux ¤24 bat surimi moelleux¤14 bat surimi mayonnaise¤30 bat surimi moelleux¤14 bat surimi -25% de sel"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23263/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish",
-        "egg"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0111",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "terrine bretonne noix de saint jacques¤terrine saumon saint jacques 2*60g¤tartinable thon formage madame loik",
-        "fr": "terrine bretonne noix de saint jacques¤terrine saumon saint jacques 2*60g¤tartinable thon formage madame loik",
-        "nl": "terrine bretonne noix de saint jacques¤terrine saumon saint jacques 2*60g¤tartinable thon formage madame loik"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23262/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0112",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "truite fumée des pyrénées vendue au rayon libre-service¤truite fumée du pays basque  vendue au rayon libre-service¤truite fumage intense  vendue au rayon libre-service",
-        "fr": "truite fumée des pyrénées vendue au rayon libre-service¤truite fumée du pays basque  vendue au rayon libre-service¤truite fumage intense  vendue au rayon libre-service",
-        "nl": "truite fumée des pyrénées vendue au rayon libre-service¤truite fumée du pays basque  vendue au rayon libre-service¤truite fumage intense  vendue au rayon libre-service"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23260/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0113",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "émietté de maquereaux moutarde150g¤émietté surimi crème 150g¤rillettes thon poivre-vert 150g¤émietté sardine citron 150g¤rillettes sardines-citron 150g¤rillettes maquereaux 150g¤émietté thon chorizo 150g",
-        "fr": "émietté de maquereaux moutarde150g¤émietté surimi crème 150g¤rillettes thon poivre-vert 150g¤émietté sardine citron 150g¤rillettes sardines-citron 150g¤rillettes maquereaux 150g¤émietté thon chorizo 150g",
-        "nl": "émietté de maquereaux moutarde150g¤émietté surimi crème 150g¤rillettes thon poivre-vert 150g¤émietté sardine citron 150g¤rillettes sardines-citron 150g¤rillettes maquereaux 150g¤émietté thon chorizo 150g"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23259/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0114",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "sauce hollandaise 200g¤sauce  beurre blanc 200g¤rouille 100g¤sauce beurre citronnée 200g",
-        "fr": "sauce hollandaise 200g¤sauce  beurre blanc 200g¤rouille 100g¤sauce beurre citronnée 200g",
-        "nl": "sauce hollandaise 200g¤sauce  beurre blanc 200g¤rouille 100g¤sauce beurre citronnée 200g"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23258/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0115",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "saumon élevé en écosse fumé 4t",
-        "fr": "saumon élevé en écosse fumé 4t",
-        "nl": "saumon élevé en écosse fumé 4t"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23257/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0117",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "rillettes thon cap ocean 140g¤rillettes thon msc cap ocean 250g¤rillettes thon cap ocean 150g¤rillettes saumon cap ocean 140g¤rillettes saumon cap ocean 150g",
-        "fr": "rillettes thon cap ocean 140g¤rillettes thon msc cap ocean 250g¤rillettes thon cap ocean 150g¤rillettes saumon cap ocean 140g¤rillettes saumon cap ocean 150g",
-        "nl": "rillettes thon cap ocean 140g¤rillettes thon msc cap ocean 250g¤rillettes thon cap ocean 150g¤rillettes saumon cap ocean 140g¤rillettes saumon cap ocean 150g"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23255/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0118",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "filets de harengs à la crème ¤filets de harengs crème et aneth",
-        "fr": "filets de harengs à la crème ¤filets de harengs crème et aneth",
-        "nl": "filets de harengs à la crème ¤filets de harengs crème et aneth"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23254/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0119",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "truite fumée bretonne 4t¤truite fumée 4t malin¤saumon fumé de norvège 4t",
-        "fr": "truite fumée bretonne 4t¤truite fumée 4t malin¤saumon fumé de norvège 4t",
-        "nl": "truite fumée bretonne 4t¤truite fumée 4t malin¤saumon fumé de norvège 4t"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23253/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0120",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "kubes de saumons fumés apéro aux épices barbecue",
-        "fr": "kubes de saumons fumés apéro aux épices barbecue",
-        "nl": "kubes de saumons fumés apéro aux épices barbecue"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23252/interne",
       "countries": [
         "FR"
       ],
