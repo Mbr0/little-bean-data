@@ -1,6 +1,122 @@
 {
-  "generated": "2026-08-23T06:04:51.566Z",
+  "generated": "2026-08-24T06:08:49.651Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0069",
+      "source": "RappelConso",
+      "date": "2026-08-23",
+      "title": {
+        "en": "brie 3 kg 60%",
+        "fr": "brie 3 kg 60%",
+        "nl": "brie 3 kg 60%"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23139/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0070",
+      "source": "RappelConso",
+      "date": "2026-08-23",
+      "title": {
+        "en": "merlemont coupe - 1.4 kg environ",
+        "fr": "merlemont coupe - 1.4 kg environ",
+        "nl": "merlemont coupe - 1.4 kg environ"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23140/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0071",
+      "source": "RappelConso",
+      "date": "2026-08-23",
+      "title": {
+        "en": "tomme val de saone - 1.3 kg environ",
+        "fr": "tomme val de saone - 1.3 kg environ",
+        "nl": "tomme val de saone - 1.3 kg environ"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23141/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0073",
+      "source": "RappelConso",
+      "date": "2026-08-23",
+      "title": {
+        "en": "brie 3 kg 60% le baron",
+        "fr": "brie 3 kg 60% le baron",
+        "nl": "brie 3 kg 60% le baron"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans d'autre lot du même jour de fabrication - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans d'autre lot du même jour de fabrication - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans d'autre lot du même jour de fabrication - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23143/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-08-0186",
       "source": "RappelConso",
@@ -367,64 +483,6 @@
         "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/23221/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0152",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "comte nrt aop",
-        "fr": "comte nrt aop",
-        "nl": "comte nrt aop"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23223/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0156",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "viande hachée de boeuf du rayon boucherie traditionnel",
-        "fr": "viande hachée de boeuf du rayon boucherie traditionnel",
-        "nl": "viande hachée de boeuf du rayon boucherie traditionnel"
-      },
-      "description": {
-        "en": "detection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "detection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "detection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23235/interne",
       "countries": [
         "FR"
       ],
@@ -1042,33 +1100,6 @@
         "meat",
         "fish",
         "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0109",
-      "source": "RappelConso",
-      "date": "2026-08-19",
-      "title": {
-        "en": "truite fumée pyrénée 4t¤truite aquitaine 4t 120g¤tranche de truite fumée 100g¤ovive bretagne 2t 60g¤ovive aquitaine 2t 60g",
-        "fr": "truite fumée pyrénée 4t¤truite aquitaine 4t 120g¤tranche de truite fumée 100g¤ovive bretagne 2t 60g¤ovive aquitaine 2t 60g",
-        "nl": "truite fumée pyrénée 4t¤truite aquitaine 4t 120g¤tranche de truite fumée 100g¤ovive bretagne 2t 60g¤ovive aquitaine 2t 60g"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid - autre risque",
-        "fr": "rupture de la chaine du froid - autre risque",
-        "nl": "rupture de la chaine du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23265/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
