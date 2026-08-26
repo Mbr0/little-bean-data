@@ -1,23 +1,257 @@
 {
-  "generated": "2026-08-25T06:05:31.049Z",
+  "generated": "2026-08-26T06:06:29.351Z",
   "alerts": [
     {
-      "id": "fda-aHR0cDovL3d3dy5m",
-      "source": "FDA",
-      "date": "2026-08-21",
+      "id": "rappelconso-2026-08-0215",
+      "source": "RappelConso",
+      "date": "2026-08-25",
       "title": {
-        "en": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination",
-        "fr": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination",
-        "nl": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination"
+        "en": "petit brie 500g",
+        "fr": "petit brie 500g",
+        "nl": "petit brie 500g"
       },
       "description": {
-        "en": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination.",
-        "fr": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination.",
-        "nl": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination."
+        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
       },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromm-family-foods-voluntarily-recalls-turkey-pate-wet-food-dogs-and-diner-classic-milos-meatloaf",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23325/interne",
       "countries": [
-        "US"
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0214",
+      "source": "RappelConso",
+      "date": "2026-08-25",
+      "title": {
+        "en": "riz au crabe vendu au stand traiteur :¤produit élaboré par la société loussouarn, manipulé et vendu au rayon traditionnel du magasin e.leclerc de larmor-plage.",
+        "fr": "riz au crabe vendu au stand traiteur :¤produit élaboré par la société loussouarn, manipulé et vendu au rayon traditionnel du magasin e.leclerc de larmor-plage.",
+        "nl": "riz au crabe vendu au stand traiteur :¤produit élaboré par la société loussouarn, manipulé et vendu au rayon traditionnel du magasin e.leclerc de larmor-plage."
+      },
+      "description": {
+        "en": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23324/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0069",
+      "source": "RappelConso",
+      "date": "2026-08-23",
+      "title": {
+        "en": "brie 3 kg 60%",
+        "fr": "brie 3 kg 60%",
+        "nl": "brie 3 kg 60%"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23139/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0070",
+      "source": "RappelConso",
+      "date": "2026-08-23",
+      "title": {
+        "en": "merlemont coupe - 1.4 kg environ",
+        "fr": "merlemont coupe - 1.4 kg environ",
+        "nl": "merlemont coupe - 1.4 kg environ"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23140/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0071",
+      "source": "RappelConso",
+      "date": "2026-08-23",
+      "title": {
+        "en": "tomme val de saone - 1.3 kg environ",
+        "fr": "tomme val de saone - 1.3 kg environ",
+        "nl": "tomme val de saone - 1.3 kg environ"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23141/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0073",
+      "source": "RappelConso",
+      "date": "2026-08-23",
+      "title": {
+        "en": "brie 3 kg 60% le baron",
+        "fr": "brie 3 kg 60% le baron",
+        "nl": "brie 3 kg 60% le baron"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans d'autre lot du même jour de fabrication - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans d'autre lot du même jour de fabrication - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans d'autre lot du même jour de fabrication - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23143/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0093",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "sandwich focaccia courgettes grillees, ricotta, jambon serrano 160g carrefour le marche",
+        "fr": "sandwich focaccia courgettes grillees, ricotta, jambon serrano 160g carrefour le marche",
+        "nl": "sandwich focaccia courgettes grillees, ricotta, jambon serrano 160g carrefour le marche"
+      },
+      "description": {
+        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23297/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0189",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "rond blanc, rond cendré",
+        "fr": "rond blanc, rond cendré",
+        "nl": "rond blanc, rond cendré"
+      },
+      "description": {
+        "en": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23299/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0193",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "jambon cuit a l'os - reflets de france - barquette 180g",
+        "fr": "jambon cuit a l'os - reflets de france - barquette 180g",
+        "nl": "jambon cuit a l'os - reflets de france - barquette 180g"
+      },
+      "description": {
+        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23303/interne",
+      "countries": [
+        "FR"
       ],
       "foodGroups": [
         "meat"
@@ -28,88 +262,349 @@
         "microbial"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
+      "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "cfia-82523",
-      "source": "CFIA",
+      "id": "rappelconso-2026-08-0194",
+      "source": "RappelConso",
       "date": "2026-08-21",
       "title": {
-        "en": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
-        "fr": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
-        "nl": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat"
+        "en": "jambon cuit supérieur piment d'espelette - barquette 180g",
+        "fr": "jambon cuit supérieur piment d'espelette - barquette 180g",
+        "nl": "jambon cuit supérieur piment d'espelette - barquette 180g"
       },
       "description": {
-        "en": "The affected product is being recalled from the marketplace because it contains egg, fish, soy, and wheat which are not declared on the label.",
-        "fr": "The affected product is being recalled from the marketplace because it contains egg, fish, soy, and wheat which are not declared on the label.",
-        "nl": "The affected product is being recalled from the marketplace because it contains egg, fish, soy, and wheat which are not declared on the label."
+        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/kim-phat-brand-seafood-medley-recalled-due-undeclared-egg-fish-soy-and-wheat",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23304/interne",
       "countries": [
-        "CA"
+        "FR"
       ],
       "foodGroups": [
-        "fish",
-        "egg",
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0195",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "crevettes entières cuites vrac vannamei - equateur - 30/50",
+        "fr": "crevettes entières cuites vrac vannamei - equateur - 30/50",
+        "nl": "crevettes entières cuites vrac vannamei - equateur - 30/50"
+      },
+      "description": {
+        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23305/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0196",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "crevettes entières cuites réfrigérées monodon mada élevage 30/40  origine du goût  300g",
+        "fr": "crevettes entières cuites réfrigérées monodon mada élevage 30/40  origine du goût  300g",
+        "nl": "crevettes entières cuites réfrigérées monodon mada élevage 30/40  origine du goût  300g"
+      },
+      "description": {
+        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23306/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0191",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "talon de jambon cuit",
+        "fr": "talon de jambon cuit",
+        "nl": "talon de jambon cuit"
+      },
+      "description": {
+        "en": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23301/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0190",
+      "source": "RappelConso",
+      "date": "2026-08-21",
+      "title": {
+        "en": "effeuillade de jambon cuit",
+        "fr": "effeuillade de jambon cuit",
+        "nl": "effeuillade de jambon cuit"
+      },
+      "description": {
+        "en": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23300/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0144",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "farce a tomate fabriquées sur place",
+        "fr": "farce a tomate fabriquées sur place",
+        "nl": "farce a tomate fabriquées sur place"
+      },
+      "description": {
+        "en": "présence de listéria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogène - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23215/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0167",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "mesclun carrefour le marché - sachet 125 g",
+        "fr": "mesclun carrefour le marché - sachet 125 g",
+        "nl": "mesclun carrefour le marché - sachet 125 g"
+      },
+      "description": {
+        "en": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23275/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0150",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "mini pâté en croûte",
+        "fr": "mini pâté en croûte",
+        "nl": "mini pâté en croûte"
+      },
+      "description": {
+        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23221/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fda-aHR0cDovL3d3dy5m",
+      "source": "FDA",
+      "date": "2026-08-25",
+      "title": {
+        "en": "The Better Bakehouse Snack Company is Recalling Certain Lots of Donutful Chocolate Dipped Vanilla Cake Donuts to Undeclared Milk Allergen",
+        "fr": "The Better Bakehouse Snack Company is Recalling Certain Lots of Donutful Chocolate Dipped Vanilla Cake Donuts to Undeclared Milk Allergen",
+        "nl": "The Better Bakehouse Snack Company is Recalling Certain Lots of Donutful Chocolate Dipped Vanilla Cake Donuts to Undeclared Milk Allergen"
+      },
+      "description": {
+        "en": "Las Vegas, NV – August 24, 2026 – The Better Bakehouse Snack Company is recalling certain lots of Donutful Chocolate Dipped Vanilla Cake Donuts because the product may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening aller",
+        "fr": "Las Vegas, NV – August 24, 2026 – The Better Bakehouse Snack Company is recalling certain lots of Donutful Chocolate Dipped Vanilla Cake Donuts because the product may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening aller",
+        "nl": "Las Vegas, NV – August 24, 2026 – The Better Bakehouse Snack Company is recalling certain lots of Donutful Chocolate Dipped Vanilla Cake Donuts because the product may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening aller"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/better-bakehouse-snack-company-recalling-certain-lots-donutful-chocolate-dipped-vanilla-cake-donuts",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy",
         "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
-        "allergen",
-        "labeling"
+        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "nvwa--bonen-in-tomatensaus-350-gram",
-      "source": "NVWA",
-      "date": "2026-05-27",
+      "id": "rappelconso-2026-08-0203",
+      "source": "RappelConso",
+      "date": "2026-08-21",
       "title": {
-        "en": "Veiligheidswaarschuwing witte bonen in tomatensaus 350 gram",
-        "fr": "Veiligheidswaarschuwing witte bonen in tomatensaus 350 gram",
-        "nl": "Veiligheidswaarschuwing witte bonen in tomatensaus 350 gram"
+        "en": "producteur p861 w33 d3",
+        "fr": "producteur p861 w33 d3",
+        "nl": "producteur p861 w33 d3"
       },
       "description": {
-        "en": "Machandel waarschuwt voor witte bonen in tomatensaus 350 gram. Het product is onvoldoende gesteriliseerd.",
-        "fr": "Machandel waarschuwt voor witte bonen in tomatensaus 350 gram. Het product is onvoldoende gesteriliseerd.",
-        "nl": "Machandel waarschuwt voor witte bonen in tomatensaus 350 gram. Het product is onvoldoende gesteriliseerd."
+        "en": "la valeur de résidu autorisé pour la substance  flonicamid  a été dépassée - dépassement des limites autorisées de pesticides",
+        "fr": "la valeur de résidu autorisé pour la substance  flonicamid  a été dépassée - dépassement des limites autorisées de pesticides",
+        "nl": "la valeur de résidu autorisé pour la substance  flonicamid  a été dépassée - dépassement des limites autorisées de pesticides"
       },
-      "url": "https://www.nvwa.nl/documenten/2026/05/27/veiligheidswaarschuwing-witte-bonen-in-tomatensaus-350-gram",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23313/interne",
       "countries": [
-        "NL",
-        "BE"
+        "FR"
       ],
       "foodGroups": [
         "plant"
       ],
       "pregnancyRelevance": "medium",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "chemical"
     },
     {
-      "id": "cfia-82522",
-      "source": "CFIA",
-      "date": "2026-08-21",
+      "id": "rappelconso-2026-08-0163",
+      "source": "RappelConso",
+      "date": "2026-08-19",
       "title": {
-        "en": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones",
-        "fr": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones",
-        "nl": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones"
+        "en": "melon charentais caissette",
+        "fr": "melon charentais caissette",
+        "nl": "melon charentais caissette"
       },
       "description": {
-        "en": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones.",
-        "fr": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones.",
-        "nl": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones."
+        "en": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/onetang-brand-walnut-soft-candy-black-sesame-recalled-due-presence-stones",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23271/interne",
       "countries": [
-        "CA"
+        "FR"
       ],
       "foodGroups": [
         "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "rappelconso-2026-08-0217",
+      "source": "RappelConso",
+      "date": "2026-08-25",
+      "title": {
+        "en": "lait entier et lait demi-écrémé",
+        "fr": "lait entier et lait demi-écrémé",
+        "nl": "lait entier et lait demi-écrémé"
+      },
+      "description": {
+        "en": "problème de pasteurisation, mauvais goût du lait - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "problème de pasteurisation, mauvais goût du lait - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "problème de pasteurisation, mauvais goût du lait - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23327/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -118,27 +613,376 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "nvwa-amburger-2-stuks-van-dekamarkt",
-      "source": "NVWA",
-      "date": "2026-05-27",
+      "id": "rappelconso-2026-08-0187",
+      "source": "RappelConso",
+      "date": "2026-08-20",
       "title": {
-        "en": "Veiligheidswaarschuwing Slagers runderhamburger 2 stuks van DekaMarkt",
-        "fr": "Veiligheidswaarschuwing Slagers runderhamburger 2 stuks van DekaMarkt",
-        "nl": "Veiligheidswaarschuwing Slagers runderhamburger 2 stuks van DekaMarkt"
+        "en": "mous foie sup vpf 300g u ¤terrine for vpf 180g  u¤mousse foie superieur vpf 2x50g u ¤mousse canard superieur 2x50g u ¤pate campagne superieur vpf 180g u ¤pate campagne superieur vpf 300g u ¤pate campagne superieur vpf 2x50g u ¤mini terrine  mousse ca",
+        "fr": "mous foie sup vpf 300g u ¤terrine for vpf 180g  u¤mousse foie superieur vpf 2x50g u ¤mousse canard superieur 2x50g u ¤pate campagne superieur vpf 180g u ¤pate campagne superieur vpf 300g u ¤pate campagne superieur vpf 2x50g u ¤mini terrine  mousse ca",
+        "nl": "mous foie sup vpf 300g u ¤terrine for vpf 180g  u¤mousse foie superieur vpf 2x50g u ¤mousse canard superieur 2x50g u ¤pate campagne superieur vpf 180g u ¤pate campagne superieur vpf 300g u ¤pate campagne superieur vpf 2x50g u ¤mini terrine  mousse ca"
       },
       "description": {
-        "en": "DekaMarkt waarschuwt voor DekaVers Slagers runderhamburger 2 stuks. Op de verpakking van het product staat mogelijk geen TGT (te gebruiken tot). Eet de runderhamburgers niet als de TGT ontbreekt.\n\nZie de website van DekaMarkt",
-        "fr": "DekaMarkt waarschuwt voor DekaVers Slagers runderhamburger 2 stuks. Op de verpakking van het product staat mogelijk geen TGT (te gebruiken tot). Eet de runderhamburgers niet als de TGT ontbreekt.\n\nZie de website van DekaMarkt",
-        "nl": "DekaMarkt waarschuwt voor DekaVers Slagers runderhamburger 2 stuks. Op de verpakking van het product staat mogelijk geen TGT (te gebruiken tot). Eet de runderhamburgers niet als de TGT ontbreekt.\n\nZie de website van DekaMarkt"
+        "en": "rupture de la chaine du froid pendant le transport - autre risque",
+        "fr": "rupture de la chaine du froid pendant le transport - autre risque",
+        "nl": "rupture de la chaine du froid pendant le transport - autre risque"
       },
-      "url": "https://www.nvwa.nl/documenten/2026/05/27/veiligheidswaarschuwing-slagers-runderhamburger-2-stuks-van-dekamarkt",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23296/interne",
       "countries": [
-        "NL",
-        "BE"
+        "FR"
       ],
       "foodGroups": [
-        "meat",
-        "plant"
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0178",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 2 tranches 80 g madrange ¤",
+        "fr": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 2 tranches 80 g madrange ¤",
+        "nl": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 2 tranches 80 g madrange ¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23286/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0179",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 6 tranches 240 g madrange ¤",
+        "fr": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 6 tranches 240 g madrange ¤",
+        "nl": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 6 tranches 240 g madrange ¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23287/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0180",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon supérieur au torchon sans nitrite 4 tranches 160 g madrange¤",
+        "fr": "le jambon supérieur au torchon sans nitrite 4 tranches 160 g madrange¤",
+        "nl": "le jambon supérieur au torchon sans nitrite 4 tranches 160 g madrange¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23288/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0181",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon gourmand & engagé impact climat réduit sans nitrite 4 tranches 140 g madrange ¤",
+        "fr": "le jambon gourmand & engagé impact climat réduit sans nitrite 4 tranches 140 g madrange ¤",
+        "nl": "le jambon gourmand & engagé impact climat réduit sans nitrite 4 tranches 140 g madrange ¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23289/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0182",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le jambon supérieur cuisiné à l’os sans nitrite 4 tranches 160 g madrange¤",
+        "fr": "le jambon supérieur cuisiné à l’os sans nitrite 4 tranches 160 g madrange¤",
+        "nl": "le jambon supérieur cuisiné à l’os sans nitrite 4 tranches 160 g madrange¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23290/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0177",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le foué jambon cuit supérieur aux 3 poivres 4 tranches  240 g paul prédault¤",
+        "fr": "le foué jambon cuit supérieur aux 3 poivres 4 tranches  240 g paul prédault¤",
+        "nl": "le foué jambon cuit supérieur aux 3 poivres 4 tranches  240 g paul prédault¤"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23285/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0185",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "saumon fumé bio 100g / truite fumée bio 80g / chutes de truite 150g / truite fumée de mer française 100g",
+        "fr": "saumon fumé bio 100g / truite fumée bio 80g / chutes de truite 150g / truite fumée de mer française 100g",
+        "nl": "saumon fumé bio 100g / truite fumée bio 80g / chutes de truite 150g / truite fumée de mer française 100g"
+      },
+      "description": {
+        "en": "rupture de la chaine du froid lors du transport. défaut de température de la remorque impactant une palette de 18 colis. cette situation concerne uniquement les produits situés sur la palette, et non la totalité du lot. - risque microbiologique",
+        "fr": "rupture de la chaine du froid lors du transport. défaut de température de la remorque impactant une palette de 18 colis. cette situation concerne uniquement les produits situés sur la palette, et non la totalité du lot. - risque microbiologique",
+        "nl": "rupture de la chaine du froid lors du transport. défaut de température de la remorque impactant une palette de 18 colis. cette situation concerne uniquement les produits situés sur la palette, et non la totalité du lot. - risque microbiologique"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23293/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0176",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "mousse de foie supérieure 200g  neutre",
+        "fr": "mousse de foie supérieure 200g  neutre",
+        "nl": "mousse de foie supérieure 200g  neutre"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23284/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0175",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le foué cuisiné à l’os 4 tranches  240 g paul prédault",
+        "fr": "le foué cuisiné à l’os 4 tranches  240 g paul prédault",
+        "nl": "le foué cuisiné à l’os 4 tranches  240 g paul prédault"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23283/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0174",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "mousse de campagne supérieure 200g neutre",
+        "fr": "mousse de campagne supérieure 200g neutre",
+        "nl": "mousse de campagne supérieure 200g neutre"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23282/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0173",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "le mousson - mousse de canard  180 g - paul predault",
+        "fr": "le mousson - mousse de canard  180 g - paul predault",
+        "nl": "le mousson - mousse de canard  180 g - paul predault"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23281/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0172",
+      "source": "RappelConso",
+      "date": "2026-08-20",
+      "title": {
+        "en": "mousse de canard au porto -25% de sel 150g madrange",
+        "fr": "mousse de canard au porto -25% de sel 150g madrange",
+        "nl": "mousse de canard au porto -25% de sel 150g madrange"
+      },
+      "description": {
+        "en": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "fr": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque",
+        "nl": "rupture de la chaîne de froid par le transporteur lors du transport vers la plateforme de distribution. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23280/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0171",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "spéculoos beurre salé 6p. et spéculooos beurre salé x2",
+        "fr": "spéculoos beurre salé 6p. et spéculooos beurre salé x2",
+        "nl": "spéculoos beurre salé 6p. et spéculooos beurre salé x2"
+      },
+      "description": {
+        "en": "erreur d' etiquetage avec la mention e171, et ce colorant n' est plus utilisé depuis 2020. - additifs et arômes non autorisés",
+        "fr": "erreur d' etiquetage avec la mention e171, et ce colorant n' est plus utilisé depuis 2020. - additifs et arômes non autorisés",
+        "nl": "erreur d' etiquetage avec la mention e171, et ce colorant n' est plus utilisé depuis 2020. - additifs et arômes non autorisés"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23279/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -147,6 +991,62 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "labeling"
+    },
+    {
+      "id": "rappelconso-2026-08-0166",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "steak hache 100% pur bœuf 800g - surgele",
+        "fr": "steak hache 100% pur bœuf 800g - surgele",
+        "nl": "steak hache 100% pur bœuf 800g - surgele"
+      },
+      "description": {
+        "en": "rupture de chaine du froid lors du transport - autre risque",
+        "fr": "rupture de chaine du froid lors du transport - autre risque",
+        "nl": "rupture de chaine du froid lors du transport - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23274/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-08-0169",
+      "source": "RappelConso",
+      "date": "2026-08-19",
+      "title": {
+        "en": "longe de thon albacore 3/5 kg pêché en océan indien",
+        "fr": "longe de thon albacore 3/5 kg pêché en océan indien",
+        "nl": "longe de thon albacore 3/5 kg pêché en océan indien"
+      },
+      "description": {
+        "en": "non conformité caractéristiques alimentaires - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "non conformité caractéristiques alimentaires - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "non conformité caractéristiques alimentaires - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23277/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     }
   ]
 }
