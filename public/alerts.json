@@ -1,6 +1,93 @@
 {
-  "generated": "2026-08-28T09:00:40.570Z",
+  "generated": "2026-08-29T06:02:27.409Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0238",
+      "source": "RappelConso",
+      "date": "2026-08-28",
+      "title": {
+        "en": "saucisson sec petites tranches 32 tranches - monique ranou - 100g",
+        "fr": "saucisson sec petites tranches 32 tranches - monique ranou - 100g",
+        "nl": "saucisson sec petites tranches 32 tranches - monique ranou - 100g"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23350/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0242",
+      "source": "RappelConso",
+      "date": "2026-08-28",
+      "title": {
+        "en": "paprika en poudre de 450 g, ddm au 30/05/2028",
+        "fr": "paprika en poudre de 450 g, ddm au 30/05/2028",
+        "nl": "paprika en poudre de 450 g, ddm au 30/05/2028"
+      },
+      "description": {
+        "en": "aflatoxin b1 - mycotoxins et ochratoxin a - mycotoxins - autres contaminants chimiques",
+        "fr": "aflatoxin b1 - mycotoxins et ochratoxin a - mycotoxins - autres contaminants chimiques",
+        "nl": "aflatoxin b1 - mycotoxins et ochratoxin a - mycotoxins - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23354/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "rappelconso-2026-08-0239",
+      "source": "RappelConso",
+      "date": "2026-08-28",
+      "title": {
+        "en": "pate sarthois cosme",
+        "fr": "pate sarthois cosme",
+        "nl": "pate sarthois cosme"
+      },
+      "description": {
+        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23351/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-08-0232",
       "source": "RappelConso",
@@ -613,6 +700,35 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-08-0244",
+      "source": "RappelConso",
+      "date": "2026-08-28",
+      "title": {
+        "en": "melon charentais",
+        "fr": "melon charentais",
+        "nl": "melon charentais"
+      },
+      "description": {
+        "en": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23356/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
       "id": "rappelconso-2026-08-0234",
       "source": "RappelConso",
       "date": "2026-08-28",
@@ -915,195 +1031,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0178",
-      "source": "RappelConso",
-      "date": "2026-08-20",
-      "title": {
-        "en": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 2 tranches 80 g madrange ¤",
-        "fr": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 2 tranches 80 g madrange ¤",
-        "nl": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 2 tranches 80 g madrange ¤"
-      },
-      "description": {
-        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23286/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0179",
-      "source": "RappelConso",
-      "date": "2026-08-20",
-      "title": {
-        "en": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 6 tranches 240 g madrange ¤",
-        "fr": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 6 tranches 240 g madrange ¤",
-        "nl": "le jambon supérieur à l’étouffée sans couenne conservation sans nitrite 6 tranches 240 g madrange ¤"
-      },
-      "description": {
-        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23287/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0180",
-      "source": "RappelConso",
-      "date": "2026-08-20",
-      "title": {
-        "en": "le jambon supérieur au torchon sans nitrite 4 tranches 160 g madrange¤",
-        "fr": "le jambon supérieur au torchon sans nitrite 4 tranches 160 g madrange¤",
-        "nl": "le jambon supérieur au torchon sans nitrite 4 tranches 160 g madrange¤"
-      },
-      "description": {
-        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23288/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0181",
-      "source": "RappelConso",
-      "date": "2026-08-20",
-      "title": {
-        "en": "le jambon gourmand & engagé impact climat réduit sans nitrite 4 tranches 140 g madrange ¤",
-        "fr": "le jambon gourmand & engagé impact climat réduit sans nitrite 4 tranches 140 g madrange ¤",
-        "nl": "le jambon gourmand & engagé impact climat réduit sans nitrite 4 tranches 140 g madrange ¤"
-      },
-      "description": {
-        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23289/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0182",
-      "source": "RappelConso",
-      "date": "2026-08-20",
-      "title": {
-        "en": "le jambon supérieur cuisiné à l’os sans nitrite 4 tranches 160 g madrange¤",
-        "fr": "le jambon supérieur cuisiné à l’os sans nitrite 4 tranches 160 g madrange¤",
-        "nl": "le jambon supérieur cuisiné à l’os sans nitrite 4 tranches 160 g madrange¤"
-      },
-      "description": {
-        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23290/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0177",
-      "source": "RappelConso",
-      "date": "2026-08-20",
-      "title": {
-        "en": "le foué jambon cuit supérieur aux 3 poivres 4 tranches  240 g paul prédault¤",
-        "fr": "le foué jambon cuit supérieur aux 3 poivres 4 tranches  240 g paul prédault¤",
-        "nl": "le foué jambon cuit supérieur aux 3 poivres 4 tranches  240 g paul prédault¤"
-      },
-      "description": {
-        "en": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "fr": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque",
-        "nl": "rupture de la chaîne de froid par le transporteur stef niort lors du transport vers la plateforme de distribution. ¤¤ - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23285/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0185",
-      "source": "RappelConso",
-      "date": "2026-08-20",
-      "title": {
-        "en": "saumon fumé bio 100g / truite fumée bio 80g / chutes de truite 150g / truite fumée de mer française 100g",
-        "fr": "saumon fumé bio 100g / truite fumée bio 80g / chutes de truite 150g / truite fumée de mer française 100g",
-        "nl": "saumon fumé bio 100g / truite fumée bio 80g / chutes de truite 150g / truite fumée de mer française 100g"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid lors du transport. défaut de température de la remorque impactant une palette de 18 colis. cette situation concerne uniquement les produits situés sur la palette, et non la totalité du lot. - risque microbiologique",
-        "fr": "rupture de la chaine du froid lors du transport. défaut de température de la remorque impactant une palette de 18 colis. cette situation concerne uniquement les produits situés sur la palette, et non la totalité du lot. - risque microbiologique",
-        "nl": "rupture de la chaine du froid lors du transport. défaut de température de la remorque impactant une palette de 18 colis. cette situation concerne uniquement les produits situés sur la palette, et non la totalité du lot. - risque microbiologique"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23293/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
