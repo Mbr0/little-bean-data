@@ -1,6 +1,35 @@
 {
-  "generated": "2026-09-02T06:03:00.672Z",
+  "generated": "2026-09-02T08:28:00.375Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0037",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "saucisson sec à la coupe maison",
+        "fr": "saucisson sec à la coupe maison",
+        "nl": "saucisson sec à la coupe maison"
+      },
+      "description": {
+        "en": "presence de listeria <10 ufc/g sur un saucisson sec. - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "presence de listeria <10 ufc/g sur un saucisson sec. - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "presence de listeria <10 ufc/g sur un saucisson sec. - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23407/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "cfia-82581",
       "source": "CFIA",
@@ -146,6 +175,35 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "fda-a3fd8130f79c",
+      "source": "FDA",
+      "date": "2026-08-29",
+      "title": {
+        "en": "Northwest Naturals Voluntarily Recalls Two Raw Pet Food Products Because of Possible Salmonella & Listeria Monocytogenes Health Risk",
+        "fr": "Northwest Naturals Voluntarily Recalls Two Raw Pet Food Products Because of Possible Salmonella & Listeria Monocytogenes Health Risk",
+        "nl": "Northwest Naturals Voluntarily Recalls Two Raw Pet Food Products Because of Possible Salmonella & Listeria Monocytogenes Health Risk"
+      },
+      "description": {
+        "en": "Northwest Naturals of Portland, Oregon is voluntarily recalling 53 cases (1,272 lbs.) of Northwest Naturals  Frozen Chicken Recipe (cat food 2 lbs. bag) and 19 cases (684 lbs.) of Northwest Naturals Frozen Raw Diet for Dogs Chicken Recipe (6 lbs. bag) in the two lots identified due to Salmonella and",
+        "fr": "Northwest Naturals of Portland, Oregon is voluntarily recalling 53 cases (1,272 lbs.) of Northwest Naturals  Frozen Chicken Recipe (cat food 2 lbs. bag) and 19 cases (684 lbs.) of Northwest Naturals Frozen Raw Diet for Dogs Chicken Recipe (6 lbs. bag) in the two lots identified due to Salmonella and",
+        "nl": "Northwest Naturals of Portland, Oregon is voluntarily recalling 53 cases (1,272 lbs.) of Northwest Naturals  Frozen Chicken Recipe (cat food 2 lbs. bag) and 19 cases (684 lbs.) of Northwest Naturals Frozen Raw Diet for Dogs Chicken Recipe (6 lbs. bag) in the two lots identified due to Salmonella and"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/northwest-naturals-voluntarily-recalls-two-raw-pet-food-products-because-possible-salmonella",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
       "id": "rappelconso-2026-08-0238",
       "source": "RappelConso",
       "date": "2026-08-28",
@@ -223,6 +281,35 @@
       ],
       "foodGroups": [
         "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fsa-FSA-PRIN-42-2026",
+      "source": "FSA",
+      "date": "2026-08-28",
+      "title": {
+        "en": "Macroom Buffalo Cheese Products recalls Macroom Buffalo Cheese Mozzarella and Macroom Buffalo Cheese Bocconcini because of contamination with Listeria monocytogenes",
+        "fr": "Macroom Buffalo Cheese Products recalls Macroom Buffalo Cheese Mozzarella and Macroom Buffalo Cheese Bocconcini because of contamination with Listeria monocytogenes",
+        "nl": "Macroom Buffalo Cheese Products recalls Macroom Buffalo Cheese Mozzarella and Macroom Buffalo Cheese Bocconcini because of contamination with Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "fr": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "nl": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-42-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -313,6 +400,66 @@
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "nvwa-ing-biologische-brie-van-jumbo",
+      "source": "NVWA",
+      "date": "2026-08-27",
+      "title": {
+        "en": "Veiligheidswaarschuwing Biologische brie van Jumbo",
+        "fr": "Veiligheidswaarschuwing Biologische brie van Jumbo",
+        "nl": "Veiligheidswaarschuwing Biologische brie van Jumbo"
+      },
+      "description": {
+        "en": "Jumbo Supermarkten waarschuwt voor Jumbo Biologische brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt...",
+        "fr": "Jumbo Supermarkten waarschuwt voor Jumbo Biologische brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt...",
+        "nl": "Jumbo Supermarkten waarschuwt voor Jumbo Biologische brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt..."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/08/27/veiligheidswaarschuwing-biologische-brie-van-jumbo",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "children",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "nvwa-wing-biologische-brie-van-plus",
+      "source": "NVWA",
+      "date": "2026-08-27",
+      "title": {
+        "en": "Veiligheidswaarschuwing Biologische brie van PLUS",
+        "fr": "Veiligheidswaarschuwing Biologische brie van PLUS",
+        "nl": "Veiligheidswaarschuwing Biologische brie van PLUS"
+      },
+      "description": {
+        "en": "PLUS waarschuwt voor Biologisch PLUS Brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt afweersysteem. Eet de...",
+        "fr": "PLUS waarschuwt voor Biologisch PLUS Brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt afweersysteem. Eet de...",
+        "nl": "PLUS waarschuwt voor Biologisch PLUS Brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt afweersysteem. Eet de..."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/08/27/veiligheidswaarschuwing-biologische-brie-van-plus",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "children",
       "hazardTypes": [
         "microbial"
       ],
@@ -436,199 +583,114 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0215",
-      "source": "RappelConso",
+      "id": "fsa-FSA-PRIN-41-2026",
+      "source": "FSA",
       "date": "2026-08-25",
       "title": {
-        "en": "petit brie 500g",
-        "fr": "petit brie 500g",
-        "nl": "petit brie 500g"
+        "en": "Tesco recalls Tesco Finest Mozzarella Pearls & Pesto Orzo Salad because of possible contamination with E. coli (STEC)",
+        "fr": "Tesco recalls Tesco Finest Mozzarella Pearls & Pesto Orzo Salad because of possible contamination with E. coli (STEC)",
+        "nl": "Tesco recalls Tesco Finest Mozzarella Pearls & Pesto Orzo Salad because of possible contamination with E. coli (STEC)"
       },
       "description": {
-        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "The possible presence of Shiga toxin-producing E. coli STEC in the product listed above.\nSymptoms caused by STEC organisms include severe diarrhoea with or without blood in the stool, abdominal pain, vomiting, dehydration and sometimes haemolytic uremic syndrome, (HUS), a serious condition that can lead to kidney failure and can be fatal. \nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
+        "fr": "The possible presence of Shiga toxin-producing E. coli STEC in the product listed above.\nSymptoms caused by STEC organisms include severe diarrhoea with or without blood in the stool, abdominal pain, vomiting, dehydration and sometimes haemolytic uremic syndrome, (HUS), a serious condition that can lead to kidney failure and can be fatal. \nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
+        "nl": "The possible presence of Shiga toxin-producing E. coli STEC in the product listed above.\nSymptoms caused by STEC organisms include severe diarrhoea with or without blood in the stool, abdominal pain, vomiting, dehydration and sometimes haemolytic uremic syndrome, (HUS), a serious condition that can lead to kidney failure and can be fatal. \nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23325/interne",
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-41-2026",
       "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0214",
-      "source": "RappelConso",
-      "date": "2026-08-25",
-      "title": {
-        "en": "riz au crabe vendu au stand traiteur :¤produit élaboré par la société loussouarn, manipulé et vendu au rayon traditionnel du magasin e.leclerc de larmor-plage.",
-        "fr": "riz au crabe vendu au stand traiteur :¤produit élaboré par la société loussouarn, manipulé et vendu au rayon traditionnel du magasin e.leclerc de larmor-plage.",
-        "nl": "riz au crabe vendu au stand traiteur :¤produit élaboré par la société loussouarn, manipulé et vendu au rayon traditionnel du magasin e.leclerc de larmor-plage."
-      },
-      "description": {
-        "en": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23324/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0069",
-      "source": "RappelConso",
-      "date": "2026-08-23",
-      "title": {
-        "en": "brie 3 kg 60%",
-        "fr": "brie 3 kg 60%",
-        "nl": "brie 3 kg 60%"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23139/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0070",
-      "source": "RappelConso",
-      "date": "2026-08-23",
-      "title": {
-        "en": "merlemont coupe - 1.4 kg environ",
-        "fr": "merlemont coupe - 1.4 kg environ",
-        "nl": "merlemont coupe - 1.4 kg environ"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23140/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0071",
-      "source": "RappelConso",
-      "date": "2026-08-23",
-      "title": {
-        "en": "tomme val de saone - 1.3 kg environ",
-        "fr": "tomme val de saone - 1.3 kg environ",
-        "nl": "tomme val de saone - 1.3 kg environ"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23141/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0073",
-      "source": "RappelConso",
-      "date": "2026-08-23",
-      "title": {
-        "en": "brie 3 kg 60% le baron",
-        "fr": "brie 3 kg 60% le baron",
-        "nl": "brie 3 kg 60% le baron"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans d'autre lot du même jour de fabrication - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans d'autre lot du même jour de fabrication - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans d'autre lot du même jour de fabrication - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23143/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0093",
-      "source": "RappelConso",
-      "date": "2026-08-21",
-      "title": {
-        "en": "sandwich focaccia courgettes grillees, ricotta, jambon serrano 160g carrefour le marche",
-        "fr": "sandwich focaccia courgettes grillees, ricotta, jambon serrano 160g carrefour le marche",
-        "nl": "sandwich focaccia courgettes grillees, ricotta, jambon serrano 160g carrefour le marche"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23297/interne",
-      "countries": [
-        "FR"
+        "GB"
       ],
       "foodGroups": [
         "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial",
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "fda-dc588496e87d",
+      "source": "FDA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination",
+        "fr": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination",
+        "nl": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination"
+      },
+      "description": {
+        "en": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination.",
+        "fr": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination.",
+        "nl": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromm-family-foods-voluntarily-recalls-turkey-pate-wet-food-dogs-and-diner-classic-milos-meatloaf",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "fsa-FSA-PRIN-40-2026",
+      "source": "FSA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "Summit Foods is recalling various products because of possible contamination with Shiga-toxin producing E. coli (STEC)",
+        "fr": "Summit Foods is recalling various products because of possible contamination with Shiga-toxin producing E. coli (STEC)",
+        "nl": "Summit Foods is recalling various products because of possible contamination with Shiga-toxin producing E. coli (STEC)"
+      },
+      "description": {
+        "en": "The possible presence of Shiga toxin-producing E. coli (STEC) in the products listed above.\nSymptoms caused by STEC can include severe diarrhoea (including bloody diarrhoea), abdominal pain and occasionally haemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure and can be fatal.\nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
+        "fr": "The possible presence of Shiga toxin-producing E. coli (STEC) in the products listed above.\nSymptoms caused by STEC can include severe diarrhoea (including bloody diarrhoea), abdominal pain and occasionally haemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure and can be fatal.\nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
+        "nl": "The possible presence of Shiga toxin-producing E. coli (STEC) in the products listed above.\nSymptoms caused by STEC can include severe diarrhoea (including bloody diarrhoea), abdominal pain and occasionally haemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure and can be fatal.\nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-40-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial",
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "fda-51b5310f24f9",
+      "source": "FDA",
+      "date": "2026-08-18",
+      "title": {
+        "en": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
+        "fr": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
+        "nl": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination"
+      },
+      "description": {
+        "en": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
+        "fr": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
+        "nl": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-dreyers-grand-ice-cream-inc-issues-voluntary-recall-select-outshine-fruit-bars-due-possible",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
         "dairy",
         "plant"
       ],
@@ -638,25 +700,85 @@
         "microbial"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "rappelconso-2026-08-0189",
-      "source": "RappelConso",
-      "date": "2026-08-21",
+      "id": "fsa-FSA-PRIN-39-2026",
+      "source": "FSA",
+      "date": "2026-08-10",
       "title": {
-        "en": "rond blanc, rond cendré",
-        "fr": "rond blanc, rond cendré",
-        "nl": "rond blanc, rond cendré"
+        "en": "A.Vogel Ltd recalls Rapunzel bioSnacky Das Original Red Clover – Seeds for Sprouts and Seedlings because of contamination with E. coli (STEC)",
+        "fr": "A.Vogel Ltd recalls Rapunzel bioSnacky Das Original Red Clover – Seeds for Sprouts and Seedlings because of contamination with E. coli (STEC)",
+        "nl": "A.Vogel Ltd recalls Rapunzel bioSnacky Das Original Red Clover – Seeds for Sprouts and Seedlings because of contamination with E. coli (STEC)"
       },
       "description": {
-        "en": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "The presence of Shiga toxin-producing E. coli (STEC) in the product listed above.\nSymptoms can include severe diarrhoea (including bloody diarrhoea), abdominal pain and occasionally haemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure and can be fatal.\nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
+        "fr": "The presence of Shiga toxin-producing E. coli (STEC) in the product listed above.\nSymptoms can include severe diarrhoea (including bloody diarrhoea), abdominal pain and occasionally haemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure and can be fatal.\nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
+        "nl": "The presence of Shiga toxin-producing E. coli (STEC) in the product listed above.\nSymptoms can include severe diarrhoea (including bloody diarrhoea), abdominal pain and occasionally haemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure and can be fatal.\nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23299/interne",
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-39-2026",
       "countries": [
-        "FR"
+        "GB"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial",
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "nvwa-na-kebab-en-wahid-rundergehakt",
+      "source": "NVWA",
+      "date": "2026-07-09",
+      "title": {
+        "en": "Veiligheidswaarschuwing Wahid Adana Kebab en Wahid Rundergehakt",
+        "fr": "Veiligheidswaarschuwing Wahid Adana Kebab en Wahid Rundergehakt",
+        "nl": "Veiligheidswaarschuwing Wahid Adana Kebab en Wahid Rundergehakt"
+      },
+      "description": {
+        "en": "Picnic waarschuwt voor Wahid Adana Kebab en Wahid Rundergehakt. De producten bevatten mogelijk salmonella. Eet de producten niet. Zie de website van Picnic",
+        "fr": "Picnic waarschuwt voor Wahid Adana Kebab en Wahid Rundergehakt. De producten bevatten mogelijk salmonella. Eet de producten niet. Zie de website van Picnic",
+        "nl": "Picnic waarschuwt voor Wahid Adana Kebab en Wahid Rundergehakt. De producten bevatten mogelijk salmonella. Eet de producten niet. Zie de website van Picnic"
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/09/veiligheidswaarschuwing-wahid-adana-kebab-en-wahid-rundergehakt",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fsa-FSA-PRIN-33-2026",
+      "source": "FSA",
+      "date": "2026-07-08",
+      "title": {
+        "en": "M&S recalls M&S Food Truffle Gouda due to the presence of Listeria Monocytogenes",
+        "fr": "M&S recalls M&S Food Truffle Gouda due to the presence of Listeria Monocytogenes",
+        "nl": "M&S recalls M&S Food Truffle Gouda due to the presence of Listeria Monocytogenes"
+      },
+      "description": {
+        "en": "The presence of Listeria monocytogenes in the product listed in the table above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "fr": "The presence of Listeria monocytogenes in the product listed in the table above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "nl": "The presence of Listeria monocytogenes in the product listed in the table above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-33-2026",
+      "countries": [
+        "GB"
       ],
       "foodGroups": [
         "dairy"
@@ -670,22 +792,52 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0193",
-      "source": "RappelConso",
-      "date": "2026-08-21",
+      "id": "nvwa-iz-rundergehakt-halal-500-gram",
+      "source": "NVWA",
+      "date": "2026-07-01",
       "title": {
-        "en": "jambon cuit a l'os - reflets de france - barquette 180g",
-        "fr": "jambon cuit a l'os - reflets de france - barquette 180g",
-        "nl": "jambon cuit a l'os - reflets de france - barquette 180g"
+        "en": "Veiligheidswaarschuwing Lezziz rundergehakt halal 500 gram",
+        "fr": "Veiligheidswaarschuwing Lezziz rundergehakt halal 500 gram",
+        "nl": "Veiligheidswaarschuwing Lezziz rundergehakt halal 500 gram"
       },
       "description": {
-        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "Jumbo waarschuwt voor Lezziz rundergehakt halal 500 gram. Het product kan mogelijk salmonella bevatten. Eet dit product niet.",
+        "fr": "Jumbo waarschuwt voor Lezziz rundergehakt halal 500 gram. Het product kan mogelijk salmonella bevatten. Eet dit product niet.",
+        "nl": "Jumbo waarschuwt voor Lezziz rundergehakt halal 500 gram. Het product kan mogelijk salmonella bevatten. Eet dit product niet."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23303/interne",
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/01/veiligheidswaarschuwing-lezziz-rundergehakt-halal-500-gram",
       "countries": [
-        "FR"
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fsa-FSA-PRIN-32-2026",
+      "source": "FSA",
+      "date": "2026-07-01",
+      "title": {
+        "en": "O’Brien Fine Foods recalls ham products because of possible contamination with Listeria monocytogenes",
+        "fr": "O’Brien Fine Foods recalls ham products because of possible contamination with Listeria monocytogenes",
+        "nl": "O’Brien Fine Foods recalls ham products because of possible contamination with Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The possible presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "fr": "The possible presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "nl": "The possible presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-32-2026",
+      "countries": [
+        "GB"
       ],
       "foodGroups": [
         "meat"
@@ -699,22 +851,23 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0194",
-      "source": "RappelConso",
-      "date": "2026-08-21",
+      "id": "nvwa-t-500-gram-van-anur-halal-food",
+      "source": "NVWA",
+      "date": "2026-06-30",
       "title": {
-        "en": "jambon cuit supérieur piment d'espelette - barquette 180g",
-        "fr": "jambon cuit supérieur piment d'espelette - barquette 180g",
-        "nl": "jambon cuit supérieur piment d'espelette - barquette 180g"
+        "en": "Veiligheidswaarschuwing Wahid rundergehakt 500 gram van Anur Halal Food",
+        "fr": "Veiligheidswaarschuwing Wahid rundergehakt 500 gram van Anur Halal Food",
+        "nl": "Veiligheidswaarschuwing Wahid rundergehakt 500 gram van Anur Halal Food"
       },
       "description": {
-        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "DekaMarkt waarschuwt voor Wahid rundergehakt 500 gram van Anur met houdbaarheidsdatum 04-07-2026. Het product kan mogelijk Salmonella bevatten. Eet dit product niet.",
+        "fr": "DekaMarkt waarschuwt voor Wahid rundergehakt 500 gram van Anur met houdbaarheidsdatum 04-07-2026. Het product kan mogelijk Salmonella bevatten. Eet dit product niet.",
+        "nl": "DekaMarkt waarschuwt voor Wahid rundergehakt 500 gram van Anur met houdbaarheidsdatum 04-07-2026. Het product kan mogelijk Salmonella bevatten. Eet dit product niet."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23304/interne",
+      "url": "https://www.nvwa.nl/documenten/2026/06/30/veiligheidswaarschuwing-wahid-rundergehakt-500-gram-van-anur-halal-food",
       "countries": [
-        "FR"
+        "NL",
+        "BE"
       ],
       "foodGroups": [
         "meat"
@@ -725,28 +878,28 @@
         "microbial"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-08-0195",
-      "source": "RappelConso",
-      "date": "2026-08-21",
+      "id": "fsa-FSA-PRIN-28-2026-update-1",
+      "source": "FSA",
+      "date": "2026-06-24",
       "title": {
-        "en": "crevettes entières cuites vrac vannamei - equateur - 30/50",
-        "fr": "crevettes entières cuites vrac vannamei - equateur - 30/50",
-        "nl": "crevettes entières cuites vrac vannamei - equateur - 30/50"
+        "en": "Update 1: Traditional Cheese Company recalls French Bries because of contamination with Listeria monocytogenes",
+        "fr": "Update 1: Traditional Cheese Company recalls French Bries because of contamination with Listeria monocytogenes",
+        "nl": "Update 1: Traditional Cheese Company recalls French Bries because of contamination with Listeria monocytogenes"
       },
       "description": {
-        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "fr": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "nl": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23305/interne",
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-28-2026-update-1",
       "countries": [
-        "FR"
+        "GB"
       ],
       "foodGroups": [
-        "fish"
+        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -757,25 +910,54 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0196",
-      "source": "RappelConso",
-      "date": "2026-08-21",
+      "id": "fsa-FSA-PRIN-29-2026",
+      "source": "FSA",
+      "date": "2026-06-23",
       "title": {
-        "en": "crevettes entières cuites réfrigérées monodon mada élevage 30/40  origine du goût  300g",
-        "fr": "crevettes entières cuites réfrigérées monodon mada élevage 30/40  origine du goût  300g",
-        "nl": "crevettes entières cuites réfrigérées monodon mada élevage 30/40  origine du goût  300g"
+        "en": "Prepworld recalls fruit products because of possible contamination with Salmonella",
+        "fr": "Prepworld recalls fruit products because of possible contamination with Salmonella",
+        "nl": "Prepworld recalls fruit products because of possible contamination with Salmonella"
       },
       "description": {
-        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "The possible presence of Salmonella in the products listed above. Symptoms caused by Salmonella usually include fever, diarrhoea and abdominal cramps. If you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
+        "fr": "The possible presence of Salmonella in the products listed above. Symptoms caused by Salmonella usually include fever, diarrhoea and abdominal cramps. If you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
+        "nl": "The possible presence of Salmonella in the products listed above. Symptoms caused by Salmonella usually include fever, diarrhoea and abdominal cramps. If you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23306/interne",
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-29-2026",
       "countries": [
-        "FR"
+        "GB"
       ],
       "foodGroups": [
-        "fish"
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fsa-FSA-PRIN-28-2026",
+      "source": "FSA",
+      "date": "2026-06-19",
+      "title": {
+        "en": "Traditional Cheese Company recalls French Bries because of contamination with Listeria monocytogenes",
+        "fr": "Traditional Cheese Company recalls French Bries because of contamination with Listeria monocytogenes",
+        "nl": "Traditional Cheese Company recalls French Bries because of contamination with Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "fr": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "nl": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-28-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -784,6 +966,34 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "nvwa--bevroren-oesters-van-surasang",
+      "source": "NVWA",
+      "date": "2026-06-12",
+      "title": {
+        "en": "Veiligheidswaarschuwing Bevroren Oesters van Surasang",
+        "fr": "Veiligheidswaarschuwing Bevroren Oesters van Surasang",
+        "nl": "Veiligheidswaarschuwing Bevroren Oesters van Surasang"
+      },
+      "description": {
+        "en": "Update 16 juni 2026: De lijst met THT-datums van dit product is uitgebreid. Asia Express Food B.V. waarschuwt voor Bevroren Oesters van het merk Surasang. Uit onderzoek is gebleken dat dit product mogelijk het norovirus bevat. Daarnaast staat op...",
+        "fr": "Update 16 juni 2026: De lijst met THT-datums van dit product is uitgebreid. Asia Express Food B.V. waarschuwt voor Bevroren Oesters van het merk Surasang. Uit onderzoek is gebleken dat dit product mogelijk het norovirus bevat. Daarnaast staat op...",
+        "nl": "Update 16 juni 2026: De lijst met THT-datums van dit product is uitgebreid. Asia Express Food B.V. waarschuwt voor Bevroren Oesters van het merk Surasang. Uit onderzoek is gebleken dat dit product mogelijk het norovirus bevat. Daarnaast staat op..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/06/12/veiligheidswaarschuwing-bevroren-oesters-van-surasang",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "microbial"
     },
     {
       "id": "cfia-82572",
@@ -817,7 +1027,7 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fda-aHR0cDovL3d3dy5m",
+      "id": "fda-3080ced49cc3",
       "source": "FDA",
       "date": "2026-08-31",
       "title": {
@@ -905,22 +1115,256 @@
       "pregnancySummaryKey": "chemical"
     },
     {
-      "id": "rappelconso-2026-08-0203",
-      "source": "RappelConso",
-      "date": "2026-08-21",
+      "id": "fda-388a2ee3e39b",
+      "source": "FDA",
+      "date": "2026-08-27",
       "title": {
-        "en": "producteur p861 w33 d3",
-        "fr": "producteur p861 w33 d3",
-        "nl": "producteur p861 w33 d3"
+        "en": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary  Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of  Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
+        "fr": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary  Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of  Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
+        "nl": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary  Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of  Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)"
       },
       "description": {
-        "en": "la valeur de résidu autorisé pour la substance  flonicamid  a été dépassée - dépassement des limites autorisées de pesticides",
-        "fr": "la valeur de résidu autorisé pour la substance  flonicamid  a été dépassée - dépassement des limites autorisées de pesticides",
-        "nl": "la valeur de résidu autorisé pour la substance  flonicamid  a été dépassée - dépassement des limites autorisées de pesticides"
+        "en": "FOR IMMEDIATE RELEASE - August 27, 2026 - Davie, Florida – Ana Salazar Modela Tu Cuerpo Inc. is recalling Lipofit Extreme Fat Burner 2.0, Lot 25M12F, expiration date 09/2027, to the consumer level. The Food and Drug Administration (FDA) laboratory analysis has found Lipofit Extreme Fat Burner 2.0 to",
+        "fr": "FOR IMMEDIATE RELEASE - August 27, 2026 - Davie, Florida – Ana Salazar Modela Tu Cuerpo Inc. is recalling Lipofit Extreme Fat Burner 2.0, Lot 25M12F, expiration date 09/2027, to the consumer level. The Food and Drug Administration (FDA) laboratory analysis has found Lipofit Extreme Fat Burner 2.0 to",
+        "nl": "FOR IMMEDIATE RELEASE - August 27, 2026 - Davie, Florida – Ana Salazar Modela Tu Cuerpo Inc. is recalling Lipofit Extreme Fat Burner 2.0, Lot 25M12F, expiration date 09/2027, to the consumer level. The Food and Drug Administration (FDA) laboratory analysis has found Lipofit Extreme Fat Burner 2.0 to"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23313/interne",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
       "countries": [
-        "FR"
+        "US"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-0789054bbcb4",
+      "source": "FDA",
+      "date": "2026-08-25",
+      "title": {
+        "en": "Jaime’s Foods ATX Issues Allergy Alert on Undeclared Egg Allergen in Jaime’s Spanish Village Jalapeno Ranch",
+        "fr": "Jaime’s Foods ATX Issues Allergy Alert on Undeclared Egg Allergen in Jaime’s Spanish Village Jalapeno Ranch",
+        "nl": "Jaime’s Foods ATX Issues Allergy Alert on Undeclared Egg Allergen in Jaime’s Spanish Village Jalapeno Ranch"
+      },
+      "description": {
+        "en": "Jaime’s Foods ATX of Austin, TEXAS is recalling Jaime’s Spanish Village Jalapeno Ranch because it contains undeclared eggs. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consume this product.",
+        "fr": "Jaime’s Foods ATX of Austin, TEXAS is recalling Jaime’s Spanish Village Jalapeno Ranch because it contains undeclared eggs. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consume this product.",
+        "nl": "Jaime’s Foods ATX of Austin, TEXAS is recalling Jaime’s Spanish Village Jalapeno Ranch because it contains undeclared eggs. People who have an allergy or severe sensitivity to eggs run the risk of serious or life-threatening allergic reaction if they consume this product."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/jaimes-foods-atx-issues-allergy-alert-undeclared-egg-allergen-jaimes-spanish-village-jalapeno-ranch",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-0d6a751e824f",
+      "source": "FDA",
+      "date": "2026-08-25",
+      "title": {
+        "en": "The Better Bakehouse Snack Company is Recalling Certain Lots of Donutful Chocolate Dipped Vanilla Cake Donuts to Undeclared Milk Allergen",
+        "fr": "The Better Bakehouse Snack Company is Recalling Certain Lots of Donutful Chocolate Dipped Vanilla Cake Donuts to Undeclared Milk Allergen",
+        "nl": "The Better Bakehouse Snack Company is Recalling Certain Lots of Donutful Chocolate Dipped Vanilla Cake Donuts to Undeclared Milk Allergen"
+      },
+      "description": {
+        "en": "Las Vegas, NV – August 24, 2026 – The Better Bakehouse Snack Company is recalling certain lots of Donutful Chocolate Dipped Vanilla Cake Donuts because the product may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening aller",
+        "fr": "Las Vegas, NV – August 24, 2026 – The Better Bakehouse Snack Company is recalling certain lots of Donutful Chocolate Dipped Vanilla Cake Donuts because the product may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening aller",
+        "nl": "Las Vegas, NV – August 24, 2026 – The Better Bakehouse Snack Company is recalling certain lots of Donutful Chocolate Dipped Vanilla Cake Donuts because the product may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening aller"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/better-bakehouse-snack-company-recalling-certain-lots-donutful-chocolate-dipped-vanilla-cake-donuts",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-bb1dec5ee720",
+      "source": "FDA",
+      "date": "2026-08-19",
+      "title": {
+        "en": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads",
+        "fr": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads",
+        "nl": "Prince Bakery Inc Issues Allergy Alert on Undeclared Milk and Sesame in Prince Bakery Breads"
+      },
+      "description": {
+        "en": "Prince Bakery of Bronx, New York is recalling Prince brand Sesame Italian Bread, Large Italian Bread, Large Sesame French Bread, Long Sesame French Bread and Pan de Manteca Spanish Style Bread because they may contain undeclared sesame or milk.  People who have an allergy or severe sensitivity to s",
+        "fr": "Prince Bakery of Bronx, New York is recalling Prince brand Sesame Italian Bread, Large Italian Bread, Large Sesame French Bread, Long Sesame French Bread and Pan de Manteca Spanish Style Bread because they may contain undeclared sesame or milk.  People who have an allergy or severe sensitivity to s",
+        "nl": "Prince Bakery of Bronx, New York is recalling Prince brand Sesame Italian Bread, Large Italian Bread, Large Sesame French Bread, Long Sesame French Bread and Pan de Manteca Spanish Style Bread because they may contain undeclared sesame or milk.  People who have an allergy or severe sensitivity to s"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prince-bakery-inc-issues-allergy-alert-undeclared-milk-and-sesame-prince-bakery-breads",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-40-2026",
+      "source": "FSA",
+      "date": "2026-07-31",
+      "title": {
+        "en": "ASR Solutions Ltd recalls Lay's Sour Cream & Dill Crisps because of undeclared allergens",
+        "fr": "ASR Solutions Ltd recalls Lay's Sour Cream & Dill Crisps because of undeclared allergens",
+        "nl": "ASR Solutions Ltd recalls Lay's Sour Cream & Dill Crisps because of undeclared allergens"
+      },
+      "description": {
+        "en": "Allergens: Milk and Wheat (Gluten)\nThe product contains milk and wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents, wheat or gluten, or with coeliac disease.",
+        "fr": "Allergens: Milk and Wheat (Gluten)\nThe product contains milk and wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents, wheat or gluten, or with coeliac disease.",
+        "nl": "Allergens: Milk and Wheat (Gluten)\nThe product contains milk and wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents, wheat or gluten, or with coeliac disease."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-40-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-39-2026",
+      "source": "FSA",
+      "date": "2026-07-25",
+      "title": {
+        "en": "Bon Bons Wholesale Ltd recalls various chocolate products because of undeclared milk and soya",
+        "fr": "Bon Bons Wholesale Ltd recalls various chocolate products because of undeclared milk and soya",
+        "nl": "Bon Bons Wholesale Ltd recalls various chocolate products because of undeclared milk and soya"
+      },
+      "description": {
+        "en": "Milk and soya\nThese products contain milk and soya making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents and/or an allergy to soya.",
+        "fr": "Milk and soya\nThese products contain milk and soya making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents and/or an allergy to soya.",
+        "nl": "Milk and soya\nThese products contain milk and soya making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents and/or an allergy to soya."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-39-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-38-2026-update-1",
+      "source": "FSA",
+      "date": "2026-07-18",
+      "title": {
+        "en": "Update 1: PepsiCo recalls Doritos Chilli Heatwave because of undeclared milk",
+        "fr": "Update 1: PepsiCo recalls Doritos Chilli Heatwave because of undeclared milk",
+        "nl": "Update 1: PepsiCo recalls Doritos Chilli Heatwave because of undeclared milk"
+      },
+      "description": {
+        "en": "Allergen: Milk\nThis product contains milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "fr": "Allergen: Milk\nThis product contains milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "nl": "Allergen: Milk\nThis product contains milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-38-2026-update-1",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-38-2026",
+      "source": "FSA",
+      "date": "2026-07-17",
+      "title": {
+        "en": "PepsiCo recalls Doritos Chilli Heatwave because of undeclared milk",
+        "fr": "PepsiCo recalls Doritos Chilli Heatwave because of undeclared milk",
+        "nl": "PepsiCo recalls Doritos Chilli Heatwave because of undeclared milk"
+      },
+      "description": {
+        "en": "Allergen: Milk\nThis product contains milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "fr": "Allergen: Milk\nThis product contains milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "nl": "Allergen: Milk\nThis product contains milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-38-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "nvwa-s-tomaten-mozzerella-schnitzel",
+      "source": "NVWA",
+      "date": "2026-07-15",
+      "title": {
+        "en": "Veiligheidswaarschuwing Valess Tomaten Mozzerella Schnitzel (allergenen)",
+        "fr": "Veiligheidswaarschuwing Valess Tomaten Mozzerella Schnitzel (allergenen)",
+        "nl": "Veiligheidswaarschuwing Valess Tomaten Mozzerella Schnitzel (allergenen)"
+      },
+      "description": {
+        "en": "FrieslandCampina waarschuwt voor Valess Tomaten Mozzerella Schnitzel. In de verpakking zit een ander product, namelijk de Valess Saté Schnitzel pindavrij. Dit product bevat soja, maar dat staat niet op het etiket vermeld. Eet het product niet als...",
+        "fr": "FrieslandCampina waarschuwt voor Valess Tomaten Mozzerella Schnitzel. In de verpakking zit een ander product, namelijk de Valess Saté Schnitzel pindavrij. Dit product bevat soja, maar dat staat niet op het etiket vermeld. Eet het product niet als...",
+        "nl": "FrieslandCampina waarschuwt voor Valess Tomaten Mozzerella Schnitzel. In de verpakking zit een ander product, namelijk de Valess Saté Schnitzel pindavrij. Dit product bevat soja, maar dat staat niet op het etiket vermeld. Eet het product niet als..."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/15/veiligheidswaarschuwing-valess-tomaten-mozzerella-schnitzel",
+      "countries": [
+        "NL",
+        "BE"
       ],
       "foodGroups": [
         "plant"
@@ -928,10 +1372,409 @@
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
-        "chemical"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-37-2026",
+      "source": "FSA",
+      "date": "2026-07-14",
+      "title": {
+        "en": "Lidl Northern Ireland recalls 1001 Delights Dubai Style Pistachio Ice Cream because of undeclared cashew (nuts)",
+        "fr": "Lidl Northern Ireland recalls 1001 Delights Dubai Style Pistachio Ice Cream because of undeclared cashew (nuts)",
+        "nl": "Lidl Northern Ireland recalls 1001 Delights Dubai Style Pistachio Ice Cream because of undeclared cashew (nuts)"
+      },
+      "description": {
+        "en": "This product contains cashew (nuts) making it a possible health risk for anyone with an allergy to cashews.",
+        "fr": "This product contains cashew (nuts) making it a possible health risk for anyone with an allergy to cashews.",
+        "nl": "This product contains cashew (nuts) making it a possible health risk for anyone with an allergy to cashews."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-37-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "nvwa-bos-pokebowl-tonijn-allergenen",
+      "source": "NVWA",
+      "date": "2026-07-09",
+      "title": {
+        "en": "Veiligheidswaarschuwing Jumbo's Pokébowl Tonijn (allergenen)",
+        "fr": "Veiligheidswaarschuwing Jumbo's Pokébowl Tonijn (allergenen)",
+        "nl": "Veiligheidswaarschuwing Jumbo's Pokébowl Tonijn (allergenen)"
+      },
+      "description": {
+        "en": "Jumbo waarschuwt voor Jumbo's Pokébowl Tonijn. Het product bevat mogelijk een onjuist etiket, waardoor de allergenen vis en sesam niet worden vermeld.",
+        "fr": "Jumbo waarschuwt voor Jumbo's Pokébowl Tonijn. Het product bevat mogelijk een onjuist etiket, waardoor de allergenen vis en sesam niet worden vermeld.",
+        "nl": "Jumbo waarschuwt voor Jumbo's Pokébowl Tonijn. Het product bevat mogelijk een onjuist etiket, waardoor de allergenen vis en sesam niet worden vermeld."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/09/veiligheidswaarschuwing-jumbos-pokebowl-tonijn-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-35-2026",
+      "source": "FSA",
+      "date": "2026-07-03",
+      "title": {
+        "en": "Dundeis UK Ltd recalls Minton & Donello Organic White Orzo because of undeclared wheat (gluten)",
+        "fr": "Dundeis UK Ltd recalls Minton & Donello Organic White Orzo because of undeclared wheat (gluten)",
+        "nl": "Dundeis UK Ltd recalls Minton & Donello Organic White Orzo because of undeclared wheat (gluten)"
+      },
+      "description": {
+        "en": "Wheat (gluten) \n \nThis product contains wheat making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten or with coeliac disease.",
+        "fr": "Wheat (gluten) \n \nThis product contains wheat making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten or with coeliac disease.",
+        "nl": "Wheat (gluten) \n \nThis product contains wheat making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten or with coeliac disease."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-35-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-34-2026",
+      "source": "FSA",
+      "date": "2026-06-30",
+      "title": {
+        "en": "SPAR UK recalls Clayton Park Kitchen Chicken & Mushroom sauce because of undeclared soya  ",
+        "fr": "SPAR UK recalls Clayton Park Kitchen Chicken & Mushroom sauce because of undeclared soya  ",
+        "nl": "SPAR UK recalls Clayton Park Kitchen Chicken & Mushroom sauce because of undeclared soya  "
+      },
+      "description": {
+        "en": "Soya\nThis product may contain soya, making it a possible health risk for anyone with an allergy to soya.",
+        "fr": "Soya\nThis product may contain soya, making it a possible health risk for anyone with an allergy to soya.",
+        "nl": "Soya\nThis product may contain soya, making it a possible health risk for anyone with an allergy to soya."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-34-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-33-2026",
+      "source": "FSA",
+      "date": "2026-06-27",
+      "title": {
+        "en": "Morrisons recalls Morrisons Maple & Bacon Back of the Net because of undeclared milk",
+        "fr": "Morrisons recalls Morrisons Maple & Bacon Back of the Net because of undeclared milk",
+        "nl": "Morrisons recalls Morrisons Maple & Bacon Back of the Net because of undeclared milk"
+      },
+      "description": {
+        "en": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "fr": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "nl": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-33-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-32-2026",
+      "source": "FSA",
+      "date": "2026-06-24",
+      "title": {
+        "en": "Morrisons recalls Morrisons Coronation Chicken Pasta because of undeclared milk",
+        "fr": "Morrisons recalls Morrisons Coronation Chicken Pasta because of undeclared milk",
+        "nl": "Morrisons recalls Morrisons Coronation Chicken Pasta because of undeclared milk"
+      },
+      "description": {
+        "en": "Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
+        "fr": "Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
+        "nl": "Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-32-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-30-2026",
+      "source": "FSA",
+      "date": "2026-06-11",
+      "title": {
+        "en": "Buttermilk Confections is recalling Honeycomb Blast Choc Bar because of undeclared milk",
+        "fr": "Buttermilk Confections is recalling Honeycomb Blast Choc Bar because of undeclared milk",
+        "nl": "Buttermilk Confections is recalling Honeycomb Blast Choc Bar because of undeclared milk"
+      },
+      "description": {
+        "en": "Allergen(s): Milk\nThis product contains milk (casein) making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "fr": "Allergen(s): Milk\nThis product contains milk (casein) making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "nl": "Allergen(s): Milk\nThis product contains milk (casein) making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-30-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-09-0019",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade salade piemontaise jambon 300 g intermarche¤",
+        "fr": "salade salade piemontaise jambon 300 g intermarche¤",
+        "nl": "salade salade piemontaise jambon 300 g intermarche¤"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23389/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0020",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade salade piemontaise au jambon 1,5 kg",
+        "fr": "salade salade piemontaise au jambon 1,5 kg",
+        "nl": "salade salade piemontaise au jambon 1,5 kg"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23390/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0027",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "tortis concombre et saumon - 300g - monique ranou",
+        "fr": "tortis concombre et saumon - 300g - monique ranou",
+        "nl": "tortis concombre et saumon - 300g - monique ranou"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23397/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0025",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "cocktail crevettes 1.5kg",
+        "fr": "cocktail crevettes 1.5kg",
+        "nl": "cocktail crevettes 1.5kg"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23395/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0006",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "filets de sardine",
+        "fr": "filets de sardine",
+        "nl": "filets de sardine"
+      },
+      "description": {
+        "en": "presence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "fr": "presence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
+        "nl": "presence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23376/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0015",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "macedoine de legumes 1.5kg",
+        "fr": "macedoine de legumes 1.5kg",
+        "nl": "macedoine de legumes 1.5kg"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23385/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "nvwa-ng-galbani-salame-tradizionale",
+      "source": "NVWA",
+      "date": "2026-09-01",
+      "title": {
+        "en": "Veiligheidswaarschuwing Galbani Salame Tradizionale",
+        "fr": "Veiligheidswaarschuwing Galbani Salame Tradizionale",
+        "nl": "Veiligheidswaarschuwing Galbani Salame Tradizionale"
+      },
+      "description": {
+        "en": "Lactalis Nederland waarschuwt voor ‘Salame Tradizionale’ van het merk Galbani. In de worst kunnen vreemde voorwerpen aanwezig zijn. Eet de worst niet. Zie de website van Galbani.",
+        "fr": "Lactalis Nederland waarschuwt voor ‘Salame Tradizionale’ van het merk Galbani. In de worst kunnen vreemde voorwerpen aanwezig zijn. Eet de worst niet. Zie de website van Galbani.",
+        "nl": "Lactalis Nederland waarschuwt voor ‘Salame Tradizionale’ van het merk Galbani. In de worst kunnen vreemde voorwerpen aanwezig zijn. Eet de worst niet. Zie de website van Galbani."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/09/01/veiligheidswaarschuwing-galbani-salame-tradizionale",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "cfia-82538",
@@ -1019,22 +1862,22 @@
       "pregnancySummaryKey": "labeling"
     },
     {
-      "id": "rappelconso-2026-08-0220",
-      "source": "RappelConso",
+      "id": "fda-78dceceedf49",
+      "source": "FDA",
       "date": "2026-08-26",
       "title": {
-        "en": "st môret léger",
-        "fr": "st môret léger",
-        "nl": "st môret léger"
+        "en": "Revival Animal Health, LLC Voluntarily Recalls Feline Milk Replacers Due to Inconsistent Levels of Vitamins and Trace Minerals",
+        "fr": "Revival Animal Health, LLC Voluntarily Recalls Feline Milk Replacers Due to Inconsistent Levels of Vitamins and Trace Minerals",
+        "nl": "Revival Animal Health, LLC Voluntarily Recalls Feline Milk Replacers Due to Inconsistent Levels of Vitamins and Trace Minerals"
       },
       "description": {
-        "en": "défaut de goût - modifications organoleptiques",
-        "fr": "défaut de goût - modifications organoleptiques",
-        "nl": "défaut de goût - modifications organoleptiques"
+        "en": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® and Shelter’s Choice® Feline Milk Replacers due to low, levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6).",
+        "fr": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® and Shelter’s Choice® Feline Milk Replacers due to low, levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6).",
+        "nl": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® and Shelter’s Choice® Feline Milk Replacers due to low, levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6)."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23331/interne",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/revival-animal-health-llc-voluntarily-recalls-feline-milk-replacers-due-inconsistent-levels-vitamins",
       "countries": [
-        "FR"
+        "US"
       ],
       "foodGroups": [
         "dairy"
@@ -1046,22 +1889,78 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-08-0217",
-      "source": "RappelConso",
-      "date": "2026-08-25",
+      "id": "nvwa-ing-chocolate-flavour-200-gram",
+      "source": "NVWA",
+      "date": "2026-08-19",
       "title": {
-        "en": "lait entier et lait demi-écrémé",
-        "fr": "lait entier et lait demi-écrémé",
-        "nl": "lait entier et lait demi-écrémé"
+        "en": "Veiligheidswaarschuwing Milbona High Protein Pudding Chocolate Flavour 200 gram",
+        "fr": "Veiligheidswaarschuwing Milbona High Protein Pudding Chocolate Flavour 200 gram",
+        "nl": "Veiligheidswaarschuwing Milbona High Protein Pudding Chocolate Flavour 200 gram"
       },
       "description": {
-        "en": "problème de pasteurisation, mauvais goût du lait - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "problème de pasteurisation, mauvais goût du lait - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "problème de pasteurisation, mauvais goût du lait - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+        "en": "Lidl Nederland waarschuwt voor Milbona High Protein Pudding Chocolate Flavour 200 gram. De pudding bevat de bacterie Bacillus cereus. Deze bacterie kan leiden tot maag- en darmklachten en kan ernstige gezondheidsrisico’s vormen voor mensen met een...",
+        "fr": "Lidl Nederland waarschuwt voor Milbona High Protein Pudding Chocolate Flavour 200 gram. De pudding bevat de bacterie Bacillus cereus. Deze bacterie kan leiden tot maag- en darmklachten en kan ernstige gezondheidsrisico’s vormen voor mensen met een...",
+        "nl": "Lidl Nederland waarschuwt voor Milbona High Protein Pudding Chocolate Flavour 200 gram. De pudding bevat de bacterie Bacillus cereus. Deze bacterie kan leiden tot maag- en darmklachten en kan ernstige gezondheidsrisico’s vormen voor mensen met een..."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23327/interne",
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/08/19/veiligheidswaarschuwing-milbona-high-protein-pudding-chocolate-flavour-200-gram",
       "countries": [
-        "FR"
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "nvwa-van-brouwerij-de-kromme-haring",
+      "source": "NVWA",
+      "date": "2026-07-22",
+      "title": {
+        "en": "Veiligheidswaarschuwing Les Perles Du Homard bier van brouwerij De Kromme Haring",
+        "fr": "Veiligheidswaarschuwing Les Perles Du Homard bier van brouwerij De Kromme Haring",
+        "nl": "Veiligheidswaarschuwing Les Perles Du Homard bier van brouwerij De Kromme Haring"
+      },
+      "description": {
+        "en": "Brouwerij De Kromme Haring waarschuwt voor hun Les Perles Du Homard bier. Flessen kunnen bij hoge temperatuur en/of temperatuurschommelingen een hoge druk opbouwen, waardoor de glazen verpakking kan bezwijken, met mogelijk gevolg voor glasscherven...",
+        "fr": "Brouwerij De Kromme Haring waarschuwt voor hun Les Perles Du Homard bier. Flessen kunnen bij hoge temperatuur en/of temperatuurschommelingen een hoge druk opbouwen, waardoor de glazen verpakking kan bezwijken, met mogelijk gevolg voor glasscherven...",
+        "nl": "Brouwerij De Kromme Haring waarschuwt voor hun Les Perles Du Homard bier. Flessen kunnen bij hoge temperatuur en/of temperatuurschommelingen een hoge druk opbouwen, waardoor de glazen verpakking kan bezwijken, met mogelijk gevolg voor glasscherven..."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/22/veiligheidswaarschuwing-les-perles-du-homard-bier-van-brouwerij-de-kromme-haring",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fsa-FSA-PRIN-37-2026",
+      "source": "FSA",
+      "date": "2026-07-22",
+      "title": {
+        "en": "Graham’s Family Dairy recalls Graham’s Family Dairy Semi-Skimmed Milk due to the presence of veterinary medicines including antibiotics (penicillin)",
+        "fr": "Graham’s Family Dairy recalls Graham’s Family Dairy Semi-Skimmed Milk due to the presence of veterinary medicines including antibiotics (penicillin)",
+        "nl": "Graham’s Family Dairy recalls Graham’s Family Dairy Semi-Skimmed Milk due to the presence of veterinary medicines including antibiotics (penicillin)"
+      },
+      "description": {
+        "en": "The presence of veterinary medicines, including antibiotics in the product may make it unsafe to consume and may be a possible health risk for anyone with an allergy to antibiotics (penicillin).",
+        "fr": "The presence of veterinary medicines, including antibiotics in the product may make it unsafe to consume and may be a possible health risk for anyone with an allergy to antibiotics (penicillin).",
+        "nl": "The presence of veterinary medicines, including antibiotics in the product may make it unsafe to consume and may be a possible health risk for anyone with an allergy to antibiotics (penicillin)."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-37-2026",
+      "countries": [
+        "GB"
       ],
       "foodGroups": [
         "dairy"
@@ -1071,6 +1970,62 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fsa-FSA-PRIN-36-2026",
+      "source": "FSA",
+      "date": "2026-07-21",
+      "title": {
+        "en": "Waitrose & Partners recall Waitrose & Partners 8 Chocolate Chip Brioche Rolls because they may contain pieces of hard plastic and metal",
+        "fr": "Waitrose & Partners recall Waitrose & Partners 8 Chocolate Chip Brioche Rolls because they may contain pieces of hard plastic and metal",
+        "nl": "Waitrose & Partners recall Waitrose & Partners 8 Chocolate Chip Brioche Rolls because they may contain pieces of hard plastic and metal"
+      },
+      "description": {
+        "en": "This product may contain pieces of hard plastic and metal, which makes the product unsafe to eat.",
+        "fr": "This product may contain pieces of hard plastic and metal, which makes the product unsafe to eat.",
+        "nl": "This product may contain pieces of hard plastic and metal, which makes the product unsafe to eat."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-36-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fsa-FSA-FAFA-01-2026",
+      "source": "FSA",
+      "date": "2026-06-04",
+      "title": {
+        "en": "Food Alert \"For Action\": To: Food Businesses and Consumers who have purchased and sold frozen products supplied by Inarah’s Frozen Foods Ltd",
+        "fr": "Food Alert \"For Action\": To: Food Businesses and Consumers who have purchased and sold frozen products supplied by Inarah’s Frozen Foods Ltd",
+        "nl": "Food Alert \"For Action\": To: Food Businesses and Consumers who have purchased and sold frozen products supplied by Inarah’s Frozen Foods Ltd"
+      },
+      "description": {
+        "en": "Inarah’s Frozen Foods Ltd has been unable to demonstrate that the products in this alert have been produced and handled safely. Products that have not met food hygiene and safety requirements pose a risk to consumers and may be unsafe to eat. The products are known to have been supplied to food businesses across the UK.\nPhotos of these brand labels are attached below. These brands cover a wide range of frozen products including chicken, beef, fish and vegetarian items, packaged in different size packaging with multiple best before dates and/or batch numbers. These products have one of the below company names and addresses on the labels:\nInarah Frozen Foods LTD, Regal Drive, Walsall, WS2 9HQ\nFour Seasons Food Group, Unit 7-8 Monarch Works, Elswick Road, Fenton Industrial Estate, Stoke-on-Trent, ST4 2SH\nKBH Foods, BD9 4TS\nAll frozen products with either “Inarah’s Frozen Foods”, “Inarah’s Fine Foods” or “New York Crispy” with one of the above addresses are included in this alert.\nFood businesses selling these products in the UK are advised to immediately stop sales, undertake product withdrawals and where there have been retail sales, to undertake product recalls. Products should be disposed of safely.",
+        "fr": "Inarah’s Frozen Foods Ltd has been unable to demonstrate that the products in this alert have been produced and handled safely. Products that have not met food hygiene and safety requirements pose a risk to consumers and may be unsafe to eat. The products are known to have been supplied to food businesses across the UK.\nPhotos of these brand labels are attached below. These brands cover a wide range of frozen products including chicken, beef, fish and vegetarian items, packaged in different size packaging with multiple best before dates and/or batch numbers. These products have one of the below company names and addresses on the labels:\nInarah Frozen Foods LTD, Regal Drive, Walsall, WS2 9HQ\nFour Seasons Food Group, Unit 7-8 Monarch Works, Elswick Road, Fenton Industrial Estate, Stoke-on-Trent, ST4 2SH\nKBH Foods, BD9 4TS\nAll frozen products with either “Inarah’s Frozen Foods”, “Inarah’s Fine Foods” or “New York Crispy” with one of the above addresses are included in this alert.\nFood businesses selling these products in the UK are advised to immediately stop sales, undertake product withdrawals and where there have been retail sales, to undertake product recalls. Products should be disposed of safely.",
+        "nl": "Inarah’s Frozen Foods Ltd has been unable to demonstrate that the products in this alert have been produced and handled safely. Products that have not met food hygiene and safety requirements pose a risk to consumers and may be unsafe to eat. The products are known to have been supplied to food businesses across the UK.\nPhotos of these brand labels are attached below. These brands cover a wide range of frozen products including chicken, beef, fish and vegetarian items, packaged in different size packaging with multiple best before dates and/or batch numbers. These products have one of the below company names and addresses on the labels:\nInarah Frozen Foods LTD, Regal Drive, Walsall, WS2 9HQ\nFour Seasons Food Group, Unit 7-8 Monarch Works, Elswick Road, Fenton Industrial Estate, Stoke-on-Trent, ST4 2SH\nKBH Foods, BD9 4TS\nAll frozen products with either “Inarah’s Frozen Foods”, “Inarah’s Fine Foods” or “New York Crispy” with one of the above addresses are included in this alert.\nFood businesses selling these products in the UK are advised to immediately stop sales, undertake product withdrawals and where there have been retail sales, to undertake product recalls. Products should be disposed of safely."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-fafa-01-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "labeling"
     }
   ]
 }
