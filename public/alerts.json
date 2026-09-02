@@ -1,6 +1,150 @@
 {
-  "generated": "2026-09-01T06:03:31.121Z",
+  "generated": "2026-09-02T06:03:00.672Z",
   "alerts": [
+    {
+      "id": "cfia-82581",
+      "source": "CFIA",
+      "date": "2026-09-01",
+      "title": {
+        "en": "Coaticook brand Aged Cheddar Cheese recalled due to Listeria monocytogenes",
+        "fr": "Coaticook brand Aged Cheddar Cheese recalled due to Listeria monocytogenes",
+        "nl": "Coaticook brand Aged Cheddar Cheese recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
+        "fr": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
+        "nl": "The affected products are being recalled from the marketplace due to possible Listeria monocytogenes contamination."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/coaticook-brand-aged-cheddar-cheese-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0035",
+      "source": "RappelConso",
+      "date": "2026-09-01",
+      "title": {
+        "en": "viande hachée pur bœuf 15%mg barquette de 400g",
+        "fr": "viande hachée pur bœuf 15%mg barquette de 400g",
+        "nl": "viande hachée pur bœuf 15%mg barquette de 400g"
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
+        "fr": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
+        "nl": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23405/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0004",
+      "source": "RappelConso",
+      "date": "2026-09-01",
+      "title": {
+        "en": "tripes à la tomate / à la provençale",
+        "fr": "tripes à la tomate / à la provençale",
+        "nl": "tripes à la tomate / à la provençale"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23374/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-08-0250",
+      "source": "RappelConso",
+      "date": "2026-09-01",
+      "title": {
+        "en": "saucisse au veau (5x66g)¤saucisse au veau (10x66g)¤saucisse de toulouse¤assortiment au veau /merguez",
+        "fr": "saucisse au veau (5x66g)¤saucisse au veau (10x66g)¤saucisse de toulouse¤assortiment au veau /merguez",
+        "nl": "saucisse au veau (5x66g)¤saucisse au veau (10x66g)¤saucisse de toulouse¤assortiment au veau /merguez"
+      },
+      "description": {
+        "en": "salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23362/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0257",
+      "source": "RappelConso",
+      "date": "2026-09-01",
+      "title": {
+        "en": "petit brie 500g",
+        "fr": "petit brie 500g",
+        "nl": "petit brie 500g"
+      },
+      "description": {
+        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23370/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-08-0238",
       "source": "RappelConso",
@@ -642,64 +786,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0191",
-      "source": "RappelConso",
-      "date": "2026-08-21",
-      "title": {
-        "en": "talon de jambon cuit",
-        "fr": "talon de jambon cuit",
-        "nl": "talon de jambon cuit"
-      },
-      "description": {
-        "en": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23301/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0190",
-      "source": "RappelConso",
-      "date": "2026-08-21",
-      "title": {
-        "en": "effeuillade de jambon cuit",
-        "fr": "effeuillade de jambon cuit",
-        "nl": "effeuillade de jambon cuit"
-      },
-      "description": {
-        "en": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de présence listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23300/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "cfia-82572",
       "source": "CFIA",
       "date": "2026-08-31",
@@ -817,38 +903,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "cfia-82523",
-      "source": "CFIA",
-      "date": "2026-08-21",
-      "title": {
-        "en": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
-        "fr": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
-        "nl": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat"
-      },
-      "description": {
-        "en": "The affected product is being recalled from the marketplace because it contains egg, fish, soy, and wheat which are not declared on the label.",
-        "fr": "The affected product is being recalled from the marketplace because it contains egg, fish, soy, and wheat which are not declared on the label.",
-        "nl": "The affected product is being recalled from the marketplace because it contains egg, fish, soy, and wheat which are not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/kim-phat-brand-seafood-medley-recalled-due-undeclared-egg-fish-soy-and-wheat",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "fish",
-        "egg",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-08-0203",
@@ -1011,33 +1065,6 @@
       ],
       "foodGroups": [
         "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0187",
-      "source": "RappelConso",
-      "date": "2026-08-20",
-      "title": {
-        "en": "mous foie sup vpf 300g u ¤terrine for vpf 180g  u¤mousse foie superieur vpf 2x50g u ¤mousse canard superieur 2x50g u ¤pate campagne superieur vpf 180g u ¤pate campagne superieur vpf 300g u ¤pate campagne superieur vpf 2x50g u ¤mini terrine  mousse ca",
-        "fr": "mous foie sup vpf 300g u ¤terrine for vpf 180g  u¤mousse foie superieur vpf 2x50g u ¤mousse canard superieur 2x50g u ¤pate campagne superieur vpf 180g u ¤pate campagne superieur vpf 300g u ¤pate campagne superieur vpf 2x50g u ¤mini terrine  mousse ca",
-        "nl": "mous foie sup vpf 300g u ¤terrine for vpf 180g  u¤mousse foie superieur vpf 2x50g u ¤mousse canard superieur 2x50g u ¤pate campagne superieur vpf 180g u ¤pate campagne superieur vpf 300g u ¤pate campagne superieur vpf 2x50g u ¤mini terrine  mousse ca"
-      },
-      "description": {
-        "en": "rupture de la chaine du froid pendant le transport - autre risque",
-        "fr": "rupture de la chaine du froid pendant le transport - autre risque",
-        "nl": "rupture de la chaine du froid pendant le transport - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23296/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
