@@ -1,6 +1,412 @@
 {
-  "generated": "2026-09-02T08:28:00.375Z",
+  "generated": "2026-09-03T06:04:16.449Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-08-0068",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "brie kg 50%",
+        "fr": "brie kg 50%",
+        "nl": "brie kg 50%"
+      },
+      "description": {
+        "en": "rappel préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "rappel préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "rappel préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23417/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0051",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "camembert val de saone - produit de 240 grammes",
+        "fr": "camembert val de saone - produit de 240 grammes",
+        "nl": "camembert val de saone - produit de 240 grammes"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23424/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0052",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "brie 500 grammes",
+        "fr": "brie 500 grammes",
+        "nl": "brie 500 grammes"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23425/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0053",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "fromage fleuri de format carré - 250 grammes",
+        "fr": "fromage fleuri de format carré - 250 grammes",
+        "nl": "fromage fleuri de format carré - 250 grammes"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23426/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0054",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "pointe de brie paturages comtois - format 180 grammes",
+        "fr": "pointe de brie paturages comtois - format 180 grammes",
+        "nl": "pointe de brie paturages comtois - format 180 grammes"
+      },
+      "description": {
+        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23427/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0047",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "rillettes d'oie vendues au rayon traditionnel",
+        "fr": "rillettes d'oie vendues au rayon traditionnel",
+        "nl": "rillettes d'oie vendues au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23420/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0046",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "aiguillettes de poulet 500g",
+        "fr": "aiguillettes de poulet 500g",
+        "nl": "aiguillettes de poulet 500g"
+      },
+      "description": {
+        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23416/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0045",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "ailes de poulet brute et marinée",
+        "fr": "ailes de poulet brute et marinée",
+        "nl": "ailes de poulet brute et marinée"
+      },
+      "description": {
+        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23415/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0044",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "cuisse de poulet brute et marinée",
+        "fr": "cuisse de poulet brute et marinée",
+        "nl": "cuisse de poulet brute et marinée"
+      },
+      "description": {
+        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23414/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0043",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "foie de poulet",
+        "fr": "foie de poulet",
+        "nl": "foie de poulet"
+      },
+      "description": {
+        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23413/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0042",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "gésier de poulet",
+        "fr": "gésier de poulet",
+        "nl": "gésier de poulet"
+      },
+      "description": {
+        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23412/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0041",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "haut de cuisse de poulet brut et mariné",
+        "fr": "haut de cuisse de poulet brut et mariné",
+        "nl": "haut de cuisse de poulet brut et mariné"
+      },
+      "description": {
+        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23411/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0040",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "pilon de cuisse de poulet brut et mariné",
+        "fr": "pilon de cuisse de poulet brut et mariné",
+        "nl": "pilon de cuisse de poulet brut et mariné"
+      },
+      "description": {
+        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23410/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0036",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "crevettes entières cuites réfrigérées élevage 30/40  signature du poissonnier  300g penaeus monodon",
+        "fr": "crevettes entières cuites réfrigérées élevage 30/40  signature du poissonnier  300g penaeus monodon",
+        "nl": "crevettes entières cuites réfrigérées élevage 30/40  signature du poissonnier  300g penaeus monodon"
+      },
+      "description": {
+        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23406/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-09-0037",
       "source": "RappelConso",
@@ -28,6 +434,68 @@
         "microbial"
       ],
       "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-rappel-de-farmchix-company-1",
+      "source": "FAVV",
+      "date": "2026-09-02",
+      "title": {
+        "en": "Rappel de The Farmchix Company | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de The Farmchix Company | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de The Farmchix Company | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En concertation avec l’AFSCA, The Farmchix Company retire de la vente et rappelle auprès des consommateurs les brochettes de poulet assaisonnées, les brochettes de poulet marinées et les brochettes de poulet marinées à l’ananas de la marque Hofkip – Just Meat en raison de la présence possible de Salmonella. The Farmchix Company demande à ses clients de ne pas consommer ces produits et de les rapporter au point de vente, où ils seront intégralement remboursés, même sans ticket de caisse. Description des produits",
+        "fr": "En concertation avec l’AFSCA, The Farmchix Company retire de la vente et rappelle auprès des consommateurs les brochettes de poulet assaisonnées, les brochettes de poulet marinées et les brochettes de poulet marinées à l’ananas de la marque Hofkip – Just Meat en raison de la présence possible de Salmonella. The Farmchix Company demande à ses clients de ne pas consommer ces produits et de les rapporter au point de vente, où ils seront intégralement remboursés, même sans ticket de caisse. Description des produits",
+        "nl": "En concertation avec l’AFSCA, The Farmchix Company retire de la vente et rappelle auprès des consommateurs les brochettes de poulet assaisonnées, les brochettes de poulet marinées et les brochettes de poulet marinées à l’ananas de la marque Hofkip – Just Meat en raison de la présence possible de Salmonella. The Farmchix Company demande à ses clients de ne pas consommer ces produits et de les rapporter au point de vente, où ils seront intégralement remboursés, même sans ticket de caisse. Description des produits"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-farmchix-company-1",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "favv-rappel-de-jumbo-16",
+      "source": "FAVV",
+      "date": "2026-09-02",
+      "title": {
+        "en": "Rappel de Jumbo | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Jumbo | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Jumbo | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En concertation avec l’AFSCA, Jumbo Supermarkten retire le « Lepelkaasje » et le « Kaasplateau Verrassend » de la marque Jumbo de la vente en raison en raison de la présence possible de la bactérie Listeria. Jumbo demande aux consommateurs de ne pas consommer ces produits. Description des produits :",
+        "fr": "En concertation avec l’AFSCA, Jumbo Supermarkten retire le « Lepelkaasje » et le « Kaasplateau Verrassend » de la marque Jumbo de la vente en raison en raison de la présence possible de la bactérie Listeria. Jumbo demande aux consommateurs de ne pas consommer ces produits. Description des produits :",
+        "nl": "En concertation avec l’AFSCA, Jumbo Supermarkten retire le « Lepelkaasje » et le « Kaasplateau Verrassend » de la marque Jumbo de la vente en raison en raison de la présence possible de la bactérie Listeria. Jumbo demande aux consommateurs de ne pas consommer ces produits. Description des produits :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-jumbo-16",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
       "pregnancySummaryKey": "listeria"
     },
     {
@@ -117,62 +585,36 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0250",
-      "source": "RappelConso",
+      "id": "favv-rappel-de-lafsca-142",
+      "source": "FAVV",
       "date": "2026-09-01",
       "title": {
-        "en": "saucisse au veau (5x66g)¤saucisse au veau (10x66g)¤saucisse de toulouse¤assortiment au veau /merguez",
-        "fr": "saucisse au veau (5x66g)¤saucisse au veau (10x66g)¤saucisse de toulouse¤assortiment au veau /merguez",
-        "nl": "saucisse au veau (5x66g)¤saucisse au veau (10x66g)¤saucisse de toulouse¤assortiment au veau /merguez"
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
       },
       "description": {
-        "en": "salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "salmonelle - salmonella spp (agent responsable de la salmonellose)"
+        "en": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire différents produits contenant des graines de courge (mélange sportif, mélange Babylone, mélange spécial salade estivale, graines de courge décortiquées) de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description des produits :",
+        "fr": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire différents produits contenant des graines de courge (mélange sportif, mélange Babylone, mélange spécial salade estivale, graines de courge décortiquées) de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description des produits :",
+        "nl": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire différents produits contenant des graines de courge (mélange sportif, mélange Babylone, mélange spécial salade estivale, graines de courge décortiquées) de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description des produits :"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23362/interne",
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-142",
       "countries": [
-        "FR"
+        "BE"
+      ],
+      "languages": [
+        "fr"
       ],
       "foodGroups": [
-        "meat"
+        "plant"
       ],
       "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "audience": "general",
       "hazardTypes": [
         "microbial"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-08-0257",
-      "source": "RappelConso",
-      "date": "2026-09-01",
-      "title": {
-        "en": "petit brie 500g",
-        "fr": "petit brie 500g",
-        "nl": "petit brie 500g"
-      },
-      "description": {
-        "en": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23370/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "fda-a3fd8130f79c",
@@ -191,93 +633,6 @@
       "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/northwest-naturals-voluntarily-recalls-two-raw-pet-food-products-because-possible-salmonella",
       "countries": [
         "US"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0238",
-      "source": "RappelConso",
-      "date": "2026-08-28",
-      "title": {
-        "en": "saucisson sec petites tranches 32 tranches - monique ranou - 100g",
-        "fr": "saucisson sec petites tranches 32 tranches - monique ranou - 100g",
-        "nl": "saucisson sec petites tranches 32 tranches - monique ranou - 100g"
-      },
-      "description": {
-        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23350/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-08-0242",
-      "source": "RappelConso",
-      "date": "2026-08-28",
-      "title": {
-        "en": "paprika en poudre de 450 g, ddm au 30/05/2028",
-        "fr": "paprika en poudre de 450 g, ddm au 30/05/2028",
-        "nl": "paprika en poudre de 450 g, ddm au 30/05/2028"
-      },
-      "description": {
-        "en": "aflatoxin b1 - mycotoxins et ochratoxin a - mycotoxins - autres contaminants chimiques",
-        "fr": "aflatoxin b1 - mycotoxins et ochratoxin a - mycotoxins - autres contaminants chimiques",
-        "nl": "aflatoxin b1 - mycotoxins et ochratoxin a - mycotoxins - autres contaminants chimiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23354/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "rappelconso-2026-08-0239",
-      "source": "RappelConso",
-      "date": "2026-08-28",
-      "title": {
-        "en": "pate sarthois cosme",
-        "fr": "pate sarthois cosme",
-        "nl": "pate sarthois cosme"
-      },
-      "description": {
-        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23351/interne",
-      "countries": [
-        "FR"
       ],
       "foodGroups": [
         "meat"
@@ -320,93 +675,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0232",
-      "source": "RappelConso",
-      "date": "2026-08-27",
-      "title": {
-        "en": "viande haché de boeuf à la demande",
-        "fr": "viande haché de boeuf à la demande",
-        "nl": "viande haché de boeuf à la demande"
-      },
-      "description": {
-        "en": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23344/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-08-0231",
-      "source": "RappelConso",
-      "date": "2026-08-27",
-      "title": {
-        "en": "rôti de boeuf - vendu au rayon traditionnel",
-        "fr": "rôti de boeuf - vendu au rayon traditionnel",
-        "nl": "rôti de boeuf - vendu au rayon traditionnel"
-      },
-      "description": {
-        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23343/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-08-0230",
-      "source": "RappelConso",
-      "date": "2026-08-27",
-      "title": {
-        "en": "pointe de brie au lait pasteurisé 160g",
-        "fr": "pointe de brie au lait pasteurisé 160g",
-        "nl": "pointe de brie au lait pasteurisé 160g"
-      },
-      "description": {
-        "en": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23342/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "nvwa-ing-biologische-brie-van-jumbo",
       "source": "NVWA",
       "date": "2026-08-27",
@@ -429,7 +697,7 @@
         "dairy"
       ],
       "pregnancyRelevance": "high",
-      "audience": "children",
+      "audience": "pregnant_adult",
       "hazardTypes": [
         "microbial"
       ],
@@ -459,7 +727,7 @@
         "dairy"
       ],
       "pregnancyRelevance": "high",
-      "audience": "children",
+      "audience": "pregnant_adult",
       "hazardTypes": [
         "microbial"
       ],
@@ -467,22 +735,25 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0222",
-      "source": "RappelConso",
-      "date": "2026-08-26",
+      "id": "favv-terugroeping-van-jumbo-15",
+      "source": "FAVV",
+      "date": "2026-08-27",
       "title": {
-        "en": "gorgonzola aop doux ¤casa azzurra",
-        "fr": "gorgonzola aop doux ¤casa azzurra",
-        "nl": "gorgonzola aop doux ¤casa azzurra"
+        "en": "Terugroeping van Jumbo | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Jumbo | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Jumbo | Federaal Agentschap voor de veiligheid van de voedselketen"
       },
       "description": {
-        "en": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "Waarschuwing: Eet dit product niet. Jumbo Supermarkten haalt in overleg met FAVV de Biologische brie van het merk Jumbo uit de verkoop omdat mogelijk de bacterie listeria aanwezig is. Jumbo waarschuwt om dit product niet te eten. Om dit product gaat het:",
+        "fr": "Waarschuwing: Eet dit product niet. Jumbo Supermarkten haalt in overleg met FAVV de Biologische brie van het merk Jumbo uit de verkoop omdat mogelijk de bacterie listeria aanwezig is. Jumbo waarschuwt om dit product niet te eten. Om dit product gaat het:",
+        "nl": "Waarschuwing: Eet dit product niet. Jumbo Supermarkten haalt in overleg met FAVV de Biologische brie van het merk Jumbo uit de verkoop omdat mogelijk de bacterie listeria aanwezig is. Jumbo waarschuwt om dit product niet te eten. Om dit product gaat het:"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23340/interne",
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-jumbo-15",
       "countries": [
-        "FR"
+        "BE"
+      ],
+      "languages": [
+        "nl"
       ],
       "foodGroups": [
         "dairy"
@@ -496,25 +767,28 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0221",
-      "source": "RappelConso",
-      "date": "2026-08-26",
+      "id": "favv-terugroeping-van-monoprix-1",
+      "source": "FAVV",
+      "date": "2026-08-27",
       "title": {
-        "en": "jambon de bayonne igp - 4 tranches 80g 12 mois",
-        "fr": "jambon de bayonne igp - 4 tranches 80g 12 mois",
-        "nl": "jambon de bayonne igp - 4 tranches 80g 12 mois"
+        "en": "Terugroeping van Monoprix | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Monoprix | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Monoprix | Federaal Agentschap voor de veiligheid van de voedselketen"
       },
       "description": {
-        "en": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "Monoprix haalt in overleg met FAVV de GORGONZOLA DOLCE van het merk CASA AZZURRA uit de verkoop wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
+        "fr": "Monoprix haalt in overleg met FAVV de GORGONZOLA DOLCE van het merk CASA AZZURRA uit de verkoop wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
+        "nl": "Monoprix haalt in overleg met FAVV de GORGONZOLA DOLCE van het merk CASA AZZURRA uit de verkoop wegens de mogelijke aanwezigheid van Listeria monocytogenes."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23332/interne",
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-monoprix-1",
       "countries": [
-        "FR"
+        "BE"
+      ],
+      "languages": [
+        "nl"
       ],
       "foodGroups": [
-        "meat"
+        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -525,25 +799,26 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0219",
-      "source": "RappelConso",
+      "id": "nvwa-ing-gorgonzola-dolce-van-jumbo",
+      "source": "NVWA",
       "date": "2026-08-26",
       "title": {
-        "en": "boudin noir antillais bn 80g",
-        "fr": "boudin noir antillais bn 80g",
-        "nl": "boudin noir antillais bn 80g"
+        "en": "Veiligheidswaarschuwing Gorgonzola Dolce van Jumbo",
+        "fr": "Veiligheidswaarschuwing Gorgonzola Dolce van Jumbo",
+        "nl": "Veiligheidswaarschuwing Gorgonzola Dolce van Jumbo"
       },
       "description": {
-        "en": "détection de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listeria - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "Jumbo Supermarkten waarschuwt voor Jumbo Gorgonzola Dolce. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt...",
+        "fr": "Jumbo Supermarkten waarschuwt voor Jumbo Gorgonzola Dolce. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt...",
+        "nl": "Jumbo Supermarkten waarschuwt voor Jumbo Gorgonzola Dolce. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt..."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23330/interne",
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/08/26/veiligheidswaarschuwing-gorgonzola-dolce-van-jumbo",
       "countries": [
-        "FR"
+        "NL",
+        "BE"
       ],
       "foodGroups": [
-        "meat"
+        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -554,22 +829,25 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-08-0224",
-      "source": "RappelConso",
+      "id": "favv-rappel-de-jumbo-14",
+      "source": "FAVV",
       "date": "2026-08-26",
       "title": {
-        "en": "comte nrt aop",
-        "fr": "comte nrt aop",
-        "nl": "comte nrt aop"
+        "en": "Rappel de Jumbo | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Jumbo | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Jumbo | Agence fédérale pour la sécurité de la chaîne alimentaire"
       },
       "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+        "en": "En concertation avec l’AFSCA, Jumbo Supermarkten retire le Gorgonzola Dolce de la marque Jumbo de la vente en raison de la présence possible de la bactérie Listeria. Jumbo demande aux consommateurs de ne pas consommer ce produit. Description du produit :",
+        "fr": "En concertation avec l’AFSCA, Jumbo Supermarkten retire le Gorgonzola Dolce de la marque Jumbo de la vente en raison de la présence possible de la bactérie Listeria. Jumbo demande aux consommateurs de ne pas consommer ce produit. Description du produit :",
+        "nl": "En concertation avec l’AFSCA, Jumbo Supermarkten retire le Gorgonzola Dolce de la marque Jumbo de la vente en raison de la présence possible de la bactérie Listeria. Jumbo demande aux consommateurs de ne pas consommer ce produit. Description du produit :"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23335/interne",
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-jumbo-14",
       "countries": [
-        "FR"
+        "BE"
+      ],
+      "languages": [
+        "fr"
       ],
       "foodGroups": [
         "dairy"
@@ -602,16 +880,48 @@
       ],
       "foodGroups": [
         "meat",
-        "dairy"
+        "dairy",
+        "plant"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
       "hazardTypes": [
-        "microbial",
-        "chemical"
+        "microbial"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "favv-rappel-de-meat-more-1",
+      "source": "FAVV",
+      "date": "2026-08-21",
+      "title": {
+        "en": "Rappel de Meat & More | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Meat & More | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Meat & More | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société Meat & More retire le produit « Yorkham » de la marque Buurtslagers – Bon’Ap de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listeria monocytogenes. Meat & More demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé.",
+        "fr": "En accord avec l’AFSCA, la société Meat & More retire le produit « Yorkham » de la marque Buurtslagers – Bon’Ap de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listeria monocytogenes. Meat & More demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé.",
+        "nl": "En accord avec l’AFSCA, la société Meat & More retire le produit « Yorkham » de la marque Buurtslagers – Bon’Ap de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listeria monocytogenes. Meat & More demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé."
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-meat-more-1",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "fda-dc588496e87d",
@@ -666,37 +976,6 @@
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
       "hazardTypes": [
-        "microbial",
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "fda-51b5310f24f9",
-      "source": "FDA",
-      "date": "2026-08-18",
-      "title": {
-        "en": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
-        "fr": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
-        "nl": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination"
-      },
-      "description": {
-        "en": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
-        "fr": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
-        "nl": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-dreyers-grand-ice-cream-inc-issues-voluntary-recall-select-outshine-fruit-bars-due-possible",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
         "microbial"
       ],
       "dietRelevant": true,
@@ -726,11 +1005,39 @@
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
       "hazardTypes": [
-        "microbial",
-        "chemical"
+        "microbial"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "fsa-FSA-PRIN-38-2026",
+      "source": "FSA",
+      "date": "2026-08-07",
+      "title": {
+        "en": "Greencore recalls three pasta products because of possible contamination with Listeria monocytogenes",
+        "fr": "Greencore recalls three pasta products because of possible contamination with Listeria monocytogenes",
+        "nl": "Greencore recalls three pasta products because of possible contamination with Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The possible presence of Listeria monocytogenes in the products listed above.\nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "fr": "The possible presence of Listeria monocytogenes in the products listed above.\nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "nl": "The possible presence of Listeria monocytogenes in the products listed above.\nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-38-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "nvwa-na-kebab-en-wahid-rundergehakt",
@@ -782,6 +1089,36 @@
       ],
       "foodGroups": [
         "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "nvwa-belle-vegan-zeesalade-van-odin",
+      "source": "NVWA",
+      "date": "2026-07-02",
+      "title": {
+        "en": "Veiligheidswaarschuwing La Vie est Belle vegan zeesalade van Odin",
+        "fr": "Veiligheidswaarschuwing La Vie est Belle vegan zeesalade van Odin",
+        "nl": "Veiligheidswaarschuwing La Vie est Belle vegan zeesalade van Odin"
+      },
+      "description": {
+        "en": "Odin waarschuwt voor La Vie est Belle vegan zeesalade. Er is een overschrijding van de norm voor listeria vastgesteld, wat een risico vormt voor de gezondheid. Eet de zeesalade niet. Zie de website van Odin",
+        "fr": "Odin waarschuwt voor La Vie est Belle vegan zeesalade. Er is een overschrijding van de norm voor listeria vastgesteld, wat een risico vormt voor de gezondheid. Eet de zeesalade niet. Zie de website van Odin",
+        "nl": "Odin waarschuwt voor La Vie est Belle vegan zeesalade. Er is een overschrijding van de norm voor listeria vastgesteld, wat een risico vormt voor de gezondheid. Eet de zeesalade niet. Zie de website van Odin"
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/02/veiligheidswaarschuwing-la-vie-est-belle-vegan-zeesalade-van-odin",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "plant"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -986,13 +1323,15 @@
         "NL",
         "BE"
       ],
-      "foodGroups": [],
+      "foodGroups": [
+        "fish"
+      ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
       "hazardTypes": [
         "microbial"
       ],
-      "dietRelevant": false,
+      "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
     },
     {
@@ -1015,8 +1354,7 @@
       ],
       "foodGroups": [
         "meat",
-        "egg",
-        "plant"
+        "egg"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -1055,64 +1393,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-08-0244",
-      "source": "RappelConso",
-      "date": "2026-08-28",
-      "title": {
-        "en": "melon charentais",
-        "fr": "melon charentais",
-        "nl": "melon charentais"
-      },
-      "description": {
-        "en": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides",
-        "fr": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides",
-        "nl": "dépassement de la limite maximale de résidus sur la molécule « flonicamide » - dépassement des limites autorisées de pesticides"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23356/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "rappelconso-2026-08-0234",
-      "source": "RappelConso",
-      "date": "2026-08-28",
-      "title": {
-        "en": "legumes du soleil 300g  ¤carottes courgettes 300g",
-        "fr": "legumes du soleil 300g  ¤carottes courgettes 300g",
-        "nl": "legumes du soleil 300g  ¤carottes courgettes 300g"
-      },
-      "description": {
-        "en": "détection de pesticides (heptachlore) dépassant la limite autorisée dans des courgettes. - dépassement des limites autorisées de pesticides",
-        "fr": "détection de pesticides (heptachlore) dépassant la limite autorisée dans des courgettes. - dépassement des limites autorisées de pesticides",
-        "nl": "détection de pesticides (heptachlore) dépassant la limite autorisée dans des courgettes. - dépassement des limites autorisées de pesticides"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23346/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "fda-388a2ee3e39b",
@@ -1228,6 +1508,36 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-51b5310f24f9",
+      "source": "FDA",
+      "date": "2026-08-18",
+      "title": {
+        "en": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
+        "fr": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination",
+        "nl": "Updated – Dreyer’s Grand Ice Cream, Inc. Issues Voluntary Recall on Select Outshine Fruit Bars Due to Possible Foreign Matter Contamination"
+      },
+      "description": {
+        "en": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
+        "fr": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc",
+        "nl": "August 18, 2026 - Dreyer’s Grand Ice Cream, Inc. is voluntarily recalling a limited number of select flavors of Outshine Fruit Bars due to possible foreign material contamination with glass. Products affected include Outshine Strawberry, Watermelon, Grape, Tangerine and Black Cherry 6-Count 2.5 ounc"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-dreyers-grand-ice-cream-inc-issues-voluntary-recall-select-outshine-fruit-bars-due-possible",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "fsa-FSA-AA-40-2026",
@@ -1348,6 +1658,37 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "nvwa-lka-biscoff-90-gram-allergenen",
+      "source": "NVWA",
+      "date": "2026-07-16",
+      "title": {
+        "en": "Veiligheidswaarschuwing Milka Biscoff 90 gram (allergenen)",
+        "fr": "Veiligheidswaarschuwing Milka Biscoff 90 gram (allergenen)",
+        "nl": "Veiligheidswaarschuwing Milka Biscoff 90 gram (allergenen)"
+      },
+      "description": {
+        "en": "Vomar waarschuwt voor Milka Biscoff 90 gram. Niet alle allergenen staan op het etiket vermeld. Het product bevat hazelnoten. Dit staat niet op het etiket.",
+        "fr": "Vomar waarschuwt voor Milka Biscoff 90 gram. Niet alle allergenen staan op het etiket vermeld. Het product bevat hazelnoten. Dit staat niet op het etiket.",
+        "nl": "Vomar waarschuwt voor Milka Biscoff 90 gram. Niet alle allergenen staan op het etiket vermeld. Het product bevat hazelnoten. Dit staat niet op het etiket."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/16/veiligheidswaarschuwing-milka-biscoff-90-gram-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "nvwa-s-tomaten-mozzerella-schnitzel",
       "source": "NVWA",
       "date": "2026-07-15",
@@ -1372,7 +1713,8 @@
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1431,7 +1773,8 @@
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1461,6 +1804,37 @@
       "audience": "general",
       "hazardTypes": [
         "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "nvwa-mascarpone-200-gram-allergenen",
+      "source": "NVWA",
+      "date": "2026-07-02",
+      "title": {
+        "en": "Veiligheidswaarschuwing De Cecco Pesto Rosso con mascarpone 200 gram (allergenen)",
+        "fr": "Veiligheidswaarschuwing De Cecco Pesto Rosso con mascarpone 200 gram (allergenen)",
+        "nl": "Veiligheidswaarschuwing De Cecco Pesto Rosso con mascarpone 200 gram (allergenen)"
+      },
+      "description": {
+        "en": "Albert Heijn waarschuwt voor De Cecco Pesto Rosso con mascarpone. Het product bevat mogelijk walnoten, dit staat niet op het etiket vermeld. Eet het product niet als u allergisch bent voor walnoten. Zie website van Albert Heijn",
+        "fr": "Albert Heijn waarschuwt voor De Cecco Pesto Rosso con mascarpone. Het product bevat mogelijk walnoten, dit staat niet op het etiket vermeld. Eet het product niet als u allergisch bent voor walnoten. Zie website van Albert Heijn",
+        "nl": "Albert Heijn waarschuwt voor De Cecco Pesto Rosso con mascarpone. Het product bevat mogelijk walnoten, dit staat niet op het etiket vermeld. Eet het product niet als u allergisch bent voor walnoten. Zie website van Albert Heijn"
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/02/veiligheidswaarschuwing-de-cecco-pesto-rosso-con-mascarpone-200-gram-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1545,12 +1919,45 @@
       ],
       "foodGroups": [
         "meat",
-        "dairy"
+        "dairy",
+        "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
         "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "nvwa-n-vegan-van-moin-bio-backwaren",
+      "source": "NVWA",
+      "date": "2026-06-12",
+      "title": {
+        "en": "Veiligheidswaarschuwing Croissants Boter en Vegan van Moin BIO Backwaren (allergenen)",
+        "fr": "Veiligheidswaarschuwing Croissants Boter en Vegan van Moin BIO Backwaren (allergenen)",
+        "nl": "Veiligheidswaarschuwing Croissants Boter en Vegan van Moin BIO Backwaren (allergenen)"
+      },
+      "description": {
+        "en": "Udea waarschuwt voor Croissants Boter en Croissants Vegan van Moin BIO Backwaren. Door het ontbreken van Nederlandstalige etiketten zijn de allergenen niet in het Nederlands vermeld. Eet de Croissants Boter niet als u allergisch bent voor melk,...",
+        "fr": "Udea waarschuwt voor Croissants Boter en Croissants Vegan van Moin BIO Backwaren. Door het ontbreken van Nederlandstalige etiketten zijn de allergenen niet in het Nederlands vermeld. Eet de Croissants Boter niet als u allergisch bent voor melk,...",
+        "nl": "Udea waarschuwt voor Croissants Boter en Croissants Vegan van Moin BIO Backwaren. Door het ontbreken van Nederlandstalige etiketten zijn de allergenen niet in het Nederlands vermeld. Eet de Croissants Boter niet als u allergisch bent voor melk,..."
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/06/12/veiligheidswaarschuwing-croissants-boter-en-vegan-van-moin-bio-backwaren",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1585,6 +1992,184 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "nvwa-taart-caramel-crush-allergenen",
+      "source": "NVWA",
+      "date": "2026-06-05",
+      "title": {
+        "en": "Veiligheidswaarschuwing De Firma Taart Caramel Crush (allergenen)",
+        "fr": "Veiligheidswaarschuwing De Firma Taart Caramel Crush (allergenen)",
+        "nl": "Veiligheidswaarschuwing De Firma Taart Caramel Crush (allergenen)"
+      },
+      "description": {
+        "en": "Udea waarschuwt voor De Firma Taart Caramel Crush. Het product bevat hazelnoot. Dit staat niet op het etiket vermeld. Eet de taart niet als u allergisch bent voor hazelnoten. Zie de website van Udea",
+        "fr": "Udea waarschuwt voor De Firma Taart Caramel Crush. Het product bevat hazelnoot. Dit staat niet op het etiket vermeld. Eet de taart niet als u allergisch bent voor hazelnoten. Zie de website van Udea",
+        "nl": "Udea waarschuwt voor De Firma Taart Caramel Crush. Het product bevat hazelnoot. Dit staat niet op het etiket vermeld. Eet de taart niet als u allergisch bent voor hazelnoten. Zie de website van Udea"
+      },
+      "url": "https://www.nvwa.nl/documenten/2026/06/05/veiligheidswaarschuwing-taart-caramel-crush-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-09-0039",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "jelly's kawaii jelly straws, gélatines au goût de fruit de 200g",
+        "fr": "jelly's kawaii jelly straws, gélatines au goût de fruit de 200g",
+        "nl": "jelly's kawaii jelly straws, gélatines au goût de fruit de 200g"
+      },
+      "description": {
+        "en": "cette alerte fait notamment état d’un risque d’étouffement, en particulier pour les enfants, ces produits pouvant rester coincés dans la gorge en raison de leur texture ferme - étouffement",
+        "fr": "cette alerte fait notamment état d’un risque d’étouffement, en particulier pour les enfants, ces produits pouvant rester coincés dans la gorge en raison de leur texture ferme - étouffement",
+        "nl": "cette alerte fait notamment état d’un risque d’étouffement, en particulier pour les enfants, ces produits pouvant rester coincés dans la gorge en raison de leur texture ferme - étouffement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23409/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0028",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade coleslaw 1kg¤piemontaise jambon 1kg¤salade pecheur 300g¤piemontaise jambon 300g¤salade coleslaw 500g¤piemontaise jambon 500g¤pouce piemontaise jambon 500g¤auchan coleslaw 300g¤¤¤¤¤",
+        "fr": "salade coleslaw 1kg¤piemontaise jambon 1kg¤salade pecheur 300g¤piemontaise jambon 300g¤salade coleslaw 500g¤piemontaise jambon 500g¤pouce piemontaise jambon 500g¤auchan coleslaw 300g¤¤¤¤¤",
+        "nl": "salade coleslaw 1kg¤piemontaise jambon 1kg¤salade pecheur 300g¤piemontaise jambon 300g¤salade coleslaw 500g¤piemontaise jambon 500g¤pouce piemontaise jambon 500g¤auchan coleslaw 300g¤¤¤¤¤"
+      },
+      "description": {
+        "en": "suite à la présence possible de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "suite à la présence possible de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "suite à la présence possible de corps étranger - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23398/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0016",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade piémontaise - 300g, 500g et 1kg - monique ranou",
+        "fr": "salade piémontaise - 300g, 500g et 1kg - monique ranou",
+        "nl": "salade piémontaise - 300g, 500g et 1kg - monique ranou"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23386/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0017",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade piemontaise - 500g - top budget",
+        "fr": "salade piemontaise - 500g - top budget",
+        "nl": "salade piemontaise - 500g - top budget"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23387/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0018",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade piemontaise 1kg netto¤salade piemontaise 500g netto",
+        "fr": "salade piemontaise 1kg netto¤salade piemontaise 500g netto",
+        "nl": "salade piemontaise 1kg netto¤salade piemontaise 500g netto"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23388/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "rappelconso-2026-09-0019",
       "source": "RappelConso",
       "date": "2026-09-02",
@@ -1603,13 +2188,16 @@
         "FR"
       ],
       "foodGroups": [
-        "meat"
+        "meat",
+        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
+      "hazardTypes": [
+        "physical"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-09-0020",
@@ -1630,13 +2218,74 @@
         "FR"
       ],
       "foodGroups": [
-        "meat"
+        "meat",
+        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
+      "hazardTypes": [
+        "physical"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0023",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade pêcheur - 300g - monique ranou",
+        "fr": "salade pêcheur - 300g - monique ranou",
+        "nl": "salade pêcheur - 300g - monique ranou"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23393/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0026",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade pêcheur 1,5 kg",
+        "fr": "salade pêcheur 1,5 kg",
+        "nl": "salade pêcheur 1,5 kg"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23396/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-09-0027",
@@ -1661,9 +2310,40 @@
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
+      "hazardTypes": [
+        "physical"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0009",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade marco polo 1.5kg",
+        "fr": "salade marco polo 1.5kg",
+        "nl": "salade marco polo 1.5kg"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23379/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-09-0025",
@@ -1688,9 +2368,11 @@
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
+      "hazardTypes": [
+        "physical"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-09-0006",
@@ -1702,18 +2384,16 @@
         "nl": "filets de sardine"
       },
       "description": {
-        "en": "presence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "fr": "presence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "nl": "presence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
+        "en": "presence d'histamine - toxines endogènes : histamine",
+        "fr": "presence d'histamine - toxines endogènes : histamine",
+        "nl": "presence d'histamine - toxines endogènes : histamine"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/23376/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
-        "meat",
-        "fish",
-        "dairy"
+        "fish"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -1744,9 +2424,69 @@
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
+      "hazardTypes": [
+        "physical"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0011",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade alaska 1.5kg",
+        "fr": "salade alaska 1.5kg",
+        "nl": "salade alaska 1.5kg"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23381/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0013",
+      "source": "RappelConso",
+      "date": "2026-09-02",
+      "title": {
+        "en": "salade marco polo 300g",
+        "fr": "salade marco polo 300g",
+        "nl": "salade marco polo 300g"
+      },
+      "description": {
+        "en": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "ces produits sont susceptibles de contenir un ou plusieurs corps étranger(s) dur(s) de couleur noire. - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23383/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "nvwa-ng-galbani-salame-tradizionale",
@@ -1777,6 +2517,36 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "favv-rappel-de-lactalis-belgique",
+      "source": "FAVV",
+      "date": "2026-09-01",
+      "title": {
+        "en": "Rappel de Lactalis Belgique | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Lactalis Belgique | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Lactalis Belgique | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société Lactalis Belgique retire le produit « Salame Tradizionale » de la marque GALBANI de la vente et le rappelle auprès des consommateurs en raison de la présence possible de corps étrangers.",
+        "fr": "En accord avec l’AFSCA, la société Lactalis Belgique retire le produit « Salame Tradizionale » de la marque GALBANI de la vente et le rappelle auprès des consommateurs en raison de la présence possible de corps étrangers.",
+        "nl": "En accord avec l’AFSCA, la société Lactalis Belgique retire le produit « Salame Tradizionale » de la marque GALBANI de la vente et le rappelle auprès des consommateurs en raison de la présence possible de corps étrangers."
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lactalis-belgique",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "cfia-82538",
       "source": "CFIA",
       "date": "2026-08-27",
@@ -1799,67 +2569,11 @@
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0233",
-      "source": "RappelConso",
-      "date": "2026-08-27",
-      "title": {
-        "en": "filets de maquereaux vendus au rayon traditionnel",
-        "fr": "filets de maquereaux vendus au rayon traditionnel",
-        "nl": "filets de maquereaux vendus au rayon traditionnel"
-      },
-      "description": {
-        "en": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "fr": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)",
-        "nl": "présence d'histamine - toxines endogènes : histamine (poissons, fromages, boissons alcoolisées, charcuteries)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23345/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish",
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-08-0229",
-      "source": "RappelConso",
-      "date": "2026-08-26",
-      "title": {
-        "en": "bellota-bellota jambon de trevélez tranché – 150 g",
-        "fr": "bellota-bellota jambon de trevélez tranché – 150 g",
-        "nl": "bellota-bellota jambon de trevélez tranché – 150 g"
-      },
-      "description": {
-        "en": "erreur de dlc : l'étiquette apposée sur le produit stipule une dlc au 28/11/2027 alors que c'est une dlc au 28/11/2026 - anomalie d'étiquetage",
-        "fr": "erreur de dlc : l'étiquette apposée sur le produit stipule une dlc au 28/11/2027 alors que c'est une dlc au 28/11/2026 - anomalie d'étiquetage",
-        "nl": "erreur de dlc : l'étiquette apposée sur le produit stipule une dlc au 28/11/2027 alors que c'est une dlc au 28/11/2026 - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23341/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
       "hazardTypes": [
-        "labeling"
+        "physical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "fda-78dceceedf49",
@@ -1881,6 +2595,36 @@
       ],
       "foodGroups": [
         "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-i-belgie-naam-van-fruitpackers",
+      "source": "FAVV",
+      "date": "2026-08-22",
+      "title": {
+        "en": "Terugroeping van Aldi België in naam van Fruitpackers | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Aldi België in naam van Fruitpackers | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Aldi België in naam van Fruitpackers | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt Aldi België in naam van Fruitpackers het product “Courgettes per 2 stuks” uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan gewasbeschermingsmiddelen (heptachloor). Aldi België vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar de winkel.",
+        "fr": "In overleg met het FAVV haalt Aldi België in naam van Fruitpackers het product “Courgettes per 2 stuks” uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan gewasbeschermingsmiddelen (heptachloor). Aldi België vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar de winkel.",
+        "nl": "In overleg met het FAVV haalt Aldi België in naam van Fruitpackers het product “Courgettes per 2 stuks” uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan gewasbeschermingsmiddelen (heptachloor). Aldi België vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar de winkel."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-aldi-belgie-naam-van-fruitpackers",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -1917,6 +2661,36 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "favv-terugroeping-van-fude-serrahn",
+      "source": "FAVV",
+      "date": "2026-08-19",
+      "title": {
+        "en": "Terugroeping van Fude + Serrahn | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Fude + Serrahn | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Fude + Serrahn | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt leverancier Fude + Serrahn High Protein Pudding Chocolate flavour van het merk Milbona uit verkoop en roept het terug van bij de consumenten wegens een mogelijke aanwezigheid van Bacillus Cereus. Lidl België vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt. U krijgt uw artikel terugbetaald, ook zonder vertoon van uw kassaticket. Beschrijving van de product:",
+        "fr": "In overleg met het FAVV haalt leverancier Fude + Serrahn High Protein Pudding Chocolate flavour van het merk Milbona uit verkoop en roept het terug van bij de consumenten wegens een mogelijke aanwezigheid van Bacillus Cereus. Lidl België vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt. U krijgt uw artikel terugbetaald, ook zonder vertoon van uw kassaticket. Beschrijving van de product:",
+        "nl": "In overleg met het FAVV haalt leverancier Fude + Serrahn High Protein Pudding Chocolate flavour van het merk Milbona uit verkoop en roept het terug van bij de consumenten wegens een mogelijke aanwezigheid van Bacillus Cereus. Lidl België vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt. U krijgt uw artikel terugbetaald, ook zonder vertoon van uw kassaticket. Beschrijving van de product:"
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-fude-serrahn",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "nvwa-van-brouwerij-de-kromme-haring",
       "source": "NVWA",
       "date": "2026-07-22",
@@ -1940,9 +2714,11 @@
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
+      "hazardTypes": [
+        "physical"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "fsa-FSA-PRIN-37-2026",
@@ -1994,38 +2770,39 @@
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
+      "hazardTypes": [
+        "physical"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "physical"
     },
     {
-      "id": "fsa-FSA-FAFA-01-2026",
-      "source": "FSA",
-      "date": "2026-06-04",
+      "id": "nvwa-karamel-chocoladereep-100-gram",
+      "source": "NVWA",
+      "date": "2026-07-06",
       "title": {
-        "en": "Food Alert \"For Action\": To: Food Businesses and Consumers who have purchased and sold frozen products supplied by Inarah’s Frozen Foods Ltd",
-        "fr": "Food Alert \"For Action\": To: Food Businesses and Consumers who have purchased and sold frozen products supplied by Inarah’s Frozen Foods Ltd",
-        "nl": "Food Alert \"For Action\": To: Food Businesses and Consumers who have purchased and sold frozen products supplied by Inarah’s Frozen Foods Ltd"
+        "en": "Veiligheidswaarschuwing Milka Karamel Chocoladereep 100 gram",
+        "fr": "Veiligheidswaarschuwing Milka Karamel Chocoladereep 100 gram",
+        "nl": "Veiligheidswaarschuwing Milka Karamel Chocoladereep 100 gram"
       },
       "description": {
-        "en": "Inarah’s Frozen Foods Ltd has been unable to demonstrate that the products in this alert have been produced and handled safely. Products that have not met food hygiene and safety requirements pose a risk to consumers and may be unsafe to eat. The products are known to have been supplied to food businesses across the UK.\nPhotos of these brand labels are attached below. These brands cover a wide range of frozen products including chicken, beef, fish and vegetarian items, packaged in different size packaging with multiple best before dates and/or batch numbers. These products have one of the below company names and addresses on the labels:\nInarah Frozen Foods LTD, Regal Drive, Walsall, WS2 9HQ\nFour Seasons Food Group, Unit 7-8 Monarch Works, Elswick Road, Fenton Industrial Estate, Stoke-on-Trent, ST4 2SH\nKBH Foods, BD9 4TS\nAll frozen products with either “Inarah’s Frozen Foods”, “Inarah’s Fine Foods” or “New York Crispy” with one of the above addresses are included in this alert.\nFood businesses selling these products in the UK are advised to immediately stop sales, undertake product withdrawals and where there have been retail sales, to undertake product recalls. Products should be disposed of safely.",
-        "fr": "Inarah’s Frozen Foods Ltd has been unable to demonstrate that the products in this alert have been produced and handled safely. Products that have not met food hygiene and safety requirements pose a risk to consumers and may be unsafe to eat. The products are known to have been supplied to food businesses across the UK.\nPhotos of these brand labels are attached below. These brands cover a wide range of frozen products including chicken, beef, fish and vegetarian items, packaged in different size packaging with multiple best before dates and/or batch numbers. These products have one of the below company names and addresses on the labels:\nInarah Frozen Foods LTD, Regal Drive, Walsall, WS2 9HQ\nFour Seasons Food Group, Unit 7-8 Monarch Works, Elswick Road, Fenton Industrial Estate, Stoke-on-Trent, ST4 2SH\nKBH Foods, BD9 4TS\nAll frozen products with either “Inarah’s Frozen Foods”, “Inarah’s Fine Foods” or “New York Crispy” with one of the above addresses are included in this alert.\nFood businesses selling these products in the UK are advised to immediately stop sales, undertake product withdrawals and where there have been retail sales, to undertake product recalls. Products should be disposed of safely.",
-        "nl": "Inarah’s Frozen Foods Ltd has been unable to demonstrate that the products in this alert have been produced and handled safely. Products that have not met food hygiene and safety requirements pose a risk to consumers and may be unsafe to eat. The products are known to have been supplied to food businesses across the UK.\nPhotos of these brand labels are attached below. These brands cover a wide range of frozen products including chicken, beef, fish and vegetarian items, packaged in different size packaging with multiple best before dates and/or batch numbers. These products have one of the below company names and addresses on the labels:\nInarah Frozen Foods LTD, Regal Drive, Walsall, WS2 9HQ\nFour Seasons Food Group, Unit 7-8 Monarch Works, Elswick Road, Fenton Industrial Estate, Stoke-on-Trent, ST4 2SH\nKBH Foods, BD9 4TS\nAll frozen products with either “Inarah’s Frozen Foods”, “Inarah’s Fine Foods” or “New York Crispy” with one of the above addresses are included in this alert.\nFood businesses selling these products in the UK are advised to immediately stop sales, undertake product withdrawals and where there have been retail sales, to undertake product recalls. Products should be disposed of safely."
+        "en": "Mondelēz International waarschuwt voor Milka Karamel chocoladereep 100 gram. Er kunnen mogelijk stukjes flexibel, zacht rubber in zitten. Eet de chocoladereep niet.",
+        "fr": "Mondelēz International waarschuwt voor Milka Karamel chocoladereep 100 gram. Er kunnen mogelijk stukjes flexibel, zacht rubber in zitten. Eet de chocoladereep niet.",
+        "nl": "Mondelēz International waarschuwt voor Milka Karamel chocoladereep 100 gram. Er kunnen mogelijk stukjes flexibel, zacht rubber in zitten. Eet de chocoladereep niet."
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-fafa-01-2026",
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/06/veiligheidswaarschuwing-milka-karamel-chocoladereep-100-gram",
       "countries": [
-        "GB"
+        "NL",
+        "BE"
       ],
       "foodGroups": [
-        "meat"
+        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
+      "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
+      "pregnancySummaryKey": "general"
     }
   ]
 }
