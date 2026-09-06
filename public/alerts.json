@@ -1,6 +1,39 @@
 {
-  "generated": "2026-09-05T06:03:07.785Z",
+  "generated": "2026-09-06T06:03:02.470Z",
   "alerts": [
+    {
+      "id": "favv-rappel-de-grand-frais-14",
+      "source": "FAVV",
+      "date": "2026-09-05",
+      "title": {
+        "en": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, Grand Frais retire le produit « Crevettes Madagascar Label Rouge » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria Monocytogenes. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit",
+        "fr": "En accord avec l’AFSCA, Grand Frais retire le produit « Crevettes Madagascar Label Rouge » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria Monocytogenes. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit",
+        "nl": "En accord avec l’AFSCA, Grand Frais retire le produit « Crevettes Madagascar Label Rouge » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria Monocytogenes. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-grand-frais-14",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-09-0030",
       "source": "RappelConso",
@@ -1115,38 +1148,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "favv-terugroeping-van-jumbo-15",
-      "source": "FAVV",
-      "date": "2026-08-27",
-      "title": {
-        "en": "Terugroeping van Jumbo | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van Jumbo | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van Jumbo | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "Waarschuwing: Eet dit product niet. Jumbo Supermarkten haalt in overleg met FAVV de Biologische brie van het merk Jumbo uit de verkoop omdat mogelijk de bacterie listeria aanwezig is. Jumbo waarschuwt om dit product niet te eten. Om dit product gaat het:",
-        "fr": "Waarschuwing: Eet dit product niet. Jumbo Supermarkten haalt in overleg met FAVV de Biologische brie van het merk Jumbo uit de verkoop omdat mogelijk de bacterie listeria aanwezig is. Jumbo waarschuwt om dit product niet te eten. Om dit product gaat het:",
-        "nl": "Waarschuwing: Eet dit product niet. Jumbo Supermarkten haalt in overleg met FAVV de Biologische brie van het merk Jumbo uit de verkoop omdat mogelijk de bacterie listeria aanwezig is. Jumbo waarschuwt om dit product niet te eten. Om dit product gaat het:"
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-jumbo-15",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "favv-terugroeping-van-monoprix-1",
       "source": "FAVV",
       "date": "2026-08-27",
@@ -1649,6 +1650,37 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "cfia-82604",
+      "source": "CFIA",
+      "date": "2026-09-05",
+      "title": {
+        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
+        "fr": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
+        "nl": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82597",
