@@ -1,6 +1,62 @@
 {
-  "generated": "2026-09-07T06:03:34.209Z",
+  "generated": "2026-09-08T06:03:17.396Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0089",
+      "source": "RappelConso",
+      "date": "2026-09-07",
+      "title": {
+        "en": "viande hachée de race charolaise façon bouchère 12% mg conditionnement par 2 ou par 4 et format cheveux d'ange¤",
+        "fr": "viande hachée de race charolaise façon bouchère 12% mg conditionnement par 2 ou par 4 et format cheveux d'ange¤",
+        "nl": "viande hachée de race charolaise façon bouchère 12% mg conditionnement par 2 ou par 4 et format cheveux d'ange¤"
+      },
+      "description": {
+        "en": "risque microbiologique - présence d'escherichia coli - escherichia coli shiga toxinogène (stec)",
+        "fr": "risque microbiologique - présence d'escherichia coli - escherichia coli shiga toxinogène (stec)",
+        "nl": "risque microbiologique - présence d'escherichia coli - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23463/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0084",
+      "source": "RappelConso",
+      "date": "2026-09-07",
+      "title": {
+        "en": "coffret 310 g (7 614 3196)¤sacs de 210 g (7 614 3199)",
+        "fr": "coffret 310 g (7 614 3196)¤sacs de 210 g (7 614 3199)",
+        "nl": "coffret 310 g (7 614 3196)¤sacs de 210 g (7 614 3199)"
+      },
+      "description": {
+        "en": "salmonelle sur les graines de courge de notre fournisseur - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "salmonelle sur les graines de courge de notre fournisseur - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "salmonelle sur les graines de courge de notre fournisseur - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23457/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "fda-55dd0591f9a2",
       "source": "FDA",
@@ -878,93 +934,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-09-0042",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "gésier de poulet",
-        "fr": "gésier de poulet",
-        "nl": "gésier de poulet"
-      },
-      "description": {
-        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23412/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0041",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "haut de cuisse de poulet brut et mariné",
-        "fr": "haut de cuisse de poulet brut et mariné",
-        "nl": "haut de cuisse de poulet brut et mariné"
-      },
-      "description": {
-        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23411/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0040",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "pilon de cuisse de poulet brut et mariné",
-        "fr": "pilon de cuisse de poulet brut et mariné",
-        "nl": "pilon de cuisse de poulet brut et mariné"
-      },
-      "description": {
-        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23410/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "favv-rappel-de-farmchix-company-1",
       "source": "FAVV",
       "date": "2026-09-02",
@@ -1164,38 +1133,6 @@
       "countries": [
         "NL",
         "BE"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "favv-terugroeping-van-monoprix-1",
-      "source": "FAVV",
-      "date": "2026-08-27",
-      "title": {
-        "en": "Terugroeping van Monoprix | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van Monoprix | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van Monoprix | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "Monoprix haalt in overleg met FAVV de GORGONZOLA DOLCE van het merk CASA AZZURRA uit de verkoop wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
-        "fr": "Monoprix haalt in overleg met FAVV de GORGONZOLA DOLCE van het merk CASA AZZURRA uit de verkoop wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
-        "nl": "Monoprix haalt in overleg met FAVV de GORGONZOLA DOLCE van het merk CASA AZZURRA uit de verkoop wegens de mogelijke aanwezigheid van Listeria monocytogenes."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-monoprix-1",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
       ],
       "foodGroups": [
         "dairy"
@@ -2454,6 +2391,62 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "nvwa-vliet-roomkaas-ananas-125-gram",
+      "source": "NVWA",
+      "date": "2026-09-07",
+      "title": {
+        "en": "Veiligheidswaarschuwing Hoogvliet roomkaas ananas 125 gram",
+        "fr": "Veiligheidswaarschuwing Hoogvliet roomkaas ananas 125 gram",
+        "nl": "Veiligheidswaarschuwing Hoogvliet roomkaas ananas 125 gram"
+      },
+      "description": {
+        "en": "Hoogvliet waarschuwt voor roomkaas ananas 125 gram. Er staat een verkeerde houdbaarheidsdatum op de verpakking (jaartal 2027 in plaats van 2026). Eet het product niet. Zie de website van Hoogvliet",
+        "fr": "Hoogvliet waarschuwt voor roomkaas ananas 125 gram. Er staat een verkeerde houdbaarheidsdatum op de verpakking (jaartal 2027 in plaats van 2026). Eet het product niet. Zie de website van Hoogvliet",
+        "nl": "Hoogvliet waarschuwt voor roomkaas ananas 125 gram. Er staat een verkeerde houdbaarheidsdatum op de verpakking (jaartal 2027 in plaats van 2026). Eet het product niet. Zie de website van Hoogvliet"
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/09/07/veiligheidswaarschuwing-hoogvliet-roomkaas-ananas-125-gram",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-terugroeping-van-mijten-nv-0",
+      "source": "FAVV",
+      "date": "2026-09-07",
+      "title": {
+        "en": "Terugroeping van Mijten NV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Mijten NV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Mijten NV | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) haalt Mijten NV het product AVIATOR van het merk Mijten met lotnummer B99 uit de verkoop en roept het terug van bij de consumenten wegens de aanwezigheid van Ambrosia. Mijten NV vraagt haar klanten om dit product niet meer te gebruiken en het terug te brengen naar het verkooppunt waar het werd aangekocht.",
+        "fr": "In overleg met het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) haalt Mijten NV het product AVIATOR van het merk Mijten met lotnummer B99 uit de verkoop en roept het terug van bij de consumenten wegens de aanwezigheid van Ambrosia. Mijten NV vraagt haar klanten om dit product niet meer te gebruiken en het terug te brengen naar het verkooppunt waar het werd aangekocht.",
+        "nl": "In overleg met het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) haalt Mijten NV het product AVIATOR van het merk Mijten met lotnummer B99 uit de verkoop en roept het terug van bij de consumenten wegens de aanwezigheid van Ambrosia. Mijten NV vraagt haar klanten om dit product niet meer te gebruiken en het terug te brengen naar het verkooppunt waar het werd aangekocht."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-mijten-nv-0",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-09-0082",
