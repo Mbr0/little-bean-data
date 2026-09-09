@@ -1,6 +1,152 @@
 {
-  "generated": "2026-09-08T06:03:17.396Z",
+  "generated": "2026-09-09T06:02:53.396Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0091",
+      "source": "RappelConso",
+      "date": "2026-09-08",
+      "title": {
+        "en": "lot 362627",
+        "fr": "lot 362627",
+        "nl": "lot 362627"
+      },
+      "description": {
+        "en": "listeria monocytogene - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria monocytogene - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria monocytogene - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23465/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0095",
+      "source": "RappelConso",
+      "date": "2026-09-08",
+      "title": {
+        "en": "merguez traditionnelles fabriquées sur place",
+        "fr": "merguez traditionnelles fabriquées sur place",
+        "nl": "merguez traditionnelles fabriquées sur place"
+      },
+      "description": {
+        "en": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23469/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-08-0238",
+      "source": "RappelConso",
+      "date": "2026-09-08",
+      "title": {
+        "en": "saucisson sec petites tranches 32 tranches - monique ranou - 100g",
+        "fr": "saucisson sec petites tranches 32 tranches - monique ranou - 100g",
+        "nl": "saucisson sec petites tranches 32 tranches - monique ranou - 100g"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23461/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0097",
+      "source": "RappelConso",
+      "date": "2026-09-08",
+      "title": {
+        "en": "fromages de chèvre au lait cru lot 01/09",
+        "fr": "fromages de chèvre au lait cru lot 01/09",
+        "nl": "fromages de chèvre au lait cru lot 01/09"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23471/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "favv-rappel-de-alfiero",
+      "source": "FAVV",
+      "date": "2026-09-08",
+      "title": {
+        "en": "Rappel de Alfiero | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Alfiero | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Alfiero | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société Alfiero retire le produit « Mousse au chocolat » de la marque Alfiero de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listeria monocytogenes. Alfiero demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "fr": "En accord avec l’AFSCA, la société Alfiero retire le produit « Mousse au chocolat » de la marque Alfiero de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listeria monocytogenes. Alfiero demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "nl": "En accord avec l’AFSCA, la société Alfiero retire le produit « Mousse au chocolat » de la marque Alfiero de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listeria monocytogenes. Alfiero demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-alfiero",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-09-0089",
       "source": "RappelConso",
@@ -644,6 +790,35 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
+      "id": "fda-176cca931ddf",
+      "source": "FDA",
+      "date": "2026-09-03",
+      "title": {
+        "en": "Fi Recalls Supplements for Dogs Because of Possible Salmonella Contamination",
+        "fr": "Fi Recalls Supplements for Dogs Because of Possible Salmonella Contamination",
+        "nl": "Fi Recalls Supplements for Dogs Because of Possible Salmonella Contamination"
+      },
+      "description": {
+        "en": "Fi, of New York, NY, is recalling the supplements for dogs listed below because they have the potential to be contaminated with Salmonella due to an ingredient supplied to Fi’s manufacturer. The manufacturer has suspended production while it investigates. Fi is promptly notifying all affected custom",
+        "fr": "Fi, of New York, NY, is recalling the supplements for dogs listed below because they have the potential to be contaminated with Salmonella due to an ingredient supplied to Fi’s manufacturer. The manufacturer has suspended production while it investigates. Fi is promptly notifying all affected custom",
+        "nl": "Fi, of New York, NY, is recalling the supplements for dogs listed below because they have the potential to be contaminated with Salmonella due to an ingredient supplied to Fi’s manufacturer. The manufacturer has suspended production while it investigates. Fi is promptly notifying all affected custom"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fi-recalls-supplements-dogs-because-possible-salmonella-contamination",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
       "id": "rappelconso-2026-08-0068",
       "source": "RappelConso",
       "date": "2026-09-02",
@@ -787,151 +962,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0047",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "rillettes d'oie vendues au rayon traditionnel",
-        "fr": "rillettes d'oie vendues au rayon traditionnel",
-        "nl": "rillettes d'oie vendues au rayon traditionnel"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23420/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0046",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "aiguillettes de poulet 500g",
-        "fr": "aiguillettes de poulet 500g",
-        "nl": "aiguillettes de poulet 500g"
-      },
-      "description": {
-        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23416/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0045",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "ailes de poulet brute et marinée",
-        "fr": "ailes de poulet brute et marinée",
-        "nl": "ailes de poulet brute et marinée"
-      },
-      "description": {
-        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23415/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0044",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "cuisse de poulet brute et marinée",
-        "fr": "cuisse de poulet brute et marinée",
-        "nl": "cuisse de poulet brute et marinée"
-      },
-      "description": {
-        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23414/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0043",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "foie de poulet",
-        "fr": "foie de poulet",
-        "nl": "foie de poulet"
-      },
-      "description": {
-        "en": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23413/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "favv-rappel-de-farmchix-company-1",
@@ -1197,35 +1227,6 @@
         "meat",
         "dairy",
         "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "fda-dc588496e87d",
-      "source": "FDA",
-      "date": "2026-08-21",
-      "title": {
-        "en": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination",
-        "fr": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination",
-        "nl": "Fromm Family Foods Voluntarily Recalls Turkey Pâté Wet Food For Dogs and Diner Classic Milo’s Meatloaf Pâté Wet Food For Dogs Due to Potential Metal Contamination"
-      },
-      "description": {
-        "en": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination.",
-        "fr": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination.",
-        "nl": "August 21, 2026, FROMM FAMILY FOODS of MEQUON, Wisconsin  is recalling 3,852 cases of Fromm Turkey Pâté Wet canned dog food and 1,973 cases of Fromm Diner Classics Milo's Meatloaf Pâté Wet canned dog food due to potential metal contamination."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fromm-family-foods-voluntarily-recalls-turkey-pate-wet-food-dogs-and-diner-classic-milos-meatloaf",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -1618,6 +1619,37 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "fda-d90cccf82045",
+      "source": "FDA",
+      "date": "2026-09-08",
+      "title": {
+        "en": "FreshPoint Issues Recall Due to an Improperly Declared Allergen (Egg) in Chicken Salad Wedge Sandwiches",
+        "fr": "FreshPoint Issues Recall Due to an Improperly Declared Allergen (Egg) in Chicken Salad Wedge Sandwiches",
+        "nl": "FreshPoint Issues Recall Due to an Improperly Declared Allergen (Egg) in Chicken Salad Wedge Sandwiches"
+      },
+      "description": {
+        "en": "September 4, 2026 Orlando, FL– FreshPoint of Orlando, FL., is issuing a voluntary recall of 1,093 units of specific lots of Cranberry Chicken Salad Wedge sandwiches due to an improperly declared allergen (eggs).  People who have an allergy or severe sensitivity to eggs run the risk of serious or lif",
+        "fr": "September 4, 2026 Orlando, FL– FreshPoint of Orlando, FL., is issuing a voluntary recall of 1,093 units of specific lots of Cranberry Chicken Salad Wedge sandwiches due to an improperly declared allergen (eggs).  People who have an allergy or severe sensitivity to eggs run the risk of serious or lif",
+        "nl": "September 4, 2026 Orlando, FL– FreshPoint of Orlando, FL., is issuing a voluntary recall of 1,093 units of specific lots of Cranberry Chicken Salad Wedge sandwiches due to an improperly declared allergen (eggs).  People who have an allergy or severe sensitivity to eggs run the risk of serious or lif"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/freshpoint-issues-recall-due-improperly-declared-allergen-egg-chicken-salad-wedge-sandwiches",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "cfia-82604",
       "source": "CFIA",
       "date": "2026-09-05",
@@ -1644,35 +1676,6 @@
       "hazardTypes": [
         "allergen",
         "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82597",
-      "source": "CFIA",
-      "date": "2026-09-04",
-      "title": {
-        "en": "Ten Ten Dim Sum brand buns and dumplings recalled due to undeclared milk",
-        "fr": "Ten Ten Dim Sum brand buns and dumplings recalled due to undeclared milk",
-        "nl": "Ten Ten Dim Sum brand buns and dumplings recalled due to undeclared milk"
-      },
-      "description": {
-        "en": "Ten Ten Dim Sum brand buns and dumplings recalled due to undeclared milk.",
-        "fr": "Ten Ten Dim Sum brand buns and dumplings recalled due to undeclared milk.",
-        "nl": "Ten Ten Dim Sum brand buns and dumplings recalled due to undeclared milk."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/ten-ten-dim-sum-brand-buns-and-dumplings-recalled-due-undeclared-milk",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1901,36 +1904,6 @@
       ],
       "foodGroups": [
         "egg"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-0d6a751e824f",
-      "source": "FDA",
-      "date": "2026-08-25",
-      "title": {
-        "en": "The Better Bakehouse Snack Company is Recalling Certain Lots of Donutful Chocolate Dipped Vanilla Cake Donuts to Undeclared Milk Allergen",
-        "fr": "The Better Bakehouse Snack Company is Recalling Certain Lots of Donutful Chocolate Dipped Vanilla Cake Donuts to Undeclared Milk Allergen",
-        "nl": "The Better Bakehouse Snack Company is Recalling Certain Lots of Donutful Chocolate Dipped Vanilla Cake Donuts to Undeclared Milk Allergen"
-      },
-      "description": {
-        "en": "Las Vegas, NV – August 24, 2026 – The Better Bakehouse Snack Company is recalling certain lots of Donutful Chocolate Dipped Vanilla Cake Donuts because the product may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening aller",
-        "fr": "Las Vegas, NV – August 24, 2026 – The Better Bakehouse Snack Company is recalling certain lots of Donutful Chocolate Dipped Vanilla Cake Donuts because the product may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening aller",
-        "nl": "Las Vegas, NV – August 24, 2026 – The Better Bakehouse Snack Company is recalling certain lots of Donutful Chocolate Dipped Vanilla Cake Donuts because the product may contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening aller"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/better-bakehouse-snack-company-recalling-certain-lots-donutful-chocolate-dipped-vanilla-cake-donuts",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -2393,6 +2366,33 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-09-0093",
+      "source": "RappelConso",
+      "date": "2026-09-08",
+      "title": {
+        "en": "18460 – lmf strawberry waffle roll 48 × 52 g¤18461 – lmf sea salt cheese flavour waffle roll 48 × 52 g¤18463 – lmf coconut waffle roll 48 × 52 g",
+        "fr": "18460 – lmf strawberry waffle roll 48 × 52 g¤18461 – lmf sea salt cheese flavour waffle roll 48 × 52 g¤18463 – lmf coconut waffle roll 48 × 52 g",
+        "nl": "18460 – lmf strawberry waffle roll 48 × 52 g¤18461 – lmf sea salt cheese flavour waffle roll 48 × 52 g¤18463 – lmf coconut waffle roll 48 × 52 g"
+      },
+      "description": {
+        "en": "rappel demandé à la suite d’une notification des autorités alimentaires néerlandaises (nvwa). - autre risque",
+        "fr": "rappel demandé à la suite d’une notification des autorités alimentaires néerlandaises (nvwa). - autre risque",
+        "nl": "rappel demandé à la suite d’une notification des autorités alimentaires néerlandaises (nvwa). - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23467/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "nvwa-vliet-roomkaas-ananas-125-gram",
       "source": "NVWA",
       "date": "2026-09-07",
@@ -2440,6 +2440,31 @@
       ],
       "languages": [
         "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fda-3d7d26f709fe",
+      "source": "FDA",
+      "date": "2026-09-07",
+      "title": {
+        "en": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
+        "fr": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
+        "nl": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect"
+      },
+      "description": {
+        "en": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O",
+        "fr": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O",
+        "nl": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
+      "countries": [
+        "US"
       ],
       "foodGroups": [],
       "pregnancyRelevance": "low",
@@ -2674,36 +2699,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "favv-rappel-de-lactalis-belgique",
-      "source": "FAVV",
-      "date": "2026-09-01",
-      "title": {
-        "en": "Rappel de Lactalis Belgique | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de Lactalis Belgique | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de Lactalis Belgique | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En accord avec l’AFSCA, la société Lactalis Belgique retire le produit « Salame Tradizionale » de la marque GALBANI de la vente et le rappelle auprès des consommateurs en raison de la présence possible de corps étrangers.",
-        "fr": "En accord avec l’AFSCA, la société Lactalis Belgique retire le produit « Salame Tradizionale » de la marque GALBANI de la vente et le rappelle auprès des consommateurs en raison de la présence possible de corps étrangers.",
-        "nl": "En accord avec l’AFSCA, la société Lactalis Belgique retire le produit « Salame Tradizionale » de la marque GALBANI de la vente et le rappelle auprès des consommateurs en raison de la présence possible de corps étrangers."
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-lactalis-belgique",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "physical"
     },
     {
       "id": "fda-78dceceedf49",
