@@ -1,6 +1,180 @@
 {
-  "generated": "2026-09-09T06:02:53.396Z",
+  "generated": "2026-09-10T06:03:36.205Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0047",
+      "source": "RappelConso",
+      "date": "2026-09-09",
+      "title": {
+        "en": "rillettes d'oie vendues au rayon traditionnel",
+        "fr": "rillettes d'oie vendues au rayon traditionnel",
+        "nl": "rillettes d'oie vendues au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23483/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0103",
+      "source": "RappelConso",
+      "date": "2026-09-09",
+      "title": {
+        "en": "boeuf haché à la demande",
+        "fr": "boeuf haché à la demande",
+        "nl": "boeuf haché à la demande"
+      },
+      "description": {
+        "en": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23477/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0106",
+      "source": "RappelConso",
+      "date": "2026-09-09",
+      "title": {
+        "en": "brie de melun vendu au rayon traditionnel et libre service",
+        "fr": "brie de melun vendu au rayon traditionnel et libre service",
+        "nl": "brie de melun vendu au rayon traditionnel et libre service"
+      },
+      "description": {
+        "en": "présence d'e coli stec - escherichia coli shiga toxinogène (stec)",
+        "fr": "présence d'e coli stec - escherichia coli shiga toxinogène (stec)",
+        "nl": "présence d'e coli stec - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23480/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0090",
+      "source": "RappelConso",
+      "date": "2026-09-09",
+      "title": {
+        "en": "brie cdf fp 25gx100 ¤brie cdf fp 30gx100",
+        "fr": "brie cdf fp 25gx100 ¤brie cdf fp 30gx100",
+        "nl": "brie cdf fp 25gx100 ¤brie cdf fp 30gx100"
+      },
+      "description": {
+        "en": "présence potentielle de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence potentielle de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence potentielle de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23464/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "nvwa-geitenkefir-van-de-bonte-weide",
+      "source": "NVWA",
+      "date": "2026-09-09",
+      "title": {
+        "en": "Veiligheidswaarschuwing Geitenkefir van De Bonte Weide",
+        "fr": "Veiligheidswaarschuwing Geitenkefir van De Bonte Weide",
+        "nl": "Veiligheidswaarschuwing Geitenkefir van De Bonte Weide"
+      },
+      "description": {
+        "en": "Udea waarschuwt voor Geitenkefir 500 ml van De Bonte Weide. De shigatoxine-producerende E. coli-bacterie (STEC) kan aanwezig zijn in het product. Eet of drink de geitenkefir niet. Zie de website van Udea",
+        "fr": "Udea waarschuwt voor Geitenkefir 500 ml van De Bonte Weide. De shigatoxine-producerende E. coli-bacterie (STEC) kan aanwezig zijn in het product. Eet of drink de geitenkefir niet. Zie de website van Udea",
+        "nl": "Udea waarschuwt voor Geitenkefir 500 ml van De Bonte Weide. De shigatoxine-producerende E. coli-bacterie (STEC) kan aanwezig zijn in het product. Eet of drink de geitenkefir niet. Zie de website van Udea"
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/09/09/veiligheidswaarschuwing-geitenkefir-van-de-bonte-weide",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "favv-les-jeunes-affineurs-fromagers",
+      "source": "FAVV",
+      "date": "2026-09-09",
+      "title": {
+        "en": "Terugroeping van Fromagerie Jacquy Cange (Les Jeunes Affineurs Fromagers) | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Fromagerie Jacquy Cange (Les Jeunes Affineurs Fromagers) | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Fromagerie Jacquy Cange (Les Jeunes Affineurs Fromagers) | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf Les Jeunes Affineurs Fromagers het product « Pavé des 3 Provinces » van het merk Cheese Only uit de verkoop en roept het terug van bij de consumenten wegens mogelijke aanwezigheid van Listeria monocytogenes.",
+        "fr": "In overleg met het FAVV haalt het bedrijf Les Jeunes Affineurs Fromagers het product « Pavé des 3 Provinces » van het merk Cheese Only uit de verkoop en roept het terug van bij de consumenten wegens mogelijke aanwezigheid van Listeria monocytogenes.",
+        "nl": "In overleg met het FAVV haalt het bedrijf Les Jeunes Affineurs Fromagers het product « Pavé des 3 Provinces » van het merk Cheese Only uit de verkoop en roept het terug van bij de consumenten wegens mogelijke aanwezigheid van Listeria monocytogenes."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-fromagerie-jacquy-cange-les-jeunes-affineurs-fromagers",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-09-0091",
       "source": "RappelConso",
@@ -761,35 +935,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-09-0034",
-      "source": "RappelConso",
-      "date": "2026-09-03",
-      "title": {
-        "en": "noix de jambon sec",
-        "fr": "noix de jambon sec",
-        "nl": "noix de jambon sec"
-      },
-      "description": {
-        "en": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23404/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "fda-176cca931ddf",
       "source": "FDA",
       "date": "2026-09-03",
@@ -809,183 +954,6 @@
       ],
       "foodGroups": [
         "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-08-0068",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "brie kg 50%",
-        "fr": "brie kg 50%",
-        "nl": "brie kg 50%"
-      },
-      "description": {
-        "en": "rappel préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "rappel préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "rappel préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23417/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0051",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "camembert val de saone - produit de 240 grammes",
-        "fr": "camembert val de saone - produit de 240 grammes",
-        "nl": "camembert val de saone - produit de 240 grammes"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23424/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0052",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "brie 500 grammes",
-        "fr": "brie 500 grammes",
-        "nl": "brie 500 grammes"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23425/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0053",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "fromage fleuri de format carré - 250 grammes",
-        "fr": "fromage fleuri de format carré - 250 grammes",
-        "nl": "fromage fleuri de format carré - 250 grammes"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23426/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0054",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "pointe de brie paturages comtois - format 180 grammes",
-        "fr": "pointe de brie paturages comtois - format 180 grammes",
-        "nl": "pointe de brie paturages comtois - format 180 grammes"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23427/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "favv-rappel-de-farmchix-company-1",
-      "source": "FAVV",
-      "date": "2026-09-02",
-      "title": {
-        "en": "Rappel de The Farmchix Company | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de The Farmchix Company | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de The Farmchix Company | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En concertation avec l’AFSCA, The Farmchix Company retire de la vente et rappelle auprès des consommateurs les brochettes de poulet assaisonnées, les brochettes de poulet marinées et les brochettes de poulet marinées à l’ananas de la marque Hofkip – Just Meat en raison de la présence possible de Salmonella. The Farmchix Company demande à ses clients de ne pas consommer ces produits et de les rapporter au point de vente, où ils seront intégralement remboursés, même sans ticket de caisse. Description des produits",
-        "fr": "En concertation avec l’AFSCA, The Farmchix Company retire de la vente et rappelle auprès des consommateurs les brochettes de poulet assaisonnées, les brochettes de poulet marinées et les brochettes de poulet marinées à l’ananas de la marque Hofkip – Just Meat en raison de la présence possible de Salmonella. The Farmchix Company demande à ses clients de ne pas consommer ces produits et de les rapporter au point de vente, où ils seront intégralement remboursés, même sans ticket de caisse. Description des produits",
-        "nl": "En concertation avec l’AFSCA, The Farmchix Company retire de la vente et rappelle auprès des consommateurs les brochettes de poulet assaisonnées, les brochettes de poulet marinées et les brochettes de poulet marinées à l’ananas de la marque Hofkip – Just Meat en raison de la présence possible de Salmonella. The Farmchix Company demande à ses clients de ne pas consommer ces produits et de les rapporter au point de vente, où ils seront intégralement remboursés, même sans ticket de caisse. Description des produits"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-farmchix-company-1",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -1024,38 +992,6 @@
       ],
       "dietRelevant": false,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "favv-rappel-de-lafsca-142",
-      "source": "FAVV",
-      "date": "2026-09-01",
-      "title": {
-        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire différents produits contenant des graines de courge (mélange sportif, mélange Babylone, mélange spécial salade estivale, graines de courge décortiquées) de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description des produits :",
-        "fr": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire différents produits contenant des graines de courge (mélange sportif, mélange Babylone, mélange spécial salade estivale, graines de courge décortiquées) de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description des produits :",
-        "nl": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire différents produits contenant des graines de courge (mélange sportif, mélange Babylone, mélange spécial salade estivale, graines de courge décortiquées) de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description des produits :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-142",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "general",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "fda-a3fd8130f79c",
@@ -1617,6 +1553,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-09-0101",
+      "source": "RappelConso",
+      "date": "2026-09-09",
+      "title": {
+        "en": "citron lime colis 4,5k 54f catégorie 1 origine brésil",
+        "fr": "citron lime colis 4,5k 54f catégorie 1 origine brésil",
+        "nl": "citron lime colis 4,5k 54f catégorie 1 origine brésil"
+      },
+      "description": {
+        "en": "détection de résidus de pesticides (chlorpyrifos 0.019 mg/kg) - produits phytosanitaires non autorisés",
+        "fr": "détection de résidus de pesticides (chlorpyrifos 0.019 mg/kg) - produits phytosanitaires non autorisés",
+        "nl": "détection de résidus de pesticides (chlorpyrifos 0.019 mg/kg) - produits phytosanitaires non autorisés"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23475/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "fda-d90cccf82045",
@@ -2337,33 +2302,92 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-30-2026",
-      "source": "FSA",
-      "date": "2026-06-11",
+      "id": "rappelconso-2026-09-0108",
+      "source": "RappelConso",
+      "date": "2026-09-09",
       "title": {
-        "en": "Buttermilk Confections is recalling Honeycomb Blast Choc Bar because of undeclared milk",
-        "fr": "Buttermilk Confections is recalling Honeycomb Blast Choc Bar because of undeclared milk",
-        "nl": "Buttermilk Confections is recalling Honeycomb Blast Choc Bar because of undeclared milk"
+        "en": "saucisse de porc lontan¤saucisse de porc lontan aux herbes ¤merguez de porc ¤chipolatas de porc",
+        "fr": "saucisse de porc lontan¤saucisse de porc lontan aux herbes ¤merguez de porc ¤chipolatas de porc",
+        "nl": "saucisse de porc lontan¤saucisse de porc lontan aux herbes ¤merguez de porc ¤chipolatas de porc"
       },
       "description": {
-        "en": "Allergen(s): Milk\nThis product contains milk (casein) making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
-        "fr": "Allergen(s): Milk\nThis product contains milk (casein) making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
-        "nl": "Allergen(s): Milk\nThis product contains milk (casein) making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents."
+        "en": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)"
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-30-2026",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23482/interne",
       "countries": [
-        "GB"
+        "FR"
       ],
       "foodGroups": [
-        "dairy"
+        "meat"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "physical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-09-0107",
+      "source": "RappelConso",
+      "date": "2026-09-09",
+      "title": {
+        "en": "farce de porc ¤merguez de porc ¤chipolatas de porc",
+        "fr": "farce de porc ¤merguez de porc ¤chipolatas de porc",
+        "nl": "farce de porc ¤merguez de porc ¤chipolatas de porc"
+      },
+      "description": {
+        "en": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23481/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "favv-terugroeping-van-carrefour-34",
+      "source": "FAVV",
+      "date": "2026-09-09",
+      "title": {
+        "en": "Terugroeping van Carrefour | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Carrefour | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Carrefour | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "Naar aanleiding van een controle en uit voorzorg, teneinde de veiligheid van de consument te garanderen, vraagt Carrefour, in overleg met het FAVV, om het varkens- en kalfsgehakt Budget Pack van het merk Carrefour, dat wordt verkocht via de beenhouwerijafdeling van bepaalde Carrefour-winkels in België, uit de verkoop te nemen. Carrefour roept dit product eveneens terug bij de consumenten wegens de mogelijke aanwezigheid van stukjes groen plastic.",
+        "fr": "Naar aanleiding van een controle en uit voorzorg, teneinde de veiligheid van de consument te garanderen, vraagt Carrefour, in overleg met het FAVV, om het varkens- en kalfsgehakt Budget Pack van het merk Carrefour, dat wordt verkocht via de beenhouwerijafdeling van bepaalde Carrefour-winkels in België, uit de verkoop te nemen. Carrefour roept dit product eveneens terug bij de consumenten wegens de mogelijke aanwezigheid van stukjes groen plastic.",
+        "nl": "Naar aanleiding van een controle en uit voorzorg, teneinde de veiligheid van de consument te garanderen, vraagt Carrefour, in overleg met het FAVV, om het varkens- en kalfsgehakt Budget Pack van het merk Carrefour, dat wordt verkocht via de beenhouwerijafdeling van bepaalde Carrefour-winkels in België, uit de verkoop te nemen. Carrefour roept dit product eveneens terug bij de consumenten wegens de mogelijke aanwezigheid van stukjes groen plastic."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-34",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-09-0093",
@@ -2584,33 +2608,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-09-0059",
-      "source": "RappelConso",
-      "date": "2026-09-03",
-      "title": {
-        "en": "ennjoi grape fruit shaped jelly 228g¤ennjoi mixed fruit shaped jelly 228g",
-        "fr": "ennjoi grape fruit shaped jelly 228g¤ennjoi mixed fruit shaped jelly 228g",
-        "nl": "ennjoi grape fruit shaped jelly 228g¤ennjoi mixed fruit shaped jelly 228g"
-      },
-      "description": {
-        "en": "additif interdit e245 - additifs et arômes non autorisés",
-        "fr": "additif interdit e245 - additifs et arômes non autorisés",
-        "nl": "additif interdit e245 - additifs et arômes non autorisés"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23432/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "favv-rappel-de-intermarche-3",
       "source": "FAVV",
       "date": "2026-09-03",
@@ -2632,36 +2629,6 @@
         "fr"
       ],
       "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "rappelconso-2026-09-0039",
-      "source": "RappelConso",
-      "date": "2026-09-02",
-      "title": {
-        "en": "jelly's kawaii jelly straws, gélatines au goût de fruit de 200g",
-        "fr": "jelly's kawaii jelly straws, gélatines au goût de fruit de 200g",
-        "nl": "jelly's kawaii jelly straws, gélatines au goût de fruit de 200g"
-      },
-      "description": {
-        "en": "cette alerte fait notamment état d’un risque d’étouffement, en particulier pour les enfants, ces produits pouvant rester coincés dans la gorge en raison de leur texture ferme - étouffement",
-        "fr": "cette alerte fait notamment état d’un risque d’étouffement, en particulier pour les enfants, ces produits pouvant rester coincés dans la gorge en raison de leur texture ferme - étouffement",
-        "nl": "cette alerte fait notamment état d’un risque d’étouffement, en particulier pour les enfants, ces produits pouvant rester coincés dans la gorge en raison de leur texture ferme - étouffement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23409/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
         "plant"
       ],
       "pregnancyRelevance": "low",
