@@ -1,6 +1,91 @@
 {
-  "generated": "2026-09-11T06:02:57.133Z",
+  "generated": "2026-09-12T06:02:45.246Z",
   "alerts": [
+    {
+      "id": "cfia-82622",
+      "source": "CFIA",
+      "date": "2026-09-11",
+      "title": {
+        "en": "Olymel brand Chicken Breast Strips recalled due to Listeria monocytogenes",
+        "fr": "Olymel brand Chicken Breast Strips recalled due to Listeria monocytogenes",
+        "nl": "Olymel brand Chicken Breast Strips recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
+        "fr": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
+        "nl": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/olymel-brand-chicken-breast-strips-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "cfia-82611",
+      "source": "CFIA",
+      "date": "2026-09-11",
+      "title": {
+        "en": "PK brand Roasted Lemon N’ Chilli Peanuts recalled due to Salmonella",
+        "fr": "PK brand Roasted Lemon N’ Chilli Peanuts recalled due to Salmonella",
+        "nl": "PK brand Roasted Lemon N’ Chilli Peanuts recalled due to Salmonella"
+      },
+      "description": {
+        "en": "The food recall warning issued on 2026-09-10 has been updated to correctly identify the code. The correction is marked by an asterisk (*).\nThe affected product is being recalled from the marketplace due to possible Salmonella contamination.",
+        "fr": "The food recall warning issued on 2026-09-10 has been updated to correctly identify the code. The correction is marked by an asterisk (*).\nThe affected product is being recalled from the marketplace due to possible Salmonella contamination.",
+        "nl": "The food recall warning issued on 2026-09-10 has been updated to correctly identify the code. The correction is marked by an asterisk (*).\nThe affected product is being recalled from the marketplace due to possible Salmonella contamination."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/pk-brand-roasted-lemon-n-chilli-peanuts-recalled-due-salmonella",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0123",
+      "source": "RappelConso",
+      "date": "2026-09-11",
+      "title": {
+        "en": "rôti de porc cuit supérieur 4 tranches 220g",
+        "fr": "rôti de porc cuit supérieur 4 tranches 220g",
+        "nl": "rôti de porc cuit supérieur 4 tranches 220g"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23499/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-09-0116",
       "source": "RappelConso",
@@ -820,65 +905,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-09-0079",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "steak haché surgelé 2x150g sous vide 15%mg¤steak haché surgelé 50x150g 15%mg¤steak haché surgelé 8x120g 15%mg¤steak haché surgelé 50x100g 15%mg",
-        "fr": "steak haché surgelé 2x150g sous vide 15%mg¤steak haché surgelé 50x150g 15%mg¤steak haché surgelé 8x120g 15%mg¤steak haché surgelé 50x100g 15%mg",
-        "nl": "steak haché surgelé 2x150g sous vide 15%mg¤steak haché surgelé 50x150g 15%mg¤steak haché surgelé 8x120g 15%mg¤steak haché surgelé 50x100g 15%mg"
-      },
-      "description": {
-        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23452/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0073",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "le petit cornouaillais  nature¤ le petit cornouaillais  au comté¤ le petit cornouaillais  aux noisettes ¤ le petit cornouaillais  au piment d'espelette",
-        "fr": "le petit cornouaillais  nature¤ le petit cornouaillais  au comté¤ le petit cornouaillais  aux noisettes ¤ le petit cornouaillais  au piment d'espelette",
-        "nl": "le petit cornouaillais  nature¤ le petit cornouaillais  au comté¤ le petit cornouaillais  aux noisettes ¤ le petit cornouaillais  au piment d'espelette"
-      },
-      "description": {
-        "en": "presence de listeria <10 ufc/g sur un saucisson sec  le petit cornouaillais  nature - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "presence de listeria <10 ufc/g sur un saucisson sec  le petit cornouaillais  nature - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "presence de listeria <10 ufc/g sur un saucisson sec  le petit cornouaillais  nature - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23446/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "nvwa-wengert-kaas-van-geifertshofen",
       "source": "NVWA",
       "date": "2026-09-04",
@@ -899,64 +925,6 @@
       ],
       "foodGroups": [
         "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0074",
-      "source": "RappelConso",
-      "date": "2026-09-03",
-      "title": {
-        "en": "brie 1kg metro chef",
-        "fr": "brie 1kg metro chef",
-        "nl": "brie 1kg metro chef"
-      },
-      "description": {
-        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23447/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0072",
-      "source": "RappelConso",
-      "date": "2026-09-03",
-      "title": {
-        "en": "préparation hachée de bœuf",
-        "fr": "préparation hachée de bœuf",
-        "nl": "préparation hachée de bœuf"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes mise en évidence lors d'un autocontrôle microbiologique sur une préparation hachée de bœuf. - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes mise en évidence lors d'un autocontrôle microbiologique sur une préparation hachée de bœuf. - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes mise en évidence lors d'un autocontrôle microbiologique sur une préparation hachée de bœuf. - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23445/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -1527,6 +1495,66 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "cfia-82605",
+      "source": "CFIA",
+      "date": "2026-09-11",
+      "title": {
+        "en": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy",
+        "fr": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy",
+        "nl": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy"
+      },
+      "description": {
+        "en": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy.",
+        "fr": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy.",
+        "nl": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/rossdown-farms-natural-foods-brand-meal-starters-black-garlic-chicken-breast-products",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-e38401ee055c",
+      "source": "FDA",
+      "date": "2026-09-11",
+      "title": {
+        "en": "Whole Foods Market Issues Allergy Alert on Undeclared Egg in Cabricharme Cheese",
+        "fr": "Whole Foods Market Issues Allergy Alert on Undeclared Egg in Cabricharme Cheese",
+        "nl": "Whole Foods Market Issues Allergy Alert on Undeclared Egg in Cabricharme Cheese"
+      },
+      "description": {
+        "en": "Whole Foods Market of Austin, TX is recalling Fromagerie Coop de Mean Cabricharme cheese because the product contains egg lysozyme, an egg white protein, which is not declared on the product label. People who have an allergy or severe sensitivity to eggs run the risk of a serious or life-threateni",
+        "fr": "Whole Foods Market of Austin, TX is recalling Fromagerie Coop de Mean Cabricharme cheese because the product contains egg lysozyme, an egg white protein, which is not declared on the product label. People who have an allergy or severe sensitivity to eggs run the risk of a serious or life-threateni",
+        "nl": "Whole Foods Market of Austin, TX is recalling Fromagerie Coop de Mean Cabricharme cheese because the product contains egg lysozyme, an egg white protein, which is not declared on the product label. People who have an allergy or severe sensitivity to eggs run the risk of a serious or life-threateni"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/whole-foods-market-issues-allergy-alert-undeclared-egg-cabricharme-cheese",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy",
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-09-0101",
       "source": "RappelConso",
       "date": "2026-09-09",
@@ -1582,37 +1610,6 @@
       "audience": "general",
       "hazardTypes": [
         "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82604",
-      "source": "CFIA",
-      "date": "2026-09-05",
-      "title": {
-        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
-        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
-        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk"
-      },
-      "description": {
-        "en": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
-        "fr": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
-        "nl": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -2186,6 +2183,114 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-09-0126",
+      "source": "RappelConso",
+      "date": "2026-09-11",
+      "title": {
+        "en": "foie gras choix eveine df so ltresto",
+        "fr": "foie gras choix eveine df so ltresto",
+        "nl": "foie gras choix eveine df so ltresto"
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence de clostridium perfringens à un niveau non conforme aux critères applicables. - clostridium perfringens",
+        "fr": "une analyse a mis en évidence la présence de clostridium perfringens à un niveau non conforme aux critères applicables. - clostridium perfringens",
+        "nl": "une analyse a mis en évidence la présence de clostridium perfringens à un niveau non conforme aux critères applicables. - clostridium perfringens"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23502/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0125",
+      "source": "RappelConso",
+      "date": "2026-09-11",
+      "title": {
+        "en": "foie gras de canard éveiné extra 2 du sud-ouest.",
+        "fr": "foie gras de canard éveiné extra 2 du sud-ouest.",
+        "nl": "foie gras de canard éveiné extra 2 du sud-ouest."
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence de clostridium perfringens à un niveau non conforme aux critères applicables. - clostridium perfringens",
+        "fr": "une analyse a mis en évidence la présence de clostridium perfringens à un niveau non conforme aux critères applicables. - clostridium perfringens",
+        "nl": "une analyse a mis en évidence la présence de clostridium perfringens à un niveau non conforme aux critères applicables. - clostridium perfringens"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23501/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0121",
+      "source": "RappelConso",
+      "date": "2026-09-11",
+      "title": {
+        "en": "lardons fumés pxm 200g",
+        "fr": "lardons fumés pxm 200g",
+        "nl": "lardons fumés pxm 200g"
+      },
+      "description": {
+        "en": "non conformite microbiologique - staphylococcus aureus (agent responsable d'intoxination staphylococcique)",
+        "fr": "non conformite microbiologique - staphylococcus aureus (agent responsable d'intoxination staphylococcique)",
+        "nl": "non conformite microbiologique - staphylococcus aureus (agent responsable d'intoxination staphylococcique)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23497/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0120",
+      "source": "RappelConso",
+      "date": "2026-09-11",
+      "title": {
+        "en": "sachet 10gr pastilles fruit rouge 3% cbd 2%cbn full spectre 0,05% thc shanty candy",
+        "fr": "sachet 10gr pastilles fruit rouge 3% cbd 2%cbn full spectre 0,05% thc shanty candy",
+        "nl": "sachet 10gr pastilles fruit rouge 3% cbd 2%cbn full spectre 0,05% thc shanty candy"
+      },
+      "description": {
+        "en": "non conformité des produits dù à un taux de thc trop élevé conduisant à un dépassement de la dose de référence aiguë en delta 9 thc - autres contaminants chimiques",
+        "fr": "non conformité des produits dù à un taux de thc trop élevé conduisant à un dépassement de la dose de référence aiguë en delta 9 thc - autres contaminants chimiques",
+        "nl": "non conformité des produits dù à un taux de thc trop élevé conduisant à un dépassement de la dose de référence aiguë en delta 9 thc - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23495/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-09-0117",
       "source": "RappelConso",
       "date": "2026-09-10",
@@ -2432,94 +2537,6 @@
       "hazardTypes": [],
       "dietRelevant": false,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0082",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "filets de sardine capitaine houat",
-        "fr": "filets de sardine capitaine houat",
-        "nl": "filets de sardine capitaine houat"
-      },
-      "description": {
-        "en": "presence d'histamine - toxines endogènes : histamine",
-        "fr": "presence d'histamine - toxines endogènes : histamine",
-        "nl": "presence d'histamine - toxines endogènes : histamine"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23455/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0070",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "axao de canard au piment d'espelette bocal 800g castel artisan conserveur",
-        "fr": "axao de canard au piment d'espelette bocal 800g castel artisan conserveur",
-        "nl": "axao de canard au piment d'espelette bocal 800g castel artisan conserveur"
-      },
-      "description": {
-        "en": "risque de présence d'un corps étrangers (morceaux de verre) - inertes (verre, métal, plastique, papier, textile…)",
-        "fr": "risque de présence d'un corps étrangers (morceaux de verre) - inertes (verre, métal, plastique, papier, textile…)",
-        "nl": "risque de présence d'un corps étrangers (morceaux de verre) - inertes (verre, métal, plastique, papier, textile…)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23443/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "favv-rappel-de-intermarche-3",
-      "source": "FAVV",
-      "date": "2026-09-03",
-      "title": {
-        "en": "Rappel de Intermarché | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de Intermarché | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de Intermarché | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En concertation avec l'AFSCA, Intermarché retire de la vente les produits ci-dessous vendus au rayon frais : en barquette, à la découpe ou préemballé et les rappelle auprès des consommateurs en raison de la présence possible de corps étranger de couleur noire. Nom du produit Marque Code EAN Date (DLC) et lot SALADE PECHEUR 300G",
-        "fr": "En concertation avec l'AFSCA, Intermarché retire de la vente les produits ci-dessous vendus au rayon frais : en barquette, à la découpe ou préemballé et les rappelle auprès des consommateurs en raison de la présence possible de corps étranger de couleur noire. Nom du produit Marque Code EAN Date (DLC) et lot SALADE PECHEUR 300G",
-        "nl": "En concertation avec l'AFSCA, Intermarché retire de la vente les produits ci-dessous vendus au rayon frais : en barquette, à la découpe ou préemballé et les rappelle auprès des consommateurs en raison de la présence possible de corps étranger de couleur noire. Nom du produit Marque Code EAN Date (DLC) et lot SALADE PECHEUR 300G"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-intermarche-3",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
     },
     {
       "id": "nvwa-ng-galbani-salame-tradizionale",
