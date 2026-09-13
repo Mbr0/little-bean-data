@@ -1,6 +1,35 @@
 {
-  "generated": "2026-09-12T06:02:45.246Z",
+  "generated": "2026-09-13T06:02:50.083Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0127",
+      "source": "RappelConso",
+      "date": "2026-09-12",
+      "title": {
+        "en": "moricette dinde mimolette 205g",
+        "fr": "moricette dinde mimolette 205g",
+        "nl": "moricette dinde mimolette 205g"
+      },
+      "description": {
+        "en": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23503/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "cfia-82622",
       "source": "CFIA",
@@ -861,35 +890,6 @@
         "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/23449/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0075",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "st martin entier - 1/6 - 1/4",
-        "fr": "st martin entier - 1/6 - 1/4",
-        "nl": "st martin entier - 1/6 - 1/4"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23448/interne",
       "countries": [
         "FR"
       ],
