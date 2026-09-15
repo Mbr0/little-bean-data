@@ -1,6 +1,64 @@
 {
-  "generated": "2026-09-14T06:04:07.552Z",
+  "generated": "2026-09-15T06:03:18.667Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0128",
+      "source": "RappelConso",
+      "date": "2026-09-14",
+      "title": {
+        "en": "sandwich pavé poulet crudités",
+        "fr": "sandwich pavé poulet crudités",
+        "nl": "sandwich pavé poulet crudités"
+      },
+      "description": {
+        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23504/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0099",
+      "source": "RappelConso",
+      "date": "2026-09-14",
+      "title": {
+        "en": "cordon bleu de poulet",
+        "fr": "cordon bleu de poulet",
+        "nl": "cordon bleu de poulet"
+      },
+      "description": {
+        "en": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23473/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-09-0127",
       "source": "RappelConso",
@@ -731,180 +789,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-09-0086",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "pavé 3 provinces - 1.2 kg environ",
-        "fr": "pavé 3 provinces - 1.2 kg environ",
-        "nl": "pavé 3 provinces - 1.2 kg environ"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23459/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0083",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "jambon de bayonne igp u saveurs",
-        "fr": "jambon de bayonne igp u saveurs",
-        "nl": "jambon de bayonne igp u saveurs"
-      },
-      "description": {
-        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23456/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0080",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "tomme entière - 1/8 - 1/4",
-        "fr": "tomme entière - 1/8 - 1/4",
-        "nl": "tomme entière - 1/8 - 1/4"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23453/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0078",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "tomme entière - 1/8 - 1/4",
-        "fr": "tomme entière - 1/8 - 1/4",
-        "nl": "tomme entière - 1/8 - 1/4"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23451/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0077",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "tomme entière - 1/8 - 1/4",
-        "fr": "tomme entière - 1/8 - 1/4",
-        "nl": "tomme entière - 1/8 - 1/4"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23450/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0076",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "tomme entière - 1/8 - 1/4",
-        "fr": "tomme entière - 1/8 - 1/4",
-        "nl": "tomme entière - 1/8 - 1/4"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23449/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "nvwa-wengert-kaas-van-geifertshofen",
       "source": "NVWA",
       "date": "2026-09-04",
@@ -1495,25 +1379,26 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "cfia-82605",
+      "id": "cfia-82621",
       "source": "CFIA",
-      "date": "2026-09-11",
+      "date": "2026-09-14",
       "title": {
-        "en": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy",
-        "fr": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy",
-        "nl": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy"
+        "en": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg",
+        "fr": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg",
+        "nl": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg"
       },
       "description": {
-        "en": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy.",
-        "fr": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy.",
-        "nl": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy."
+        "en": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg.",
+        "fr": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg.",
+        "nl": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/rossdown-farms-natural-foods-brand-meal-starters-black-garlic-chicken-breast-products",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/co-op-gold-brand-frozen-chicken-products-recalled-due-undeclared-egg",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "meat"
+        "meat",
+        "egg"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -1522,6 +1407,122 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-09-0132",
+      "source": "RappelConso",
+      "date": "2026-09-14",
+      "title": {
+        "en": "mélange de légume de 1 kg pour cuisiner de la piperade",
+        "fr": "mélange de légume de 1 kg pour cuisiner de la piperade",
+        "nl": "mélange de légume de 1 kg pour cuisiner de la piperade"
+      },
+      "description": {
+        "en": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23508/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "rappelconso-2026-09-0130",
+      "source": "RappelConso",
+      "date": "2026-09-14",
+      "title": {
+        "en": "mélange de légume pour de la ratatouille barquette de 1.5kg",
+        "fr": "mélange de légume pour de la ratatouille barquette de 1.5kg",
+        "nl": "mélange de légume pour de la ratatouille barquette de 1.5kg"
+      },
+      "description": {
+        "en": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23506/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "rappelconso-2026-09-0129",
+      "source": "RappelConso",
+      "date": "2026-09-14",
+      "title": {
+        "en": "poivrons verts catégorie 1 calibre 70/90 france",
+        "fr": "poivrons verts catégorie 1 calibre 70/90 france",
+        "nl": "poivrons verts catégorie 1 calibre 70/90 france"
+      },
+      "description": {
+        "en": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23505/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "rappelconso-2026-09-0131",
+      "source": "RappelConso",
+      "date": "2026-09-14",
+      "title": {
+        "en": "légumes à plancha barquette 1.5kg",
+        "fr": "légumes à plancha barquette 1.5kg",
+        "nl": "légumes à plancha barquette 1.5kg"
+      },
+      "description": {
+        "en": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23507/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "fda-e38401ee055c",
