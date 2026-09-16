@@ -1,6 +1,209 @@
 {
-  "generated": "2026-09-15T06:03:18.667Z",
+  "generated": "2026-09-16T06:03:10.831Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0143",
+      "source": "RappelConso",
+      "date": "2026-09-15",
+      "title": {
+        "en": "brie de melun aop talleyrand",
+        "fr": "brie de melun aop talleyrand",
+        "nl": "brie de melun aop talleyrand"
+      },
+      "description": {
+        "en": "non conformite microbiologique - escherichia coli shiga toxinogène (stec)",
+        "fr": "non conformite microbiologique - escherichia coli shiga toxinogène (stec)",
+        "nl": "non conformite microbiologique - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23524/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0142",
+      "source": "RappelConso",
+      "date": "2026-09-15",
+      "title": {
+        "en": "produit vendu à la coupe",
+        "fr": "produit vendu à la coupe",
+        "nl": "produit vendu à la coupe"
+      },
+      "description": {
+        "en": "rappel de précaution suite à la détection d'escherichia coli stec sur un produit découpé par un magasin - escherichia coli shiga toxinogène (stec)",
+        "fr": "rappel de précaution suite à la détection d'escherichia coli stec sur un produit découpé par un magasin - escherichia coli shiga toxinogène (stec)",
+        "nl": "rappel de précaution suite à la détection d'escherichia coli stec sur un produit découpé par un magasin - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23518/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-09-0122",
+      "source": "RappelConso",
+      "date": "2026-09-15",
+      "title": {
+        "en": "nugget de poulet 1kg",
+        "fr": "nugget de poulet 1kg",
+        "nl": "nugget de poulet 1kg"
+      },
+      "description": {
+        "en": "détection de campylobacter spp. - campylobacter spp (agent responsable de la campylobactériose)",
+        "fr": "détection de campylobacter spp. - campylobacter spp (agent responsable de la campylobactériose)",
+        "nl": "détection de campylobacter spp. - campylobacter spp (agent responsable de la campylobactériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23498/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-09-0141",
+      "source": "RappelConso",
+      "date": "2026-09-15",
+      "title": {
+        "en": "brie de melun aop",
+        "fr": "brie de melun aop",
+        "nl": "brie de melun aop"
+      },
+      "description": {
+        "en": "détection e. coli stec - escherichia coli shiga toxinogène (stec)",
+        "fr": "détection e. coli stec - escherichia coli shiga toxinogène (stec)",
+        "nl": "détection e. coli stec - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23517/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-09-0140",
+      "source": "RappelConso",
+      "date": "2026-09-15",
+      "title": {
+        "en": "viande hachée pur bœuf 5%mg barquette de 300g",
+        "fr": "viande hachée pur bœuf 5%mg barquette de 300g",
+        "nl": "viande hachée pur bœuf 5%mg barquette de 300g"
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
+        "fr": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
+        "nl": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23516/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-grand-frais-15",
+      "source": "FAVV",
+      "date": "2026-09-15",
+      "title": {
+        "en": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, Grand Frais retire le produit « Brie de Melun AOP » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de E. Coli STEC. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit",
+        "fr": "En accord avec l’AFSCA, Grand Frais retire le produit « Brie de Melun AOP » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de E. Coli STEC. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit",
+        "nl": "En accord avec l’AFSCA, Grand Frais retire le produit « Brie de Melun AOP » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de E. Coli STEC. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-grand-frais-15",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "favv-rappel-de-picard",
+      "source": "FAVV",
+      "date": "2026-09-15",
+      "title": {
+        "en": "Rappel de Picard | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Picard | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Picard | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, Picard retire le persil surgelé « PERSIL PLAT COUPE » (250g) de la marque PICARD de la vente et le rappelle auprès des consommateurs en raison de la présence possible de E. Coli STEC. Picard demande à ses clients de ne pas consommer ces produits et de les ramener au point de vente dans lequel ils ont été achetés, pour remboursement. Description du produit :",
+        "fr": "En accord avec l’AFSCA, Picard retire le persil surgelé « PERSIL PLAT COUPE » (250g) de la marque PICARD de la vente et le rappelle auprès des consommateurs en raison de la présence possible de E. Coli STEC. Picard demande à ses clients de ne pas consommer ces produits et de les ramener au point de vente dans lequel ils ont été achetés, pour remboursement. Description du produit :",
+        "nl": "En accord avec l’AFSCA, Picard retire le persil surgelé « PERSIL PLAT COUPE » (250g) de la marque PICARD de la vente et le rappelle auprès des consommateurs en raison de la présence possible de E. Coli STEC. Picard demande à ses clients de ne pas consommer ces produits et de les ramener au point de vente dans lequel ils ont été achetés, pour remboursement. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-picard",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "microbial"
+    },
     {
       "id": "rappelconso-2026-09-0128",
       "source": "RappelConso",
@@ -87,62 +290,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82622",
-      "source": "CFIA",
-      "date": "2026-09-11",
-      "title": {
-        "en": "Olymel brand Chicken Breast Strips recalled due to Listeria monocytogenes",
-        "fr": "Olymel brand Chicken Breast Strips recalled due to Listeria monocytogenes",
-        "nl": "Olymel brand Chicken Breast Strips recalled due to Listeria monocytogenes"
-      },
-      "description": {
-        "en": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "fr": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination.",
-        "nl": "The affected product is being recalled from the marketplace due to possible Listeria monocytogenes contamination."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/olymel-brand-chicken-breast-strips-recalled-due-listeria-monocytogenes",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82611",
-      "source": "CFIA",
-      "date": "2026-09-11",
-      "title": {
-        "en": "PK brand Roasted Lemon N’ Chilli Peanuts recalled due to Salmonella",
-        "fr": "PK brand Roasted Lemon N’ Chilli Peanuts recalled due to Salmonella",
-        "nl": "PK brand Roasted Lemon N’ Chilli Peanuts recalled due to Salmonella"
-      },
-      "description": {
-        "en": "The food recall warning issued on 2026-09-10 has been updated to correctly identify the code. The correction is marked by an asterisk (*).\nThe affected product is being recalled from the marketplace due to possible Salmonella contamination.",
-        "fr": "The food recall warning issued on 2026-09-10 has been updated to correctly identify the code. The correction is marked by an asterisk (*).\nThe affected product is being recalled from the marketplace due to possible Salmonella contamination.",
-        "nl": "The food recall warning issued on 2026-09-10 has been updated to correctly identify the code. The correction is marked by an asterisk (*).\nThe affected product is being recalled from the marketplace due to possible Salmonella contamination."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/pk-brand-roasted-lemon-n-chilli-peanuts-recalled-due-salmonella",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-09-0123",
@@ -584,62 +731,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-09-0089",
-      "source": "RappelConso",
-      "date": "2026-09-07",
-      "title": {
-        "en": "viande hachée de race charolaise façon bouchère 12% mg conditionnement par 2 ou par 4 et format cheveux d'ange¤",
-        "fr": "viande hachée de race charolaise façon bouchère 12% mg conditionnement par 2 ou par 4 et format cheveux d'ange¤",
-        "nl": "viande hachée de race charolaise façon bouchère 12% mg conditionnement par 2 ou par 4 et format cheveux d'ange¤"
-      },
-      "description": {
-        "en": "risque microbiologique - présence d'escherichia coli - escherichia coli shiga toxinogène (stec)",
-        "fr": "risque microbiologique - présence d'escherichia coli - escherichia coli shiga toxinogène (stec)",
-        "nl": "risque microbiologique - présence d'escherichia coli - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23463/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0084",
-      "source": "RappelConso",
-      "date": "2026-09-07",
-      "title": {
-        "en": "coffret 310 g (7 614 3196)¤sacs de 210 g (7 614 3199)",
-        "fr": "coffret 310 g (7 614 3196)¤sacs de 210 g (7 614 3199)",
-        "nl": "coffret 310 g (7 614 3196)¤sacs de 210 g (7 614 3199)"
-      },
-      "description": {
-        "en": "salmonelle sur les graines de courge de notre fournisseur - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "salmonelle sur les graines de courge de notre fournisseur - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "salmonelle sur les graines de courge de notre fournisseur - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23457/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "fda-55dd0591f9a2",
       "source": "FDA",
       "date": "2026-09-06",
@@ -697,93 +788,6 @@
       "hazardTypes": [
         "microbial",
         "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0030",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "cantal jeune au lait cru 1/4 de meule",
-        "fr": "cantal jeune au lait cru 1/4 de meule",
-        "nl": "cantal jeune au lait cru 1/4 de meule"
-      },
-      "description": {
-        "en": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
-        "fr": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)",
-        "nl": "rappel pour raison sanitaire - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23400/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-08-0071",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "tomme val de saone - 1.3 kg environ",
-        "fr": "tomme val de saone - 1.3 kg environ",
-        "nl": "tomme val de saone - 1.3 kg environ"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23419/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0087",
-      "source": "RappelConso",
-      "date": "2026-09-04",
-      "title": {
-        "en": "pavé val de saone - 1.4 kg environ",
-        "fr": "pavé val de saone - 1.4 kg environ",
-        "nl": "pavé val de saone - 1.4 kg environ"
-      },
-      "description": {
-        "en": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "retrait préventif suite à détection listeria dans un autre lot fabriqué le même jour - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23460/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
@@ -1379,6 +1383,35 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-09-0145",
+      "source": "RappelConso",
+      "date": "2026-09-15",
+      "title": {
+        "en": "huile vierge noix de coco 250ml",
+        "fr": "huile vierge noix de coco 250ml",
+        "nl": "huile vierge noix de coco 250ml"
+      },
+      "description": {
+        "en": "analyses benzo(a)pyrène et hydrocarbures aromatiques polycycliques supérieures aux limites maximales résiduelles. - hydrocarbures aromatiques polycycliques",
+        "fr": "analyses benzo(a)pyrène et hydrocarbures aromatiques polycycliques supérieures aux limites maximales résiduelles. - hydrocarbures aromatiques polycycliques",
+        "nl": "analyses benzo(a)pyrène et hydrocarbures aromatiques polycycliques supérieures aux limites maximales résiduelles. - hydrocarbures aromatiques polycycliques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23521/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
       "id": "cfia-82621",
       "source": "CFIA",
       "date": "2026-09-14",
@@ -1525,6 +1558,35 @@
       "pregnancySummaryKey": "chemical"
     },
     {
+      "id": "fda-d11ee8f63989",
+      "source": "FDA",
+      "date": "2026-09-14",
+      "title": {
+        "en": "A&P Creations LLC Issues Nationwide Recall of X10 Natural Enhancement Supplement Due to Undeclared Sildenafil and Tadalafil",
+        "fr": "A&P Creations LLC Issues Nationwide Recall of X10 Natural Enhancement Supplement Due to Undeclared Sildenafil and Tadalafil",
+        "nl": "A&P Creations LLC Issues Nationwide Recall of X10 Natural Enhancement Supplement Due to Undeclared Sildenafil and Tadalafil"
+      },
+      "description": {
+        "en": "Clermont, Florida – A&P Creations LLC is recalling X10 Natural Enhancement Supplement to the consumer level because it has been found to contain undeclared sildenafil and tadalafil.",
+        "fr": "Clermont, Florida – A&P Creations LLC is recalling X10 Natural Enhancement Supplement to the consumer level because it has been found to contain undeclared sildenafil and tadalafil.",
+        "nl": "Clermont, Florida – A&P Creations LLC is recalling X10 Natural Enhancement Supplement to the consumer level because it has been found to contain undeclared sildenafil and tadalafil."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ap-creations-llc-issues-nationwide-recall-x10-natural-enhancement-supplement-due-undeclared",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "fda-e38401ee055c",
       "source": "FDA",
       "date": "2026-09-11",
@@ -1614,36 +1676,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "favv-rappel-de-albert-heijn-19",
-      "source": "FAVV",
-      "date": "2026-09-04",
-      "title": {
-        "en": "Rappel de Albert Heijn | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de Albert Heijn | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de Albert Heijn | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En concertation avec l’AFSCA, Albert Heijn retire de la vente et rappelle auprès des consommateurs les “aardappelwafeltjes” de la marque Albert Heijn (portant les dates de durabilité minimale (DDM) 10/07/2028 et 03/08/2028) en raison d’une teneur trop élevée en hydrocarbures d’huiles minérales (MOAH). Cette présence est due à une erreur de production. Albert Heijn présente ses excuses et demande à ses clients de ne pas consommer ce produit et de le rapporter au point de vente afin d’être remboursés. Description du produit :",
-        "fr": "En concertation avec l’AFSCA, Albert Heijn retire de la vente et rappelle auprès des consommateurs les “aardappelwafeltjes” de la marque Albert Heijn (portant les dates de durabilité minimale (DDM) 10/07/2028 et 03/08/2028) en raison d’une teneur trop élevée en hydrocarbures d’huiles minérales (MOAH). Cette présence est due à une erreur de production. Albert Heijn présente ses excuses et demande à ses clients de ne pas consommer ce produit et de le rapporter au point de vente afin d’être remboursés. Description du produit :",
-        "nl": "En concertation avec l’AFSCA, Albert Heijn retire de la vente et rappelle auprès des consommateurs les “aardappelwafeltjes” de la marque Albert Heijn (portant les dates de durabilité minimale (DDM) 10/07/2028 et 03/08/2028) en raison d’une teneur trop élevée en hydrocarbures d’huiles minérales (MOAH). Cette présence est due à une erreur de production. Albert Heijn présente ses excuses et demande à ses clients de ne pas consommer ce produit et de le rapporter au point de vente afin d’être remboursés. Description du produit :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-albert-heijn-19",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "nvwa-anse-risotto-familieverpakking",
@@ -1763,33 +1795,6 @@
         "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-388a2ee3e39b",
-      "source": "FDA",
-      "date": "2026-08-27",
-      "title": {
-        "en": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary  Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of  Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
-        "fr": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary  Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of  Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
-        "nl": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary  Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of  Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)"
-      },
-      "description": {
-        "en": "FOR IMMEDIATE RELEASE - August 27, 2026 - Davie, Florida – Ana Salazar Modela Tu Cuerpo Inc. is recalling Lipofit Extreme Fat Burner 2.0, Lot 25M12F, expiration date 09/2027, to the consumer level. The Food and Drug Administration (FDA) laboratory analysis has found Lipofit Extreme Fat Burner 2.0 to",
-        "fr": "FOR IMMEDIATE RELEASE - August 27, 2026 - Davie, Florida – Ana Salazar Modela Tu Cuerpo Inc. is recalling Lipofit Extreme Fat Burner 2.0, Lot 25M12F, expiration date 09/2027, to the consumer level. The Food and Drug Administration (FDA) laboratory analysis has found Lipofit Extreme Fat Burner 2.0 to",
-        "nl": "FOR IMMEDIATE RELEASE - August 27, 2026 - Davie, Florida – Ana Salazar Modela Tu Cuerpo Inc. is recalling Lipofit Extreme Fat Burner 2.0, Lot 25M12F, expiration date 09/2027, to the consumer level. The Food and Drug Administration (FDA) laboratory analysis has found Lipofit Extreme Fat Burner 2.0 to"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": false,
       "pregnancySummaryKey": "allergen"
     },
     {
@@ -2184,6 +2189,62 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "cfia-82629",
+      "source": "CFIA",
+      "date": "2026-09-15",
+      "title": {
+        "en": "no name brand chopped walnuts recalled due to shell fragments",
+        "fr": "no name brand chopped walnuts recalled due to shell fragments",
+        "nl": "no name brand chopped walnuts recalled due to shell fragments"
+      },
+      "description": {
+        "en": "no name brand chopped walnuts recalled due to shell fragments.",
+        "fr": "no name brand chopped walnuts recalled due to shell fragments.",
+        "nl": "no name brand chopped walnuts recalled due to shell fragments."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/no-name-brand-chopped-walnuts-recalled-due-shell-fragments",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fda-2c1423aebaf3",
+      "source": "FDA",
+      "date": "2026-09-15",
+      "title": {
+        "en": "So Delicious Dairy Free® Issues Voluntary Recall of Salted Caramel Cluster Non-Dairy  Frozen Dessert Pints Due to Potential Presence of Foreign Material",
+        "fr": "So Delicious Dairy Free® Issues Voluntary Recall of Salted Caramel Cluster Non-Dairy  Frozen Dessert Pints Due to Potential Presence of Foreign Material",
+        "nl": "So Delicious Dairy Free® Issues Voluntary Recall of Salted Caramel Cluster Non-Dairy  Frozen Dessert Pints Due to Potential Presence of Foreign Material"
+      },
+      "description": {
+        "en": "WHITE PLAINS, N.Y. and LOUISVILLE, Colo., September 15, 2026  – Danone USA is issuing a voluntary recall of So Delicious Dairy Free® Salted Caramel Cluster Non-Dairy Frozen Dessert pints with best-by dates on and before April 3, 2028 due to the potential presence of foreign materials, such as small",
+        "fr": "WHITE PLAINS, N.Y. and LOUISVILLE, Colo., September 15, 2026  – Danone USA is issuing a voluntary recall of So Delicious Dairy Free® Salted Caramel Cluster Non-Dairy Frozen Dessert pints with best-by dates on and before April 3, 2028 due to the potential presence of foreign materials, such as small",
+        "nl": "WHITE PLAINS, N.Y. and LOUISVILLE, Colo., September 15, 2026  – Danone USA is issuing a voluntary recall of So Delicious Dairy Free® Salted Caramel Cluster Non-Dairy Frozen Dessert pints with best-by dates on and before April 3, 2028 due to the potential presence of foreign materials, such as small"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/so-delicious-dairy-freer-issues-voluntary-recall-salted-caramel-cluster-non-dairy-frozen-dessert",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "rappelconso-2026-09-0126",
       "source": "RappelConso",
       "date": "2026-09-11",
@@ -2432,33 +2493,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-09-0093",
-      "source": "RappelConso",
-      "date": "2026-09-08",
-      "title": {
-        "en": "18460 – lmf strawberry waffle roll 48 × 52 g¤18461 – lmf sea salt cheese flavour waffle roll 48 × 52 g¤18463 – lmf coconut waffle roll 48 × 52 g",
-        "fr": "18460 – lmf strawberry waffle roll 48 × 52 g¤18461 – lmf sea salt cheese flavour waffle roll 48 × 52 g¤18463 – lmf coconut waffle roll 48 × 52 g",
-        "nl": "18460 – lmf strawberry waffle roll 48 × 52 g¤18461 – lmf sea salt cheese flavour waffle roll 48 × 52 g¤18463 – lmf coconut waffle roll 48 × 52 g"
-      },
-      "description": {
-        "en": "rappel demandé à la suite d’une notification des autorités alimentaires néerlandaises (nvwa). - autre risque",
-        "fr": "rappel demandé à la suite d’une notification des autorités alimentaires néerlandaises (nvwa). - autre risque",
-        "nl": "rappel demandé à la suite d’une notification des autorités alimentaires néerlandaises (nvwa). - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23467/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "nvwa-vliet-roomkaas-ananas-125-gram",
       "source": "NVWA",
       "date": "2026-09-07",
@@ -2560,33 +2594,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fda-78dceceedf49",
-      "source": "FDA",
-      "date": "2026-08-26",
-      "title": {
-        "en": "Revival Animal Health, LLC Voluntarily Recalls Feline Milk Replacers Due to Inconsistent Levels of Vitamins and Trace Minerals",
-        "fr": "Revival Animal Health, LLC Voluntarily Recalls Feline Milk Replacers Due to Inconsistent Levels of Vitamins and Trace Minerals",
-        "nl": "Revival Animal Health, LLC Voluntarily Recalls Feline Milk Replacers Due to Inconsistent Levels of Vitamins and Trace Minerals"
-      },
-      "description": {
-        "en": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® and Shelter’s Choice® Feline Milk Replacers due to low, levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6).",
-        "fr": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® and Shelter’s Choice® Feline Milk Replacers due to low, levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6).",
-        "nl": "Revival Animal Health of Orange City, IA is recalling Breeder’s Edge® and Shelter’s Choice® Feline Milk Replacers due to low, levels of potassium, copper, folic acid, choline and/or pyridoxine (vitamin B6)."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/revival-animal-health-llc-voluntarily-recalls-feline-milk-replacers-due-inconsistent-levels-vitamins",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
