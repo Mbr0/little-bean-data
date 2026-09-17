@@ -1,21 +1,21 @@
 {
-  "generated": "2026-09-16T06:03:10.831Z",
+  "generated": "2026-09-17T06:02:58.399Z",
   "alerts": [
     {
       "id": "rappelconso-2026-09-0143",
       "source": "RappelConso",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "title": {
-        "en": "brie de melun aop talleyrand",
-        "fr": "brie de melun aop talleyrand",
-        "nl": "brie de melun aop talleyrand"
+        "en": "brie de melun aop",
+        "fr": "brie de melun aop",
+        "nl": "brie de melun aop"
       },
       "description": {
         "en": "non conformite microbiologique - escherichia coli shiga toxinogène (stec)",
         "fr": "non conformite microbiologique - escherichia coli shiga toxinogène (stec)",
         "nl": "non conformite microbiologique - escherichia coli shiga toxinogène (stec)"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23524/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23526/interne",
       "countries": [
         "FR"
       ],
@@ -614,93 +614,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-09-0095",
-      "source": "RappelConso",
-      "date": "2026-09-08",
-      "title": {
-        "en": "merguez traditionnelles fabriquées sur place",
-        "fr": "merguez traditionnelles fabriquées sur place",
-        "nl": "merguez traditionnelles fabriquées sur place"
-      },
-      "description": {
-        "en": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23469/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-08-0238",
-      "source": "RappelConso",
-      "date": "2026-09-08",
-      "title": {
-        "en": "saucisson sec petites tranches 32 tranches - monique ranou - 100g",
-        "fr": "saucisson sec petites tranches 32 tranches - monique ranou - 100g",
-        "nl": "saucisson sec petites tranches 32 tranches - monique ranou - 100g"
-      },
-      "description": {
-        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23461/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0097",
-      "source": "RappelConso",
-      "date": "2026-09-08",
-      "title": {
-        "en": "fromages de chèvre au lait cru lot 01/09",
-        "fr": "fromages de chèvre au lait cru lot 01/09",
-        "nl": "fromages de chèvre au lait cru lot 01/09"
-      },
-      "description": {
-        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23471/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "favv-rappel-de-alfiero",
       "source": "FAVV",
       "date": "2026-09-08",
@@ -755,39 +668,6 @@
       "audience": "pregnant_adult",
       "hazardTypes": [
         "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "favv-rappel-de-grand-frais-14",
-      "source": "FAVV",
-      "date": "2026-09-05",
-      "title": {
-        "en": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En accord avec l’AFSCA, Grand Frais retire le produit « Crevettes Madagascar Label Rouge » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria Monocytogenes. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit",
-        "fr": "En accord avec l’AFSCA, Grand Frais retire le produit « Crevettes Madagascar Label Rouge » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria Monocytogenes. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit",
-        "nl": "En accord avec l’AFSCA, Grand Frais retire le produit « Crevettes Madagascar Label Rouge » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria Monocytogenes. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-grand-frais-14",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial",
-        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
@@ -1383,6 +1263,93 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "cfia-82630",
+      "source": "CFIA",
+      "date": "2026-09-16",
+      "title": {
+        "en": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat",
+        "fr": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat",
+        "nl": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat"
+      },
+      "description": {
+        "en": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat.",
+        "fr": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat.",
+        "nl": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/momchipz-brand-veggie-chips-bell-pepper-chips-recalled-due-undeclared-wheat",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-09-0151",
+      "source": "RappelConso",
+      "date": "2026-09-16",
+      "title": {
+        "en": "fruit de la passion vietnam",
+        "fr": "fruit de la passion vietnam",
+        "nl": "fruit de la passion vietnam"
+      },
+      "description": {
+        "en": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23529/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "rappelconso-2026-09-0146",
+      "source": "RappelConso",
+      "date": "2026-09-16",
+      "title": {
+        "en": "orange a deguster 2kg",
+        "fr": "orange a deguster 2kg",
+        "nl": "orange a deguster 2kg"
+      },
+      "description": {
+        "en": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23522/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
       "id": "rappelconso-2026-09-0145",
       "source": "RappelConso",
       "date": "2026-09-15",
@@ -1410,36 +1377,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "cfia-82621",
-      "source": "CFIA",
-      "date": "2026-09-14",
-      "title": {
-        "en": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg",
-        "fr": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg",
-        "nl": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg"
-      },
-      "description": {
-        "en": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg.",
-        "fr": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg.",
-        "nl": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/co-op-gold-brand-frozen-chicken-products-recalled-due-undeclared-egg",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat",
-        "egg"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-09-0132",
@@ -2187,6 +2124,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-09-0154",
+      "source": "RappelConso",
+      "date": "2026-09-16",
+      "title": {
+        "en": "sauce tartare 135g",
+        "fr": "sauce tartare 135g",
+        "nl": "sauce tartare 135g"
+      },
+      "description": {
+        "en": "erreur de marquage de la date limite de consommation (dlc) sur certaines unités : indication erronée  ddm : 24/08/2029  au lieu de  dlc : 07/11/2026 - anomalie d'étiquetage",
+        "fr": "erreur de marquage de la date limite de consommation (dlc) sur certaines unités : indication erronée  ddm : 24/08/2029  au lieu de  dlc : 07/11/2026 - anomalie d'étiquetage",
+        "nl": "erreur de marquage de la date limite de consommation (dlc) sur certaines unités : indication erronée  ddm : 24/08/2029  au lieu de  dlc : 07/11/2026 - anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23533/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "labeling"
     },
     {
       "id": "cfia-82629",
