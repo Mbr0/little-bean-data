@@ -1,6 +1,120 @@
 {
-  "generated": "2026-09-17T06:02:58.399Z",
+  "generated": "2026-09-18T06:02:55.565Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0159",
+      "source": "RappelConso",
+      "date": "2026-09-18",
+      "title": {
+        "en": "pilon de poulet cru mariné vendu sur place au rayon trad et pilon de poulet cru non mariné vendu non déconditionné en libre service",
+        "fr": "pilon de poulet cru mariné vendu sur place au rayon trad et pilon de poulet cru non mariné vendu non déconditionné en libre service",
+        "nl": "pilon de poulet cru mariné vendu sur place au rayon trad et pilon de poulet cru non mariné vendu non déconditionné en libre service"
+      },
+      "description": {
+        "en": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23538/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0124",
+      "source": "RappelConso",
+      "date": "2026-09-17",
+      "title": {
+        "en": "petit bethmale au lait cru de vache",
+        "fr": "petit bethmale au lait cru de vache",
+        "nl": "petit bethmale au lait cru de vache"
+      },
+      "description": {
+        "en": "ecoli stec - escherichia coli shiga toxinogène (stec)",
+        "fr": "ecoli stec - escherichia coli shiga toxinogène (stec)",
+        "nl": "ecoli stec - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23500/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0168",
+      "source": "RappelConso",
+      "date": "2026-09-17",
+      "title": {
+        "en": "steak haché de cheval préparé à la demande et vendu au stand traditionnel",
+        "fr": "steak haché de cheval préparé à la demande et vendu au stand traditionnel",
+        "nl": "steak haché de cheval préparé à la demande et vendu au stand traditionnel"
+      },
+      "description": {
+        "en": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23547/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0155",
+      "source": "RappelConso",
+      "date": "2026-09-17",
+      "title": {
+        "en": "hareng kipper vendu au rayon poissonnerie traditionnel",
+        "fr": "hareng kipper vendu au rayon poissonnerie traditionnel",
+        "nl": "hareng kipper vendu au rayon poissonnerie traditionnel"
+      },
+      "description": {
+        "en": "présence de listéria monocytogène (inférieur à 10 ufc/g) - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogène (inférieur à 10 ufc/g) - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogène (inférieur à 10 ufc/g) - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23534/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-09-0143",
       "source": "RappelConso",
@@ -496,35 +610,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-09-0090",
-      "source": "RappelConso",
-      "date": "2026-09-09",
-      "title": {
-        "en": "brie cdf fp 25gx100 ¤brie cdf fp 30gx100",
-        "fr": "brie cdf fp 25gx100 ¤brie cdf fp 30gx100",
-        "nl": "brie cdf fp 25gx100 ¤brie cdf fp 30gx100"
-      },
-      "description": {
-        "en": "présence potentielle de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence potentielle de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence potentielle de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23464/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "nvwa-geitenkefir-van-de-bonte-weide",
       "source": "NVWA",
       "date": "2026-09-09",
@@ -575,35 +660,6 @@
       ],
       "foodGroups": [
         "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0091",
-      "source": "RappelConso",
-      "date": "2026-09-08",
-      "title": {
-        "en": "lot 362627",
-        "fr": "lot 362627",
-        "nl": "lot 362627"
-      },
-      "description": {
-        "en": "listeria monocytogene - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listeria monocytogene - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listeria monocytogene - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23465/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -1234,54 +1290,25 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "fsa-FSA-PRIN-28-2026",
-      "source": "FSA",
-      "date": "2026-06-19",
-      "title": {
-        "en": "Traditional Cheese Company recalls French Bries because of contamination with Listeria monocytogenes",
-        "fr": "Traditional Cheese Company recalls French Bries because of contamination with Listeria monocytogenes",
-        "nl": "Traditional Cheese Company recalls French Bries because of contamination with Listeria monocytogenes"
-      },
-      "description": {
-        "en": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "fr": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "nl": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
-      },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-28-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82630",
+      "id": "cfia-82641",
       "source": "CFIA",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "title": {
-        "en": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat",
-        "fr": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat",
-        "nl": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat"
+        "en": "Heinz brand Real Mayonnaise single serve units recalled due to undeclared mustard",
+        "fr": "Heinz brand Real Mayonnaise single serve units recalled due to undeclared mustard",
+        "nl": "Heinz brand Real Mayonnaise single serve units recalled due to undeclared mustard"
       },
       "description": {
-        "en": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat.",
-        "fr": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat.",
-        "nl": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat."
+        "en": "Heinz brand Real Mayonnaise single serve units recalled due to undeclared mustard.",
+        "fr": "Heinz brand Real Mayonnaise single serve units recalled due to undeclared mustard.",
+        "nl": "Heinz brand Real Mayonnaise single serve units recalled due to undeclared mustard."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/momchipz-brand-veggie-chips-bell-pepper-chips-recalled-due-undeclared-wheat",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/heinz-brand-real-mayonnaise-single-serve-units-recalled-due-undeclared-mustard",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "plant"
+        "egg"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -1553,35 +1580,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-09-0101",
-      "source": "RappelConso",
-      "date": "2026-09-09",
-      "title": {
-        "en": "citron lime colis 4,5k 54f catégorie 1 origine brésil",
-        "fr": "citron lime colis 4,5k 54f catégorie 1 origine brésil",
-        "nl": "citron lime colis 4,5k 54f catégorie 1 origine brésil"
-      },
-      "description": {
-        "en": "détection de résidus de pesticides (chlorpyrifos 0.019 mg/kg) - produits phytosanitaires non autorisés",
-        "fr": "détection de résidus de pesticides (chlorpyrifos 0.019 mg/kg) - produits phytosanitaires non autorisés",
-        "nl": "détection de résidus de pesticides (chlorpyrifos 0.019 mg/kg) - produits phytosanitaires non autorisés"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23475/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "fda-d90cccf82045",
@@ -2153,33 +2151,6 @@
       "pregnancySummaryKey": "labeling"
     },
     {
-      "id": "cfia-82629",
-      "source": "CFIA",
-      "date": "2026-09-15",
-      "title": {
-        "en": "no name brand chopped walnuts recalled due to shell fragments",
-        "fr": "no name brand chopped walnuts recalled due to shell fragments",
-        "nl": "no name brand chopped walnuts recalled due to shell fragments"
-      },
-      "description": {
-        "en": "no name brand chopped walnuts recalled due to shell fragments.",
-        "fr": "no name brand chopped walnuts recalled due to shell fragments.",
-        "nl": "no name brand chopped walnuts recalled due to shell fragments."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/no-name-brand-chopped-walnuts-recalled-due-shell-fragments",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "fda-2c1423aebaf3",
       "source": "FDA",
       "date": "2026-09-15",
@@ -2367,64 +2338,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0108",
-      "source": "RappelConso",
-      "date": "2026-09-09",
-      "title": {
-        "en": "saucisse de porc lontan¤saucisse de porc lontan aux herbes ¤merguez de porc ¤chipolatas de porc",
-        "fr": "saucisse de porc lontan¤saucisse de porc lontan aux herbes ¤merguez de porc ¤chipolatas de porc",
-        "nl": "saucisse de porc lontan¤saucisse de porc lontan aux herbes ¤merguez de porc ¤chipolatas de porc"
-      },
-      "description": {
-        "en": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
-        "fr": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
-        "nl": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23482/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "rappelconso-2026-09-0107",
-      "source": "RappelConso",
-      "date": "2026-09-09",
-      "title": {
-        "en": "farce de porc ¤merguez de porc ¤chipolatas de porc",
-        "fr": "farce de porc ¤merguez de porc ¤chipolatas de porc",
-        "nl": "farce de porc ¤merguez de porc ¤chipolatas de porc"
-      },
-      "description": {
-        "en": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
-        "fr": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)",
-        "nl": "risque de corps étranger - inertes (verre, métal, plastique, papier, textile…)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23481/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
     },
     {
       "id": "favv-terugroeping-van-carrefour-34",
