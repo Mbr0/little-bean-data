@@ -1,6 +1,182 @@
 {
-  "generated": "2026-09-21T06:03:47.187Z",
+  "generated": "2026-09-22T06:03:16.231Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0196",
+      "source": "RappelConso",
+      "date": "2026-09-21",
+      "title": {
+        "en": "le chicken poulet cheddar sauce moutarde à l’ancienne",
+        "fr": "le chicken poulet cheddar sauce moutarde à l’ancienne",
+        "nl": "le chicken poulet cheddar sauce moutarde à l’ancienne"
+      },
+      "description": {
+        "en": "présence possible de listeria monocytogenese - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence possible de listeria monocytogenese - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence possible de listeria monocytogenese - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23576/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0188",
+      "source": "RappelConso",
+      "date": "2026-09-21",
+      "title": {
+        "en": "emincé de poulet curry indien en libre service",
+        "fr": "emincé de poulet curry indien en libre service",
+        "nl": "emincé de poulet curry indien en libre service"
+      },
+      "description": {
+        "en": "salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23568/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0193",
+      "source": "RappelConso",
+      "date": "2026-09-21",
+      "title": {
+        "en": "saucisse fraîche de canard en poche sous vide",
+        "fr": "saucisse fraîche de canard en poche sous vide",
+        "nl": "saucisse fraîche de canard en poche sous vide"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23573/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0192",
+      "source": "RappelConso",
+      "date": "2026-09-21",
+      "title": {
+        "en": "cuisse de poulet marinée, filet de poulet mariné, émincés de poulet marinés.",
+        "fr": "cuisse de poulet marinée, filet de poulet mariné, émincés de poulet marinés.",
+        "nl": "cuisse de poulet marinée, filet de poulet mariné, émincés de poulet marinés."
+      },
+      "description": {
+        "en": "les analyses réalisées sur un lot de cuisses de poulet marinées au paprika ont révélé la présence de salmonelle. par mesure de précaution, l'entreprise procède au rappel de l'ensemble des produits issus de la fabrication  volailles marinées . - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "les analyses réalisées sur un lot de cuisses de poulet marinées au paprika ont révélé la présence de salmonelle. par mesure de précaution, l'entreprise procède au rappel de l'ensemble des produits issus de la fabrication  volailles marinées . - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "les analyses réalisées sur un lot de cuisses de poulet marinées au paprika ont révélé la présence de salmonelle. par mesure de précaution, l'entreprise procède au rappel de l'ensemble des produits issus de la fabrication  volailles marinées . - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23572/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0181",
+      "source": "RappelConso",
+      "date": "2026-09-21",
+      "title": {
+        "en": "viande de boeuf sechee dans les alpes italiennes - 12 tranches - 80g - carrefour extra",
+        "fr": "viande de boeuf sechee dans les alpes italiennes - 12 tranches - 80g - carrefour extra",
+        "nl": "viande de boeuf sechee dans les alpes italiennes - 12 tranches - 80g - carrefour extra"
+      },
+      "description": {
+        "en": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de contamination bactériologique¤ - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23561/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0187",
+      "source": "RappelConso",
+      "date": "2026-09-21",
+      "title": {
+        "en": "truffé briard",
+        "fr": "truffé briard",
+        "nl": "truffé briard"
+      },
+      "description": {
+        "en": "détection listeria mono sur autocontrôle - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection listeria mono sur autocontrôle - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection listeria mono sur autocontrôle - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23567/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-09-0190",
       "source": "RappelConso",
@@ -493,93 +669,6 @@
       ],
       "dietRelevant": false,
       "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-09-0128",
-      "source": "RappelConso",
-      "date": "2026-09-14",
-      "title": {
-        "en": "sandwich pavé poulet crudités",
-        "fr": "sandwich pavé poulet crudités",
-        "nl": "sandwich pavé poulet crudités"
-      },
-      "description": {
-        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23504/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0099",
-      "source": "RappelConso",
-      "date": "2026-09-14",
-      "title": {
-        "en": "cordon bleu de poulet",
-        "fr": "cordon bleu de poulet",
-        "nl": "cordon bleu de poulet"
-      },
-      "description": {
-        "en": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelles mises en évidence dans le cadre du plan d'autocontrôle microbiologique - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23473/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0127",
-      "source": "RappelConso",
-      "date": "2026-09-12",
-      "title": {
-        "en": "moricette dinde mimolette 205g",
-        "fr": "moricette dinde mimolette 205g",
-        "nl": "moricette dinde mimolette 205g"
-      },
-      "description": {
-        "en": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23503/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "favv-rappel-de-buvens-nv",
@@ -1235,35 +1324,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "fsa-FSA-PRIN-29-2026",
-      "source": "FSA",
-      "date": "2026-06-23",
-      "title": {
-        "en": "Prepworld recalls fruit products because of possible contamination with Salmonella",
-        "fr": "Prepworld recalls fruit products because of possible contamination with Salmonella",
-        "nl": "Prepworld recalls fruit products because of possible contamination with Salmonella"
-      },
-      "description": {
-        "en": "The possible presence of Salmonella in the products listed above. Symptoms caused by Salmonella usually include fever, diarrhoea and abdominal cramps. If you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
-        "fr": "The possible presence of Salmonella in the products listed above. Symptoms caused by Salmonella usually include fever, diarrhoea and abdominal cramps. If you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
-        "nl": "The possible presence of Salmonella in the products listed above. Symptoms caused by Salmonella usually include fever, diarrhoea and abdominal cramps. If you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others."
-      },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-29-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "rappelconso-2026-09-0146",
       "source": "RappelConso",
       "date": "2026-09-18",
@@ -1498,64 +1558,6 @@
       "pregnancySummaryKey": "chemical"
     },
     {
-      "id": "rappelconso-2026-09-0129",
-      "source": "RappelConso",
-      "date": "2026-09-14",
-      "title": {
-        "en": "poivrons verts catégorie 1 calibre 70/90 france",
-        "fr": "poivrons verts catégorie 1 calibre 70/90 france",
-        "nl": "poivrons verts catégorie 1 calibre 70/90 france"
-      },
-      "description": {
-        "en": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
-        "fr": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
-        "nl": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23505/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "rappelconso-2026-09-0131",
-      "source": "RappelConso",
-      "date": "2026-09-14",
-      "title": {
-        "en": "légumes à plancha barquette 1.5kg",
-        "fr": "légumes à plancha barquette 1.5kg",
-        "nl": "légumes à plancha barquette 1.5kg"
-      },
-      "description": {
-        "en": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
-        "fr": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides",
-        "nl": "dépassement du seuil réglementaire des limites maximales de résidus phytosanitaires. - dépassement des limites autorisées de pesticides"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23507/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
       "id": "fda-d11ee8f63989",
       "source": "FDA",
       "date": "2026-09-14",
@@ -1727,36 +1729,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-3080ced49cc3",
-      "source": "FDA",
-      "date": "2026-08-31",
-      "title": {
-        "en": "Crystal Temptations Issues Allergy Alert on Undeclared Milk in Chocolatey Eyeballs",
-        "fr": "Crystal Temptations Issues Allergy Alert on Undeclared Milk in Chocolatey Eyeballs",
-        "nl": "Crystal Temptations Issues Allergy Alert on Undeclared Milk in Chocolatey Eyeballs"
-      },
-      "description": {
-        "en": "Crystal Temptations of North Arlington, NJ is recalling Halloween Chocolatey Eyeballs because they contain undeclared MILK allergens. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening allergic reaction if they consume these products.",
-        "fr": "Crystal Temptations of North Arlington, NJ is recalling Halloween Chocolatey Eyeballs because they contain undeclared MILK allergens. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening allergic reaction if they consume these products.",
-        "nl": "Crystal Temptations of North Arlington, NJ is recalling Halloween Chocolatey Eyeballs because they contain undeclared MILK allergens. People who have an allergy or severe sensitivity to milk run the risk of serious or life-threatening allergic reaction if they consume these products."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/crystal-temptations-issues-allergy-alert-undeclared-milk-chocolatey-eyeballs",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -2158,6 +2130,33 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "fda-d8759c89e98b",
+      "source": "FDA",
+      "date": "2026-09-21",
+      "title": {
+        "en": "Global Mix Inc. Recalls Niwali Tejocote Capsules and Niwali Tejocote Pieces Because of Possible Health Risk",
+        "fr": "Global Mix Inc. Recalls Niwali Tejocote Capsules and Niwali Tejocote Pieces Because of Possible Health Risk",
+        "nl": "Global Mix Inc. Recalls Niwali Tejocote Capsules and Niwali Tejocote Pieces Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Global Mix Inc. of Middle Village, New York, is recalling niwali Tejocote Capsules (90 capsules, Herbal Supplement) and niwali Tejocote Pieces (90 Day Supply, Herbal Supplement) because FDA analysis has determined that the products appear to be Thevetia peruviana, or yellow oleander. All parts of th",
+        "fr": "Global Mix Inc. of Middle Village, New York, is recalling niwali Tejocote Capsules (90 capsules, Herbal Supplement) and niwali Tejocote Pieces (90 Day Supply, Herbal Supplement) because FDA analysis has determined that the products appear to be Thevetia peruviana, or yellow oleander. All parts of th",
+        "nl": "Global Mix Inc. of Middle Village, New York, is recalling niwali Tejocote Capsules (90 capsules, Herbal Supplement) and niwali Tejocote Pieces (90 Day Supply, Herbal Supplement) because FDA analysis has determined that the products appear to be Thevetia peruviana, or yellow oleander. All parts of th"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/global-mix-inc-recalls-niwali-tejocote-capsules-and-niwali-tejocote-pieces-because-possible-health",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "cfia-82645",
       "source": "CFIA",
       "date": "2026-09-18",
@@ -2435,33 +2434,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "rappelconso-2026-09-0126",
-      "source": "RappelConso",
-      "date": "2026-09-11",
-      "title": {
-        "en": "foie gras choix eveine df so ltresto",
-        "fr": "foie gras choix eveine df so ltresto",
-        "nl": "foie gras choix eveine df so ltresto"
-      },
-      "description": {
-        "en": "une analyse a mis en évidence la présence de clostridium perfringens à un niveau non conforme aux critères applicables. - clostridium perfringens",
-        "fr": "une analyse a mis en évidence la présence de clostridium perfringens à un niveau non conforme aux critères applicables. - clostridium perfringens",
-        "nl": "une analyse a mis en évidence la présence de clostridium perfringens à un niveau non conforme aux critères applicables. - clostridium perfringens"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23502/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
     },
     {
       "id": "nvwa-vliet-roomkaas-ananas-125-gram",
