@@ -1,6 +1,93 @@
 {
-  "generated": "2026-09-23T06:03:21.386Z",
+  "generated": "2026-09-24T06:03:25.826Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0223",
+      "source": "RappelConso",
+      "date": "2026-09-23",
+      "title": {
+        "en": "1 pièce sous vide",
+        "fr": "1 pièce sous vide",
+        "nl": "1 pièce sous vide"
+      },
+      "description": {
+        "en": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23604/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0219",
+      "source": "RappelConso",
+      "date": "2026-09-23",
+      "title": {
+        "en": "paupiette de poulet à la montagnarde",
+        "fr": "paupiette de poulet à la montagnarde",
+        "nl": "paupiette de poulet à la montagnarde"
+      },
+      "description": {
+        "en": "présence de salmonelle - autres contaminants chimiques|salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - autres contaminants chimiques|salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - autres contaminants chimiques|salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23600/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0207",
+      "source": "RappelConso",
+      "date": "2026-09-23",
+      "title": {
+        "en": "jeunes pousses carrefour le marché - sachet 125g",
+        "fr": "jeunes pousses carrefour le marché - sachet 125g",
+        "nl": "jeunes pousses carrefour le marché - sachet 125g"
+      },
+      "description": {
+        "en": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23588/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-09-0199",
       "source": "RappelConso",
@@ -526,62 +613,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-09-0155",
-      "source": "RappelConso",
-      "date": "2026-09-17",
-      "title": {
-        "en": "hareng kipper vendu au rayon poissonnerie traditionnel",
-        "fr": "hareng kipper vendu au rayon poissonnerie traditionnel",
-        "nl": "hareng kipper vendu au rayon poissonnerie traditionnel"
-      },
-      "description": {
-        "en": "présence de listéria monocytogène (inférieur à 10 ufc/g) - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogène (inférieur à 10 ufc/g) - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogène (inférieur à 10 ufc/g) - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23534/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0143",
-      "source": "RappelConso",
-      "date": "2026-09-16",
-      "title": {
-        "en": "brie de melun aop",
-        "fr": "brie de melun aop",
-        "nl": "brie de melun aop"
-      },
-      "description": {
-        "en": "non conformite microbiologique - escherichia coli shiga toxinogène (stec)",
-        "fr": "non conformite microbiologique - escherichia coli shiga toxinogène (stec)",
-        "nl": "non conformite microbiologique - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23526/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "favv-rappel-de-grand-frais-15",
       "source": "FAVV",
       "date": "2026-09-15",
@@ -642,38 +673,6 @@
       ],
       "dietRelevant": false,
       "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "favv-rappel-de-buvens-nv",
-      "source": "FAVV",
-      "date": "2026-09-10",
-      "title": {
-        "en": "Rappel de BUVENS NV | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de BUVENS NV | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de BUVENS NV | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En accord avec l’AFSCA, Buvens NV retire de la vente les produits découpes et préparations de viande de dinde et les rappelle auprès des consommateurs en raison de la présence possible de Salmonella Typhimurium. BUVENS NV demande à ses clients de ne pas consommer ces produits et de les ramener au point de vente dans lequel ils ont été achetés, où ils seront remboursés. Description des produits : - Nom du produit : Découpes et préparations de viande de dinde",
-        "fr": "En accord avec l’AFSCA, Buvens NV retire de la vente les produits découpes et préparations de viande de dinde et les rappelle auprès des consommateurs en raison de la présence possible de Salmonella Typhimurium. BUVENS NV demande à ses clients de ne pas consommer ces produits et de les ramener au point de vente dans lequel ils ont été achetés, où ils seront remboursés. Description des produits : - Nom du produit : Découpes et préparations de viande de dinde",
-        "nl": "En accord avec l’AFSCA, Buvens NV retire de la vente les produits découpes et préparations de viande de dinde et les rappelle auprès des consommateurs en raison de la présence possible de Salmonella Typhimurium. BUVENS NV demande à ses clients de ne pas consommer ces produits et de les ramener au point de vente dans lequel ils ont été achetés, où ils seront remboursés. Description des produits : - Nom du produit : Découpes et préparations de viande de dinde"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-buvens-nv",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "fda-63026a0696c6",
@@ -790,35 +789,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fda-176cca931ddf",
-      "source": "FDA",
-      "date": "2026-09-03",
-      "title": {
-        "en": "Fi Recalls Supplements for Dogs Because of Possible Salmonella Contamination",
-        "fr": "Fi Recalls Supplements for Dogs Because of Possible Salmonella Contamination",
-        "nl": "Fi Recalls Supplements for Dogs Because of Possible Salmonella Contamination"
-      },
-      "description": {
-        "en": "Fi, of New York, NY, is recalling the supplements for dogs listed below because they have the potential to be contaminated with Salmonella due to an ingredient supplied to Fi’s manufacturer. The manufacturer has suspended production while it investigates. Fi is promptly notifying all affected custom",
-        "fr": "Fi, of New York, NY, is recalling the supplements for dogs listed below because they have the potential to be contaminated with Salmonella due to an ingredient supplied to Fi’s manufacturer. The manufacturer has suspended production while it investigates. Fi is promptly notifying all affected custom",
-        "nl": "Fi, of New York, NY, is recalling the supplements for dogs listed below because they have the potential to be contaminated with Salmonella due to an ingredient supplied to Fi’s manufacturer. The manufacturer has suspended production while it investigates. Fi is promptly notifying all affected custom"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fi-recalls-supplements-dogs-because-possible-salmonella-contamination",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "fsa-FSA-PRIN-42-2026",
@@ -1236,6 +1206,96 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
+      "id": "cfia-82663",
+      "source": "CFIA",
+      "date": "2026-09-23",
+      "title": {
+        "en": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
+        "fr": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
+        "nl": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut"
+      },
+      "description": {
+        "en": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut.",
+        "fr": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut.",
+        "nl": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/chungjungwon-brand-sunchang-ssamjang-seasoned-bean-paste-recalled-due-undeclared",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-09-0220",
+      "source": "RappelConso",
+      "date": "2026-09-23",
+      "title": {
+        "en": "auchan chocolat noir 57% framboises100g",
+        "fr": "auchan chocolat noir 57% framboises100g",
+        "nl": "auchan chocolat noir 57% framboises100g"
+      },
+      "description": {
+        "en": "anomalie d'étiquetage : allergènes non étiquetés en français (soja et gluten) - anomalie d'étiquetage",
+        "fr": "anomalie d'étiquetage : allergènes non étiquetés en français (soja et gluten) - anomalie d'étiquetage",
+        "nl": "anomalie d'étiquetage : allergènes non étiquetés en français (soja et gluten) - anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23601/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "nvwa-kerbek-van-hoogland-allergenen",
+      "source": "NVWA",
+      "date": "2026-09-23",
+      "title": {
+        "en": "Veiligheidswaarschuwing gebakken lekkerbek van Hoogland (allergenen)",
+        "fr": "Veiligheidswaarschuwing gebakken lekkerbek van Hoogland (allergenen)",
+        "nl": "Veiligheidswaarschuwing gebakken lekkerbek van Hoogland (allergenen)"
+      },
+      "description": {
+        "en": "DekaMarkt waarschuwt voor Hoogland gebakken lekkerbek 250 gram. Er kunnen allergenen op het etiket ontbreken. Het product bevat tarwe, melk en soja. Dit staat mogelijk niet op het etiket. Zie de website van DekaMarkt",
+        "fr": "DekaMarkt waarschuwt voor Hoogland gebakken lekkerbek 250 gram. Er kunnen allergenen op het etiket ontbreken. Het product bevat tarwe, melk en soja. Dit staat mogelijk niet op het etiket. Zie de website van DekaMarkt",
+        "nl": "DekaMarkt waarschuwt voor Hoogland gebakken lekkerbek 250 gram. Er kunnen allergenen op het etiket ontbreken. Het product bevat tarwe, melk en soja. Dit staat mogelijk niet op het etiket. Zie de website van DekaMarkt"
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/09/23/veiligheidswaarschuwing-gebakken-lekkerbek-van-hoogland-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-09-0146",
       "source": "RappelConso",
       "date": "2026-09-18",
@@ -1292,35 +1352,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-09-0151",
-      "source": "RappelConso",
-      "date": "2026-09-16",
-      "title": {
-        "en": "fruit de la passion vietnam",
-        "fr": "fruit de la passion vietnam",
-        "nl": "fruit de la passion vietnam"
-      },
-      "description": {
-        "en": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
-        "fr": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
-        "nl": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23529/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "fda-ee4048877407",
@@ -1893,34 +1924,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "cfia-82632",
-      "source": "CFIA",
-      "date": "2026-09-22",
-      "title": {
-        "en": "R.J. King Fisheries Ltd. and Moncton Fish Market brand frozen cooked lobster meat recalled due to Staphylococcus aureus",
-        "fr": "R.J. King Fisheries Ltd. and Moncton Fish Market brand frozen cooked lobster meat recalled due to Staphylococcus aureus",
-        "nl": "R.J. King Fisheries Ltd. and Moncton Fish Market brand frozen cooked lobster meat recalled due to Staphylococcus aureus"
-      },
-      "description": {
-        "en": "R.J. King Fisheries Ltd. and Moncton Fish Market brand frozen cooked lobster meat recalled due to Staphylococcus aureus.",
-        "fr": "R.J. King Fisheries Ltd. and Moncton Fish Market brand frozen cooked lobster meat recalled due to Staphylococcus aureus.",
-        "nl": "R.J. King Fisheries Ltd. and Moncton Fish Market brand frozen cooked lobster meat recalled due to Staphylococcus aureus."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/rj-king-fisheries-ltd-and-moncton-fish-market-brand-frozen-cooked-lobster-meat",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "rappelconso-2026-09-0204",
       "source": "RappelConso",
       "date": "2026-09-22",
@@ -2073,33 +2076,6 @@
       ],
       "foodGroups": [
         "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "cfia-82645",
-      "source": "CFIA",
-      "date": "2026-09-18",
-      "title": {
-        "en": "Yotvata brand Caciotta Peperoncino Cheese recalled  due to Staphylococcus aureus",
-        "fr": "Yotvata brand Caciotta Peperoncino Cheese recalled  due to Staphylococcus aureus",
-        "nl": "Yotvata brand Caciotta Peperoncino Cheese recalled  due to Staphylococcus aureus"
-      },
-      "description": {
-        "en": "Yotvata brand Caciotta Peperoncino Cheese recalled due to Staphylococcus aureus.",
-        "fr": "Yotvata brand Caciotta Peperoncino Cheese recalled due to Staphylococcus aureus.",
-        "nl": "Yotvata brand Caciotta Peperoncino Cheese recalled due to Staphylococcus aureus."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/yotvata-brand-caciotta-peperoncino-cheese-recalled-due-staphylococcus-aureus",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -2302,33 +2278,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0154",
-      "source": "RappelConso",
-      "date": "2026-09-16",
-      "title": {
-        "en": "sauce tartare 135g",
-        "fr": "sauce tartare 135g",
-        "nl": "sauce tartare 135g"
-      },
-      "description": {
-        "en": "erreur de marquage de la date limite de consommation (dlc) sur certaines unités : indication erronée  ddm : 24/08/2029  au lieu de  dlc : 07/11/2026 - anomalie d'étiquetage",
-        "fr": "erreur de marquage de la date limite de consommation (dlc) sur certaines unités : indication erronée  ddm : 24/08/2029  au lieu de  dlc : 07/11/2026 - anomalie d'étiquetage",
-        "nl": "erreur de marquage de la date limite de consommation (dlc) sur certaines unités : indication erronée  ddm : 24/08/2029  au lieu de  dlc : 07/11/2026 - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23533/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "labeling"
     },
     {
       "id": "fda-2c1423aebaf3",
