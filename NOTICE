@@ -71,12 +71,14 @@ Producer:  Nederlandse Voedsel- en Warenautoriteit (NVWA, Netherlands Food and
 Dataset:   Product warnings ("waarschuwingen") published on www.nvwa.nl,
            discovered through the site's sitemap (https://www.nvwa.nl/sitemap.xml).
            This is website content, not a published open dataset.
-Licence:   Uncertain. Dutch central-government websites generally place their
-           content under CC0 1.0 (public domain dedication); this has not been
-           confirmed for nvwa.nl specifically; check the copyright statement
-           on www.nvwa.nl before relying on it.
+Licence:   CC0 1.0 Universal (public domain dedication), per the NVWA
+           copyright statement at https://www.nvwa.nl/service/copyright
+           https://creativecommons.org/publicdomain/zero/1.0/
+           Photos and videos on nvwa.nl are excluded from CC0; none are
+           reproduced in this feed (records carry text and a link only).
 Attribution:
            Source: Nederlandse Voedsel- en Warenautoriteit (NVWA), www.nvwa.nl.
+           No NVWA endorsement. (Not required under CC0; given as a courtesy.)
 
 ================================================================================
 5. FAVV / AFSCA (Belgium)                                         source: "FAVV"
@@ -88,14 +90,18 @@ Dataset:   Product recall notices ("terugroepingen" / "rappels") published on
            favv-afsca.be in Dutch and French, discovered through the site's RSS
            feeds and sitemaps. This is website content, not a published open
            dataset.
-Licence:   Uncertain. No explicit open licence for this content was found.
-           Reuse is assumed to fall under the Belgian federal rules on the
-           re-use of public sector information (Law of 4 May 2016), which
-           generally permit reuse with source attribution. Many notices are
-           written by the recalling company and published by FAVV-AFSCA, which
-           may limit the rights the agency can grant.
+Licence:   Uncertain. FAVV-AFSCA's open-data terms
+           (https://favv-afsca.be/nl/open-data) allow reuse on condition that
+           the source and the date of last update are given, and forbid
+           suggesting that FAVV-AFSCA endorses the reuse. It has not been
+           confirmed that these terms cover the recall notices, which are not
+           listed as an open dataset; the website itself states "All rights
+           reserved". Many notices are written by the recalling company and
+           published by FAVV-AFSCA, which may further limit the rights the
+           agency can grant.
 Attribution:
            Source: FAVV-AFSCA, favv-afsca.be.
+           Last updated: see the "generated" timestamp in public/alerts.json.
 
 ================================================================================
 6. Canadian Food Inspection Agency (Canada)                       source: "CFIA"
@@ -104,12 +110,17 @@ Producer:  Canadian Food Inspection Agency (CFIA), published through the
            Government of Canada "Recalls and safety alerts" service
 Dataset:   CFIA alerts and recalls RSS feed
            https://recalls-rappels.canada.ca/en/feed/cfia-alerts-recalls
-Licence:   Uncertain. The Government of Canada publishes recalls and safety
-           alerts data on open.canada.ca under the Open Government Licence –
-           Canada 2.0 (https://open.canada.ca/en/open-government-licence-canada),
-           but this feed is served from recalls-rappels.canada.ca. Whether the
-           OGL–Canada or the Canada.ca terms and conditions apply to the feed
-           itself has not been confirmed.
+           The official open dataset for the same notices is "Recalls and
+           Safety Alerts" on open.canada.ca
+           (dataset d38de914-c94c-429b-8ab1-8776c31643e3, JSON:
+           https://recalls-rappels.canada.ca/sites/default/files/opendata-donneesouvertes/HCRSAMOpenData.json).
+           The fetcher reads the RSS feed, not that JSON file.
+Licence:   Open Government Licence – Canada 2.0
+           https://open.canada.ca/en/open-government-licence-canada
+Uncertain: The OGL–Canada is confirmed for the open.canada.ca dataset above,
+           but not for the RSS feed this feed is built from. Whether the
+           OGL–Canada or the Canada.ca terms and conditions apply to the RSS
+           feed itself has not been confirmed.
 Attribution:
            Contains information licensed under the Open Government Licence –
            Canada. Source: Canadian Food Inspection Agency.
