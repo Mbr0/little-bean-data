@@ -110,8 +110,8 @@ Producer:  Canadian Food Inspection Agency (CFIA), published through the
            Government of Canada "Recalls and safety alerts" service
 Dataset:   CFIA alerts and recalls RSS feed
            https://recalls-rappels.canada.ca/en/feed/cfia-alerts-recalls
-           The official open dataset for the same notices is "Recalls and
-           Safety Alerts" on open.canada.ca
+           The Government of Canada's official open dataset of recalls,
+           including CFIA's, is "Recalls and Safety Alerts" on open.canada.ca
            (dataset d38de914-c94c-429b-8ab1-8776c31643e3, JSON:
            https://recalls-rappels.canada.ca/sites/default/files/opendata-donneesouvertes/HCRSAMOpenData.json).
            The fetcher reads the RSS feed, not that JSON file.
