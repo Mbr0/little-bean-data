@@ -1,0 +1,134 @@
+Little Bean pregnancy food-safety alerts feed
+Copyright (c) 2026 Little Bean (https://github.com/Mbr0/little-bean)
+
+public/alerts.json is licensed under CC BY 4.0 (see LICENSE). Each record is
+derived from an official food recall or alert published by one of the public
+bodies below. Recall titles and descriptions are reproduced verbatim in the
+original language of the notice, and every record links back to the official
+notice in its "url" field. The "source" field of each record names the
+regulator it came from.
+
+The sources were identified from the "source", "id", "url" and "countries"
+fields of public/alerts.json and cross-checked against the fetcher in the
+main repository (scripts/fetch-alerts.ts in Mbr0/little-bean). Licence
+statements were last reviewed on 2026-09-25. Where a licence could not be
+confirmed, this is stated under "Uncertain" below. If you reuse this data,
+check the current terms of the source you rely on.
+
+================================================================================
+1. RappelConso (France)                                     source: "RappelConso"
+================================================================================
+Producer:  Direction générale de la concurrence, de la consommation et de la
+           répression des fraudes (DGCCRF), French Ministry of the Economy,
+           publishing on the RappelConso service
+Dataset:   RappelConso (v2, "rappelconso-v2-gtin-espaces") on data.economie.gouv.fr
+           https://data.economie.gouv.fr/explore/dataset/rappelconso-v2-gtin-espaces/
+           Filtered to categories "alimentation" and "Compléments alimentaires"
+Licence:   Licence Ouverte / Open Licence 2.0 (Etalab)
+           https://www.etalab.gouv.fr/licence-ouverte-open-licence/
+Attribution:
+           Source: RappelConso, DGCCRF, data.economie.gouv.fr (Licence Ouverte 2.0).
+           Last updated: see the "generated" timestamp in public/alerts.json.
+
+================================================================================
+2. Food Standards Agency (United Kingdom)                          source: "FSA"
+================================================================================
+Producer:  Food Standards Agency (FSA)
+Dataset:   FSA Food Alerts API (Allergy Alerts and Product Recall Information
+           Notices)
+           https://data.food.gov.uk/food-alerts/
+Licence:   Open Government Licence v3.0
+           https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Attribution:
+           Contains public sector information licensed under the Open
+           Government Licence v3.0. Source: Food Standards Agency.
+
+================================================================================
+3. U.S. Food and Drug Administration (United States)               source: "FDA"
+================================================================================
+Producer:  U.S. Food and Drug Administration (FDA)
+Dataset:   FDA "Recalls, Market Withdrawals, & Safety Alerts" RSS feed
+           https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml
+           Filtered to food, beverage, dietary supplement and infant formula
+           items. Note: this is the fda.gov recalls RSS feed, not the openFDA
+           API.
+Licence:   Public domain in the United States (works of the U.S. federal
+           government, 17 U.S.C. § 105). No licence is required.
+Attribution:
+           Source: U.S. Food and Drug Administration (not required; given as
+           a courtesy). Use of this data does not imply FDA endorsement.
+Uncertain: Many FDA recall entries are company announcements that FDA posts
+           "as a public service". Text written by the recalling company is
+           not a federal government work, so its public-domain status is not
+           guaranteed. The FDA content statement is at
+           https://www.fda.gov/about-fda/about-website/website-policies
+
+================================================================================
+4. NVWA (Netherlands)                                             source: "NVWA"
+================================================================================
+Producer:  Nederlandse Voedsel- en Warenautoriteit (NVWA, Netherlands Food and
+           Consumer Product Safety Authority)
+Dataset:   Product warnings ("waarschuwingen") published on www.nvwa.nl,
+           discovered through the site's sitemap (https://www.nvwa.nl/sitemap.xml).
+           This is website content, not a published open dataset.
+Licence:   CC0 1.0 Universal (public domain dedication), per the NVWA
+           copyright statement at https://www.nvwa.nl/service/copyright
+           https://creativecommons.org/publicdomain/zero/1.0/
+           Photos and videos on nvwa.nl are excluded from CC0; none are
+           reproduced in this feed (records carry text and a link only).
+Attribution:
+           Source: Nederlandse Voedsel- en Warenautoriteit (NVWA), www.nvwa.nl.
+           No NVWA endorsement. (Not required under CC0; given as a courtesy.)
+
+================================================================================
+5. FAVV / AFSCA (Belgium)                                         source: "FAVV"
+================================================================================
+Producer:  Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) /
+           Agence fédérale pour la sécurité de la chaîne alimentaire (AFSCA),
+           Belgian Federal Agency for the Safety of the Food Chain
+Dataset:   Product recall notices ("terugroepingen" / "rappels") published on
+           favv-afsca.be in Dutch and French, discovered through the site's RSS
+           feeds and sitemaps. This is website content, not a published open
+           dataset.
+Licence:   Uncertain. FAVV-AFSCA's open-data terms
+           (https://favv-afsca.be/nl/open-data) allow reuse on condition that
+           the source and the date of last update are given, and forbid
+           suggesting that FAVV-AFSCA endorses the reuse. It has not been
+           confirmed that these terms cover the recall notices, which are not
+           listed as an open dataset; the website itself states "All rights
+           reserved". Many notices are written by the recalling company and
+           published by FAVV-AFSCA, which may further limit the rights the
+           agency can grant.
+Attribution:
+           Source: FAVV-AFSCA, favv-afsca.be.
+           Last updated: see the "generated" timestamp in public/alerts.json.
+
+================================================================================
+6. Canadian Food Inspection Agency (Canada)                       source: "CFIA"
+================================================================================
+Producer:  Canadian Food Inspection Agency (CFIA), published through the
+           Government of Canada "Recalls and safety alerts" service
+Dataset:   CFIA alerts and recalls RSS feed
+           https://recalls-rappels.canada.ca/en/feed/cfia-alerts-recalls
+           The Government of Canada's official open dataset of recalls,
+           including CFIA's, is "Recalls and Safety Alerts" on open.canada.ca
+           (dataset d38de914-c94c-429b-8ab1-8776c31643e3, JSON:
+           https://recalls-rappels.canada.ca/sites/default/files/opendata-donneesouvertes/HCRSAMOpenData.json).
+           The fetcher reads the RSS feed, not that JSON file.
+Licence:   Open Government Licence – Canada 2.0
+           https://open.canada.ca/en/open-government-licence-canada
+Uncertain: The OGL–Canada is confirmed for the open.canada.ca dataset above,
+           but not for the RSS feed this feed is built from. Whether the
+           OGL–Canada or the Canada.ca terms and conditions apply to the RSS
+           feed itself has not been confirmed.
+Attribution:
+           Contains information licensed under the Open Government Licence –
+           Canada. Source: Canadian Food Inspection Agency.
+
+================================================================================
+No endorsement
+================================================================================
+None of these regulators produces, endorses or checks this feed. Little Bean
+selects and classifies their notices automatically; errors in selection or
+classification are Little Bean's, not theirs. The official notice linked in
+each record's "url" field is the authoritative version.
