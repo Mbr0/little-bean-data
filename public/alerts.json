@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T06:03:10.234Z",
+  "generated": "2026-09-27T06:03:07.791Z",
   "alerts": [
     {
       "id": "rappelconso-2026-09-0251",
@@ -1264,6 +1264,37 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
+      "id": "cfia-82689",
+      "source": "CFIA",
+      "date": "2026-09-26",
+      "title": {
+        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk",
+        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk",
+        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk"
+      },
+      "description": {
+        "en": "The Canadian Food Inspection Agency (CFIA) is warning people who are allergic or sensitive to the affected product not to consume the affected product because it contains milk which is not declared on the label.",
+        "fr": "The Canadian Food Inspection Agency (CFIA) is warning people who are allergic or sensitive to the affected product not to consume the affected product because it contains milk which is not declared on the label.",
+        "nl": "The Canadian Food Inspection Agency (CFIA) is warning people who are allergic or sensitive to the affected product not to consume the affected product because it contains milk which is not declared on the label."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-contains-undeclared-milk",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-09-0236",
       "source": "RappelConso",
       "date": "2026-09-25",
@@ -2131,33 +2162,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "fda-b3264990c608",
-      "source": "FDA",
-      "date": "2026-09-23",
-      "title": {
-        "en": "G. L. Mezzetta Inc. Announces Recall of Mezzetta Brand Golden Greek Peperoncini (Medium Heat) Due to Presence of Pest Contaminant in the Jar",
-        "fr": "G. L. Mezzetta Inc. Announces Recall of Mezzetta Brand Golden Greek Peperoncini (Medium Heat) Due to Presence of Pest Contaminant in the Jar",
-        "nl": "G. L. Mezzetta Inc. Announces Recall of Mezzetta Brand Golden Greek Peperoncini (Medium Heat) Due to Presence of Pest Contaminant in the Jar"
-      },
-      "description": {
-        "en": "For generations, families have trusted Mezzetta products on their tables. We take that trust seriously, which is why we want to share what we know about a voluntary recall involving a specific lot of Mezzetta Greek Peppers and the actions we are taking.",
-        "fr": "For generations, families have trusted Mezzetta products on their tables. We take that trust seriously, which is why we want to share what we know about a voluntary recall involving a specific lot of Mezzetta Greek Peppers and the actions we are taking.",
-        "nl": "For generations, families have trusted Mezzetta products on their tables. We take that trust seriously, which is why we want to share what we know about a voluntary recall involving a specific lot of Mezzetta Greek Peppers and the actions we are taking."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/g-l-mezzetta-inc-announces-recall-mezzetta-brand-golden-greek-peperoncini-medium-heat-due-presence",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-09-0204",
