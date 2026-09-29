@@ -1,6 +1,35 @@
 {
-  "generated": "2026-09-28T06:04:07.529Z",
+  "generated": "2026-09-29T06:03:11.304Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0237",
+      "source": "RappelConso",
+      "date": "2026-09-28",
+      "title": {
+        "en": "viande hachée de boeuf à la demande.",
+        "fr": "viande hachée de boeuf à la demande.",
+        "nl": "viande hachée de boeuf à la demande."
+      },
+      "description": {
+        "en": "ce rappel fait suite à un prélèvement avec un résultat non conforme sur du steak haché prélevé avec détection de salmonella spp. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "ce rappel fait suite à un prélèvement avec un résultat non conforme sur du steak haché prélevé avec détection de salmonella spp. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "ce rappel fait suite à un prélèvement avec un résultat non conforme sur du steak haché prélevé avec détection de salmonella spp. - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23618/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-09-0251",
       "source": "RappelConso",
@@ -616,64 +645,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-09-0199",
-      "source": "RappelConso",
-      "date": "2026-09-22",
-      "title": {
-        "en": "chorizo vendu au rayon charcuterie coupe traditionnel et sandwich au chorizo fabriqués en magasin et vendu au rayon libre service.",
-        "fr": "chorizo vendu au rayon charcuterie coupe traditionnel et sandwich au chorizo fabriqués en magasin et vendu au rayon libre service.",
-        "nl": "chorizo vendu au rayon charcuterie coupe traditionnel et sandwich au chorizo fabriqués en magasin et vendu au rayon libre service."
-      },
-      "description": {
-        "en": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23579/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0197",
-      "source": "RappelConso",
-      "date": "2026-09-22",
-      "title": {
-        "en": "jambon italien désossé",
-        "fr": "jambon italien désossé",
-        "nl": "jambon italien désossé"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23577/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "fsa-FSA-PRIN-45-2026",
       "source": "FSA",
       "date": "2026-09-22",
@@ -701,36 +672,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-09-0196",
-      "source": "RappelConso",
-      "date": "2026-09-21",
-      "title": {
-        "en": "le chicken poulet cheddar sauce moutarde à l’ancienne",
-        "fr": "le chicken poulet cheddar sauce moutarde à l’ancienne",
-        "nl": "le chicken poulet cheddar sauce moutarde à l’ancienne"
-      },
-      "description": {
-        "en": "présence possible de listeria monocytogenese - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence possible de listeria monocytogenese - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence possible de listeria monocytogenese - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23576/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "fda-63026a0696c6",
@@ -1234,39 +1175,9 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "nvwa-t-500-gram-van-anur-halal-food",
-      "source": "NVWA",
-      "date": "2026-06-30",
-      "title": {
-        "en": "Veiligheidswaarschuwing Wahid rundergehakt 500 gram van Anur Halal Food",
-        "fr": "Veiligheidswaarschuwing Wahid rundergehakt 500 gram van Anur Halal Food",
-        "nl": "Veiligheidswaarschuwing Wahid rundergehakt 500 gram van Anur Halal Food"
-      },
-      "description": {
-        "en": "DekaMarkt waarschuwt voor Wahid rundergehakt 500 gram van Anur met houdbaarheidsdatum 04-07-2026. Het product kan mogelijk Salmonella bevatten. Eet dit product niet.",
-        "fr": "DekaMarkt waarschuwt voor Wahid rundergehakt 500 gram van Anur met houdbaarheidsdatum 04-07-2026. Het product kan mogelijk Salmonella bevatten. Eet dit product niet.",
-        "nl": "DekaMarkt waarschuwt voor Wahid rundergehakt 500 gram van Anur met houdbaarheidsdatum 04-07-2026. Het product kan mogelijk Salmonella bevatten. Eet dit product niet."
-      },
-      "url": "https://www.nvwa.nl/documenten/2026/06/30/veiligheidswaarschuwing-wahid-rundergehakt-500-gram-van-anur-halal-food",
-      "countries": [
-        "NL",
-        "BE"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "cfia-82689",
       "source": "CFIA",
-      "date": "2026-09-26",
+      "date": "2026-09-28",
       "title": {
         "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk",
         "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk",
@@ -1293,6 +1204,64 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82685",
+      "source": "CFIA",
+      "date": "2026-09-28",
+      "title": {
+        "en": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk",
+        "fr": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk",
+        "nl": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk.",
+        "fr": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk.",
+        "nl": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/nutraphase-brand-clean-beans-roasted-broad-beans-ketchup-flavour-recalled-due",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-09-0191",
+      "source": "RappelConso",
+      "date": "2026-09-28",
+      "title": {
+        "en": "pba tomate ronde 1kg",
+        "fr": "pba tomate ronde 1kg",
+        "nl": "pba tomate ronde 1kg"
+      },
+      "description": {
+        "en": "dépassement des limites autorisées de pesticides sur des tomates 6x1kg (origine espagne).¤acétamipride dépasse la lmr, atteint 333% de sa lmr, l'arfd étant à 233% - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement des limites autorisées de pesticides sur des tomates 6x1kg (origine espagne).¤acétamipride dépasse la lmr, atteint 333% de sa lmr, l'arfd étant à 233% - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement des limites autorisées de pesticides sur des tomates 6x1kg (origine espagne).¤acétamipride dépasse la lmr, atteint 333% de sa lmr, l'arfd étant à 233% - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23571/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "rappelconso-2026-09-0236",
@@ -1374,35 +1343,6 @@
       ],
       "foodGroups": [
         "fish",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82663",
-      "source": "CFIA",
-      "date": "2026-09-23",
-      "title": {
-        "en": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
-        "fr": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
-        "nl": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut"
-      },
-      "description": {
-        "en": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut.",
-        "fr": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut.",
-        "nl": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/chungjungwon-brand-sunchang-ssamjang-seasoned-bean-paste-recalled-due-undeclared",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
         "plant"
       ],
       "pregnancyRelevance": "medium",
@@ -1987,34 +1927,31 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-34-2026",
-      "source": "FSA",
-      "date": "2026-06-30",
+      "id": "rappelconso-2026-09-0245",
+      "source": "RappelConso",
+      "date": "2026-09-28",
       "title": {
-        "en": "SPAR UK recalls Clayton Park Kitchen Chicken & Mushroom sauce because of undeclared soya  ",
-        "fr": "SPAR UK recalls Clayton Park Kitchen Chicken & Mushroom sauce because of undeclared soya  ",
-        "nl": "SPAR UK recalls Clayton Park Kitchen Chicken & Mushroom sauce because of undeclared soya  "
+        "en": "n° bête : 4635901440 / n°abattage : 5009¤limousine née en 2017 - abattue le 08/09/2026",
+        "fr": "n° bête : 4635901440 / n°abattage : 5009¤limousine née en 2017 - abattue le 08/09/2026",
+        "nl": "n° bête : 4635901440 / n°abattage : 5009¤limousine née en 2017 - abattue le 08/09/2026"
       },
       "description": {
-        "en": "Soya\nThis product may contain soya, making it a possible health risk for anyone with an allergy to soya.",
-        "fr": "Soya\nThis product may contain soya, making it a possible health risk for anyone with an allergy to soya.",
-        "nl": "Soya\nThis product may contain soya, making it a possible health risk for anyone with an allergy to soya."
+        "en": "myosite eosinophilique (atteinte inflammatoire musculaire) - autre risque",
+        "fr": "myosite eosinophilique (atteinte inflammatoire musculaire) - autre risque",
+        "nl": "myosite eosinophilique (atteinte inflammatoire musculaire) - autre risque"
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-34-2026",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23627/interne",
       "countries": [
-        "GB"
+        "FR"
       ],
       "foodGroups": [
-        "meat",
-        "plant"
+        "meat"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
+      "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-09-0247",
