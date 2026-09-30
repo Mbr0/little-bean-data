@@ -1,6 +1,38 @@
 {
-  "generated": "2026-09-29T06:03:11.304Z",
+  "generated": "2026-09-30T06:03:46.172Z",
   "alerts": [
+    {
+      "id": "favv-rappel-de-lafsca-145",
+      "source": "FAVV",
+      "date": "2026-09-29",
+      "title": {
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire la pâte de sésame « Ground Sesame Paste Tahina » de la marque Chtoura Garden de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonella. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés.",
+        "fr": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire la pâte de sésame « Ground Sesame Paste Tahina » de la marque Chtoura Garden de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonella. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés.",
+        "nl": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire la pâte de sésame « Ground Sesame Paste Tahina » de la marque Chtoura Garden de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonella. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés."
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-145",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-09-0237",
       "source": "RappelConso",
@@ -29,6 +61,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fda-62d36a83d7bc",
+      "source": "FDA",
+      "date": "2026-09-28",
+      "title": {
+        "en": "Sierra Nevada Cheese Company Recalls Graziers Raw Milk Cheese Because of Possible Health Risk",
+        "fr": "Sierra Nevada Cheese Company Recalls Graziers Raw Milk Cheese Because of Possible Health Risk",
+        "nl": "Sierra Nevada Cheese Company Recalls Graziers Raw Milk Cheese Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Sierra Nevada Cheese Company of Willows, California, is voluntarily recalling all Graziers Raw Milk Cheese currently in the market because due to potential contamination with Escherichia coli O26:H11 (E. coli O26:H11).",
+        "fr": "Sierra Nevada Cheese Company of Willows, California, is voluntarily recalling all Graziers Raw Milk Cheese currently in the market because due to potential contamination with Escherichia coli O26:H11 (E. coli O26:H11).",
+        "nl": "Sierra Nevada Cheese Company of Willows, California, is voluntarily recalling all Graziers Raw Milk Cheese currently in the market because due to potential contamination with Escherichia coli O26:H11 (E. coli O26:H11)."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sierra-nevada-cheese-company-recalls-graziers-raw-milk-cheese-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
     },
     {
       "id": "rappelconso-2026-09-0251",
@@ -301,9 +362,9 @@
         "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
       },
       "description": {
-        "en": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire les herbes « Baie de Timur Népal » de la marque Medelys de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description du produit :",
-        "fr": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire les herbes « Baie de Timur Népal » de la marque Medelys de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description du produit :",
-        "nl": "Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire les herbes « Baie de Timur Népal » de la marque Medelys de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description du produit :"
+        "en": "29/09/2026 (mise à jour du rappel du 25/09/2026) Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire les herbes « Baie de Timur Népal » de la marque Medelys de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description du produit :",
+        "fr": "29/09/2026 (mise à jour du rappel du 25/09/2026) Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire les herbes « Baie de Timur Népal » de la marque Medelys de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description du produit :",
+        "nl": "29/09/2026 (mise à jour du rappel du 25/09/2026) Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire les herbes « Baie de Timur Népal » de la marque Medelys de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description du produit :"
       },
       "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-144",
       "countries": [
@@ -498,36 +559,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "favv-rappel-de-colosseum-nv-0",
-      "source": "FAVV",
-      "date": "2026-09-24",
-      "title": {
-        "en": "Rappel de Colosseum Nv. | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de Colosseum Nv. | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de Colosseum Nv. | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En accord avec l’AFSCA, la société Colosseum retire le produit «Pistaches Décortiquées» de la vente et le rappelle auprès des consommateurs en raison de teneur trop élevée en aflatoxines. Colosseum demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté dans lequel il a été acheté, où il leur sera remboursé. Description du produit :",
-        "fr": "En accord avec l’AFSCA, la société Colosseum retire le produit «Pistaches Décortiquées» de la vente et le rappelle auprès des consommateurs en raison de teneur trop élevée en aflatoxines. Colosseum demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté dans lequel il a été acheté, où il leur sera remboursé. Description du produit :",
-        "nl": "En accord avec l’AFSCA, la société Colosseum retire le produit «Pistaches Décortiquées» de la vente et le rappelle auprès des consommateurs en raison de teneur trop élevée en aflatoxines. Colosseum demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté dans lequel il a été acheté, où il leur sera remboursé. Description du produit :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-colosseum-nv-0",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
       "id": "fsa-FSA-PRIN-47-2026",
       "source": "FSA",
       "date": "2026-09-24",
@@ -606,35 +637,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0207",
-      "source": "RappelConso",
-      "date": "2026-09-23",
-      "title": {
-        "en": "jeunes pousses carrefour le marché - sachet 125g",
-        "fr": "jeunes pousses carrefour le marché - sachet 125g",
-        "nl": "jeunes pousses carrefour le marché - sachet 125g"
-      },
-      "description": {
-        "en": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23588/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -729,35 +731,6 @@
       ],
       "dietRelevant": false,
       "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "fda-55dd0591f9a2",
-      "source": "FDA",
-      "date": "2026-09-06",
-      "title": {
-        "en": "Made Fresh Salads, Inc. Recalls Ready to Eat Deli Style Salads and Cream Cheese Because of Possible Health Risk",
-        "fr": "Made Fresh Salads, Inc. Recalls Ready to Eat Deli Style Salads and Cream Cheese Because of Possible Health Risk",
-        "nl": "Made Fresh Salads, Inc. Recalls Ready to Eat Deli Style Salads and Cream Cheese Because of Possible Health Risk"
-      },
-      "description": {
-        "en": "Made Fresh Salads Inc. of Bay Shore, NY is recalling all Ready to Eat Deli Style Salads and cream cheese, because they have the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and",
-        "fr": "Made Fresh Salads Inc. of Bay Shore, NY is recalling all Ready to Eat Deli Style Salads and cream cheese, because they have the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and",
-        "nl": "Made Fresh Salads Inc. of Bay Shore, NY is recalling all Ready to Eat Deli Style Salads and cream cheese, because they have the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/made-fresh-salads-inc-recalls-ready-eat-deli-style-salads-and-cream-cheese-because-possible-health",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "nvwa-wengert-kaas-van-geifertshofen",
@@ -1116,63 +1089,66 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "nvwa-iz-rundergehakt-halal-500-gram",
-      "source": "NVWA",
-      "date": "2026-07-01",
+      "id": "cfia-82687",
+      "source": "CFIA",
+      "date": "2026-09-29",
       "title": {
-        "en": "Veiligheidswaarschuwing Lezziz rundergehakt halal 500 gram",
-        "fr": "Veiligheidswaarschuwing Lezziz rundergehakt halal 500 gram",
-        "nl": "Veiligheidswaarschuwing Lezziz rundergehakt halal 500 gram"
+        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk"
       },
       "description": {
-        "en": "Jumbo waarschuwt voor Lezziz rundergehakt halal 500 gram. Het product kan mogelijk salmonella bevatten. Eet dit product niet.",
-        "fr": "Jumbo waarschuwt voor Lezziz rundergehakt halal 500 gram. Het product kan mogelijk salmonella bevatten. Eet dit product niet.",
-        "nl": "Jumbo waarschuwt voor Lezziz rundergehakt halal 500 gram. Het product kan mogelijk salmonella bevatten. Eet dit product niet."
+        "en": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
+        "fr": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
+        "nl": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label."
       },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/01/veiligheidswaarschuwing-lezziz-rundergehakt-halal-500-gram",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared-0",
       "countries": [
-        "NL",
-        "BE"
+        "CA"
       ],
       "foodGroups": [
-        "meat"
+        "dairy",
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
+      "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-PRIN-32-2026",
-      "source": "FSA",
-      "date": "2026-07-01",
+      "id": "rappelconso-2026-09-0255",
+      "source": "RappelConso",
+      "date": "2026-09-29",
       "title": {
-        "en": "O’Brien Fine Foods recalls ham products because of possible contamination with Listeria monocytogenes",
-        "fr": "O’Brien Fine Foods recalls ham products because of possible contamination with Listeria monocytogenes",
-        "nl": "O’Brien Fine Foods recalls ham products because of possible contamination with Listeria monocytogenes"
+        "en": "snack chorizo/fuet 80g",
+        "fr": "snack chorizo/fuet 80g",
+        "nl": "snack chorizo/fuet 80g"
       },
       "description": {
-        "en": "The possible presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "fr": "The possible presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "nl": "The possible presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+        "en": "présence de traces de protéines de lait non mentionnées sur l'étiquette¤¤ - substances allergisantes non déclarées|anomalie d'étiquetage",
+        "fr": "présence de traces de protéines de lait non mentionnées sur l'étiquette¤¤ - substances allergisantes non déclarées|anomalie d'étiquetage",
+        "nl": "présence de traces de protéines de lait non mentionnées sur l'étiquette¤¤ - substances allergisantes non déclarées|anomalie d'étiquetage"
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-32-2026",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23638/interne",
       "countries": [
-        "GB"
+        "FR"
       ],
       "foodGroups": [
-        "meat"
+        "meat",
+        "dairy"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82689",
@@ -1201,35 +1177,6 @@
       "hazardTypes": [
         "allergen",
         "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82685",
-      "source": "CFIA",
-      "date": "2026-09-28",
-      "title": {
-        "en": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk",
-        "fr": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk",
-        "nl": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk"
-      },
-      "description": {
-        "en": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk.",
-        "fr": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk.",
-        "nl": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/nutraphase-brand-clean-beans-roasted-broad-beans-ketchup-flavour-recalled-due",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1294,36 +1241,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82667",
-      "source": "CFIA",
-      "date": "2026-09-24",
-      "title": {
-        "en": "Go! Beanz brand Roasted Broadbeans (Ketchup and Salt & Pepper flavors) recalled due to undeclared milk",
-        "fr": "Go! Beanz brand Roasted Broadbeans (Ketchup and Salt & Pepper flavors) recalled due to undeclared milk",
-        "nl": "Go! Beanz brand Roasted Broadbeans (Ketchup and Salt & Pepper flavors) recalled due to undeclared milk"
-      },
-      "description": {
-        "en": "Go! Beanz brand Roasted Broadbeans products (Ketchup and Salt & Peper flavors) recalled due to undeclared milk.",
-        "fr": "Go! Beanz brand Roasted Broadbeans products (Ketchup and Salt & Peper flavors) recalled due to undeclared milk.",
-        "nl": "Go! Beanz brand Roasted Broadbeans products (Ketchup and Salt & Peper flavors) recalled due to undeclared milk."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/go-beanz-brand-roasted-broadbeans-ketchup-and-salt-pepper-flavors-recalled-due",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "fda-763ca7ed09d6",
       "source": "FDA",
       "date": "2026-09-24",
@@ -1349,36 +1266,6 @@
       "audience": "general",
       "hazardTypes": [
         "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-09-0220",
-      "source": "RappelConso",
-      "date": "2026-09-23",
-      "title": {
-        "en": "auchan chocolat noir 57% framboises100g",
-        "fr": "auchan chocolat noir 57% framboises100g",
-        "nl": "auchan chocolat noir 57% framboises100g"
-      },
-      "description": {
-        "en": "anomalie d'étiquetage : allergènes non étiquetés en français (soja et gluten) - anomalie d'étiquetage",
-        "fr": "anomalie d'étiquetage : allergènes non étiquetés en français (soja et gluten) - anomalie d'étiquetage",
-        "nl": "anomalie d'étiquetage : allergènes non étiquetés en français (soja et gluten) - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23601/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1927,6 +1814,88 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-09-0260",
+      "source": "RappelConso",
+      "date": "2026-09-29",
+      "title": {
+        "en": "pois chiche au naturel 260g",
+        "fr": "pois chiche au naturel 260g",
+        "nl": "pois chiche au naturel 260g"
+      },
+      "description": {
+        "en": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23643/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0259",
+      "source": "RappelConso",
+      "date": "2026-09-29",
+      "title": {
+        "en": "pois chiche au naturel 260g",
+        "fr": "pois chiche au naturel 260g",
+        "nl": "pois chiche au naturel 260g"
+      },
+      "description": {
+        "en": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23642/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-gique-au-nom-de-fruitpackers-0",
+      "source": "FAVV",
+      "date": "2026-09-29",
+      "title": {
+        "en": "Rappel de Aldi Belgique au nom de Fruitpackers | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Aldi Belgique au nom de Fruitpackers | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Aldi Belgique au nom de Fruitpackers | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, Aldi Belgique au nom de Fruitpackers retire le produit « Oranges à jus » de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en résidus d’herbicide (glufosinate). Aldi Belgique demande à ses clients de ne pas consommer ce produit et de le ramener au magasin. Nous vous rembourserons le prix d’achat dans son entièreté, même si vous n’avez plus le ticket de caisse. Description du produit :",
+        "fr": "En accord avec l’AFSCA, Aldi Belgique au nom de Fruitpackers retire le produit « Oranges à jus » de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en résidus d’herbicide (glufosinate). Aldi Belgique demande à ses clients de ne pas consommer ce produit et de le ramener au magasin. Nous vous rembourserons le prix d’achat dans son entièreté, même si vous n’avez plus le ticket de caisse. Description du produit :",
+        "nl": "En accord avec l’AFSCA, Aldi Belgique au nom de Fruitpackers retire le produit « Oranges à jus » de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en résidus d’herbicide (glufosinate). Aldi Belgique demande à ses clients de ne pas consommer ce produit et de le ramener au magasin. Nous vous rembourserons le prix d’achat dans son entièreté, même si vous n’avez plus le ticket de caisse. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-aldi-belgique-au-nom-de-fruitpackers-0",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-09-0245",
       "source": "RappelConso",
       "date": "2026-09-28",
@@ -2039,36 +2008,6 @@
       "pregnancySummaryKey": "labeling"
     },
     {
-      "id": "favv-roeping-van-biofresh-belgium-6",
-      "source": "FAVV",
-      "date": "2026-09-25",
-      "title": {
-        "en": "Terugroeping van Biofresh Belgium | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van Biofresh Belgium | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van Biofresh Belgium | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "In overleg met het FAVV haalt Biofresh Belgium het product ‘Kikkererwten’ (500g) van het merk Green Age uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van uitwerpselen van ongedierte. Biofresh Belgium vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het wordt terugbetaald. Beschrijving van het product",
-        "fr": "In overleg met het FAVV haalt Biofresh Belgium het product ‘Kikkererwten’ (500g) van het merk Green Age uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van uitwerpselen van ongedierte. Biofresh Belgium vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het wordt terugbetaald. Beschrijving van het product",
-        "nl": "In overleg met het FAVV haalt Biofresh Belgium het product ‘Kikkererwten’ (500g) van het merk Green Age uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van uitwerpselen van ongedierte. Biofresh Belgium vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het wordt terugbetaald. Beschrijving van het product"
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biofresh-belgium-6",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "favv--de-la-fromagerie-des-ardennes",
       "source": "FAVV",
       "date": "2026-09-25",
@@ -2099,111 +2038,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "rappelconso-2026-09-0204",
-      "source": "RappelConso",
-      "date": "2026-09-22",
-      "title": {
-        "en": "cuisse de canard a l orange 380gr¤cuisse de caanrd a l orange 765gr",
-        "fr": "cuisse de canard a l orange 380gr¤cuisse de caanrd a l orange 765gr",
-        "nl": "cuisse de canard a l orange 380gr¤cuisse de caanrd a l orange 765gr"
-      },
-      "description": {
-        "en": "défaut d’herméticité - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut d’herméticité - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut d’herméticité - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23584/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0200",
-      "source": "RappelConso",
-      "date": "2026-09-22",
-      "title": {
-        "en": "48000g25 bell horse club 25kg",
-        "fr": "48000g25 bell horse club 25kg",
-        "nl": "48000g25 bell horse club 25kg"
-      },
-      "description": {
-        "en": "suite à un plan de contrôle interne, mise en évidence de traces de produit dangereux pour la santé les equidés. - additifs et arômes non autorisés|substances interdites (au sens du règlement ue 37/2010)",
-        "fr": "suite à un plan de contrôle interne, mise en évidence de traces de produit dangereux pour la santé les equidés. - additifs et arômes non autorisés|substances interdites (au sens du règlement ue 37/2010)",
-        "nl": "suite à un plan de contrôle interne, mise en évidence de traces de produit dangereux pour la santé les equidés. - additifs et arômes non autorisés|substances interdites (au sens du règlement ue 37/2010)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23580/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0149",
-      "source": "RappelConso",
-      "date": "2026-09-22",
-      "title": {
-        "en": "poisson, viande, glaces, ... (la liste des produits concernés est détaillé en pièce jointe. cela concerne les produits vendus le 14/09 sur le chronodrive de brive la gaillarde.)",
-        "fr": "poisson, viande, glaces, ... (la liste des produits concernés est détaillé en pièce jointe. cela concerne les produits vendus le 14/09 sur le chronodrive de brive la gaillarde.)",
-        "nl": "poisson, viande, glaces, ... (la liste des produits concernés est détaillé en pièce jointe. cela concerne les produits vendus le 14/09 sur le chronodrive de brive la gaillarde.)"
-      },
-      "description": {
-        "en": "rupture de la chaîne du froid - autre risque",
-        "fr": "rupture de la chaîne du froid - autre risque",
-        "nl": "rupture de la chaîne du froid - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23527/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0203",
-      "source": "RappelConso",
-      "date": "2026-09-22",
-      "title": {
-        "en": "vinmed4v0924  vinmed4v1224  vinmed4v0825",
-        "fr": "vinmed4v0924  vinmed4v1224  vinmed4v0825",
-        "nl": "vinmed4v0924  vinmed4v1224  vinmed4v0825"
-      },
-      "description": {
-        "en": "composition contenant une plante absente de la liste des plantes autorisées, à hauteur de 10g/l. - présence de substance interdite",
-        "fr": "composition contenant une plante absente de la liste des plantes autorisées, à hauteur de 10g/l. - présence de substance interdite",
-        "nl": "composition contenant une plante absente de la liste des plantes autorisées, à hauteur de 10g/l. - présence de substance interdite"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23583/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
     },
     {
       "id": "fda-d8759c89e98b",
