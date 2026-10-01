@@ -1,6 +1,92 @@
 {
-  "generated": "2026-09-30T06:03:46.172Z",
+  "generated": "2026-10-01T06:03:46.516Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-09-0271",
+      "source": "RappelConso",
+      "date": "2026-09-30",
+      "title": {
+        "en": "viande hachée pur bœuf 5%mg barquette de 300g",
+        "fr": "viande hachée pur bœuf 5%mg barquette de 300g",
+        "nl": "viande hachée pur bœuf 5%mg barquette de 300g"
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
+        "fr": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
+        "nl": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23656/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0267",
+      "source": "RappelConso",
+      "date": "2026-09-30",
+      "title": {
+        "en": "perles des mers -salade de pâtes cuite, surimi saveur crabe et œufs de truite en sauce",
+        "fr": "perles des mers -salade de pâtes cuite, surimi saveur crabe et œufs de truite en sauce",
+        "nl": "perles des mers -salade de pâtes cuite, surimi saveur crabe et œufs de truite en sauce"
+      },
+      "description": {
+        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23651/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0264",
+      "source": "RappelConso",
+      "date": "2026-09-30",
+      "title": {
+        "en": "haché de boeuf",
+        "fr": "haché de boeuf",
+        "nl": "haché de boeuf"
+      },
+      "description": {
+        "en": "détéction de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détéction de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détéction de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23648/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "favv-rappel-de-lafsca-145",
       "source": "FAVV",
@@ -501,64 +587,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-09-0229",
-      "source": "RappelConso",
-      "date": "2026-09-24",
-      "title": {
-        "en": "saucisse sèche au piment d'espelette 150g",
-        "fr": "saucisse sèche au piment d'espelette 150g",
-        "nl": "saucisse sèche au piment d'espelette 150g"
-      },
-      "description": {
-        "en": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23610/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0226",
-      "source": "RappelConso",
-      "date": "2026-09-24",
-      "title": {
-        "en": "steak haché de cheval à la demande",
-        "fr": "steak haché de cheval à la demande",
-        "nl": "steak haché de cheval à la demande"
-      },
-      "description": {
-        "en": "suite à la présence de salmonella spp (agent responsable de la salmonellose)¤ - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suite à la présence de salmonella spp (agent responsable de la salmonellose)¤ - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suite à la présence de salmonella spp (agent responsable de la salmonellose)¤ - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23607/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "fsa-FSA-PRIN-47-2026",
       "source": "FSA",
       "date": "2026-09-24",
@@ -579,64 +607,6 @@
       "foodGroups": [
         "dairy",
         "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0223",
-      "source": "RappelConso",
-      "date": "2026-09-23",
-      "title": {
-        "en": "1 pièce sous vide",
-        "fr": "1 pièce sous vide",
-        "nl": "1 pièce sous vide"
-      },
-      "description": {
-        "en": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonelles - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23604/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0219",
-      "source": "RappelConso",
-      "date": "2026-09-23",
-      "title": {
-        "en": "paupiette de poulet à la montagnarde",
-        "fr": "paupiette de poulet à la montagnarde",
-        "nl": "paupiette de poulet à la montagnarde"
-      },
-      "description": {
-        "en": "présence de salmonelle - autres contaminants chimiques|salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - autres contaminants chimiques|salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - autres contaminants chimiques|salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23600/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -1059,34 +1029,33 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "nvwa-belle-vegan-zeesalade-van-odin",
-      "source": "NVWA",
-      "date": "2026-07-02",
+      "id": "rappelconso-2026-09-0268",
+      "source": "RappelConso",
+      "date": "2026-09-30",
       "title": {
-        "en": "Veiligheidswaarschuwing La Vie est Belle vegan zeesalade van Odin",
-        "fr": "Veiligheidswaarschuwing La Vie est Belle vegan zeesalade van Odin",
-        "nl": "Veiligheidswaarschuwing La Vie est Belle vegan zeesalade van Odin"
+        "en": "poudre de cacao non sucré 255g",
+        "fr": "poudre de cacao non sucré 255g",
+        "nl": "poudre de cacao non sucré 255g"
       },
       "description": {
-        "en": "Odin waarschuwt voor La Vie est Belle vegan zeesalade. Er is een overschrijding van de norm voor listeria vastgesteld, wat een risico vormt voor de gezondheid. Eet de zeesalade niet. Zie de website van Odin",
-        "fr": "Odin waarschuwt voor La Vie est Belle vegan zeesalade. Er is een overschrijding van de norm voor listeria vastgesteld, wat een risico vormt voor de gezondheid. Eet de zeesalade niet. Zie de website van Odin",
-        "nl": "Odin waarschuwt voor La Vie est Belle vegan zeesalade. Er is een overschrijding van de norm voor listeria vastgesteld, wat een risico vormt voor de gezondheid. Eet de zeesalade niet. Zie de website van Odin"
+        "en": "dépassement de la limite de sécurité en hydrocarbures d'huiles minérales (moah) - autres contaminants chimiques",
+        "fr": "dépassement de la limite de sécurité en hydrocarbures d'huiles minérales (moah) - autres contaminants chimiques",
+        "nl": "dépassement de la limite de sécurité en hydrocarbures d'huiles minérales (moah) - autres contaminants chimiques"
       },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/02/veiligheidswaarschuwing-la-vie-est-belle-vegan-zeesalade-van-odin",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23654/interne",
       "countries": [
-        "NL",
-        "BE"
+        "FR"
       ],
       "foodGroups": [
         "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "chemical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "cfia-82687",
@@ -1783,35 +1752,85 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "nvwa-mascarpone-200-gram-allergenen",
-      "source": "NVWA",
-      "date": "2026-07-02",
+      "id": "rappelconso-2026-09-0270",
+      "source": "RappelConso",
+      "date": "2026-09-30",
       "title": {
-        "en": "Veiligheidswaarschuwing De Cecco Pesto Rosso con mascarpone 200 gram (allergenen)",
-        "fr": "Veiligheidswaarschuwing De Cecco Pesto Rosso con mascarpone 200 gram (allergenen)",
-        "nl": "Veiligheidswaarschuwing De Cecco Pesto Rosso con mascarpone 200 gram (allergenen)"
+        "en": "pousses de bambou (conserves)",
+        "fr": "pousses de bambou (conserves)",
+        "nl": "pousses de bambou (conserves)"
       },
       "description": {
-        "en": "Albert Heijn waarschuwt voor De Cecco Pesto Rosso con mascarpone. Het product bevat mogelijk walnoten, dit staat niet op het etiket vermeld. Eet het product niet als u allergisch bent voor walnoten. Zie website van Albert Heijn",
-        "fr": "Albert Heijn waarschuwt voor De Cecco Pesto Rosso con mascarpone. Het product bevat mogelijk walnoten, dit staat niet op het etiket vermeld. Eet het product niet als u allergisch bent voor walnoten. Zie website van Albert Heijn",
-        "nl": "Albert Heijn waarschuwt voor De Cecco Pesto Rosso con mascarpone. Het product bevat mogelijk walnoten, dit staat niet op het etiket vermeld. Eet het product niet als u allergisch bent voor walnoten. Zie website van Albert Heijn"
+        "en": "boites contenant du bisphénol a en quantité supérieure à la réglementation, susceptible de migrer dans le contenu. - dépassement de seuils de sécurité",
+        "fr": "boites contenant du bisphénol a en quantité supérieure à la réglementation, susceptible de migrer dans le contenu. - dépassement de seuils de sécurité",
+        "nl": "boites contenant du bisphénol a en quantité supérieure à la réglementation, susceptible de migrer dans le contenu. - dépassement de seuils de sécurité"
       },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/02/veiligheidswaarschuwing-de-cecco-pesto-rosso-con-mascarpone-200-gram-allergenen",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23655/interne",
       "countries": [
-        "NL",
-        "BE"
+        "FR"
       ],
       "foodGroups": [
         "plant"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
+      "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0213",
+      "source": "RappelConso",
+      "date": "2026-09-30",
+      "title": {
+        "en": "huile de chanvre 15 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml",
+        "fr": "huile de chanvre 15 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml",
+        "nl": "huile de chanvre 15 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml"
+      },
+      "description": {
+        "en": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
+        "fr": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
+        "nl": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23594/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0211",
+      "source": "RappelConso",
+      "date": "2026-09-30",
+      "title": {
+        "en": "huile de chanvre 5 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml",
+        "fr": "huile de chanvre 5 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml",
+        "nl": "huile de chanvre 5 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml"
+      },
+      "description": {
+        "en": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
+        "fr": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
+        "nl": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23592/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-09-0260",
@@ -1828,33 +1847,6 @@
         "nl": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/23643/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0259",
-      "source": "RappelConso",
-      "date": "2026-09-29",
-      "title": {
-        "en": "pois chiche au naturel 260g",
-        "fr": "pois chiche au naturel 260g",
-        "nl": "pois chiche au naturel 260g"
-      },
-      "description": {
-        "en": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23642/interne",
       "countries": [
         "FR"
       ],
