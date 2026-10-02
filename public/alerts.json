@@ -1,6 +1,267 @@
 {
-  "generated": "2026-10-01T06:03:46.516Z",
+  "generated": "2026-10-02T06:03:18.429Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0010",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "saucisse de filet de poulet halal",
+        "fr": "saucisse de filet de poulet halal",
+        "nl": "saucisse de filet de poulet halal"
+      },
+      "description": {
+        "en": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23672/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0009",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "saucisse au filet de poulet x15",
+        "fr": "saucisse au filet de poulet x15",
+        "nl": "saucisse au filet de poulet x15"
+      },
+      "description": {
+        "en": "présence de salmonelle dans le produit - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle dans le produit - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle dans le produit - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23671/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0266",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "bouchées aux crevettes",
+        "fr": "bouchées aux crevettes",
+        "nl": "bouchées aux crevettes"
+      },
+      "description": {
+        "en": "auto contrôle microbiologique : présence confirmée de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "auto contrôle microbiologique : présence confirmée de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "auto contrôle microbiologique : présence confirmée de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23673/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0005",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "camembert fermier au lait cru",
+        "fr": "camembert fermier au lait cru",
+        "nl": "camembert fermier au lait cru"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23667/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0273",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "2 filets de poulet facon hache",
+        "fr": "2 filets de poulet facon hache",
+        "nl": "2 filets de poulet facon hache"
+      },
+      "description": {
+        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23658/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0274",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "2 filets poulet facon hache",
+        "fr": "2 filets poulet facon hache",
+        "nl": "2 filets poulet facon hache"
+      },
+      "description": {
+        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23659/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0275",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "petit gourmand filet",
+        "fr": "petit gourmand filet",
+        "nl": "petit gourmand filet"
+      },
+      "description": {
+        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23660/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0276",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "2 filets de poulet facon hache",
+        "fr": "2 filets de poulet facon hache",
+        "nl": "2 filets de poulet facon hache"
+      },
+      "description": {
+        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23661/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0277",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "2 filets de poulet facon hache",
+        "fr": "2 filets de poulet facon hache",
+        "nl": "2 filets de poulet facon hache"
+      },
+      "description": {
+        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23662/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-09-0271",
       "source": "RappelConso",
@@ -292,93 +553,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-09-0201",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "paupiette de volaille",
-        "fr": "paupiette de volaille",
-        "nl": "paupiette de volaille"
-      },
-      "description": {
-        "en": "détection de salmonella - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonella - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonella - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23581/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0241",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "fromages de chèvres ronds cendrés",
-        "fr": "fromages de chèvres ronds cendrés",
-        "nl": "fromages de chèvres ronds cendrés"
-      },
-      "description": {
-        "en": "présence potentielle e.coli stec o103 - escherichia coli shiga toxinogène (stec)",
-        "fr": "présence potentielle e.coli stec o103 - escherichia coli shiga toxinogène (stec)",
-        "nl": "présence potentielle e.coli stec o103 - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23622/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-09-0239",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "crevettes entières cuites réfrigérées élevage 40/60 300g bio litopenaeus vannamei",
-        "fr": "crevettes entières cuites réfrigérées élevage 40/60 300g bio litopenaeus vannamei",
-        "nl": "crevettes entières cuites réfrigérées élevage 40/60 300g bio litopenaeus vannamei"
-      },
-      "description": {
-        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23620/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "favv-terugroeping-door-oma-trading",
       "source": "FAVV",
       "date": "2026-09-25",
@@ -497,94 +671,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0235",
-      "source": "RappelConso",
-      "date": "2026-09-24",
-      "title": {
-        "en": "fromage saint-nectaire entier",
-        "fr": "fromage saint-nectaire entier",
-        "nl": "fromage saint-nectaire entier"
-      },
-      "description": {
-        "en": "suspiscion de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspiscion de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspiscion de listéria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23616/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0230",
-      "source": "RappelConso",
-      "date": "2026-09-24",
-      "title": {
-        "en": "salade de cervelas rayon traditionnel",
-        "fr": "salade de cervelas rayon traditionnel",
-        "nl": "salade de cervelas rayon traditionnel"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23611/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0231",
-      "source": "RappelConso",
-      "date": "2026-09-24",
-      "title": {
-        "en": "creme de foie avec barde",
-        "fr": "creme de foie avec barde",
-        "nl": "creme de foie avec barde"
-      },
-      "description": {
-        "en": "listeria monocytogene - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "listeria monocytogene - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "listeria monocytogene - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23612/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "fsa-FSA-PRIN-47-2026",
@@ -1029,6 +1115,36 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "nvwa--frozen-slices-of-bitter-melon",
+      "source": "NVWA",
+      "date": "2026-10-01",
+      "title": {
+        "en": "Veiligheidswaarschuwing Sonaco Frozen Slices of Bitter Melon",
+        "fr": "Veiligheidswaarschuwing Sonaco Frozen Slices of Bitter Melon",
+        "nl": "Veiligheidswaarschuwing Sonaco Frozen Slices of Bitter Melon"
+      },
+      "description": {
+        "en": "Amazing Oriental waarschuwt voor Sonaco Frozen Slices of Bitter Melon 500g. In het product is een hoeveelheid pesticiden gevonden die hoger is dan wettelijk is toegestaan. Eet het product niet. Zie de website van Amazing Oriental",
+        "fr": "Amazing Oriental waarschuwt voor Sonaco Frozen Slices of Bitter Melon 500g. In het product is een hoeveelheid pesticiden gevonden die hoger is dan wettelijk is toegestaan. Eet het product niet. Zie de website van Amazing Oriental",
+        "nl": "Amazing Oriental waarschuwt voor Sonaco Frozen Slices of Bitter Melon 500g. In het product is een hoeveelheid pesticiden gevonden die hoger is dan wettelijk is toegestaan. Eet het product niet. Zie de website van Amazing Oriental"
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/10/01/veiligheidswaarschuwing-sonaco-frozen-slices-of-bitter-melon",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
       "id": "rappelconso-2026-09-0268",
       "source": "RappelConso",
       "date": "2026-09-30",
@@ -1178,36 +1294,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "rappelconso-2026-09-0236",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "sardines à l'huile d'olive vierge extra carrefour classic 135g e",
-        "fr": "sardines à l'huile d'olive vierge extra carrefour classic 135g e",
-        "nl": "sardines à l'huile d'olive vierge extra carrefour classic 135g e"
-      },
-      "description": {
-        "en": "une pince de crabe a été retrouvée dans une conserve de sardines, l’allergène crustacé n’est pas¤mentionné au niveau de l’étiquetage. - substances allergisantes non déclarées",
-        "fr": "une pince de crabe a été retrouvée dans une conserve de sardines, l’allergène crustacé n’est pas¤mentionné au niveau de l’étiquetage. - substances allergisantes non déclarées",
-        "nl": "une pince de crabe a été retrouvée dans une conserve de sardines, l’allergène crustacé n’est pas¤mentionné au niveau de l’étiquetage. - substances allergisantes non déclarées"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23617/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "fda-763ca7ed09d6",
@@ -1386,37 +1472,6 @@
       "hazardTypes": [
         "allergen",
         "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-d90cccf82045",
-      "source": "FDA",
-      "date": "2026-09-08",
-      "title": {
-        "en": "FreshPoint Issues Recall Due to an Improperly Declared Allergen (Egg) in Chicken Salad Wedge Sandwiches",
-        "fr": "FreshPoint Issues Recall Due to an Improperly Declared Allergen (Egg) in Chicken Salad Wedge Sandwiches",
-        "nl": "FreshPoint Issues Recall Due to an Improperly Declared Allergen (Egg) in Chicken Salad Wedge Sandwiches"
-      },
-      "description": {
-        "en": "September 4, 2026 Orlando, FL– FreshPoint of Orlando, FL., is issuing a voluntary recall of 1,093 units of specific lots of Cranberry Chicken Salad Wedge sandwiches due to an improperly declared allergen (eggs).  People who have an allergy or severe sensitivity to eggs run the risk of serious or lif",
-        "fr": "September 4, 2026 Orlando, FL– FreshPoint of Orlando, FL., is issuing a voluntary recall of 1,093 units of specific lots of Cranberry Chicken Salad Wedge sandwiches due to an improperly declared allergen (eggs).  People who have an allergy or severe sensitivity to eggs run the risk of serious or lif",
-        "nl": "September 4, 2026 Orlando, FL– FreshPoint of Orlando, FL., is issuing a voluntary recall of 1,093 units of specific lots of Cranberry Chicken Salad Wedge sandwiches due to an improperly declared allergen (eggs).  People who have an allergy or severe sensitivity to eggs run the risk of serious or lif"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/freshpoint-issues-recall-due-improperly-declared-allergen-egg-chicken-salad-wedge-sandwiches",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "meat",
-        "egg",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1723,33 +1778,87 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-35-2026",
-      "source": "FSA",
-      "date": "2026-07-03",
+      "id": "rappelconso-2026-10-0006",
+      "source": "RappelConso",
+      "date": "2026-10-01",
       "title": {
-        "en": "Dundeis UK Ltd recalls Minton & Donello Organic White Orzo because of undeclared wheat (gluten)",
-        "fr": "Dundeis UK Ltd recalls Minton & Donello Organic White Orzo because of undeclared wheat (gluten)",
-        "nl": "Dundeis UK Ltd recalls Minton & Donello Organic White Orzo because of undeclared wheat (gluten)"
+        "en": "printaniere de legumes - 1kg",
+        "fr": "printaniere de legumes - 1kg",
+        "nl": "printaniere de legumes - 1kg"
       },
       "description": {
-        "en": "Wheat (gluten) \n \nThis product contains wheat making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten or with coeliac disease.",
-        "fr": "Wheat (gluten) \n \nThis product contains wheat making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten or with coeliac disease.",
-        "nl": "Wheat (gluten) \n \nThis product contains wheat making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten or with coeliac disease."
+        "en": "risque de présence de morelle dans le produit - non inertes (insectes larves etc)",
+        "fr": "risque de présence de morelle dans le produit - non inertes (insectes larves etc)",
+        "nl": "risque de présence de morelle dans le produit - non inertes (insectes larves etc)"
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-35-2026",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23668/interne",
       "countries": [
-        "GB"
+        "FR"
       ],
       "foodGroups": [
         "plant"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0265",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "petit salé tranché 2tr 300g¤petit salé cuit 200 g¤petit salé cuit (x2) 400 gr",
+        "fr": "petit salé tranché 2tr 300g¤petit salé cuit 200 g¤petit salé cuit (x2) 400 gr",
+        "nl": "petit salé tranché 2tr 300g¤petit salé cuit 200 g¤petit salé cuit (x2) 400 gr"
+      },
+      "description": {
+        "en": "utilisation d'un programme de cuisson différent du programme habituel entrainant un potentiel défaut - autres contaminants biologiques|modifications organoleptiques",
+        "fr": "utilisation d'un programme de cuisson différent du programme habituel entrainant un potentiel défaut - autres contaminants biologiques|modifications organoleptiques",
+        "nl": "utilisation d'un programme de cuisson différent du programme habituel entrainant un potentiel défaut - autres contaminants biologiques|modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23649/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0272",
+      "source": "RappelConso",
+      "date": "2026-10-01",
+      "title": {
+        "en": "jasmine rice (150g et 225g)",
+        "fr": "jasmine rice (150g et 225g)",
+        "nl": "jasmine rice (150g et 225g)"
+      },
+      "description": {
+        "en": "risque de présence de corps étranger d'origine plastique (morceaux de plastique colorés souples ou rigides) - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "risque de présence de corps étranger d'origine plastique (morceaux de plastique colorés souples ou rigides) - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "risque de présence de corps étranger d'origine plastique (morceaux de plastique colorés souples ou rigides) - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23657/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "physical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-09-0270",
@@ -2138,31 +2247,6 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fda-3d7d26f709fe",
-      "source": "FDA",
-      "date": "2026-09-07",
-      "title": {
-        "en": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
-        "fr": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
-        "nl": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect"
-      },
-      "description": {
-        "en": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O",
-        "fr": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O",
-        "nl": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
       "pregnancySummaryKey": "general"
     },
     {
