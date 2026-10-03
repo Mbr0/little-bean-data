@@ -1,6 +1,241 @@
 {
-  "generated": "2026-10-02T06:03:18.429Z",
+  "generated": "2026-10-03T06:06:12.049Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0018",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "haché de veau façon bouchère carrefour le marché 2x100g",
+        "fr": "haché de veau façon bouchère carrefour le marché 2x100g",
+        "nl": "haché de veau façon bouchère carrefour le marché 2x100g"
+      },
+      "description": {
+        "en": "suspicion de présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23689/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0019",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "saucisses de volaille façon charcutière (nature, herbes, merguez) 320g",
+        "fr": "saucisses de volaille façon charcutière (nature, herbes, merguez) 320g",
+        "nl": "saucisses de volaille façon charcutière (nature, herbes, merguez) 320g"
+      },
+      "description": {
+        "en": "suspicion de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23690/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0020",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "haché de veau façon boucher 2x100g vvf",
+        "fr": "haché de veau façon boucher 2x100g vvf",
+        "nl": "haché de veau façon boucher 2x100g vvf"
+      },
+      "description": {
+        "en": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23691/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0014",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "fromages de chèvre ronds, pyramides, bûches, crottins, crottins aromatisés et faisselles",
+        "fr": "fromages de chèvre ronds, pyramides, bûches, crottins, crottins aromatisés et faisselles",
+        "nl": "fromages de chèvre ronds, pyramides, bûches, crottins, crottins aromatisés et faisselles"
+      },
+      "description": {
+        "en": "présence e.colis stec - escherichia coli shiga toxinogène (stec)",
+        "fr": "présence e.colis stec - escherichia coli shiga toxinogène (stec)",
+        "nl": "présence e.colis stec - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23678/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-10-0005",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "camembert fermier au lait cru",
+        "fr": "camembert fermier au lait cru",
+        "nl": "camembert fermier au lait cru"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23679/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0258",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "piece de 200grs munster bio au lait cru ferme du pichet",
+        "fr": "piece de 200grs munster bio au lait cru ferme du pichet",
+        "nl": "piece de 200grs munster bio au lait cru ferme du pichet"
+      },
+      "description": {
+        "en": "présence de listeria détecté suite a des analyses aqualeha - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria détecté suite a des analyses aqualeha - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria détecté suite a des analyses aqualeha - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23641/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-ot-fromagerie-invoerder-rafina",
+      "source": "FAVV",
+      "date": "2026-10-02",
+      "title": {
+        "en": "Terugroeping van Gillot Fromagerie (Invoerder: Rafina) | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Gillot Fromagerie (Invoerder: Rafina) | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Gillot Fromagerie (Invoerder: Rafina) | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf RAFINA NV het product “Le Petit cru Camembert” (250gr) van het merk Le Petit Normand uit de verkoop en roept het terug van bij de consument wegens mogelijke aanwezigheid van Escherichia coli (STEC).",
+        "fr": "In overleg met het FAVV haalt het bedrijf RAFINA NV het product “Le Petit cru Camembert” (250gr) van het merk Le Petit Normand uit de verkoop en roept het terug van bij de consument wegens mogelijke aanwezigheid van Escherichia coli (STEC).",
+        "nl": "In overleg met het FAVV haalt het bedrijf RAFINA NV het product “Le Petit cru Camembert” (250gr) van het merk Le Petit Normand uit de verkoop en roept het terug van bij de consument wegens mogelijke aanwezigheid van Escherichia coli (STEC)."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-gillot-fromagerie-invoerder-rafina",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "fda-a2a475b465f2",
+      "source": "FDA",
+      "date": "2026-10-02",
+      "title": {
+        "en": "EAK Distribution LLC Recalls HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom Because of Possible Health Risk",
+        "fr": "EAK Distribution LLC Recalls HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom Because of Possible Health Risk",
+        "nl": "EAK Distribution LLC Recalls HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "October 2nd, 2026 - EAK Distribution of Casper, WY is recalling HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly",
+        "fr": "October 2nd, 2026 - EAK Distribution of Casper, WY is recalling HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly",
+        "nl": "October 2nd, 2026 - EAK Distribution of Casper, WY is recalling HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eak-distribution-llc-recalls-home-grown-green-sprouting-calabrese-broccoli-seeds-8-oz-heirloom",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-10-0010",
       "source": "RappelConso",
@@ -87,35 +322,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-10-0005",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "camembert fermier au lait cru",
-        "fr": "camembert fermier au lait cru",
-        "nl": "camembert fermier au lait cru"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23667/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "rappelconso-2026-09-0273",
@@ -381,35 +587,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-09-0237",
-      "source": "RappelConso",
-      "date": "2026-09-28",
-      "title": {
-        "en": "viande hachée de boeuf à la demande.",
-        "fr": "viande hachée de boeuf à la demande.",
-        "nl": "viande hachée de boeuf à la demande."
-      },
-      "description": {
-        "en": "ce rappel fait suite à un prélèvement avec un résultat non conforme sur du steak haché prélevé avec détection de salmonella spp. - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "ce rappel fait suite à un prélèvement avec un résultat non conforme sur du steak haché prélevé avec détection de salmonella spp. - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "ce rappel fait suite à un prélèvement avec un résultat non conforme sur du steak haché prélevé avec détection de salmonella spp. - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23618/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "fda-62d36a83d7bc",
       "source": "FDA",
       "date": "2026-09-28",
@@ -437,120 +614,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-09-0251",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "vol au vent au ris de veau x9",
-        "fr": "vol au vent au ris de veau x9",
-        "nl": "vol au vent au ris de veau x9"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23633/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0248",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "viande hachée pur bœuf 20%mg barquette de 500g",
-        "fr": "viande hachée pur bœuf 20%mg barquette de 500g",
-        "nl": "viande hachée pur bœuf 20%mg barquette de 500g"
-      },
-      "description": {
-        "en": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
-        "fr": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
-        "nl": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23630/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0246",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "jambon sec supérieur u 10 tranches 200 g",
-        "fr": "jambon sec supérieur u 10 tranches 200 g",
-        "nl": "jambon sec supérieur u 10 tranches 200 g"
-      },
-      "description": {
-        "en": "non conformité chimique : présence identifiée d'd'ochratoxine a - autres contaminants chimiques",
-        "fr": "non conformité chimique : présence identifiée d'd'ochratoxine a - autres contaminants chimiques",
-        "nl": "non conformité chimique : présence identifiée d'd'ochratoxine a - autres contaminants chimiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23628/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "rappelconso-2026-09-0244",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "crevettes cuites décortiquées 160g",
-        "fr": "crevettes cuites décortiquées 160g",
-        "nl": "crevettes cuites décortiquées 160g"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23626/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "favv-terugroeping-door-oma-trading",
@@ -730,35 +793,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "fda-63026a0696c6",
-      "source": "FDA",
-      "date": "2026-09-10",
-      "title": {
-        "en": "Evergreen Fresh Sprouts LLC Recalls Broccoli Sprouts Because of Possible Health Risk",
-        "fr": "Evergreen Fresh Sprouts LLC Recalls Broccoli Sprouts Because of Possible Health Risk",
-        "nl": "Evergreen Fresh Sprouts LLC Recalls Broccoli Sprouts Because of Possible Health Risk"
-      },
-      "description": {
-        "en": "09/10/2026, Evergreen Fresh Sprouts LLC of Moyie Springs, IDAHO is recalling 215 cases (6/4oz bags per case) of Broccoli Sprouts, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly pe",
-        "fr": "09/10/2026, Evergreen Fresh Sprouts LLC of Moyie Springs, IDAHO is recalling 215 cases (6/4oz bags per case) of Broccoli Sprouts, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly pe",
-        "nl": "09/10/2026, Evergreen Fresh Sprouts LLC of Moyie Springs, IDAHO is recalling 215 cases (6/4oz bags per case) of Broccoli Sprouts, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly pe"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/evergreen-fresh-sprouts-llc-recalls-broccoli-sprouts-because-possible-health-risk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "nvwa-geitenkefir-van-de-bonte-weide",
@@ -1115,6 +1149,66 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-10-0016",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "barre de fruits cacao cru - noisettes protéinée (40 g)",
+        "fr": "barre de fruits cacao cru - noisettes protéinée (40 g)",
+        "nl": "barre de fruits cacao cru - noisettes protéinée (40 g)"
+      },
+      "description": {
+        "en": "défaut d'étiquetage préventif : absence de la mention relative aux risques de traces d'allergènes (gluten, arachide, moutarde) par contamination croisée. - substances allergisantes non déclarées",
+        "fr": "défaut d'étiquetage préventif : absence de la mention relative aux risques de traces d'allergènes (gluten, arachide, moutarde) par contamination croisée. - substances allergisantes non déclarées",
+        "nl": "défaut d'étiquetage préventif : absence de la mention relative aux risques de traces d'allergènes (gluten, arachide, moutarde) par contamination croisée. - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23681/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-43-2026",
+      "source": "FSA",
+      "date": "2026-10-02",
+      "title": {
+        "en": "Unilever recalls Pot Noodle Piri Piri Chicken Flavour because of undeclared milk",
+        "fr": "Unilever recalls Pot Noodle Piri Piri Chicken Flavour because of undeclared milk",
+        "nl": "Unilever recalls Pot Noodle Piri Piri Chicken Flavour because of undeclared milk"
+      },
+      "description": {
+        "en": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
+        "fr": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
+        "nl": "Milk\nThis product contains milk making it a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-43-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "nvwa--frozen-slices-of-bitter-melon",
       "source": "NVWA",
       "date": "2026-10-01",
@@ -1205,37 +1299,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "rappelconso-2026-09-0255",
-      "source": "RappelConso",
-      "date": "2026-09-29",
-      "title": {
-        "en": "snack chorizo/fuet 80g",
-        "fr": "snack chorizo/fuet 80g",
-        "nl": "snack chorizo/fuet 80g"
-      },
-      "description": {
-        "en": "présence de traces de protéines de lait non mentionnées sur l'étiquette¤¤ - substances allergisantes non déclarées|anomalie d'étiquetage",
-        "fr": "présence de traces de protéines de lait non mentionnées sur l'étiquette¤¤ - substances allergisantes non déclarées|anomalie d'étiquetage",
-        "nl": "présence de traces de protéines de lait non mentionnées sur l'étiquette¤¤ - substances allergisantes non déclarées|anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23638/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "cfia-82689",
       "source": "CFIA",
       "date": "2026-09-28",
@@ -1265,35 +1328,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-09-0191",
-      "source": "RappelConso",
-      "date": "2026-09-28",
-      "title": {
-        "en": "pba tomate ronde 1kg",
-        "fr": "pba tomate ronde 1kg",
-        "nl": "pba tomate ronde 1kg"
-      },
-      "description": {
-        "en": "dépassement des limites autorisées de pesticides sur des tomates 6x1kg (origine espagne).¤acétamipride dépasse la lmr, atteint 333% de sa lmr, l'arfd étant à 233% - dépassement des limites autorisées de pesticides",
-        "fr": "dépassement des limites autorisées de pesticides sur des tomates 6x1kg (origine espagne).¤acétamipride dépasse la lmr, atteint 333% de sa lmr, l'arfd étant à 233% - dépassement des limites autorisées de pesticides",
-        "nl": "dépassement des limites autorisées de pesticides sur des tomates 6x1kg (origine espagne).¤acétamipride dépasse la lmr, atteint 333% de sa lmr, l'arfd étant à 233% - dépassement des limites autorisées de pesticides"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23571/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "fda-763ca7ed09d6",
@@ -1441,37 +1475,6 @@
       "audience": "general",
       "hazardTypes": [
         "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-e38401ee055c",
-      "source": "FDA",
-      "date": "2026-09-11",
-      "title": {
-        "en": "Whole Foods Market Issues Allergy Alert on Undeclared Egg in Cabricharme Cheese",
-        "fr": "Whole Foods Market Issues Allergy Alert on Undeclared Egg in Cabricharme Cheese",
-        "nl": "Whole Foods Market Issues Allergy Alert on Undeclared Egg in Cabricharme Cheese"
-      },
-      "description": {
-        "en": "Whole Foods Market of Austin, TX is recalling Fromagerie Coop de Mean Cabricharme cheese because the product contains egg lysozyme, an egg white protein, which is not declared on the product label. People who have an allergy or severe sensitivity to eggs run the risk of a serious or life-threateni",
-        "fr": "Whole Foods Market of Austin, TX is recalling Fromagerie Coop de Mean Cabricharme cheese because the product contains egg lysozyme, an egg white protein, which is not declared on the product label. People who have an allergy or severe sensitivity to eggs run the risk of a serious or life-threateni",
-        "nl": "Whole Foods Market of Austin, TX is recalling Fromagerie Coop de Mean Cabricharme cheese because the product contains egg lysozyme, an egg white protein, which is not declared on the product label. People who have an allergy or severe sensitivity to eggs run the risk of a serious or life-threateni"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/whole-foods-market-issues-allergy-alert-undeclared-egg-cabricharme-cheese",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy",
-        "egg"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -1778,6 +1781,184 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-03-0268",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
+        "fr": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
+        "nl": "huile 10% de cbd pour chat et huile 5% de cbd pour chat"
+      },
+      "description": {
+        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23687/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-03-0267",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
+        "fr": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
+        "nl": "huile 10% de cbd pour chien et huile 5% de cbd pour chien"
+      },
+      "description": {
+        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23686/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-03-0266",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
+        "fr": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
+        "nl": "huile 10% de cbd pour chien et huile 5% de cbd pour chien"
+      },
+      "description": {
+        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23685/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-03-0265",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
+        "fr": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
+        "nl": "huile 10% de cbd pour chat et huile 5% de cbd pour chat"
+      },
+      "description": {
+        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23684/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-03-0263",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
+        "fr": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
+        "nl": "huile 10% de cbd pour chat et huile 5% de cbd pour chat"
+      },
+      "description": {
+        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23683/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-03-0264",
+      "source": "RappelConso",
+      "date": "2026-10-02",
+      "title": {
+        "en": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
+        "fr": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
+        "nl": "huile 10% de cbd pour chien et huile 5% de cbd pour chien"
+      },
+      "description": {
+        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
+        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23682/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fda-dad91f70ec96",
+      "source": "FDA",
+      "date": "2026-10-02",
+      "title": {
+        "en": "Stewart’s Shop Corp. Recalls Heavenly Medley and Vanilla-Chocolate-Strawberry Due to Possible Foreign Object",
+        "fr": "Stewart’s Shop Corp. Recalls Heavenly Medley and Vanilla-Chocolate-Strawberry Due to Possible Foreign Object",
+        "nl": "Stewart’s Shop Corp. Recalls Heavenly Medley and Vanilla-Chocolate-Strawberry Due to Possible Foreign Object"
+      },
+      "description": {
+        "en": "October 2, 2026, Stewart’s Shops Corp. of Saratoga Springs, NY is recalling two flavors, Heavenly Medley and Vanilla-Chocolate-Strawberry, of half-gallon ice cream due to the potential presence of metal.",
+        "fr": "October 2, 2026, Stewart’s Shops Corp. of Saratoga Springs, NY is recalling two flavors, Heavenly Medley and Vanilla-Chocolate-Strawberry, of half-gallon ice cream due to the potential presence of metal.",
+        "nl": "October 2, 2026, Stewart’s Shops Corp. of Saratoga Springs, NY is recalling two flavors, Heavenly Medley and Vanilla-Chocolate-Strawberry, of half-gallon ice cream due to the potential presence of metal."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/stewarts-shop-corp-recalls-heavenly-medley-and-vanilla-chocolate-strawberry-due-possible-foreign",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-10-0006",
       "source": "RappelConso",
       "date": "2026-10-01",
@@ -1859,6 +2040,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "fda-c0e38f3180e4",
+      "source": "FDA",
+      "date": "2026-10-01",
+      "title": {
+        "en": "WinCo Foods of Boise, ID is Recalling the Following Salsa Bean Dip Trays Due to the Inclusion of Recalled Peperoncini from G.L. Mezzetta",
+        "fr": "WinCo Foods of Boise, ID is Recalling the Following Salsa Bean Dip Trays Due to the Inclusion of Recalled Peperoncini from G.L. Mezzetta",
+        "nl": "WinCo Foods of Boise, ID is Recalling the Following Salsa Bean Dip Trays Due to the Inclusion of Recalled Peperoncini from G.L. Mezzetta"
+      },
+      "description": {
+        "en": "October 1, 2026 - WinCo Foods of Boise, ID is recalling the following Salsa Bean Dip Trays due to the inclusion of ecalled peperoncini from G.L. Mezzetta.",
+        "fr": "October 1, 2026 - WinCo Foods of Boise, ID is recalling the following Salsa Bean Dip Trays due to the inclusion of ecalled peperoncini from G.L. Mezzetta.",
+        "nl": "October 1, 2026 - WinCo Foods of Boise, ID is recalling the following Salsa Bean Dip Trays due to the inclusion of ecalled peperoncini from G.L. Mezzetta."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/winco-foods-boise-id-recalling-following-salsa-bean-dip-trays-due-inclusion-recalled-peperoncini-gl",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-09-0270",
@@ -1997,150 +2205,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-09-0245",
-      "source": "RappelConso",
-      "date": "2026-09-28",
-      "title": {
-        "en": "n° bête : 4635901440 / n°abattage : 5009¤limousine née en 2017 - abattue le 08/09/2026",
-        "fr": "n° bête : 4635901440 / n°abattage : 5009¤limousine née en 2017 - abattue le 08/09/2026",
-        "nl": "n° bête : 4635901440 / n°abattage : 5009¤limousine née en 2017 - abattue le 08/09/2026"
-      },
-      "description": {
-        "en": "myosite eosinophilique (atteinte inflammatoire musculaire) - autre risque",
-        "fr": "myosite eosinophilique (atteinte inflammatoire musculaire) - autre risque",
-        "nl": "myosite eosinophilique (atteinte inflammatoire musculaire) - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23627/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0247",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "filet mignon de porc cuisiné aux deux moutardes 500g",
-        "fr": "filet mignon de porc cuisiné aux deux moutardes 500g",
-        "nl": "filet mignon de porc cuisiné aux deux moutardes 500g"
-      },
-      "description": {
-        "en": "une date limite de consommation (dlc) erronée. la date sur l'emballage est trop longue. - anomalie d'étiquetage",
-        "fr": "une date limite de consommation (dlc) erronée. la date sur l'emballage est trop longue. - anomalie d'étiquetage",
-        "nl": "une date limite de consommation (dlc) erronée. la date sur l'emballage est trop longue. - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23629/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
-    },
-    {
-      "id": "rappelconso-2026-09-0242",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "epinards vrac bio",
-        "fr": "epinards vrac bio",
-        "nl": "epinards vrac bio"
-      },
-      "description": {
-        "en": "présence d'alcaloïdes tropaniques - datura (alcaloïdes tropaniques)",
-        "fr": "présence d'alcaloïdes tropaniques - datura (alcaloïdes tropaniques)",
-        "nl": "présence d'alcaloïdes tropaniques - datura (alcaloïdes tropaniques)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23624/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0238",
-      "source": "RappelConso",
-      "date": "2026-09-25",
-      "title": {
-        "en": "chicken tikka massala 800g",
-        "fr": "chicken tikka massala 800g",
-        "nl": "chicken tikka massala 800g"
-      },
-      "description": {
-        "en": "anomalie d'étiquetage- indication du 10/11/2026 à la place du 10/10/2026 - anomalie d'étiquetage",
-        "fr": "anomalie d'étiquetage- indication du 10/11/2026 à la place du 10/10/2026 - anomalie d'étiquetage",
-        "nl": "anomalie d'étiquetage- indication du 10/11/2026 à la place du 10/10/2026 - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23619/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
-    },
-    {
-      "id": "favv--de-la-fromagerie-des-ardennes",
-      "source": "FAVV",
-      "date": "2026-09-25",
-      "title": {
-        "en": "Rappel de La fromagerie des Ardennes | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de La fromagerie des Ardennes | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de La fromagerie des Ardennes | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En accord avec l’AFSCA, la société La Fromagerie des Ardennes retire le produit « yaourt entier biologique » (500g) de la marque BIOFERME de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. La Fromagerie des Ardennes demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :",
-        "fr": "En accord avec l’AFSCA, la société La Fromagerie des Ardennes retire le produit « yaourt entier biologique » (500g) de la marque BIOFERME de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. La Fromagerie des Ardennes demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :",
-        "nl": "En accord avec l’AFSCA, la société La Fromagerie des Ardennes retire le produit « yaourt entier biologique » (500g) de la marque BIOFERME de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. La Fromagerie des Ardennes demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-la-fromagerie-des-ardennes",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
-    },
-    {
       "id": "fda-d8759c89e98b",
       "source": "FDA",
       "date": "2026-09-21",
@@ -2195,31 +2259,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "fda-72821a7d1538",
-      "source": "FDA",
-      "date": "2026-09-14",
-      "title": {
-        "en": "Wakefern Food Corp. Voluntarily Recalls Wholesome Pantry Organic Unsweetened Apple Sauce",
-        "fr": "Wakefern Food Corp. Voluntarily Recalls Wholesome Pantry Organic Unsweetened Apple Sauce",
-        "nl": "Wakefern Food Corp. Voluntarily Recalls Wholesome Pantry Organic Unsweetened Apple Sauce"
-      },
-      "description": {
-        "en": "KEASBEY, N.J. (Sept. 14, 2026) –Wakefern Food Corp. has voluntarily recalled select containers of Wholesome Pantry Organic Unsweetened Apple Sauce after routine FDA testing identified elevated patulin levels that exceed food safety limits and do not meet Wakefern's quality standards",
-        "fr": "KEASBEY, N.J. (Sept. 14, 2026) –Wakefern Food Corp. has voluntarily recalled select containers of Wholesome Pantry Organic Unsweetened Apple Sauce after routine FDA testing identified elevated patulin levels that exceed food safety limits and do not meet Wakefern's quality standards",
-        "nl": "KEASBEY, N.J. (Sept. 14, 2026) –Wakefern Food Corp. has voluntarily recalled select containers of Wholesome Pantry Organic Unsweetened Apple Sauce after routine FDA testing identified elevated patulin levels that exceed food safety limits and do not meet Wakefern's quality standards"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wakefern-food-corp-voluntarily-recalls-wholesome-pantry-organic-unsweetened-apple-sauce",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
     },
     {
       "id": "nvwa-vliet-roomkaas-ananas-125-gram",
