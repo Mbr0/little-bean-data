@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T06:06:12.049Z",
+  "generated": "2026-10-04T07:51:02.649Z",
   "alerts": [
     {
       "id": "rappelconso-2026-10-0018",
@@ -1149,6 +1149,99 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "cfia-82728",
+      "source": "CFIA",
+      "date": "2026-10-03",
+      "title": {
+        "en": "Taeyangcho Gochujang (Hot Pepper Paste) recalled due to undeclared wheat",
+        "fr": "Taeyangcho Gochujang (Hot Pepper Paste) recalled due to undeclared wheat",
+        "nl": "Taeyangcho Gochujang (Hot Pepper Paste) recalled due to undeclared wheat"
+      },
+      "description": {
+        "en": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label.",
+        "fr": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label.",
+        "nl": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/taeyangcho-gochujang-hot-pepper-paste-recalled-due-undeclared-wheat",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82723",
+      "source": "CFIA",
+      "date": "2026-10-03",
+      "title": {
+        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
+        "fr": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
+        "nl": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared-1",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-44-2026",
+      "source": "FSA",
+      "date": "2026-10-03",
+      "title": {
+        "en": "Lambertz recalls Lambertz Mini Spekulatius and Lambertz Christmas Tree Cookies because allergens are not declared in English on the label",
+        "fr": "Lambertz recalls Lambertz Mini Spekulatius and Lambertz Christmas Tree Cookies because allergens are not declared in English on the label",
+        "nl": "Lambertz recalls Lambertz Mini Spekulatius and Lambertz Christmas Tree Cookies because allergens are not declared in English on the label"
+      },
+      "description": {
+        "en": "Allergens: Barley and wheat (gluten), egg, hazelnut (nuts), lactose and whey (milk), lecithin (soya), lupin, nuts, peanuts and sesame.\nThese products contain barley and wheat (gluten), hazelnuts (nuts) milk, lactose and whey (milk) and lecithin (soya), and they may contain egg, lupin, other nuts, peanuts, and sesame, making them a possible health risk for anyone with an allergy or intolerance to barley or wheat containing gluten, or with coeliac disease, an allergy or intolerance to egg, milk or milk constituents, an allergy to lupin, peanuts, nuts, sesame and/or soya.",
+        "fr": "Allergens: Barley and wheat (gluten), egg, hazelnut (nuts), lactose and whey (milk), lecithin (soya), lupin, nuts, peanuts and sesame.\nThese products contain barley and wheat (gluten), hazelnuts (nuts) milk, lactose and whey (milk) and lecithin (soya), and they may contain egg, lupin, other nuts, peanuts, and sesame, making them a possible health risk for anyone with an allergy or intolerance to barley or wheat containing gluten, or with coeliac disease, an allergy or intolerance to egg, milk or milk constituents, an allergy to lupin, peanuts, nuts, sesame and/or soya.",
+        "nl": "Allergens: Barley and wheat (gluten), egg, hazelnut (nuts), lactose and whey (milk), lecithin (soya), lupin, nuts, peanuts and sesame.\nThese products contain barley and wheat (gluten), hazelnuts (nuts) milk, lactose and whey (milk) and lecithin (soya), and they may contain egg, lupin, other nuts, peanuts, and sesame, making them a possible health risk for anyone with an allergy or intolerance to barley or wheat containing gluten, or with coeliac disease, an allergy or intolerance to egg, milk or milk constituents, an allergy to lupin, peanuts, nuts, sesame and/or soya."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-44-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy",
+        "egg",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-10-0016",
       "source": "RappelConso",
       "date": "2026-10-02",
@@ -1239,6 +1332,38 @@
       "pregnancySummaryKey": "chemical"
     },
     {
+      "id": "fda-02eab07fc6b2",
+      "source": "FDA",
+      "date": "2026-10-01",
+      "title": {
+        "en": "Saint Francis Apizza LLC Issues a Voluntary Recall of its Frozen Pizzas for Missing Sub Ingredients on the Label for Soy Which Includes Soybean Oil and Soy Lecithin, an Allergen",
+        "fr": "Saint Francis Apizza LLC Issues a Voluntary Recall of its Frozen Pizzas for Missing Sub Ingredients on the Label for Soy Which Includes Soybean Oil and Soy Lecithin, an Allergen",
+        "nl": "Saint Francis Apizza LLC Issues a Voluntary Recall of its Frozen Pizzas for Missing Sub Ingredients on the Label for Soy Which Includes Soybean Oil and Soy Lecithin, an Allergen"
+      },
+      "description": {
+        "en": "Cincinnati, Ohio October 1, 2026. Saint Francis Apizza LLC is issuing a voluntary recall on their frozen pizzas for misbranding due to the soy allergen not being declared on the label. The frozen pizzas were sold in ‘Pepperoni,’ ‘Plain Cheese,’ ‘Supreme,’ and ‘Mushroom and Onion’ varieties.",
+        "fr": "Cincinnati, Ohio October 1, 2026. Saint Francis Apizza LLC is issuing a voluntary recall on their frozen pizzas for misbranding due to the soy allergen not being declared on the label. The frozen pizzas were sold in ‘Pepperoni,’ ‘Plain Cheese,’ ‘Supreme,’ and ‘Mushroom and Onion’ varieties.",
+        "nl": "Cincinnati, Ohio October 1, 2026. Saint Francis Apizza LLC is issuing a voluntary recall on their frozen pizzas for misbranding due to the soy allergen not being declared on the label. The frozen pizzas were sold in ‘Pepperoni,’ ‘Plain Cheese,’ ‘Supreme,’ and ‘Mushroom and Onion’ varieties."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saint-francis-apizza-llc-issues-voluntary-recall-its-frozen-pizzas-missing-sub-ingredients-label-soy",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-09-0268",
       "source": "RappelConso",
       "date": "2026-09-30",
@@ -1266,68 +1391,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "cfia-82687",
-      "source": "CFIA",
-      "date": "2026-09-29",
-      "title": {
-        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
-        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
-        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk"
-      },
-      "description": {
-        "en": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
-        "fr": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
-        "nl": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared-0",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82689",
-      "source": "CFIA",
-      "date": "2026-09-28",
-      "title": {
-        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk",
-        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk",
-        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk"
-      },
-      "description": {
-        "en": "The Canadian Food Inspection Agency (CFIA) is warning people who are allergic or sensitive to the affected product not to consume the affected product because it contains milk which is not declared on the label.",
-        "fr": "The Canadian Food Inspection Agency (CFIA) is warning people who are allergic or sensitive to the affected product not to consume the affected product because it contains milk which is not declared on the label.",
-        "nl": "The Canadian Food Inspection Agency (CFIA) is warning people who are allergic or sensitive to the affected product not to consume the affected product because it contains milk which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-contains-undeclared-milk",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "fda-763ca7ed09d6",
@@ -1440,35 +1503,6 @@
       "foodGroups": [
         "meat",
         "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-d11ee8f63989",
-      "source": "FDA",
-      "date": "2026-09-14",
-      "title": {
-        "en": "A&P Creations LLC Issues Nationwide Recall of X10 Natural Enhancement Supplement Due to Undeclared Sildenafil and Tadalafil",
-        "fr": "A&P Creations LLC Issues Nationwide Recall of X10 Natural Enhancement Supplement Due to Undeclared Sildenafil and Tadalafil",
-        "nl": "A&P Creations LLC Issues Nationwide Recall of X10 Natural Enhancement Supplement Due to Undeclared Sildenafil and Tadalafil"
-      },
-      "description": {
-        "en": "Clermont, Florida – A&P Creations LLC is recalling X10 Natural Enhancement Supplement to the consumer level because it has been found to contain undeclared sildenafil and tadalafil.",
-        "fr": "Clermont, Florida – A&P Creations LLC is recalling X10 Natural Enhancement Supplement to the consumer level because it has been found to contain undeclared sildenafil and tadalafil.",
-        "nl": "Clermont, Florida – A&P Creations LLC is recalling X10 Natural Enhancement Supplement to the consumer level because it has been found to contain undeclared sildenafil and tadalafil."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ap-creations-llc-issues-nationwide-recall-x10-natural-enhancement-supplement-due-undeclared",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
         "plant"
       ],
       "pregnancyRelevance": "medium",
