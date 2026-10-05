@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-04T07:51:02.649Z",
+  "generated": "2026-10-05T06:08:19.341Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0025",
+      "source": "RappelConso",
+      "date": "2026-10-05",
+      "title": {
+        "en": "friton de porc",
+        "fr": "friton de porc",
+        "nl": "friton de porc"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23696/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-10-0018",
       "source": "RappelConso",
@@ -2463,34 +2492,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "nvwa-karamel-chocoladereep-100-gram",
-      "source": "NVWA",
-      "date": "2026-07-06",
-      "title": {
-        "en": "Veiligheidswaarschuwing Milka Karamel Chocoladereep 100 gram",
-        "fr": "Veiligheidswaarschuwing Milka Karamel Chocoladereep 100 gram",
-        "nl": "Veiligheidswaarschuwing Milka Karamel Chocoladereep 100 gram"
-      },
-      "description": {
-        "en": "Mondelēz International waarschuwt voor Milka Karamel chocoladereep 100 gram. Er kunnen mogelijk stukjes flexibel, zacht rubber in zitten. Eet de chocoladereep niet.",
-        "fr": "Mondelēz International waarschuwt voor Milka Karamel chocoladereep 100 gram. Er kunnen mogelijk stukjes flexibel, zacht rubber in zitten. Eet de chocoladereep niet.",
-        "nl": "Mondelēz International waarschuwt voor Milka Karamel chocoladereep 100 gram. Er kunnen mogelijk stukjes flexibel, zacht rubber in zitten. Eet de chocoladereep niet."
-      },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/06/veiligheidswaarschuwing-milka-karamel-chocoladereep-100-gram",
-      "countries": [
-        "NL",
-        "BE"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
     }
   ]
 }
