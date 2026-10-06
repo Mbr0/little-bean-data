@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-05T06:08:19.341Z",
+  "generated": "2026-10-06T06:03:37.853Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0024",
+      "source": "RappelConso",
+      "date": "2026-10-05",
+      "title": {
+        "en": "araignee de porc marinee ail des ours",
+        "fr": "araignee de porc marinee ail des ours",
+        "nl": "araignee de porc marinee ail des ours"
+      },
+      "description": {
+        "en": "détection salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection salmonella - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23695/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-10-0025",
       "source": "RappelConso",
@@ -525,65 +554,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-09-0267",
-      "source": "RappelConso",
-      "date": "2026-09-30",
-      "title": {
-        "en": "perles des mers -salade de pâtes cuite, surimi saveur crabe et œufs de truite en sauce",
-        "fr": "perles des mers -salade de pâtes cuite, surimi saveur crabe et œufs de truite en sauce",
-        "nl": "perles des mers -salade de pâtes cuite, surimi saveur crabe et œufs de truite en sauce"
-      },
-      "description": {
-        "en": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détection de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23651/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish",
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0264",
-      "source": "RappelConso",
-      "date": "2026-09-30",
-      "title": {
-        "en": "haché de boeuf",
-        "fr": "haché de boeuf",
-        "nl": "haché de boeuf"
-      },
-      "description": {
-        "en": "détéction de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "détéction de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "détéction de listéria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23648/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "favv-rappel-de-lafsca-145",
       "source": "FAVV",
       "date": "2026-09-29",
@@ -643,66 +613,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "favv-terugroeping-door-oma-trading",
-      "source": "FAVV",
-      "date": "2026-09-25",
-      "title": {
-        "en": "Terugroeping door OMA TRADING | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping door OMA TRADING | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping door OMA TRADING | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "In overleg met het FAVV haalt OMA TRADING het product « Gepelde pistachenoten » (150g) van het merk ZAHIA, lot 2506020, uit de verkoop en roept het terug bij de consumenten wegens een te hoog gehalte aan aflatoxines.",
-        "fr": "In overleg met het FAVV haalt OMA TRADING het product « Gepelde pistachenoten » (150g) van het merk ZAHIA, lot 2506020, uit de verkoop en roept het terug bij de consumenten wegens een te hoog gehalte aan aflatoxines.",
-        "nl": "In overleg met het FAVV haalt OMA TRADING het product « Gepelde pistachenoten » (150g) van het merk ZAHIA, lot 2506020, uit de verkoop en roept het terug bij de consumenten wegens een te hoog gehalte aan aflatoxines."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-door-oma-trading",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "favv-terugroeping-van-tadal-nv",
-      "source": "FAVV",
-      "date": "2026-09-25",
-      "title": {
-        "en": "Terugroeping van TADAL N.V. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van TADAL N.V. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van TADAL N.V. | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "In overleg met het FAVV haalt het bedrijf TADAL NV het product ‘Pistachios gepeld’ (125g) van het merk TADAL uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan aflatoxines.",
-        "fr": "In overleg met het FAVV haalt het bedrijf TADAL NV het product ‘Pistachios gepeld’ (125g) van het merk TADAL uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan aflatoxines.",
-        "nl": "In overleg met het FAVV haalt het bedrijf TADAL NV het product ‘Pistachios gepeld’ (125g) van het merk TADAL uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan aflatoxines."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-tadal-nv",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "favv-rappel-de-lafsca-144",
@@ -1178,6 +1088,65 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-10-0023",
+      "source": "RappelConso",
+      "date": "2026-10-05",
+      "title": {
+        "en": "rouleaux de printemps poulet agis",
+        "fr": "rouleaux de printemps poulet agis",
+        "nl": "rouleaux de printemps poulet agis"
+      },
+      "description": {
+        "en": "erreur d'étiquetage : allergène soja non déclaré dans la liste d'ingrédient des rouleaux de printemps poulet. - substances allergisantes non déclarées",
+        "fr": "erreur d'étiquetage : allergène soja non déclaré dans la liste d'ingrédient des rouleaux de printemps poulet. - substances allergisantes non déclarées",
+        "nl": "erreur d'étiquetage : allergène soja non déclaré dans la liste d'ingrédient des rouleaux de printemps poulet. - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23694/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-10-0001",
+      "source": "RappelConso",
+      "date": "2026-10-05",
+      "title": {
+        "en": "presta verde",
+        "fr": "presta verde",
+        "nl": "presta verde"
+      },
+      "description": {
+        "en": "dépassement de lmr acétamipride - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement de lmr acétamipride - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement de lmr acétamipride - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23663/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
       "id": "cfia-82728",
       "source": "CFIA",
       "date": "2026-10-03",
@@ -1301,6 +1270,35 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "fda-d0296626f699",
+      "source": "FDA",
+      "date": "2026-10-02",
+      "title": {
+        "en": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk",
+        "fr": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk",
+        "nl": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk"
+      },
+      "description": {
+        "en": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product.",
+        "fr": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product.",
+        "nl": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/flowers-foods-issues-recall-natures-own-hawaiian-bread-due-undeclared-milk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "fsa-FSA-AA-43-2026",
       "source": "FSA",
       "date": "2026-10-02",
@@ -1391,35 +1389,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-09-0268",
-      "source": "RappelConso",
-      "date": "2026-09-30",
-      "title": {
-        "en": "poudre de cacao non sucré 255g",
-        "fr": "poudre de cacao non sucré 255g",
-        "nl": "poudre de cacao non sucré 255g"
-      },
-      "description": {
-        "en": "dépassement de la limite de sécurité en hydrocarbures d'huiles minérales (moah) - autres contaminants chimiques",
-        "fr": "dépassement de la limite de sécurité en hydrocarbures d'huiles minérales (moah) - autres contaminants chimiques",
-        "nl": "dépassement de la limite de sécurité en hydrocarbures d'huiles minérales (moah) - autres contaminants chimiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23654/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "fda-763ca7ed09d6",
@@ -1844,6 +1813,172 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-10-0027",
+      "source": "RappelConso",
+      "date": "2026-10-05",
+      "title": {
+        "en": "crabe royal de l’antarctique 100 % chair 170g",
+        "fr": "crabe royal de l’antarctique 100 % chair 170g",
+        "nl": "crabe royal de l’antarctique 100 % chair 170g"
+      },
+      "description": {
+        "en": "suite à une suspicion de risque microbiologique, risque de gonflement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "suite à une suspicion de risque microbiologique, risque de gonflement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "suite à une suspicion de risque microbiologique, risque de gonflement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23698/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0028",
+      "source": "RappelConso",
+      "date": "2026-10-05",
+      "title": {
+        "en": "palette demi-sel fumée issu de porc igp sud-ouest",
+        "fr": "palette demi-sel fumée issu de porc igp sud-ouest",
+        "nl": "palette demi-sel fumée issu de porc igp sud-ouest"
+      },
+      "description": {
+        "en": "la dlc est erronée. la véritable dlc est le 13/11/2026 et le produit est étiqueté avec une dlc au 13/01/2027. - anomalie d'étiquetage",
+        "fr": "la dlc est erronée. la véritable dlc est le 13/11/2026 et le produit est étiqueté avec une dlc au 13/01/2027. - anomalie d'étiquetage",
+        "nl": "la dlc est erronée. la véritable dlc est le 13/11/2026 et le produit est étiqueté avec une dlc au 13/01/2027. - anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23699/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "labeling"
+    },
+    {
+      "id": "rappelconso-2026-09-0182",
+      "source": "RappelConso",
+      "date": "2026-10-05",
+      "title": {
+        "en": "huile de chanvre 15 % cbd spectre complet - thc < 0,3 % - lab 13663 - flacon 10 ml",
+        "fr": "huile de chanvre 15 % cbd spectre complet - thc < 0,3 % - lab 13663 - flacon 10 ml",
+        "nl": "huile de chanvre 15 % cbd spectre complet - thc < 0,3 % - lab 13663 - flacon 10 ml"
+      },
+      "description": {
+        "en": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produits concernés par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
+        "fr": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produits concernés par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
+        "nl": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produits concernés par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23562/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-09-0212",
+      "source": "RappelConso",
+      "date": "2026-10-05",
+      "title": {
+        "en": "huile de chanvre 5 % cbd spectre complet - thc < 0,3 % - lab 13663 - flacon 10 ml",
+        "fr": "huile de chanvre 5 % cbd spectre complet - thc < 0,3 % - lab 13663 - flacon 10 ml",
+        "nl": "huile de chanvre 5 % cbd spectre complet - thc < 0,3 % - lab 13663 - flacon 10 ml"
+      },
+      "description": {
+        "en": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
+        "fr": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
+        "nl": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23593/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-ng-van-greenyard-fresh-belgium",
+      "source": "FAVV",
+      "date": "2026-10-05",
+      "title": {
+        "en": "Terugroeping van Greenyard Fresh Belgium | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Greenyard Fresh Belgium | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Greenyard Fresh Belgium | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt Greenyard Fresh Belgium de producten “Appelsien Zumex 15kg, Appelsien pers 2kg en Appelsien eet 2kg” uit de verkoop en roept ze terug van bij de consumenten wegens een te hoog gehalte aan residuen van onkruidverdelgingsmiddel (Glufosinaat).",
+        "fr": "In overleg met het FAVV haalt Greenyard Fresh Belgium de producten “Appelsien Zumex 15kg, Appelsien pers 2kg en Appelsien eet 2kg” uit de verkoop en roept ze terug van bij de consumenten wegens een te hoog gehalte aan residuen van onkruidverdelgingsmiddel (Glufosinaat).",
+        "nl": "In overleg met het FAVV haalt Greenyard Fresh Belgium de producten “Appelsien Zumex 15kg, Appelsien pers 2kg en Appelsien eet 2kg” uit de verkoop en roept ze terug van bij de consumenten wegens een te hoog gehalte aan residuen van onkruidverdelgingsmiddel (Glufosinaat)."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-greenyard-fresh-belgium",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-terugroeping-van-moulin-hick",
+      "source": "FAVV",
+      "date": "2026-10-05",
+      "title": {
+        "en": "Terugroeping van MOULIN HICK | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van MOULIN HICK | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van MOULIN HICK | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt Moulin Hick de verschillende soorten konijnenvoer “Konijn + C” van het merk Valdieu uit de verkoop en roept ze terug van bij de consumenten. Een ingrediënt dat werd gebruikt voor de productie van bepaalde soorten konijnenvoer bevat per ongeluk een stof (coccidiostatica) die niet voor deze dieren bestemd is. Deze fout betreft konijnenvoer met de aanduiding „+ C“, dat tussen 5 juni 2026 en 1 oktober 2026 is geproduceerd.",
+        "fr": "In overleg met het FAVV haalt Moulin Hick de verschillende soorten konijnenvoer “Konijn + C” van het merk Valdieu uit de verkoop en roept ze terug van bij de consumenten. Een ingrediënt dat werd gebruikt voor de productie van bepaalde soorten konijnenvoer bevat per ongeluk een stof (coccidiostatica) die niet voor deze dieren bestemd is. Deze fout betreft konijnenvoer met de aanduiding „+ C“, dat tussen 5 juni 2026 en 1 oktober 2026 is geproduceerd.",
+        "nl": "In overleg met het FAVV haalt Moulin Hick de verschillende soorten konijnenvoer “Konijn + C” van het merk Valdieu uit de verkoop en roept ze terug van bij de consumenten. Een ingrediënt dat werd gebruikt voor de productie van bepaalde soorten konijnenvoer bevat per ongeluk een stof (coccidiostatica) die niet voor deze dieren bestemd is. Deze fout betreft konijnenvoer met de aanduiding „+ C“, dat tussen 5 juni 2026 en 1 oktober 2026 is geproduceerd."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-moulin-hick",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-03-0268",
       "source": "RappelConso",
       "date": "2026-10-02",
@@ -2205,33 +2340,6 @@
       ],
       "foodGroups": [
         "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0260",
-      "source": "RappelConso",
-      "date": "2026-09-29",
-      "title": {
-        "en": "pois chiche au naturel 260g",
-        "fr": "pois chiche au naturel 260g",
-        "nl": "pois chiche au naturel 260g"
-      },
-      "description": {
-        "en": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23643/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
