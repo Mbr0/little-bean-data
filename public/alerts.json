@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-06T06:03:37.853Z",
+  "generated": "2026-10-07T06:02:55.956Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0041",
+      "source": "RappelConso",
+      "date": "2026-10-06",
+      "title": {
+        "en": "surimi",
+        "fr": "surimi",
+        "nl": "surimi"
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "une analyse a mis en évidence la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "une analyse a mis en évidence la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23712/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-10-0024",
       "source": "RappelConso",
@@ -1059,33 +1088,33 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "fsa-FSA-PRIN-33-2026",
-      "source": "FSA",
-      "date": "2026-07-08",
+      "id": "cfia-82733",
+      "source": "CFIA",
+      "date": "2026-10-06",
       "title": {
-        "en": "M&S recalls M&S Food Truffle Gouda due to the presence of Listeria Monocytogenes",
-        "fr": "M&S recalls M&S Food Truffle Gouda due to the presence of Listeria Monocytogenes",
-        "nl": "M&S recalls M&S Food Truffle Gouda due to the presence of Listeria Monocytogenes"
+        "en": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard",
+        "fr": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard",
+        "nl": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard"
       },
       "description": {
-        "en": "The presence of Listeria monocytogenes in the product listed in the table above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "fr": "The presence of Listeria monocytogenes in the product listed in the table above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "nl": "The presence of Listeria monocytogenes in the product listed in the table above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+        "en": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard.",
+        "fr": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard.",
+        "nl": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard."
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-33-2026",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/seaquest-brand-shrimp-ring-mild-cocktail-sauce-and-president-s-choice-brand-black",
       "countries": [
-        "GB"
+        "CA"
       ],
       "foodGroups": [
-        "dairy"
+        "fish"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-10-0023",
@@ -1232,36 +1261,6 @@
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "rappelconso-2026-10-0016",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "barre de fruits cacao cru - noisettes protéinée (40 g)",
-        "fr": "barre de fruits cacao cru - noisettes protéinée (40 g)",
-        "nl": "barre de fruits cacao cru - noisettes protéinée (40 g)"
-      },
-      "description": {
-        "en": "défaut d'étiquetage préventif : absence de la mention relative aux risques de traces d'allergènes (gluten, arachide, moutarde) par contamination croisée. - substances allergisantes non déclarées",
-        "fr": "défaut d'étiquetage préventif : absence de la mention relative aux risques de traces d'allergènes (gluten, arachide, moutarde) par contamination croisée. - substances allergisantes non déclarées",
-        "nl": "défaut d'étiquetage préventif : absence de la mention relative aux risques de traces d'allergènes (gluten, arachide, moutarde) par contamination croisée. - substances allergisantes non déclarées"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23681/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "pregnant_adult",
       "hazardTypes": [
         "allergen",
         "labeling"
@@ -1813,6 +1812,34 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "favv-rappel-de-lafsca-146",
+      "source": "FAVV",
+      "date": "2026-10-06",
+      "title": {
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le complément alimentaire « Perform » de la marque Libonex de la vente et le rappelle auprès des consommateurs en raison de la présence de Mucuna pruriens, substance non autorisée au regard de la législation Novel Food et de l’Arrêté royal relatif aux plantes. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "fr": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le complément alimentaire « Perform » de la marque Libonex de la vente et le rappelle auprès des consommateurs en raison de la présence de Mucuna pruriens, substance non autorisée au regard de la législation Novel Food et de l’Arrêté royal relatif aux plantes. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "nl": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le complément alimentaire « Perform » de la marque Libonex de la vente et le rappelle auprès des consommateurs en raison de la présence de Mucuna pruriens, substance non autorisée au regard de la législation Novel Food et de l’Arrêté royal relatif aux plantes. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-146",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-10-0027",
       "source": "RappelConso",
       "date": "2026-10-05",
@@ -2259,87 +2286,6 @@
       ],
       "foodGroups": [
         "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0270",
-      "source": "RappelConso",
-      "date": "2026-09-30",
-      "title": {
-        "en": "pousses de bambou (conserves)",
-        "fr": "pousses de bambou (conserves)",
-        "nl": "pousses de bambou (conserves)"
-      },
-      "description": {
-        "en": "boites contenant du bisphénol a en quantité supérieure à la réglementation, susceptible de migrer dans le contenu. - dépassement de seuils de sécurité",
-        "fr": "boites contenant du bisphénol a en quantité supérieure à la réglementation, susceptible de migrer dans le contenu. - dépassement de seuils de sécurité",
-        "nl": "boites contenant du bisphénol a en quantité supérieure à la réglementation, susceptible de migrer dans le contenu. - dépassement de seuils de sécurité"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23655/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0213",
-      "source": "RappelConso",
-      "date": "2026-09-30",
-      "title": {
-        "en": "huile de chanvre 15 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml",
-        "fr": "huile de chanvre 15 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml",
-        "nl": "huile de chanvre 15 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml"
-      },
-      "description": {
-        "en": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
-        "fr": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
-        "nl": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23594/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0211",
-      "source": "RappelConso",
-      "date": "2026-09-30",
-      "title": {
-        "en": "huile de chanvre 5 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml",
-        "fr": "huile de chanvre 5 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml",
-        "nl": "huile de chanvre 5 % cbd spectre large - thc < 0,057 % - lab 13727 - flacon 10 ml"
-      },
-      "description": {
-        "en": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
-        "fr": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques",
-        "nl": "teneur en delta-9-thc susceptible d'exposer le consommateur à une dose supérieure à la dose aiguë de référence retenue par l'administration. produit concerné par l'arrêté préfectoral n° ddpp67-ssa-2026-50. - autres contaminants chimiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23592/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
