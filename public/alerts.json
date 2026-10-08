@@ -1,6 +1,181 @@
 {
-  "generated": "2026-10-07T06:02:55.956Z",
+  "generated": "2026-10-08T06:03:22.971Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0029",
+      "source": "RappelConso",
+      "date": "2026-10-07",
+      "title": {
+        "en": "merguez volaille halal x20 sat nc¤merguez volaille x20 sat nc¤chipolata volaille halal x20 sat nc¤chipolata volaille x20 sat nc¤",
+        "fr": "merguez volaille halal x20 sat nc¤merguez volaille x20 sat nc¤chipolata volaille halal x20 sat nc¤chipolata volaille x20 sat nc¤",
+        "nl": "merguez volaille halal x20 sat nc¤merguez volaille x20 sat nc¤chipolata volaille halal x20 sat nc¤chipolata volaille x20 sat nc¤"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23700/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0033",
+      "source": "RappelConso",
+      "date": "2026-10-07",
+      "title": {
+        "en": "allumettes natures 2x100g",
+        "fr": "allumettes natures 2x100g",
+        "nl": "allumettes natures 2x100g"
+      },
+      "description": {
+        "en": "présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23704/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0030",
+      "source": "RappelConso",
+      "date": "2026-10-07",
+      "title": {
+        "en": "plateau poulet a la mexicaine 1kg",
+        "fr": "plateau poulet a la mexicaine 1kg",
+        "nl": "plateau poulet a la mexicaine 1kg"
+      },
+      "description": {
+        "en": "suspicion de salmonelle spp. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de salmonelle spp. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de salmonelle spp. - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23701/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0036",
+      "source": "RappelConso",
+      "date": "2026-10-07",
+      "title": {
+        "en": "paupiette de porc à la savoyarde",
+        "fr": "paupiette de porc à la savoyarde",
+        "nl": "paupiette de porc à la savoyarde"
+      },
+      "description": {
+        "en": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23707/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "favv-rappel-de-lafsca-147",
+      "source": "FAVV",
+      "date": "2026-10-07",
+      "title": {
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire les herbes « Timut Baie Sauvage» de la marque Peugeot Saveur de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Salmonella. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "fr": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire les herbes « Timut Baie Sauvage» de la marque Peugeot Saveur de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Salmonella. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "nl": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire les herbes « Timut Baie Sauvage» de la marque Peugeot Saveur de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Salmonella. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-147",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fda-6a2f54940bcc",
+      "source": "FDA",
+      "date": "2026-10-07",
+      "title": {
+        "en": "Eden Brothers Recalls Calabrese Broccoli Seeds Due to Possible Salmonella Contamination",
+        "fr": "Eden Brothers Recalls Calabrese Broccoli Seeds Due to Possible Salmonella Contamination",
+        "nl": "Eden Brothers Recalls Calabrese Broccoli Seeds Due to Possible Salmonella Contamination"
+      },
+      "description": {
+        "en": "Arden, NC – October 7th 2026 – Eden Brothers LLC is recalling Calabrese Broccoli Seeds in Packet, 1 Ounce and 1 Pound sizes (Eden Brothers lots 1022067 and 1022068; supplier lot W4105) because we were informed by our supplier that they may be contaminated with Salmonella.",
+        "fr": "Arden, NC – October 7th 2026 – Eden Brothers LLC is recalling Calabrese Broccoli Seeds in Packet, 1 Ounce and 1 Pound sizes (Eden Brothers lots 1022067 and 1022068; supplier lot W4105) because we were informed by our supplier that they may be contaminated with Salmonella.",
+        "nl": "Arden, NC – October 7th 2026 – Eden Brothers LLC is recalling Calabrese Broccoli Seeds in Packet, 1 Ounce and 1 Pound sizes (Eden Brothers lots 1022067 and 1022068; supplier lot W4105) because we were informed by our supplier that they may be contaminated with Salmonella."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eden-brothers-recalls-calabrese-broccoli-seeds-due-possible-salmonella-contamination",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-10-0041",
       "source": "RappelConso",
@@ -353,236 +528,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-10-0009",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "saucisse au filet de poulet x15",
-        "fr": "saucisse au filet de poulet x15",
-        "nl": "saucisse au filet de poulet x15"
-      },
-      "description": {
-        "en": "présence de salmonelle dans le produit - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle dans le produit - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle dans le produit - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23671/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0266",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "bouchées aux crevettes",
-        "fr": "bouchées aux crevettes",
-        "nl": "bouchées aux crevettes"
-      },
-      "description": {
-        "en": "auto contrôle microbiologique : présence confirmée de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "auto contrôle microbiologique : présence confirmée de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "auto contrôle microbiologique : présence confirmée de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23673/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0273",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "2 filets de poulet facon hache",
-        "fr": "2 filets de poulet facon hache",
-        "nl": "2 filets de poulet facon hache"
-      },
-      "description": {
-        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23658/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0274",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "2 filets poulet facon hache",
-        "fr": "2 filets poulet facon hache",
-        "nl": "2 filets poulet facon hache"
-      },
-      "description": {
-        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23659/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0275",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "petit gourmand filet",
-        "fr": "petit gourmand filet",
-        "nl": "petit gourmand filet"
-      },
-      "description": {
-        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23660/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0276",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "2 filets de poulet facon hache",
-        "fr": "2 filets de poulet facon hache",
-        "nl": "2 filets de poulet facon hache"
-      },
-      "description": {
-        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23661/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0277",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "2 filets de poulet facon hache",
-        "fr": "2 filets de poulet facon hache",
-        "nl": "2 filets de poulet facon hache"
-      },
-      "description": {
-        "en": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suspicion de salmonella typhimurium - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23662/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-09-0271",
-      "source": "RappelConso",
-      "date": "2026-09-30",
-      "title": {
-        "en": "viande hachée pur bœuf 5%mg barquette de 300g",
-        "fr": "viande hachée pur bœuf 5%mg barquette de 300g",
-        "nl": "viande hachée pur bœuf 5%mg barquette de 300g"
-      },
-      "description": {
-        "en": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
-        "fr": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)",
-        "nl": "une analyse a mis en évidence la présence d’escherichia coli producteurs de shiga toxines (stec).¤ - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23656/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "favv-rappel-de-lafsca-145",
       "source": "FAVV",
       "date": "2026-09-29",
@@ -642,36 +587,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "favv-rappel-de-lafsca-144",
-      "source": "FAVV",
-      "date": "2026-09-25",
-      "title": {
-        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "29/09/2026 (mise à jour du rappel du 25/09/2026) Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire les herbes « Baie de Timur Népal » de la marque Medelys de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description du produit :",
-        "fr": "29/09/2026 (mise à jour du rappel du 25/09/2026) Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire les herbes « Baie de Timur Népal » de la marque Medelys de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description du produit :",
-        "nl": "29/09/2026 (mise à jour du rappel du 25/09/2026) Suite à une notification via le système RASFF (Rapid Alert System for Food and Feed), l’AFSCA retire les herbes « Baie de Timur Népal » de la marque Medelys de la vente et les rappelle auprès des consommateurs en raison de la présence possible de Salmonelle. L’AFSCA demande aux consommateurs de ne pas consommer ces produits et de les rapporter au point de vente où ils ont été achetés. Description du produit :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-144",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "general",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "fsa-FSA-PRIN-47-2026-update-1",
@@ -1058,34 +973,62 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "nvwa-na-kebab-en-wahid-rundergehakt",
-      "source": "NVWA",
-      "date": "2026-07-09",
+      "id": "rappelconso-2026-09-0254",
+      "source": "RappelConso",
+      "date": "2026-10-07",
       "title": {
-        "en": "Veiligheidswaarschuwing Wahid Adana Kebab en Wahid Rundergehakt",
-        "fr": "Veiligheidswaarschuwing Wahid Adana Kebab en Wahid Rundergehakt",
-        "nl": "Veiligheidswaarschuwing Wahid Adana Kebab en Wahid Rundergehakt"
+        "en": "orange à jus 1,5kg",
+        "fr": "orange à jus 1,5kg",
+        "nl": "orange à jus 1,5kg"
       },
       "description": {
-        "en": "Picnic waarschuwt voor Wahid Adana Kebab en Wahid Rundergehakt. De producten bevatten mogelijk salmonella. Eet de producten niet. Zie de website van Picnic",
-        "fr": "Picnic waarschuwt voor Wahid Adana Kebab en Wahid Rundergehakt. De producten bevatten mogelijk salmonella. Eet de producten niet. Zie de website van Picnic",
-        "nl": "Picnic waarschuwt voor Wahid Adana Kebab en Wahid Rundergehakt. De producten bevatten mogelijk salmonella. Eet de producten niet. Zie de website van Picnic"
+        "en": "dépassement de la limite autorisée en pesticide (glufosinate (somme)) - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement de la limite autorisée en pesticide (glufosinate (somme)) - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement de la limite autorisée en pesticide (glufosinate (somme)) - dépassement des limites autorisées de pesticides"
       },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/09/veiligheidswaarschuwing-wahid-adana-kebab-en-wahid-rundergehakt",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23637/interne",
       "countries": [
-        "NL",
-        "BE"
+        "FR"
       ],
       "foodGroups": [
-        "meat"
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "chemical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "rappelconso-2026-10-0037",
+      "source": "RappelConso",
+      "date": "2026-10-07",
+      "title": {
+        "en": "raisin rose vrac",
+        "fr": "raisin rose vrac",
+        "nl": "raisin rose vrac"
+      },
+      "description": {
+        "en": "dépassement de la limite autorisée en pesticide (abamectin) - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement de la limite autorisée en pesticide (abamectin) - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement de la limite autorisée en pesticide (abamectin) - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23708/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "cfia-82733",
@@ -1174,67 +1117,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "cfia-82728",
-      "source": "CFIA",
-      "date": "2026-10-03",
-      "title": {
-        "en": "Taeyangcho Gochujang (Hot Pepper Paste) recalled due to undeclared wheat",
-        "fr": "Taeyangcho Gochujang (Hot Pepper Paste) recalled due to undeclared wheat",
-        "nl": "Taeyangcho Gochujang (Hot Pepper Paste) recalled due to undeclared wheat"
-      },
-      "description": {
-        "en": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label.",
-        "fr": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label.",
-        "nl": "The affected products are being recalled from the marketplace because they contain wheat which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/taeyangcho-gochujang-hot-pepper-paste-recalled-due-undeclared-wheat",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82723",
-      "source": "CFIA",
-      "date": "2026-10-03",
-      "title": {
-        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
-        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
-        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk"
-      },
-      "description": {
-        "en": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
-        "fr": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label.",
-        "nl": "The affected product is being recalled from the marketplace because it contains milk which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared-1",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "fsa-FSA-AA-44-2026",
@@ -1469,37 +1351,6 @@
         "US"
       ],
       "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-ee4048877407",
-      "source": "FDA",
-      "date": "2026-09-16",
-      "title": {
-        "en": "Saratoga Potato Chips Issues Allergy Alert on Undeclared Soy in J. HIGGS Loaded Bacon and Cheddar Potato Chips",
-        "fr": "Saratoga Potato Chips Issues Allergy Alert on Undeclared Soy in J. HIGGS Loaded Bacon and Cheddar Potato Chips",
-        "nl": "Saratoga Potato Chips Issues Allergy Alert on Undeclared Soy in J. HIGGS Loaded Bacon and Cheddar Potato Chips"
-      },
-      "description": {
-        "en": "Saratoga Potato Chips of Fort Wayne, IN, is recalling two Best if USED BY codes of 7.75-ounce packages of J. HIGGS Loaded Bacon and Cheddar Potato Chips because they may contain undeclared soy allergen. People who have an allergy or severe sensitivity to soy run the risk of serious or life-threateni",
-        "fr": "Saratoga Potato Chips of Fort Wayne, IN, is recalling two Best if USED BY codes of 7.75-ounce packages of J. HIGGS Loaded Bacon and Cheddar Potato Chips because they may contain undeclared soy allergen. People who have an allergy or severe sensitivity to soy run the risk of serious or life-threateni",
-        "nl": "Saratoga Potato Chips of Fort Wayne, IN, is recalling two Best if USED BY codes of 7.75-ounce packages of J. HIGGS Loaded Bacon and Cheddar Potato Chips because they may contain undeclared soy allergen. People who have an allergy or severe sensitivity to soy run the risk of serious or life-threateni"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saratoga-potato-chips-issues-allergy-alert-undeclared-soy-j-higgs-loaded-bacon-and-cheddar-potato",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "meat",
-        "dairy",
         "plant"
       ],
       "pregnancyRelevance": "medium",
@@ -1781,35 +1632,83 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "nvwa-bos-pokebowl-tonijn-allergenen",
-      "source": "NVWA",
-      "date": "2026-07-09",
+      "id": "cfia-82741",
+      "source": "CFIA",
+      "date": "2026-10-07",
       "title": {
-        "en": "Veiligheidswaarschuwing Jumbo's Pokébowl Tonijn (allergenen)",
-        "fr": "Veiligheidswaarschuwing Jumbo's Pokébowl Tonijn (allergenen)",
-        "nl": "Veiligheidswaarschuwing Jumbo's Pokébowl Tonijn (allergenen)"
+        "en": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage",
+        "fr": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage",
+        "nl": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage"
       },
       "description": {
-        "en": "Jumbo waarschuwt voor Jumbo's Pokébowl Tonijn. Het product bevat mogelijk een onjuist etiket, waardoor de allergenen vis en sesam niet worden vermeld.",
-        "fr": "Jumbo waarschuwt voor Jumbo's Pokébowl Tonijn. Het product bevat mogelijk een onjuist etiket, waardoor de allergenen vis en sesam niet worden vermeld.",
-        "nl": "Jumbo waarschuwt voor Jumbo's Pokébowl Tonijn. Het product bevat mogelijk een onjuist etiket, waardoor de allergenen vis en sesam niet worden vermeld."
+        "en": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage.",
+        "fr": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage.",
+        "nl": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage."
       },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/07/09/veiligheidswaarschuwing-jumbos-pokebowl-tonijn-allergenen",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/bahia-paloma-brand-grapefruit-paloma-agave-spirit-cocktail-and-easy-vodka-brand",
       "countries": [
-        "NL",
-        "BE"
+        "CA"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0050",
+      "source": "RappelConso",
+      "date": "2026-10-07",
+      "title": {
+        "en": "pois chiche au naturel",
+        "fr": "pois chiche au naturel",
+        "nl": "pois chiche au naturel"
+      },
+      "description": {
+        "en": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23721/interne",
+      "countries": [
+        "FR"
       ],
       "foodGroups": [
-        "fish"
+        "plant"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
+      "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0046",
+      "source": "RappelConso",
+      "date": "2026-10-07",
+      "title": {
+        "en": "carotte sable en conditionnement de 12kg vrac.",
+        "fr": "carotte sable en conditionnement de 12kg vrac.",
+        "nl": "carotte sable en conditionnement de 12kg vrac."
+      },
+      "description": {
+        "en": "détection de linuron, substance non autorisée (herbicide) - produits phytosanitaires non autorisés",
+        "fr": "détection de linuron, substance non autorisée (herbicide) - produits phytosanitaires non autorisés",
+        "nl": "détection de linuron, substance non autorisée (herbicide) - produits phytosanitaires non autorisés"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23717/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "favv-rappel-de-lafsca-146",
@@ -1837,6 +1736,60 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fda-71b02573c15a",
+      "source": "FDA",
+      "date": "2026-10-06",
+      "title": {
+        "en": "Pacific Health Sciences Voluntarily Recalls One Lot of Babies' Magic Tea Brand Baby Sleep Gripe Water Dietary Supplement",
+        "fr": "Pacific Health Sciences Voluntarily Recalls One Lot of Babies' Magic Tea Brand Baby Sleep Gripe Water Dietary Supplement",
+        "nl": "Pacific Health Sciences Voluntarily Recalls One Lot of Babies' Magic Tea Brand Baby Sleep Gripe Water Dietary Supplement"
+      },
+      "description": {
+        "en": "Pacific Health Sciences is voluntarily recalling one lot of Babies' Magic Tea brand Baby Sleep Gripe Water dietary supplement.",
+        "fr": "Pacific Health Sciences is voluntarily recalling one lot of Babies' Magic Tea brand Baby Sleep Gripe Water dietary supplement.",
+        "nl": "Pacific Health Sciences is voluntarily recalling one lot of Babies' Magic Tea brand Baby Sleep Gripe Water dietary supplement."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pacific-health-sciences-voluntarily-recalls-one-lot-babies-magic-tea-brand-baby-sleep-gripe-water",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "children",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fda-04e5b62438b1",
+      "source": "FDA",
+      "date": "2026-10-06",
+      "title": {
+        "en": "Leader Formulas, LLC. Issues Voluntary Nationwide Recall of RAPTURE Preworkout Due to the Presence of 1,3-Dimethylamylamine (DMAA)",
+        "fr": "Leader Formulas, LLC. Issues Voluntary Nationwide Recall of RAPTURE Preworkout Due to the Presence of 1,3-Dimethylamylamine (DMAA)",
+        "nl": "Leader Formulas, LLC. Issues Voluntary Nationwide Recall of RAPTURE Preworkout Due to the Presence of 1,3-Dimethylamylamine (DMAA)"
+      },
+      "description": {
+        "en": "Leader Formulas, LLC. of Tomball, TX, is voluntarily recalling one (1) lot of RAPTURE Pre workout, a dietary supplement powder because it was found to contain 1,3-Dimethylamylamine (DMAA) and sold at the consumer level. Using DMAA can result in elevated blood pressure and could lead to cardiovascula",
+        "fr": "Leader Formulas, LLC. of Tomball, TX, is voluntarily recalling one (1) lot of RAPTURE Pre workout, a dietary supplement powder because it was found to contain 1,3-Dimethylamylamine (DMAA) and sold at the consumer level. Using DMAA can result in elevated blood pressure and could lead to cardiovascula",
+        "nl": "Leader Formulas, LLC. of Tomball, TX, is voluntarily recalling one (1) lot of RAPTURE Pre workout, a dietary supplement powder because it was found to contain 1,3-Dimethylamylamine (DMAA) and sold at the consumer level. Using DMAA can result in elevated blood pressure and could lead to cardiovascula"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/leader-formulas-llc-issues-voluntary-nationwide-recall-rapture-preworkout-due-presence-13",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
       "pregnancySummaryKey": "general"
     },
     {
@@ -2184,89 +2137,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-10-0006",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "printaniere de legumes - 1kg",
-        "fr": "printaniere de legumes - 1kg",
-        "nl": "printaniere de legumes - 1kg"
-      },
-      "description": {
-        "en": "risque de présence de morelle dans le produit - non inertes (insectes larves etc)",
-        "fr": "risque de présence de morelle dans le produit - non inertes (insectes larves etc)",
-        "nl": "risque de présence de morelle dans le produit - non inertes (insectes larves etc)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23668/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0265",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "petit salé tranché 2tr 300g¤petit salé cuit 200 g¤petit salé cuit (x2) 400 gr",
-        "fr": "petit salé tranché 2tr 300g¤petit salé cuit 200 g¤petit salé cuit (x2) 400 gr",
-        "nl": "petit salé tranché 2tr 300g¤petit salé cuit 200 g¤petit salé cuit (x2) 400 gr"
-      },
-      "description": {
-        "en": "utilisation d'un programme de cuisson différent du programme habituel entrainant un potentiel défaut - autres contaminants biologiques|modifications organoleptiques",
-        "fr": "utilisation d'un programme de cuisson différent du programme habituel entrainant un potentiel défaut - autres contaminants biologiques|modifications organoleptiques",
-        "nl": "utilisation d'un programme de cuisson différent du programme habituel entrainant un potentiel défaut - autres contaminants biologiques|modifications organoleptiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23649/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-09-0272",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "jasmine rice (150g et 225g)",
-        "fr": "jasmine rice (150g et 225g)",
-        "nl": "jasmine rice (150g et 225g)"
-      },
-      "description": {
-        "en": "risque de présence de corps étranger d'origine plastique (morceaux de plastique colorés souples ou rigides) - inertes (verre, métal, plastique, papier, textile…)",
-        "fr": "risque de présence de corps étranger d'origine plastique (morceaux de plastique colorés souples ou rigides) - inertes (verre, métal, plastique, papier, textile…)",
-        "nl": "risque de présence de corps étranger d'origine plastique (morceaux de plastique colorés souples ou rigides) - inertes (verre, métal, plastique, papier, textile…)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23657/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
-    },
-    {
       "id": "fda-c0e38f3180e4",
       "source": "FDA",
       "date": "2026-10-01",
@@ -2347,35 +2217,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fda-2c1423aebaf3",
-      "source": "FDA",
-      "date": "2026-09-15",
-      "title": {
-        "en": "So Delicious Dairy Free® Issues Voluntary Recall of Salted Caramel Cluster Non-Dairy  Frozen Dessert Pints Due to Potential Presence of Foreign Material",
-        "fr": "So Delicious Dairy Free® Issues Voluntary Recall of Salted Caramel Cluster Non-Dairy  Frozen Dessert Pints Due to Potential Presence of Foreign Material",
-        "nl": "So Delicious Dairy Free® Issues Voluntary Recall of Salted Caramel Cluster Non-Dairy  Frozen Dessert Pints Due to Potential Presence of Foreign Material"
-      },
-      "description": {
-        "en": "WHITE PLAINS, N.Y. and LOUISVILLE, Colo., September 15, 2026  – Danone USA is issuing a voluntary recall of So Delicious Dairy Free® Salted Caramel Cluster Non-Dairy Frozen Dessert pints with best-by dates on and before April 3, 2028 due to the potential presence of foreign materials, such as small",
-        "fr": "WHITE PLAINS, N.Y. and LOUISVILLE, Colo., September 15, 2026  – Danone USA is issuing a voluntary recall of So Delicious Dairy Free® Salted Caramel Cluster Non-Dairy Frozen Dessert pints with best-by dates on and before April 3, 2028 due to the potential presence of foreign materials, such as small",
-        "nl": "WHITE PLAINS, N.Y. and LOUISVILLE, Colo., September 15, 2026  – Danone USA is issuing a voluntary recall of So Delicious Dairy Free® Salted Caramel Cluster Non-Dairy Frozen Dessert pints with best-by dates on and before April 3, 2028 due to the potential presence of foreign materials, such as small"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/so-delicious-dairy-freer-issues-voluntary-recall-salted-caramel-cluster-non-dairy-frozen-dessert",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
     },
     {
       "id": "nvwa-vliet-roomkaas-ananas-125-gram",
