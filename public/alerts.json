@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T06:03:22.971Z",
+  "generated": "2026-10-09T06:03:25.190Z",
   "alerts": [
     {
       "id": "rappelconso-2026-10-0029",
@@ -499,35 +499,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-10-0010",
-      "source": "RappelConso",
-      "date": "2026-10-01",
-      "title": {
-        "en": "saucisse de filet de poulet halal",
-        "fr": "saucisse de filet de poulet halal",
-        "nl": "saucisse de filet de poulet halal"
-      },
-      "description": {
-        "en": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23672/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "favv-rappel-de-lafsca-145",
       "source": "FAVV",
       "date": "2026-09-29",
@@ -973,6 +944,36 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "cfia-82637",
+      "source": "CFIA",
+      "date": "2026-10-08",
+      "title": {
+        "en": "Nora's brand Mint Chip Non-Dairy Frozen Dessert recalled due to undeclared peanut",
+        "fr": "Nora's brand Mint Chip Non-Dairy Frozen Dessert recalled due to undeclared peanut",
+        "nl": "Nora's brand Mint Chip Non-Dairy Frozen Dessert recalled due to undeclared peanut"
+      },
+      "description": {
+        "en": "The affected product is being recalled from the marketplace because it contains peanut which is not declared on the label.",
+        "fr": "The affected product is being recalled from the marketplace because it contains peanut which is not declared on the label.",
+        "nl": "The affected product is being recalled from the marketplace because it contains peanut which is not declared on the label."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/nora-s-brand-mint-chip-non-dairy-frozen-dessert-recalled-due-undeclared-peanut",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-09-0254",
       "source": "RappelConso",
       "date": "2026-10-07",
@@ -1029,35 +1030,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "chemical"
-    },
-    {
-      "id": "cfia-82733",
-      "source": "CFIA",
-      "date": "2026-10-06",
-      "title": {
-        "en": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard",
-        "fr": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard",
-        "nl": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard"
-      },
-      "description": {
-        "en": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard.",
-        "fr": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard.",
-        "nl": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/seaquest-brand-shrimp-ring-mild-cocktail-sauce-and-president-s-choice-brand-black",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-10-0023",
@@ -1630,6 +1602,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-10-0058",
+      "source": "RappelConso",
+      "date": "2026-10-08",
+      "title": {
+        "en": "carotte sable en conditionnement de 12kg vrac.",
+        "fr": "carotte sable en conditionnement de 12kg vrac.",
+        "nl": "carotte sable en conditionnement de 12kg vrac."
+      },
+      "description": {
+        "en": "détection de linuron, substance non autorisée (herbicide) - produits phytosanitaires non autorisés",
+        "fr": "détection de linuron, substance non autorisée (herbicide) - produits phytosanitaires non autorisés",
+        "nl": "détection de linuron, substance non autorisée (herbicide) - produits phytosanitaires non autorisés"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23729/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "cfia-82741",
