@@ -1,6 +1,358 @@
 {
-  "generated": "2026-10-09T06:03:25.190Z",
+  "generated": "2026-10-10T06:02:47.884Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0077",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "paupiette cc5901, gf paupiette cc5901, paupiette ccp",
+        "fr": "paupiette cc5901, gf paupiette cc5901, paupiette ccp",
+        "nl": "paupiette cc5901, gf paupiette cc5901, paupiette ccp"
+      },
+      "description": {
+        "en": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23748/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0075",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "ls echine 500g ccp 1/2 sel sv",
+        "fr": "ls echine 500g ccp 1/2 sel sv",
+        "nl": "ls echine 500g ccp 1/2 sel sv"
+      },
+      "description": {
+        "en": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23746/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0073",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "burger de cerf frais",
+        "fr": "burger de cerf frais",
+        "nl": "burger de cerf frais"
+      },
+      "description": {
+        "en": "présence de salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle spp - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23744/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0072",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "crevettes entières cuites réfrigérées élevage 30/40  signature du poissonnier  300g penaeus monodon",
+        "fr": "crevettes entières cuites réfrigérées élevage 30/40  signature du poissonnier  300g penaeus monodon",
+        "nl": "crevettes entières cuites réfrigérées élevage 30/40  signature du poissonnier  300g penaeus monodon"
+      },
+      "description": {
+        "en": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23743/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0062",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "pâté à l'ail *1 180g vpf",
+        "fr": "pâté à l'ail *1 180g vpf",
+        "nl": "pâté à l'ail *1 180g vpf"
+      },
+      "description": {
+        "en": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage",
+        "fr": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage",
+        "nl": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23733/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0063",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "terrine ancienne *1 op 180g pv vpf",
+        "fr": "terrine ancienne *1 op 180g pv vpf",
+        "nl": "terrine ancienne *1 op 180g pv vpf"
+      },
+      "description": {
+        "en": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage",
+        "fr": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage",
+        "nl": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23734/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0066",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "ter lapin musca*1 op 180g pv",
+        "fr": "ter lapin musca*1 op 180g pv",
+        "nl": "ter lapin musca*1 op 180g pv"
+      },
+      "description": {
+        "en": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage",
+        "fr": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage",
+        "nl": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23737/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0069",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "filet mignon fume*20 op 110g vpf¤filet mignon fume*20 op 100g pf vpf¤filet mignon fume piment*20 op vpf¤filet mignon fume p.vert*20 op vpf¤filet mignon fume p.vert*20 op 100g pf ¤",
+        "fr": "filet mignon fume*20 op 110g vpf¤filet mignon fume*20 op 100g pf vpf¤filet mignon fume piment*20 op vpf¤filet mignon fume p.vert*20 op vpf¤filet mignon fume p.vert*20 op 100g pf ¤",
+        "nl": "filet mignon fume*20 op 110g vpf¤filet mignon fume*20 op 100g pf vpf¤filet mignon fume piment*20 op vpf¤filet mignon fume p.vert*20 op vpf¤filet mignon fume p.vert*20 op 100g pf ¤"
+      },
+      "description": {
+        "en": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage",
+        "fr": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage",
+        "nl": "erreur de dlc étiquetée (allongement de la dlc) - listeria monocytogenes (agent responsable de la listériose)|anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23740/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0061",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "munster fermier",
+        "fr": "munster fermier",
+        "nl": "munster fermier"
+      },
+      "description": {
+        "en": "détection de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23732/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0059",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "sachet 75g",
+        "fr": "sachet 75g",
+        "nl": "sachet 75g"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23730/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fda-35c7ea557106",
+      "source": "FDA",
+      "date": "2026-10-09",
+      "title": {
+        "en": "Krasnyi Oktyabr Inc. Recalls Starfish Seafood Trio Because of Possible Health Risk",
+        "fr": "Krasnyi Oktyabr Inc. Recalls Starfish Seafood Trio Because of Possible Health Risk",
+        "nl": "Krasnyi Oktyabr Inc. Recalls Starfish Seafood Trio Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Krasnyi Oktyabr Inc. of Brooklyn, New York, is voluntarily recalling Starfish Seafood Trio – Cold Smoked Salmon, Halibut, and Trout, 8 oz (227 g) packages, because the product has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal in",
+        "fr": "Krasnyi Oktyabr Inc. of Brooklyn, New York, is voluntarily recalling Starfish Seafood Trio – Cold Smoked Salmon, Halibut, and Trout, 8 oz (227 g) packages, because the product has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal in",
+        "nl": "Krasnyi Oktyabr Inc. of Brooklyn, New York, is voluntarily recalling Starfish Seafood Trio – Cold Smoked Salmon, Halibut, and Trout, 8 oz (227 g) packages, because the product has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal in"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasnyi-oktyabr-inc-recalls-starfish-seafood-trio-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fda-cc1f75569524",
+      "source": "FDA",
+      "date": "2026-10-08",
+      "title": {
+        "en": "Gardeners Basics Recalls Waltham 29 Broccoli Sprouting Seeds Due to Possible Salmonella Contamination",
+        "fr": "Gardeners Basics Recalls Waltham 29 Broccoli Sprouting Seeds Due to Possible Salmonella Contamination",
+        "nl": "Gardeners Basics Recalls Waltham 29 Broccoli Sprouting Seeds Due to Possible Salmonella Contamination"
+      },
+      "description": {
+        "en": "October 8, 2026, Gardeners Basics of Spanish Fork, Utah, is recalling one-pound bags of broccoli sprouting seeds because they may be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened i",
+        "fr": "October 8, 2026, Gardeners Basics of Spanish Fork, Utah, is recalling one-pound bags of broccoli sprouting seeds because they may be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened i",
+        "nl": "October 8, 2026, Gardeners Basics of Spanish Fork, Utah, is recalling one-pound bags of broccoli sprouting seeds because they may be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened i"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardeners-basics-recalls-waltham-29-broccoli-sprouting-seeds-due-possible-salmonella-contamination",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-10-0029",
       "source": "RappelConso",
@@ -233,209 +585,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-10-0025",
-      "source": "RappelConso",
-      "date": "2026-10-05",
-      "title": {
-        "en": "friton de porc",
-        "fr": "friton de porc",
-        "nl": "friton de porc"
-      },
-      "description": {
-        "en": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria monocytogenes (agent responsable de la listériose) - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23696/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-10-0018",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "haché de veau façon bouchère carrefour le marché 2x100g",
-        "fr": "haché de veau façon bouchère carrefour le marché 2x100g",
-        "nl": "haché de veau façon bouchère carrefour le marché 2x100g"
-      },
-      "description": {
-        "en": "suspicion de présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suspicion de présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suspicion de présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23689/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-10-0019",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "saucisses de volaille façon charcutière (nature, herbes, merguez) 320g",
-        "fr": "saucisses de volaille façon charcutière (nature, herbes, merguez) 320g",
-        "nl": "saucisses de volaille façon charcutière (nature, herbes, merguez) 320g"
-      },
-      "description": {
-        "en": "suspicion de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "suspicion de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "suspicion de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23690/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-10-0020",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "haché de veau façon boucher 2x100g vvf",
-        "fr": "haché de veau façon boucher 2x100g vvf",
-        "nl": "haché de veau façon boucher 2x100g vvf"
-      },
-      "description": {
-        "en": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23691/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-10-0014",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "fromages de chèvre ronds, pyramides, bûches, crottins, crottins aromatisés et faisselles",
-        "fr": "fromages de chèvre ronds, pyramides, bûches, crottins, crottins aromatisés et faisselles",
-        "nl": "fromages de chèvre ronds, pyramides, bûches, crottins, crottins aromatisés et faisselles"
-      },
-      "description": {
-        "en": "présence e.colis stec - escherichia coli shiga toxinogène (stec)",
-        "fr": "présence e.colis stec - escherichia coli shiga toxinogène (stec)",
-        "nl": "présence e.colis stec - escherichia coli shiga toxinogène (stec)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23678/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
-      "id": "rappelconso-2026-10-0005",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "camembert fermier au lait cru",
-        "fr": "camembert fermier au lait cru",
-        "nl": "camembert fermier au lait cru"
-      },
-      "description": {
-        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23679/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0258",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "piece de 200grs munster bio au lait cru ferme du pichet",
-        "fr": "piece de 200grs munster bio au lait cru ferme du pichet",
-        "nl": "piece de 200grs munster bio au lait cru ferme du pichet"
-      },
-      "description": {
-        "en": "présence de listeria détecté suite a des analyses aqualeha - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listeria détecté suite a des analyses aqualeha - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listeria détecté suite a des analyses aqualeha - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23641/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "favv-ot-fromagerie-invoerder-rafina",
@@ -944,25 +1093,25 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "cfia-82637",
+      "id": "cfia-82767",
       "source": "CFIA",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "title": {
-        "en": "Nora's brand Mint Chip Non-Dairy Frozen Dessert recalled due to undeclared peanut",
-        "fr": "Nora's brand Mint Chip Non-Dairy Frozen Dessert recalled due to undeclared peanut",
-        "nl": "Nora's brand Mint Chip Non-Dairy Frozen Dessert recalled due to undeclared peanut"
+        "en": "Kevin’s Natural Foods brand Turkey Gravy recalled due to undeclared mustard",
+        "fr": "Kevin’s Natural Foods brand Turkey Gravy recalled due to undeclared mustard",
+        "nl": "Kevin’s Natural Foods brand Turkey Gravy recalled due to undeclared mustard"
       },
       "description": {
-        "en": "The affected product is being recalled from the marketplace because it contains peanut which is not declared on the label.",
-        "fr": "The affected product is being recalled from the marketplace because it contains peanut which is not declared on the label.",
-        "nl": "The affected product is being recalled from the marketplace because it contains peanut which is not declared on the label."
+        "en": "The affected product is being recalled from the marketplace because it contains mustard which is not declared on the label.",
+        "fr": "The affected product is being recalled from the marketplace because it contains mustard which is not declared on the label.",
+        "nl": "The affected product is being recalled from the marketplace because it contains mustard which is not declared on the label."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/nora-s-brand-mint-chip-non-dairy-frozen-dessert-recalled-due-undeclared-peanut",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/kevin-s-natural-foods-brand-turkey-gravy-recalled-due-undeclared-mustard-0",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "dairy"
+        "meat"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -972,6 +1121,64 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82752",
+      "source": "CFIA",
+      "date": "2026-10-09",
+      "title": {
+        "en": "Kara Food brand Poulet Tandoori recalled due to undeclared mustard",
+        "fr": "Kara Food brand Poulet Tandoori recalled due to undeclared mustard",
+        "nl": "Kara Food brand Poulet Tandoori recalled due to undeclared mustard"
+      },
+      "description": {
+        "en": "Kara Food brand \"Poulet Tandoori\" recalled due to undeclared mustard.",
+        "fr": "Kara Food brand \"Poulet Tandoori\" recalled due to undeclared mustard.",
+        "nl": "Kara Food brand \"Poulet Tandoori\" recalled due to undeclared mustard."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/kara-food-brand-poulet-tandoori-recalled-due-undeclared-mustard",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-10-0070",
+      "source": "RappelConso",
+      "date": "2026-10-09",
+      "title": {
+        "en": "raisin de table",
+        "fr": "raisin de table",
+        "nl": "raisin de table"
+      },
+      "description": {
+        "en": "dépassement lmr abamectin - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement lmr abamectin - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement lmr abamectin - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23741/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "rappelconso-2026-09-0254",
@@ -1305,35 +1512,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fda-3368e48b88f2",
-      "source": "FDA",
-      "date": "2026-09-18",
-      "title": {
-        "en": "GF Blends Recalls Truly AIP All Purpose Flour and Bread Mix, and EAT G.A.N.G.S.T.E.R. Flat Bread Pizza Mix Due to Potential Undeclared Wheat Gluten",
-        "fr": "GF Blends Recalls Truly AIP All Purpose Flour and Bread Mix, and EAT G.A.N.G.S.T.E.R. Flat Bread Pizza Mix Due to Potential Undeclared Wheat Gluten",
-        "nl": "GF Blends Recalls Truly AIP All Purpose Flour and Bread Mix, and EAT G.A.N.G.S.T.E.R. Flat Bread Pizza Mix Due to Potential Undeclared Wheat Gluten"
-      },
-      "description": {
-        "en": "GF Blends is recalling Truly AIP All Purpose Flour and Bread Mix and EAT G.A.N.G.S.T.E.R. Flat Bread Pizza Mix listed below due to potential undeclared wheat gluten. People who have celiac disease or a severe gluten intolerance run the risk of adverse health effects or allergic reactions if they con",
-        "fr": "GF Blends is recalling Truly AIP All Purpose Flour and Bread Mix and EAT G.A.N.G.S.T.E.R. Flat Bread Pizza Mix listed below due to potential undeclared wheat gluten. People who have celiac disease or a severe gluten intolerance run the risk of adverse health effects or allergic reactions if they con",
-        "nl": "GF Blends is recalling Truly AIP All Purpose Flour and Bread Mix and EAT G.A.N.G.S.T.E.R. Flat Bread Pizza Mix listed below due to potential undeclared wheat gluten. People who have celiac disease or a severe gluten intolerance run the risk of adverse health effects or allergic reactions if they con"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gf-blends-recalls-truly-aip-all-purpose-flour-and-bread-mix-and-eat-gangster-flat-bread-pizza-mix",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "nvwa-anse-risotto-familieverpakking",
       "source": "NVWA",
       "date": "2026-09-03",
@@ -1604,6 +1782,34 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "favv-rappel-de-cardiff-nv",
+      "source": "FAVV",
+      "date": "2026-10-09",
+      "title": {
+        "en": "Rappel de Cardiff NV | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Cardiff NV | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Cardiff NV | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, Cardiff retire de la vente et rappelle auprès des consommateurs la « Gourde en aluminium (motif chevaux – rose) », portant le numéro de lot 220801, en raison de la migration d’aluminium. Cardiff demande à ses clients de ne plus utiliser ce produit et de le rapporter au point de vente où il a été acheté. Ils y recevront un remboursement. Description du produit :",
+        "fr": "En accord avec l’AFSCA, Cardiff retire de la vente et rappelle auprès des consommateurs la « Gourde en aluminium (motif chevaux – rose) », portant le numéro de lot 220801, en raison de la migration d’aluminium. Cardiff demande à ses clients de ne plus utiliser ce produit et de le rapporter au point de vente où il a été acheté. Ils y recevront un remboursement. Description du produit :",
+        "nl": "En accord avec l’AFSCA, Cardiff retire de la vente et rappelle auprès des consommateurs la « Gourde en aluminium (motif chevaux – rose) », portant le numéro de lot 220801, en raison de la migration d’aluminium. Cardiff demande à ses clients de ne plus utiliser ce produit et de le rapporter au point de vente où il a été acheté. Ils y recevront un remboursement. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-cardiff-nv",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-10-0058",
       "source": "RappelConso",
       "date": "2026-10-08",
@@ -1628,31 +1834,6 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "cfia-82741",
-      "source": "CFIA",
-      "date": "2026-10-07",
-      "title": {
-        "en": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage",
-        "fr": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage",
-        "nl": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage"
-      },
-      "description": {
-        "en": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage.",
-        "fr": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage.",
-        "nl": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/bahia-paloma-brand-grapefruit-paloma-agave-spirit-cocktail-and-easy-vodka-brand",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
       "pregnancySummaryKey": "general"
     },
     {
@@ -1958,156 +2139,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-03-0268",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
-        "fr": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
-        "nl": "huile 10% de cbd pour chat et huile 5% de cbd pour chat"
-      },
-      "description": {
-        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23687/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-03-0267",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
-        "fr": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
-        "nl": "huile 10% de cbd pour chien et huile 5% de cbd pour chien"
-      },
-      "description": {
-        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23686/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-03-0266",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
-        "fr": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
-        "nl": "huile 10% de cbd pour chien et huile 5% de cbd pour chien"
-      },
-      "description": {
-        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23685/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-03-0265",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
-        "fr": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
-        "nl": "huile 10% de cbd pour chat et huile 5% de cbd pour chat"
-      },
-      "description": {
-        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23684/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-03-0263",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
-        "fr": "huile 10% de cbd pour chat et huile 5% de cbd pour chat",
-        "nl": "huile 10% de cbd pour chat et huile 5% de cbd pour chat"
-      },
-      "description": {
-        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23683/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-03-0264",
-      "source": "RappelConso",
-      "date": "2026-10-02",
-      "title": {
-        "en": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
-        "fr": "huile 10% de cbd pour chien et huile 5% de cbd pour chien",
-        "nl": "huile 10% de cbd pour chien et huile 5% de cbd pour chien"
-      },
-      "description": {
-        "en": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "fr": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque",
-        "nl": "le cbd et les extraits de chanvre ont le statut d’additifs non autorisé pour l’alimentation animale. - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23682/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "fda-dad91f70ec96",
       "source": "FDA",
       "date": "2026-10-02",
@@ -2188,33 +2219,6 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fda-d8759c89e98b",
-      "source": "FDA",
-      "date": "2026-09-21",
-      "title": {
-        "en": "Global Mix Inc. Recalls Niwali Tejocote Capsules and Niwali Tejocote Pieces Because of Possible Health Risk",
-        "fr": "Global Mix Inc. Recalls Niwali Tejocote Capsules and Niwali Tejocote Pieces Because of Possible Health Risk",
-        "nl": "Global Mix Inc. Recalls Niwali Tejocote Capsules and Niwali Tejocote Pieces Because of Possible Health Risk"
-      },
-      "description": {
-        "en": "Global Mix Inc. of Middle Village, New York, is recalling niwali Tejocote Capsules (90 capsules, Herbal Supplement) and niwali Tejocote Pieces (90 Day Supply, Herbal Supplement) because FDA analysis has determined that the products appear to be Thevetia peruviana, or yellow oleander. All parts of th",
-        "fr": "Global Mix Inc. of Middle Village, New York, is recalling niwali Tejocote Capsules (90 capsules, Herbal Supplement) and niwali Tejocote Pieces (90 Day Supply, Herbal Supplement) because FDA analysis has determined that the products appear to be Thevetia peruviana, or yellow oleander. All parts of th",
-        "nl": "Global Mix Inc. of Middle Village, New York, is recalling niwali Tejocote Capsules (90 capsules, Herbal Supplement) and niwali Tejocote Pieces (90 Day Supply, Herbal Supplement) because FDA analysis has determined that the products appear to be Thevetia peruviana, or yellow oleander. All parts of th"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/global-mix-inc-recalls-niwali-tejocote-capsules-and-niwali-tejocote-pieces-because-possible-health",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
       "pregnancySummaryKey": "general"
     },
     {
