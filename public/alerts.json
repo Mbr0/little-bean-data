@@ -1,6 +1,181 @@
 {
-  "generated": "2026-10-12T06:07:00.719Z",
+  "generated": "2026-10-13T06:05:13.668Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0092",
+      "source": "RappelConso",
+      "date": "2026-10-12",
+      "title": {
+        "en": "fromage vigneron, fromage viticole d'âge moyen, geifertshofener classics, fromage de trollinger souabe, fromage à la crème souabe fromage au poivre de geifertshofen fromage au trèfle bleu de  geifertshofen,",
+        "fr": "fromage vigneron, fromage viticole d'âge moyen, geifertshofener classics, fromage de trollinger souabe, fromage à la crème souabe fromage au poivre de geifertshofen fromage au trèfle bleu de  geifertshofen,",
+        "nl": "fromage vigneron, fromage viticole d'âge moyen, geifertshofener classics, fromage de trollinger souabe, fromage à la crème souabe fromage au poivre de geifertshofen fromage au trèfle bleu de  geifertshofen,"
+      },
+      "description": {
+        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23763/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0049",
+      "source": "RappelConso",
+      "date": "2026-10-12",
+      "title": {
+        "en": "joue de porc",
+        "fr": "joue de porc",
+        "nl": "joue de porc"
+      },
+      "description": {
+        "en": "présence d'un ou plusieurs germes pathogènes dans les échantillons - escherichia coli|salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence d'un ou plusieurs germes pathogènes dans les échantillons - escherichia coli|salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence d'un ou plusieurs germes pathogènes dans les échantillons - escherichia coli|salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23720/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0076",
+      "source": "RappelConso",
+      "date": "2026-10-12",
+      "title": {
+        "en": "haché de boeuf",
+        "fr": "haché de boeuf",
+        "nl": "haché de boeuf"
+      },
+      "description": {
+        "en": "détéction de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détéction de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détéction de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23747/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0071",
+      "source": "RappelConso",
+      "date": "2026-10-12",
+      "title": {
+        "en": "petit saucisson parmesan 75g",
+        "fr": "petit saucisson parmesan 75g",
+        "nl": "petit saucisson parmesan 75g"
+      },
+      "description": {
+        "en": "suite à la présence de la salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suite à la présence de la salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suite à la présence de la salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23742/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0031",
+      "source": "RappelConso",
+      "date": "2026-10-12",
+      "title": {
+        "en": "merguez",
+        "fr": "merguez",
+        "nl": "merguez"
+      },
+      "description": {
+        "en": "détection de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23702/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0087",
+      "source": "RappelConso",
+      "date": "2026-10-12",
+      "title": {
+        "en": "munster bio ferme du pichet",
+        "fr": "munster bio ferme du pichet",
+        "nl": "munster bio ferme du pichet"
+      },
+      "description": {
+        "en": "présence de listeria détecté suite a des analyses aqualeha - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria détecté suite a des analyses aqualeha - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria détecté suite a des analyses aqualeha - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23758/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-10-0083",
       "source": "RappelConso",
@@ -646,35 +821,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-10-0036",
-      "source": "RappelConso",
-      "date": "2026-10-07",
-      "title": {
-        "en": "paupiette de porc à la savoyarde",
-        "fr": "paupiette de porc à la savoyarde",
-        "nl": "paupiette de porc à la savoyarde"
-      },
-      "description": {
-        "en": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23707/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "favv-rappel-de-lafsca-147",
       "source": "FAVV",
       "date": "2026-10-07",
@@ -732,35 +878,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-10-0041",
-      "source": "RappelConso",
-      "date": "2026-10-06",
-      "title": {
-        "en": "surimi",
-        "fr": "surimi",
-        "nl": "surimi"
-      },
-      "description": {
-        "en": "une analyse a mis en évidence la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "une analyse a mis en évidence la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "une analyse a mis en évidence la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23712/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "favv-ot-fromagerie-invoerder-rafina",
@@ -1901,33 +2018,58 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-37-2026",
-      "source": "FSA",
-      "date": "2026-07-14",
+      "id": "rappelconso-2026-10-0074",
+      "source": "RappelConso",
+      "date": "2026-10-12",
       "title": {
-        "en": "Lidl Northern Ireland recalls 1001 Delights Dubai Style Pistachio Ice Cream because of undeclared cashew (nuts)",
-        "fr": "Lidl Northern Ireland recalls 1001 Delights Dubai Style Pistachio Ice Cream because of undeclared cashew (nuts)",
-        "nl": "Lidl Northern Ireland recalls 1001 Delights Dubai Style Pistachio Ice Cream because of undeclared cashew (nuts)"
+        "en": "sachet générique 2,5kg",
+        "fr": "sachet générique 2,5kg",
+        "nl": "sachet générique 2,5kg"
       },
       "description": {
-        "en": "This product contains cashew (nuts) making it a possible health risk for anyone with an allergy to cashews.",
-        "fr": "This product contains cashew (nuts) making it a possible health risk for anyone with an allergy to cashews.",
-        "nl": "This product contains cashew (nuts) making it a possible health risk for anyone with an allergy to cashews."
+        "en": "antibiotique détecté dans dans de la viande de poulet utilisée pour la fabrication du produit - résidus de médicaments vétérinaires",
+        "fr": "antibiotique détecté dans dans de la viande de poulet utilisée pour la fabrication du produit - résidus de médicaments vétérinaires",
+        "nl": "antibiotique détecté dans dans de la viande de poulet utilisée pour la fabrication du produit - résidus de médicaments vétérinaires"
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-37-2026",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23745/interne",
       "countries": [
-        "GB"
+        "FR"
       ],
       "foodGroups": [
-        "dairy"
+        "meat"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
+      "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0086",
+      "source": "RappelConso",
+      "date": "2026-10-12",
+      "title": {
+        "en": "thon entier listao naturel pêche ligne u boîte 1/2 312g¤thon entier au naturel. poids net : 265gr¤thon entier au naturel. poids net : 70 gr¤",
+        "fr": "thon entier listao naturel pêche ligne u boîte 1/2 312g¤thon entier au naturel. poids net : 265gr¤thon entier au naturel. poids net : 70 gr¤",
+        "nl": "thon entier listao naturel pêche ligne u boîte 1/2 312g¤thon entier au naturel. poids net : 265gr¤thon entier au naturel. poids net : 70 gr¤"
+      },
+      "description": {
+        "en": "défaut d’emballage   risque de conserves bosselées entraînant une perte de liquide et une altération du produit. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut d’emballage   risque de conserves bosselées entraînant une perte de liquide et une altération du produit. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut d’emballage   risque de conserves bosselées entraînant une perte de liquide et une altération du produit. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23757/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "favv-rappel-de-cardiff-nv",
@@ -1999,33 +2141,6 @@
         "nl": "défaut de stérilisation - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
       },
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/23721/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-10-0046",
-      "source": "RappelConso",
-      "date": "2026-10-07",
-      "title": {
-        "en": "carotte sable en conditionnement de 12kg vrac.",
-        "fr": "carotte sable en conditionnement de 12kg vrac.",
-        "nl": "carotte sable en conditionnement de 12kg vrac."
-      },
-      "description": {
-        "en": "détection de linuron, substance non autorisée (herbicide) - produits phytosanitaires non autorisés",
-        "fr": "détection de linuron, substance non autorisée (herbicide) - produits phytosanitaires non autorisés",
-        "nl": "détection de linuron, substance non autorisée (herbicide) - produits phytosanitaires non autorisés"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23717/interne",
       "countries": [
         "FR"
       ],
@@ -2113,33 +2228,6 @@
       ],
       "foodGroups": [
         "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-10-0027",
-      "source": "RappelConso",
-      "date": "2026-10-05",
-      "title": {
-        "en": "crabe royal de l’antarctique 100 % chair 170g",
-        "fr": "crabe royal de l’antarctique 100 % chair 170g",
-        "nl": "crabe royal de l’antarctique 100 % chair 170g"
-      },
-      "description": {
-        "en": "suite à une suspicion de risque microbiologique, risque de gonflement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "suite à une suspicion de risque microbiologique, risque de gonflement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "suite à une suspicion de risque microbiologique, risque de gonflement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23698/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
