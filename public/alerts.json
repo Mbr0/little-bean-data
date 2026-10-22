@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T14:57:29.542Z",
+  "generated": "2026-10-22T06:03:04.762Z",
   "alerts": [
     {
       "id": "rappelconso-2026-10-0228",
@@ -58,6 +58,69 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "favv-rugroeping-door-bct-consulting",
+      "source": "FAVV",
+      "date": "2026-10-21",
+      "title": {
+        "en": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING het product “Salsicciotta” van het merk EMMEDUE uit de verkoop en roept het terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella. BCT CONSULTING verzoekt klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het werd aangekocht; daar zal het aankoopbedrag worden terugbetaald.",
+        "fr": "In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING het product “Salsicciotta” van het merk EMMEDUE uit de verkoop en roept het terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella. BCT CONSULTING verzoekt klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het werd aangekocht; daar zal het aankoopbedrag worden terugbetaald.",
+        "nl": "In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING het product “Salsicciotta” van het merk EMMEDUE uit de verkoop en roept het terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella. BCT CONSULTING verzoekt klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het werd aangekocht; daar zal het aankoopbedrag worden terugbetaald."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-door-bct-consulting",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "favv-n-la-fromagerie-des-ardennes-0",
+      "source": "FAVV",
+      "date": "2026-10-21",
+      "title": {
+        "en": "Terugroeping van La fromagerie des Ardennes | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van La fromagerie des Ardennes | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van La fromagerie des Ardennes | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf La fromagerie des Ardennes het product “verse geitenkaas” (125g) en “verse geitenkaas met kruiden” (125g) van het merk BIOFERME uit de verkoop en roept het terug van bij de consumenten vanwege de mogelijke aanwezigheid van Listeria.",
+        "fr": "In overleg met het FAVV haalt het bedrijf La fromagerie des Ardennes het product “verse geitenkaas” (125g) en “verse geitenkaas met kruiden” (125g) van het merk BIOFERME uit de verkoop en roept het terug van bij de consumenten vanwege de mogelijke aanwezigheid van Listeria.",
+        "nl": "In overleg met het FAVV haalt het bedrijf La fromagerie des Ardennes het product “verse geitenkaas” (125g) en “verse geitenkaas met kruiden” (125g) van het merk BIOFERME uit de verkoop en roept het terug van bij de consumenten vanwege de mogelijke aanwezigheid van Listeria."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-la-fromagerie-des-ardennes-0",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "fsa-FSA-PRIN-50-2026",
@@ -669,25 +732,28 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-10-0119",
-      "source": "RappelConso",
+      "id": "favv-terugroeping-van-het-favv-156",
+      "source": "FAVV",
       "date": "2026-10-16",
       "title": {
-        "en": "poulet tex mex",
-        "fr": "poulet tex mex",
-        "nl": "poulet tex mex"
+        "en": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen"
       },
       "description": {
-        "en": "e.leclerc cholet ribou procède à un rappel des produits suivants suite à la mise en évidence de la présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "e.leclerc cholet ribou procède à un rappel des produits suivants suite à la mise en évidence de la présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "e.leclerc cholet ribou procède à un rappel des produits suivants suite à la mise en évidence de la présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)"
+        "en": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV verschillende kruiden van het merk Cook uit de verkoop en roept het deze terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella.",
+        "fr": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV verschillende kruiden van het merk Cook uit de verkoop en roept het deze terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella.",
+        "nl": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV verschillende kruiden van het merk Cook uit de verkoop en roept het deze terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella."
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23790/interne",
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-156",
       "countries": [
-        "FR"
+        "BE"
+      ],
+      "languages": [
+        "nl"
       ],
       "foodGroups": [
-        "meat"
+        "plant"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -727,6 +793,35 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-10-0119",
+      "source": "RappelConso",
+      "date": "2026-10-16",
+      "title": {
+        "en": "poulet tex mex",
+        "fr": "poulet tex mex",
+        "nl": "poulet tex mex"
+      },
+      "description": {
+        "en": "e.leclerc cholet ribou procède à un rappel des produits suivants suite à la mise en évidence de la présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "e.leclerc cholet ribou procède à un rappel des produits suivants suite à la mise en évidence de la présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "e.leclerc cholet ribou procède à un rappel des produits suivants suite à la mise en évidence de la présence de salmonelle. - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23790/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
       "id": "fda-6e3414d77e20",
       "source": "FDA",
       "date": "2026-10-15",
@@ -754,6 +849,68 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "favv-terugroeping-van-het-favv-153",
+      "source": "FAVV",
+      "date": "2026-10-13",
+      "title": {
+        "en": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product \"Pork sausages\" (diepgevroren varkensworsten) van het merk ELIT uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Salmonella. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
+        "fr": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product \"Pork sausages\" (diepgevroren varkensworsten) van het merk ELIT uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Salmonella. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
+        "nl": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product \"Pork sausages\" (diepgevroren varkensworsten) van het merk ELIT uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Salmonella. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-153",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "favv-rappel-de-lafsca-149",
+      "source": "FAVV",
+      "date": "2026-10-13",
+      "title": {
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Mąka żytnia typ 720 » (Farine de seigle type 720) de la marque Młyny Szczepanki de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en ochratoxine A. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "fr": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Mąka żytnia typ 720 » (Farine de seigle type 720) de la marque Młyny Szczepanki de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en ochratoxine A. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "nl": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Mąka żytnia typ 720 » (Farine de seigle type 720) de la marque Młyny Szczepanki de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en ochratoxine A. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-149",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "rappelconso-2026-10-0097",
@@ -841,68 +998,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "favv-terugroeping-van-het-favv-153",
-      "source": "FAVV",
-      "date": "2026-10-13",
-      "title": {
-        "en": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product \"Pork sausages\" (diepgevroren varkensworsten) van het merk ELIT uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Salmonella. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
-        "fr": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product \"Pork sausages\" (diepgevroren varkensworsten) van het merk ELIT uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Salmonella. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
-        "nl": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product \"Pork sausages\" (diepgevroren varkensworsten) van het merk ELIT uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Salmonella. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-153",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "favv-rappel-de-lafsca-149",
-      "source": "FAVV",
-      "date": "2026-10-13",
-      "title": {
-        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Mąka żytnia typ 720 » (Farine de seigle type 720) de la marque Młyny Szczepanki de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en ochratoxine A. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
-        "fr": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Mąka żytnia typ 720 » (Farine de seigle type 720) de la marque Młyny Szczepanki de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en ochratoxine A. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
-        "nl": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Mąka żytnia typ 720 » (Farine de seigle type 720) de la marque Młyny Szczepanki de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en ochratoxine A. L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-149",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "rappelconso-2026-10-0092",
@@ -3320,6 +3415,36 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "favv-terugroeping-van-esn",
+      "source": "FAVV",
+      "date": "2026-10-15",
+      "title": {
+        "en": "Terugroeping van ESN | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van ESN | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van ESN | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf ESN het product “Designer Protein Bar Dark (Chocolate Salted Almond)” van het merk ESN uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van stukjes harde plastic.",
+        "fr": "In overleg met het FAVV haalt het bedrijf ESN het product “Designer Protein Bar Dark (Chocolate Salted Almond)” van het merk ESN uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van stukjes harde plastic.",
+        "nl": "In overleg met het FAVV haalt het bedrijf ESN het product “Designer Protein Bar Dark (Chocolate Salted Almond)” van het merk ESN uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van stukjes harde plastic."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-esn",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "fsa-FSA-AA-46-2026",
       "source": "FSA",
       "date": "2026-10-15",
@@ -3350,6 +3475,34 @@
       "pregnancySummaryKey": "labeling"
     },
     {
+      "id": "favv-rappel-de-flavori",
+      "source": "FAVV",
+      "date": "2026-10-14",
+      "title": {
+        "en": "Rappel de Flavori | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Flavori | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Flavori | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, Flavori international retire le cumin moulu de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en alcaloïdes pyrrolizidiniques. Flavori international demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté Description du produit :",
+        "fr": "En accord avec l’AFSCA, Flavori international retire le cumin moulu de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en alcaloïdes pyrrolizidiniques. Flavori international demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté Description du produit :",
+        "nl": "En accord avec l’AFSCA, Flavori international retire le cumin moulu de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en alcaloïdes pyrrolizidiniques. Flavori international demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-flavori",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "nvwa--dental-floss-picks-van-normal",
       "source": "NVWA",
       "date": "2026-10-13",
@@ -3376,6 +3529,34 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-lafsca-150",
+      "source": "FAVV",
+      "date": "2026-10-13",
+      "title": {
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "fr": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "nl": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-150",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
       "pregnancySummaryKey": "general"
     },
     {
@@ -3431,34 +3612,6 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "favv-rappel-de-lafsca-150",
-      "source": "FAVV",
-      "date": "2026-10-13",
-      "title": {
-        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
-        "fr": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
-        "nl": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-150",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
       "pregnancySummaryKey": "general"
     },
     {
