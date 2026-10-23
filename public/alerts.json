@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T06:03:04.762Z",
+  "generated": "2026-10-23T06:02:55.135Z",
   "alerts": [
     {
       "id": "rappelconso-2026-10-0228",
@@ -69,9 +69,9 @@
         "nl": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen"
       },
       "description": {
-        "en": "In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING het product “Salsicciotta” van het merk EMMEDUE uit de verkoop en roept het terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella. BCT CONSULTING verzoekt klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het werd aangekocht; daar zal het aankoopbedrag worden terugbetaald.",
-        "fr": "In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING het product “Salsicciotta” van het merk EMMEDUE uit de verkoop en roept het terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella. BCT CONSULTING verzoekt klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het werd aangekocht; daar zal het aankoopbedrag worden terugbetaald.",
-        "nl": "In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING het product “Salsicciotta” van het merk EMMEDUE uit de verkoop en roept het terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella. BCT CONSULTING verzoekt klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het werd aangekocht; daar zal het aankoopbedrag worden terugbetaald."
+        "en": "22/10/2026 (update van de recall van 21/10/2026) In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING de producten ““Salsicciotta”, « Salsiccia Puro Suino con Finocchio » en «Pasta di Salame con finocchio » uit de verkoop en roept ze terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella.",
+        "fr": "22/10/2026 (update van de recall van 21/10/2026) In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING de producten ““Salsicciotta”, « Salsiccia Puro Suino con Finocchio » en «Pasta di Salame con finocchio » uit de verkoop en roept ze terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella.",
+        "nl": "22/10/2026 (update van de recall van 21/10/2026) In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING de producten ““Salsicciotta”, « Salsiccia Puro Suino con Finocchio » en «Pasta di Salame con finocchio » uit de verkoop en roept ze terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella."
       },
       "url": "https://favv-afsca.be/nl/producten/terugroeping-door-bct-consulting",
       "countries": [
@@ -80,13 +80,15 @@
       "languages": [
         "nl"
       ],
-      "foodGroups": [],
+      "foodGroups": [
+        "plant"
+      ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
       "hazardTypes": [
         "microbial"
       ],
-      "dietRelevant": false,
+      "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
     },
     {
@@ -674,64 +676,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-10-0172",
-      "source": "RappelConso",
-      "date": "2026-10-16",
-      "title": {
-        "en": "coppa 60 tranches 2x250g metro chef",
-        "fr": "coppa 60 tranches 2x250g metro chef",
-        "nl": "coppa 60 tranches 2x250g metro chef"
-      },
-      "description": {
-        "en": "contamination à la listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "contamination à la listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "contamination à la listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23844/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-10-0158",
-      "source": "RappelConso",
-      "date": "2026-10-16",
-      "title": {
-        "en": "barquette coppa 100g¤",
-        "fr": "barquette coppa 100g¤",
-        "nl": "barquette coppa 100g¤"
-      },
-      "description": {
-        "en": "suspicion de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "suspicion de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "suspicion de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23830/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "favv-terugroeping-van-het-favv-156",
       "source": "FAVV",
       "date": "2026-10-16",
@@ -783,6 +727,64 @@
       ],
       "foodGroups": [
         "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0172",
+      "source": "RappelConso",
+      "date": "2026-10-16",
+      "title": {
+        "en": "coppa 60 tranches 2x250g metro chef",
+        "fr": "coppa 60 tranches 2x250g metro chef",
+        "nl": "coppa 60 tranches 2x250g metro chef"
+      },
+      "description": {
+        "en": "contamination à la listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "contamination à la listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "contamination à la listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23844/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0158",
+      "source": "RappelConso",
+      "date": "2026-10-16",
+      "title": {
+        "en": "barquette coppa 100g¤",
+        "fr": "barquette coppa 100g¤",
+        "nl": "barquette coppa 100g¤"
+      },
+      "description": {
+        "en": "suspicion de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23830/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -2352,6 +2354,36 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-10-0235",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "onigiri saumon teriyaki 120g, marque carrefour le marché",
+        "fr": "onigiri saumon teriyaki 120g, marque carrefour le marché",
+        "nl": "onigiri saumon teriyaki 120g, marque carrefour le marché"
+      },
+      "description": {
+        "en": "erreur d’étiquetage entrainant la présence d’allergènes non déclarés : œuf et moutarde - substances allergisantes non déclarées",
+        "fr": "erreur d’étiquetage entrainant la présence d’allergènes non déclarés : œuf et moutarde - substances allergisantes non déclarées",
+        "nl": "erreur d’étiquetage entrainant la présence d’allergènes non déclarés : œuf et moutarde - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23907/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "fsa-FSA-AA-48-2026",
       "source": "FSA",
       "date": "2026-10-21",
@@ -2764,35 +2796,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fda-d0296626f699",
-      "source": "FDA",
-      "date": "2026-10-02",
-      "title": {
-        "en": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk",
-        "fr": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk",
-        "nl": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk"
-      },
-      "description": {
-        "en": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product.",
-        "fr": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product.",
-        "nl": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/flowers-foods-issues-recall-natures-own-hawaiian-bread-due-undeclared-milk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "fsa-FSA-AA-43-2026",
       "source": "FSA",
       "date": "2026-10-02",
@@ -2812,6 +2815,35 @@
       ],
       "foodGroups": [
         "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-d0296626f699",
+      "source": "FDA",
+      "date": "2026-10-02",
+      "title": {
+        "en": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk",
+        "fr": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk",
+        "nl": "Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk"
+      },
+      "description": {
+        "en": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product.",
+        "fr": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product.",
+        "nl": "THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/flowers-foods-issues-recall-natures-own-hawaiian-bread-due-undeclared-milk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
         "dairy"
       ],
       "pregnancyRelevance": "medium",
@@ -3067,6 +3099,440 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-10-0232",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "viandes et préparation de viande, préparées avec de la ficelle à rôti ( pot au feu, pave façon tournedos, rôtis, paupiettes, etc.)",
+        "fr": "viandes et préparation de viande, préparées avec de la ficelle à rôti ( pot au feu, pave façon tournedos, rôtis, paupiettes, etc.)",
+        "nl": "viandes et préparation de viande, préparées avec de la ficelle à rôti ( pot au feu, pave façon tournedos, rôtis, paupiettes, etc.)"
+      },
+      "description": {
+        "en": "présence de bisphénol a dans le fil à roti - autres contaminants chimiques",
+        "fr": "présence de bisphénol a dans le fil à roti - autres contaminants chimiques",
+        "nl": "présence de bisphénol a dans le fil à roti - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23904/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0215",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "boudin à l'oignon 180g",
+        "fr": "boudin à l'oignon 180g",
+        "nl": "boudin à l'oignon 180g"
+      },
+      "description": {
+        "en": "défaut de fabrication. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication. - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23887/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0211",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté pur cochon 180g",
+        "fr": "pâté pur cochon 180g",
+        "nl": "pâté pur cochon 180g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23883/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0210",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "boudin pur cochon 180 g",
+        "fr": "boudin pur cochon 180 g",
+        "nl": "boudin pur cochon 180 g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23882/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0213",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté de foie aux cèpes  180g",
+        "fr": "pâté de foie aux cèpes  180g",
+        "nl": "pâté de foie aux cèpes  180g"
+      },
+      "description": {
+        "en": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23885/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0214",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté au cognac 180g",
+        "fr": "pâté au cognac 180g",
+        "nl": "pâté au cognac 180g"
+      },
+      "description": {
+        "en": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23886/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0212",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté de foie pur cochon 180 g",
+        "fr": "pâté de foie pur cochon 180 g",
+        "nl": "pâté de foie pur cochon 180 g"
+      },
+      "description": {
+        "en": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23884/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0224",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté de foie aux cèpes pur cochon",
+        "fr": "pâté de foie aux cèpes pur cochon",
+        "nl": "pâté de foie aux cèpes pur cochon"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23896/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0207",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "rillette pur cochon 180g",
+        "fr": "rillette pur cochon 180g",
+        "nl": "rillette pur cochon 180g"
+      },
+      "description": {
+        "en": "anomalie de conditionnement - clostridium botulinum (agent responsable du botulisme)",
+        "fr": "anomalie de conditionnement - clostridium botulinum (agent responsable du botulisme)",
+        "nl": "anomalie de conditionnement - clostridium botulinum (agent responsable du botulisme)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23879/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0209",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté de lapin 180g",
+        "fr": "pâté de lapin 180g",
+        "nl": "pâté de lapin 180g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23881/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0219",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté campagne fines herbes 180g",
+        "fr": "pâté campagne fines herbes 180g",
+        "nl": "pâté campagne fines herbes 180g"
+      },
+      "description": {
+        "en": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23891/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0220",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté campagne fines herbes 280 g",
+        "fr": "pâté campagne fines herbes 280 g",
+        "nl": "pâté campagne fines herbes 280 g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23892/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0217",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "jambonneau 320 g",
+        "fr": "jambonneau 320 g",
+        "nl": "jambonneau 320 g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23889/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0216",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté à l'oignon 180g",
+        "fr": "pâté à l'oignon 180g",
+        "nl": "pâté à l'oignon 180g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23888/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0218",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté aux cèpes pur cochon 180 g",
+        "fr": "pâté aux cèpes pur cochon 180 g",
+        "nl": "pâté aux cèpes pur cochon 180 g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23890/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fda-ccd99883318c",
+      "source": "FDA",
+      "date": "2026-10-22",
+      "title": {
+        "en": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
+        "fr": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
+        "nl": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material"
+      },
+      "description": {
+        "en": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
+        "fr": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
+        "nl": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/natural-grocers-recalls-natural-grocers-brand-organic-2-pound-mung-beans-due-potential-presence",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "rappelconso-2026-10-0230",
       "source": "RappelConso",
       "date": "2026-10-21",
@@ -3257,33 +3723,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-10-0159",
-      "source": "RappelConso",
-      "date": "2026-10-19",
-      "title": {
-        "en": "--",
-        "fr": "--",
-        "nl": "--"
-      },
-      "description": {
-        "en": "dlc indiquée sur le produit erronée: 31/10/2027 au lieu de 31/10/2026 - autres contaminants biologiques",
-        "fr": "dlc indiquée sur le produit erronée: 31/10/2027 au lieu de 31/10/2026 - autres contaminants biologiques",
-        "nl": "dlc indiquée sur le produit erronée: 31/10/2027 au lieu de 31/10/2026 - autres contaminants biologiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23831/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "nvwa-r-dark-chocolate-salted-almond",
       "source": "NVWA",
       "date": "2026-10-19",
@@ -3329,6 +3768,33 @@
       "countries": [
         "NL",
         "BE"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0159",
+      "source": "RappelConso",
+      "date": "2026-10-19",
+      "title": {
+        "en": "--",
+        "fr": "--",
+        "nl": "--"
+      },
+      "description": {
+        "en": "dlc indiquée sur le produit erronée: 31/10/2027 au lieu de 31/10/2026 - autres contaminants biologiques",
+        "fr": "dlc indiquée sur le produit erronée: 31/10/2027 au lieu de 31/10/2026 - autres contaminants biologiques",
+        "nl": "dlc indiquée sur le produit erronée: 31/10/2027 au lieu de 31/10/2026 - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23831/interne",
+      "countries": [
+        "FR"
       ],
       "foodGroups": [
         "meat"
