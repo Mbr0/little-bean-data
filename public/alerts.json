@@ -1,6 +1,66 @@
 {
-  "generated": "2026-10-23T06:02:55.135Z",
+  "generated": "2026-10-24T06:02:54.807Z",
   "alerts": [
+    {
+      "id": "favv-terugroeping-van-danforel",
+      "source": "FAVV",
+      "date": "2026-10-23",
+      "title": {
+        "en": "Terugroeping van Danforel | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Danforel | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Danforel | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "Leverancier Danforel haalt het artikel ‘Gerookte forelfilet’ van het merk Nautica uit de verkoop en roept het terug van bij de consumenten wegens een mogelijke aanwezigheid van Listeria. Lidl België vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt. U krijgt uw artikel terugbetaald, ook zonder vertoon van uw kassaticket. Beschrijving van de product:",
+        "fr": "Leverancier Danforel haalt het artikel ‘Gerookte forelfilet’ van het merk Nautica uit de verkoop en roept het terug van bij de consumenten wegens een mogelijke aanwezigheid van Listeria. Lidl België vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt. U krijgt uw artikel terugbetaald, ook zonder vertoon van uw kassaticket. Beschrijving van de product:",
+        "nl": "Leverancier Danforel haalt het artikel ‘Gerookte forelfilet’ van het merk Nautica uit de verkoop en roept het terug van bij de consumenten wegens een mogelijke aanwezigheid van Listeria. Lidl België vraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt. U krijgt uw artikel terugbetaald, ook zonder vertoon van uw kassaticket. Beschrijving van de product:"
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-danforel",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-ppel-de-la-vie-claire-belgique",
+      "source": "FAVV",
+      "date": "2026-10-23",
+      "title": {
+        "en": "Rappel de La Vie Claire Belgique | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de La Vie Claire Belgique | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de La Vie Claire Belgique | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l'AFSCA, la société La Vie Claire retire de la vente le produit « Mélange Tandoori » (35g) de la marque La Vie Claire et procède à son rappel auprès des consommateurs en raison de la présence possible de Salmonella. CLEBIO SRL demande à ses clients de ne pas consommer ce produit et de le rapporter au magasin dans lequel il a été acheté, où il leur sera remboursé. Description du produit",
+        "fr": "En accord avec l'AFSCA, la société La Vie Claire retire de la vente le produit « Mélange Tandoori » (35g) de la marque La Vie Claire et procède à son rappel auprès des consommateurs en raison de la présence possible de Salmonella. CLEBIO SRL demande à ses clients de ne pas consommer ce produit et de le rapporter au magasin dans lequel il a été acheté, où il leur sera remboursé. Description du produit",
+        "nl": "En accord avec l'AFSCA, la société La Vie Claire retire de la vente le produit « Mélange Tandoori » (35g) de la marque La Vie Claire et procède à son rappel auprès des consommateurs en raison de la présence possible de Salmonella. CLEBIO SRL demande à ses clients de ne pas consommer ce produit et de le rapporter au magasin dans lequel il a été acheté, où il leur sera remboursé. Description du produit"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-la-vie-claire-belgique",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-10-0228",
       "source": "RappelConso",
@@ -2354,6 +2414,36 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "cfia-82848",
+      "source": "CFIA",
+      "date": "2026-10-23",
+      "title": {
+        "en": "Plantropy brand Jack’d Up Bites Crispy Protein Bites - Jalapeno recalled due to undeclared milk",
+        "fr": "Plantropy brand Jack’d Up Bites Crispy Protein Bites - Jalapeno recalled due to undeclared milk",
+        "nl": "Plantropy brand Jack’d Up Bites Crispy Protein Bites - Jalapeno recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
+        "fr": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
+        "nl": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/plantropy-brand-jack-bites-crispy-protein-bites-jalapeno-recalled-due-undeclared-milk",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-10-0235",
       "source": "RappelConso",
       "date": "2026-10-22",
@@ -2499,6 +2589,35 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "nvwa-e-krul-40g-van-aldi-allergenen",
+      "source": "NVWA",
+      "date": "2026-10-16",
+      "title": {
+        "en": "Veiligheidswaarschuwing peterselie krul 40g van ALDI (allergenen)",
+        "fr": "Veiligheidswaarschuwing peterselie krul 40g van ALDI (allergenen)",
+        "nl": "Veiligheidswaarschuwing peterselie krul 40g van ALDI (allergenen)"
+      },
+      "description": {
+        "en": "ALDI waarschuwt namens leverancier STAAY FOOD GROUP voor Peterselie krul 40g. In de verpakking zit selderij. Dit staat niet vermeld op het etiket. Eet het product niet als u allergisch bent voor selderij. Bekijk de waarschuwing op de website van...",
+        "fr": "ALDI waarschuwt namens leverancier STAAY FOOD GROUP voor Peterselie krul 40g. In de verpakking zit selderij. Dit staat niet vermeld op het etiket. Eet het product niet als u allergisch bent voor selderij. Bekijk de waarschuwing op de website van...",
+        "nl": "ALDI waarschuwt namens leverancier STAAY FOOD GROUP voor Peterselie krul 40g. In de verpakking zit selderij. Dit staat niet vermeld op het etiket. Eet het product niet als u allergisch bent voor selderij. Bekijk de waarschuwing op de website van..."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/10/16/veiligheidswaarschuwing-peterselie-krul-40g-van-aldi-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "cfia-82810",
       "source": "CFIA",
       "date": "2026-10-16",
@@ -2526,35 +2645,6 @@
         "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "nvwa-e-krul-40g-van-aldi-allergenen",
-      "source": "NVWA",
-      "date": "2026-10-16",
-      "title": {
-        "en": "Veiligheidswaarschuwing peterselie krul 40g van ALDI (allergenen)",
-        "fr": "Veiligheidswaarschuwing peterselie krul 40g van ALDI (allergenen)",
-        "nl": "Veiligheidswaarschuwing peterselie krul 40g van ALDI (allergenen)"
-      },
-      "description": {
-        "en": "ALDI waarschuwt namens leverancier STAAY FOOD GROUP voor Peterselie krul 40g. In de verpakking zit selderij. Dit staat niet vermeld op het etiket. Eet het product niet als u allergisch bent voor selderij. Bekijk de waarschuwing op de website van...",
-        "fr": "ALDI waarschuwt namens leverancier STAAY FOOD GROUP voor Peterselie krul 40g. In de verpakking zit selderij. Dit staat niet vermeld op het etiket. Eet het product niet als u allergisch bent voor selderij. Bekijk de waarschuwing op de website van...",
-        "nl": "ALDI waarschuwt namens leverancier STAAY FOOD GROUP voor Peterselie krul 40g. In de verpakking zit selderij. Dit staat niet vermeld op het etiket. Eet het product niet als u allergisch bent voor selderij. Bekijk de waarschuwing op de website van..."
-      },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/10/16/veiligheidswaarschuwing-peterselie-krul-40g-van-aldi-allergenen",
-      "countries": [
-        "NL",
-        "BE"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": false,
       "pregnancySummaryKey": "allergen"
     },
     {
@@ -3069,34 +3159,256 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-39-2026",
-      "source": "FSA",
-      "date": "2026-07-25",
+      "id": "rappelconso-2026-10-0252",
+      "source": "RappelConso",
+      "date": "2026-10-23",
       "title": {
-        "en": "Bon Bons Wholesale Ltd recalls various chocolate products because of undeclared milk and soya",
-        "fr": "Bon Bons Wholesale Ltd recalls various chocolate products because of undeclared milk and soya",
-        "nl": "Bon Bons Wholesale Ltd recalls various chocolate products because of undeclared milk and soya"
+        "en": "tempeh de pois chiches¤tempeh de lentilles¤tempeh de soja",
+        "fr": "tempeh de pois chiches¤tempeh de lentilles¤tempeh de soja",
+        "nl": "tempeh de pois chiches¤tempeh de lentilles¤tempeh de soja"
       },
       "description": {
-        "en": "Milk and soya\nThese products contain milk and soya making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents and/or an allergy to soya.",
-        "fr": "Milk and soya\nThese products contain milk and soya making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents and/or an allergy to soya.",
-        "nl": "Milk and soya\nThese products contain milk and soya making them a possible health risk for anyone with an allergy or intolerance to milk or milk constituents and/or an allergy to soya."
+        "en": "analyses microbiologiques au dessus des normes en vigueur, sur le lot précédent. retrait des produits de ce lot par précaution. - bacillus cereus|staphylococcus aureus (agent responsable d'intoxination staphylococcique)",
+        "fr": "analyses microbiologiques au dessus des normes en vigueur, sur le lot précédent. retrait des produits de ce lot par précaution. - bacillus cereus|staphylococcus aureus (agent responsable d'intoxination staphylococcique)",
+        "nl": "analyses microbiologiques au dessus des normes en vigueur, sur le lot précédent. retrait des produits de ce lot par précaution. - bacillus cereus|staphylococcus aureus (agent responsable d'intoxination staphylococcique)"
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-39-2026",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23925/interne",
       "countries": [
-        "GB"
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0245",
+      "source": "RappelConso",
+      "date": "2026-10-23",
+      "title": {
+        "en": "ferme de larcher",
+        "fr": "ferme de larcher",
+        "nl": "ferme de larcher"
+      },
+      "description": {
+        "en": "risque de toxi- infections alimentaires causées par la présence d’asr se traduisent par des crampes et douleurs abdominales, et une diarrhée. - autres contaminants biologiques",
+        "fr": "risque de toxi- infections alimentaires causées par la présence d’asr se traduisent par des crampes et douleurs abdominales, et une diarrhée. - autres contaminants biologiques",
+        "nl": "risque de toxi- infections alimentaires causées par la présence d’asr se traduisent par des crampes et douleurs abdominales, et une diarrhée. - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23918/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0135",
+      "source": "RappelConso",
+      "date": "2026-10-23",
+      "title": {
+        "en": "1l¤6x1l",
+        "fr": "1l¤6x1l",
+        "nl": "1l¤6x1l"
+      },
+      "description": {
+        "en": "présence d'une odeur et/ou d'un goût inhabituel - modifications organoleptiques",
+        "fr": "présence d'une odeur et/ou d'un goût inhabituel - modifications organoleptiques",
+        "nl": "présence d'une odeur et/ou d'un goût inhabituel - modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23806/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "children",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0221",
+      "source": "RappelConso",
+      "date": "2026-10-23",
+      "title": {
+        "en": "pâté de chevreuil 180g",
+        "fr": "pâté de chevreuil 180g",
+        "nl": "pâté de chevreuil 180g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23893/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0238",
+      "source": "RappelConso",
+      "date": "2026-10-23",
+      "title": {
+        "en": "pâté pur cochon 180g et 280g",
+        "fr": "pâté pur cochon 180g et 280g",
+        "nl": "pâté pur cochon 180g et 280g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23910/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0222",
+      "source": "RappelConso",
+      "date": "2026-10-23",
+      "title": {
+        "en": "térrine de sanglier180g",
+        "fr": "térrine de sanglier180g",
+        "nl": "térrine de sanglier180g"
+      },
+      "description": {
+        "en": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "defaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23894/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0208",
+      "source": "RappelConso",
+      "date": "2026-10-23",
+      "title": {
+        "en": "pâté pur cochon 180g et 280g",
+        "fr": "pâté pur cochon 180g et 280g",
+        "nl": "pâté pur cochon 180g et 280g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23880/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "nvwa-uwing-melkunie-protein-pudding",
+      "source": "NVWA",
+      "date": "2026-10-23",
+      "title": {
+        "en": "Veiligheidswaarschuwing Melkunie Protein Pudding",
+        "fr": "Veiligheidswaarschuwing Melkunie Protein Pudding",
+        "nl": "Veiligheidswaarschuwing Melkunie Protein Pudding"
+      },
+      "description": {
+        "en": "Melkunie roept een partij Melkunie Protein Pudding in de smaken chocolade en crème brûlée terug omdat ze mogelijk kleine glasdeeltjes bevatten. Eet het product niet. Bekijk de waarschuwing op de website van Melkunie",
+        "fr": "Melkunie roept een partij Melkunie Protein Pudding in de smaken chocolade en crème brûlée terug omdat ze mogelijk kleine glasdeeltjes bevatten. Eet het product niet. Bekijk de waarschuwing op de website van Melkunie",
+        "nl": "Melkunie roept een partij Melkunie Protein Pudding in de smaken chocolade en crème brûlée terug omdat ze mogelijk kleine glasdeeltjes bevatten. Eet het product niet. Bekijk de waarschuwing op de website van Melkunie"
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/10/23/veiligheidswaarschuwing-melkunie-protein-pudding",
+      "countries": [
+        "NL",
+        "BE"
       ],
       "foodGroups": [
         "dairy",
         "plant"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "physical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "favv-rappel-de-lafsca-152",
+      "source": "FAVV",
+      "date": "2026-10-23",
+      "title": {
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "L'AFSCA retire le pouding 'protein' (crème brulée & chocolate) de la marque Melkunie de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :",
+        "fr": "L'AFSCA retire le pouding 'protein' (crème brulée & chocolate) de la marque Melkunie de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :",
+        "nl": "L'AFSCA retire le pouding 'protein' (crème brulée & chocolate) de la marque Melkunie de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-152",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-10-0232",
@@ -3641,33 +3953,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-10-0199",
-      "source": "RappelConso",
-      "date": "2026-10-20",
-      "title": {
-        "en": "014956.01\tconfit de canard fr le gourmand boite 8/6 1240g\t3113010173927¤",
-        "fr": "014956.01\tconfit de canard fr le gourmand boite 8/6 1240g\t3113010173927¤",
-        "nl": "014956.01\tconfit de canard fr le gourmand boite 8/6 1240g\t3113010173927¤"
-      },
-      "description": {
-        "en": "suspicion de défaut de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "suspicion de défaut de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "suspicion de défaut de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23871/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "nvwa-cake-chocoladeletter-van-jamin",
       "source": "NVWA",
       "date": "2026-10-20",
@@ -3688,6 +3973,33 @@
       ],
       "foodGroups": [
         "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0199",
+      "source": "RappelConso",
+      "date": "2026-10-20",
+      "title": {
+        "en": "014956.01\tconfit de canard fr le gourmand boite 8/6 1240g\t3113010173927¤",
+        "fr": "014956.01\tconfit de canard fr le gourmand boite 8/6 1240g\t3113010173927¤",
+        "nl": "014956.01\tconfit de canard fr le gourmand boite 8/6 1240g\t3113010173927¤"
+      },
+      "description": {
+        "en": "suspicion de défaut de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "suspicion de défaut de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "suspicion de défaut de conditionnement - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23871/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -3881,36 +4193,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "favv-terugroeping-van-esn",
-      "source": "FAVV",
-      "date": "2026-10-15",
-      "title": {
-        "en": "Terugroeping van ESN | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van ESN | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van ESN | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "In overleg met het FAVV haalt het bedrijf ESN het product “Designer Protein Bar Dark (Chocolate Salted Almond)” van het merk ESN uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van stukjes harde plastic.",
-        "fr": "In overleg met het FAVV haalt het bedrijf ESN het product “Designer Protein Bar Dark (Chocolate Salted Almond)” van het merk ESN uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van stukjes harde plastic.",
-        "nl": "In overleg met het FAVV haalt het bedrijf ESN het product “Designer Protein Bar Dark (Chocolate Salted Almond)” van het merk ESN uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van stukjes harde plastic."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-esn",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "fsa-FSA-AA-46-2026",
       "source": "FSA",
       "date": "2026-10-15",
@@ -3939,6 +4221,36 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "labeling"
+    },
+    {
+      "id": "favv-terugroeping-van-esn",
+      "source": "FAVV",
+      "date": "2026-10-15",
+      "title": {
+        "en": "Terugroeping van ESN | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van ESN | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van ESN | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf ESN het product “Designer Protein Bar Dark (Chocolate Salted Almond)” van het merk ESN uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van stukjes harde plastic.",
+        "fr": "In overleg met het FAVV haalt het bedrijf ESN het product “Designer Protein Bar Dark (Chocolate Salted Almond)” van het merk ESN uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van stukjes harde plastic.",
+        "nl": "In overleg met het FAVV haalt het bedrijf ESN het product “Designer Protein Bar Dark (Chocolate Salted Almond)” van het merk ESN uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van stukjes harde plastic."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-esn",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "favv-rappel-de-flavori",
@@ -3998,34 +4310,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "favv-rappel-de-lafsca-150",
-      "source": "FAVV",
-      "date": "2026-10-13",
-      "title": {
-        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
-        "fr": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
-        "nl": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-150",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "fsa-FSA-PRIN-49-2026",
       "source": "FSA",
       "date": "2026-10-13",
@@ -4051,6 +4335,34 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-lafsca-150",
+      "source": "FAVV",
+      "date": "2026-10-13",
+      "title": {
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "fr": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :",
+        "nl": "Suite à une notification via le système RASFF (système d'alerte rapide européen Food et Feed), l’AFSCA retire le produit « Chrysantemum Bud » (bourgeons de de chrysanthème) de la marque Nature’s best harvest de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en produits phytopharmaceutiques (dont du chlorpyrifos). L’AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-150",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
       "pregnancySummaryKey": "general"
     },
     {
