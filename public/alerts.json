@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T06:02:54.807Z",
+  "generated": "2026-10-25T06:02:48.160Z",
   "alerts": [
     {
       "id": "favv-terugroeping-van-danforel",
@@ -2412,6 +2412,95 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "nvwa-ebowl-sticky-tempeh-allergenen",
+      "source": "NVWA",
+      "date": "2026-10-24",
+      "title": {
+        "en": "Veiligheidswaarschuwing AH Pokebowl sticky tempeh (allergenen)",
+        "fr": "Veiligheidswaarschuwing AH Pokebowl sticky tempeh (allergenen)",
+        "nl": "Veiligheidswaarschuwing AH Pokebowl sticky tempeh (allergenen)"
+      },
+      "description": {
+        "en": "Albert Heijn waarschuwt voor AH Pokebowl sticky tempeh. Op de verpakking staat een vegan-logo, terwijl het product ei bevat. Eet het product niet als u allergisch bent voor ei of een veganistisch dieet volgt. Bekijk de waarschuwing op de website...",
+        "fr": "Albert Heijn waarschuwt voor AH Pokebowl sticky tempeh. Op de verpakking staat een vegan-logo, terwijl het product ei bevat. Eet het product niet als u allergisch bent voor ei of een veganistisch dieet volgt. Bekijk de waarschuwing op de website...",
+        "nl": "Albert Heijn waarschuwt voor AH Pokebowl sticky tempeh. Op de verpakking staat een vegan-logo, terwijl het product ei bevat. Eet het product niet als u allergisch bent voor ei of een veganistisch dieet volgt. Bekijk de waarschuwing op de website..."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/10/24/veiligheidswaarschuwing-ah-pokebowl-sticky-tempeh-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-adc711f76fa9",
+      "source": "FDA",
+      "date": "2026-10-24",
+      "title": {
+        "en": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine",
+        "fr": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine",
+        "nl": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine"
+      },
+      "description": {
+        "en": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine.",
+        "fr": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine.",
+        "nl": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonight-we-ride-llc-issues-voluntary-recall-ultimate-forza-male-supplement-due-presence-undeclared",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-49-2026",
+      "source": "FSA",
+      "date": "2026-10-24",
+      "title": {
+        "en": "The Basic Ingredients Ltd recalls Emma Basic Curry Cubes Japanese Style because of undeclared milk",
+        "fr": "The Basic Ingredients Ltd recalls Emma Basic Curry Cubes Japanese Style because of undeclared milk",
+        "nl": "The Basic Ingredients Ltd recalls Emma Basic Curry Cubes Japanese Style because of undeclared milk"
+      },
+      "description": {
+        "en": "Allergens: Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "fr": "Allergens: Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents.",
+        "nl": "Allergens: Milk\nThis product may contain milk making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-49-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82848",
