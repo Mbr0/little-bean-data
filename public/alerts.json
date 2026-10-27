@@ -1,6 +1,64 @@
 {
-  "generated": "2026-10-26T06:04:09.603Z",
+  "generated": "2026-10-27T06:03:10.241Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0260",
+      "source": "RappelConso",
+      "date": "2026-10-26",
+      "title": {
+        "en": "pâté aux olives",
+        "fr": "pâté aux olives",
+        "nl": "pâté aux olives"
+      },
+      "description": {
+        "en": "détection de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23933/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0225",
+      "source": "RappelConso",
+      "date": "2026-10-26",
+      "title": {
+        "en": "paupiette de poulet au chorizo",
+        "fr": "paupiette de poulet au chorizo",
+        "nl": "paupiette de poulet au chorizo"
+      },
+      "description": {
+        "en": "présence de salmonelle détectée dans le produit - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle détectée dans le produit - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle détectée dans le produit - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23897/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "favv-terugroeping-van-danforel",
       "source": "FAVV",
@@ -89,35 +147,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-10-0113",
-      "source": "RappelConso",
-      "date": "2026-10-21",
-      "title": {
-        "en": "bœuf haché à la demande",
-        "fr": "bœuf haché à la demande",
-        "nl": "bœuf haché à la demande"
-      },
-      "description": {
-        "en": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23784/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "favv-rugroeping-door-bct-consulting",
@@ -212,6 +241,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0113",
+      "source": "RappelConso",
+      "date": "2026-10-21",
+      "title": {
+        "en": "bœuf haché à la demande",
+        "fr": "bœuf haché à la demande",
+        "nl": "bœuf haché à la demande"
+      },
+      "description": {
+        "en": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonella spp (agent responsable de la salmonellose) - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23784/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-10-0204",
@@ -736,6 +794,35 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
+      "id": "fda-51d2f19dc88f",
+      "source": "FDA",
+      "date": "2026-10-16",
+      "title": {
+        "en": "Lidl US Recalls Gelatelli Coffee & Vanilla Gelato Due to Possible Health Risk",
+        "fr": "Lidl US Recalls Gelatelli Coffee & Vanilla Gelato Due to Possible Health Risk",
+        "nl": "Lidl US Recalls Gelatelli Coffee & Vanilla Gelato Due to Possible Health Risk"
+      },
+      "description": {
+        "en": "ARLINGTON, VA – OCTOBER 16, 2026 – Lidl US is recalling one lot of Gelatelli Coffee & Vanilla Gelato with Coffee Sauce & Cookie Pieces 16 FL OZ (1 PT) UPC 4 0564897 22458 Lot: 085261 Best By MAR/26/2028 because it has the potential to be contaminated with Listeria monocytogenes, an organism which ca",
+        "fr": "ARLINGTON, VA – OCTOBER 16, 2026 – Lidl US is recalling one lot of Gelatelli Coffee & Vanilla Gelato with Coffee Sauce & Cookie Pieces 16 FL OZ (1 PT) UPC 4 0564897 22458 Lot: 085261 Best By MAR/26/2028 because it has the potential to be contaminated with Listeria monocytogenes, an organism which ca",
+        "nl": "ARLINGTON, VA – OCTOBER 16, 2026 – Lidl US is recalling one lot of Gelatelli Coffee & Vanilla Gelato with Coffee Sauce & Cookie Pieces 16 FL OZ (1 PT) UPC 4 0564897 22458 Lot: 085261 Best By MAR/26/2028 because it has the potential to be contaminated with Listeria monocytogenes, an organism which ca"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-us-recalls-gelatelli-coffee-vanilla-gelato-due-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
       "id": "favv-terugroeping-van-het-favv-156",
       "source": "FAVV",
       "date": "2026-10-16",
@@ -766,35 +853,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "fda-51d2f19dc88f",
-      "source": "FDA",
-      "date": "2026-10-16",
-      "title": {
-        "en": "Lidl US Recalls Gelatelli Coffee & Vanilla Gelato Due to Possible Health Risk",
-        "fr": "Lidl US Recalls Gelatelli Coffee & Vanilla Gelato Due to Possible Health Risk",
-        "nl": "Lidl US Recalls Gelatelli Coffee & Vanilla Gelato Due to Possible Health Risk"
-      },
-      "description": {
-        "en": "ARLINGTON, VA – OCTOBER 16, 2026 – Lidl US is recalling one lot of Gelatelli Coffee & Vanilla Gelato with Coffee Sauce & Cookie Pieces 16 FL OZ (1 PT) UPC 4 0564897 22458 Lot: 085261 Best By MAR/26/2028 because it has the potential to be contaminated with Listeria monocytogenes, an organism which ca",
-        "fr": "ARLINGTON, VA – OCTOBER 16, 2026 – Lidl US is recalling one lot of Gelatelli Coffee & Vanilla Gelato with Coffee Sauce & Cookie Pieces 16 FL OZ (1 PT) UPC 4 0564897 22458 Lot: 085261 Best By MAR/26/2028 because it has the potential to be contaminated with Listeria monocytogenes, an organism which ca",
-        "nl": "ARLINGTON, VA – OCTOBER 16, 2026 – Lidl US is recalling one lot of Gelatelli Coffee & Vanilla Gelato with Coffee Sauce & Cookie Pieces 16 FL OZ (1 PT) UPC 4 0564897 22458 Lot: 085261 Best By MAR/26/2028 because it has the potential to be contaminated with Listeria monocytogenes, an organism which ca"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/lidl-us-recalls-gelatelli-coffee-vanilla-gelato-due-possible-health-risk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "rappelconso-2026-10-0172",
@@ -3248,6 +3306,115 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "cfia-82859",
+      "source": "CFIA",
+      "date": "2026-10-27",
+      "title": {
+        "en": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage",
+        "fr": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage",
+        "nl": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage"
+      },
+      "description": {
+        "en": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage.",
+        "fr": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage.",
+        "nl": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/buck-wild-brand-shaft-cocktail-canadian-hard-coffee-recalled-due-container-integrity",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82850",
+      "source": "CFIA",
+      "date": "2026-10-26",
+      "title": {
+        "en": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments",
+        "fr": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments",
+        "nl": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments"
+      },
+      "description": {
+        "en": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments.",
+        "fr": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments.",
+        "nl": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/neo-chips-brand-apple-wild-blueberry-freeze-dried-fruit-sticks-recalled-due-pieces",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0140",
+      "source": "RappelConso",
+      "date": "2026-10-26",
+      "title": {
+        "en": "affranchi lab gummis multi fruit 10 mg thc",
+        "fr": "affranchi lab gummis multi fruit 10 mg thc",
+        "nl": "affranchi lab gummis multi fruit 10 mg thc"
+      },
+      "description": {
+        "en": "teneur en delta 8 et delta 9 thc supérieur a la dose de référence aigue. - présence de substance interdite",
+        "fr": "teneur en delta 8 et delta 9 thc supérieur a la dose de référence aigue. - présence de substance interdite",
+        "nl": "teneur en delta 8 et delta 9 thc supérieur a la dose de référence aigue. - présence de substance interdite"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23812/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-terugroeping-van-intermarche-9",
+      "source": "FAVV",
+      "date": "2026-10-26",
+      "title": {
+        "en": "Terugroeping van Intermarché | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Intermarché | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Intermarché | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt Intermarché het onderstaand product uit de verkoop en roept het terug bij de consumenten wegens de mogelijke aanwezigheid van een zeepgeur of -smaak.",
+        "fr": "In overleg met het FAVV haalt Intermarché het onderstaand product uit de verkoop en roept het terug bij de consumenten wegens de mogelijke aanwezigheid van een zeepgeur of -smaak.",
+        "nl": "In overleg met het FAVV haalt Intermarché het onderstaand product uit de verkoop en roept het terug bij de consumenten wegens de mogelijke aanwezigheid van een zeepgeur of -smaak."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-9",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-10-0252",
       "source": "RappelConso",
       "date": "2026-10-23",
@@ -4097,33 +4264,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "cfia-82809",
-      "source": "CFIA",
-      "date": "2026-10-19",
-      "title": {
-        "en": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
-        "fr": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
-        "nl": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim"
-      },
-      "description": {
-        "en": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim.",
-        "fr": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim.",
-        "nl": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/one-degree-organic-foods-brand-sprouted-whole-wheat-flour-recalled-due-misleading",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "nvwa-r-dark-chocolate-salted-almond",
       "source": "NVWA",
       "date": "2026-10-19",
@@ -4172,6 +4312,33 @@
       ],
       "foodGroups": [
         "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82809",
+      "source": "CFIA",
+      "date": "2026-10-19",
+      "title": {
+        "en": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
+        "fr": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
+        "nl": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim"
+      },
+      "description": {
+        "en": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim.",
+        "fr": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim.",
+        "nl": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim."
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/one-degree-organic-foods-brand-sprouted-whole-wheat-flour-recalled-due-misleading",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
