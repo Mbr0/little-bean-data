@@ -1,6 +1,64 @@
 {
-  "generated": "2026-10-27T06:03:10.241Z",
+  "generated": "2026-10-28T06:02:29.737Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0258",
+      "source": "RappelConso",
+      "date": "2026-10-27",
+      "title": {
+        "en": "poulet basilic",
+        "fr": "poulet basilic",
+        "nl": "poulet basilic"
+      },
+      "description": {
+        "en": "présence du germe listeria <10ufc/g - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence du germe listeria <10ufc/g - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence du germe listeria <10ufc/g - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23931/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0256",
+      "source": "RappelConso",
+      "date": "2026-10-27",
+      "title": {
+        "en": "cuisse de poulet farcie",
+        "fr": "cuisse de poulet farcie",
+        "nl": "cuisse de poulet farcie"
+      },
+      "description": {
+        "en": "présence de salmonella typhimurum - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonella typhimurum - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonella typhimurum - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23929/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-10-0260",
       "source": "RappelConso",
@@ -120,35 +178,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-10-0228",
-      "source": "RappelConso",
-      "date": "2026-10-21",
-      "title": {
-        "en": "crousty poulet et riz et sauce blanche, ¤crousty poulet et riz sauce blanche épicée, ¤crousty poulet et riz sauce curry",
-        "fr": "crousty poulet et riz et sauce blanche, ¤crousty poulet et riz sauce blanche épicée, ¤crousty poulet et riz sauce curry",
-        "nl": "crousty poulet et riz et sauce blanche, ¤crousty poulet et riz sauce blanche épicée, ¤crousty poulet et riz sauce curry"
-      },
-      "description": {
-        "en": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23900/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "favv-rugroeping-door-bct-consulting",
       "source": "FAVV",
       "date": "2026-10-21",
@@ -233,6 +262,35 @@
       ],
       "foodGroups": [
         "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0228",
+      "source": "RappelConso",
+      "date": "2026-10-21",
+      "title": {
+        "en": "crousty poulet et riz et sauce blanche, ¤crousty poulet et riz sauce blanche épicée, ¤crousty poulet et riz sauce curry",
+        "fr": "crousty poulet et riz et sauce blanche, ¤crousty poulet et riz sauce blanche épicée, ¤crousty poulet et riz sauce curry",
+        "nl": "crousty poulet et riz et sauce blanche, ¤crousty poulet et riz sauce blanche épicée, ¤crousty poulet et riz sauce curry"
+      },
+      "description": {
+        "en": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23900/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -2472,6 +2530,35 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "fda-332f90a1a892",
+      "source": "FDA",
+      "date": "2026-10-27",
+      "title": {
+        "en": "Taylor Farms Issues Recall for H-E-B Backyard BBQ Chop Salad Kit Due to the Potential Undeclared Soy and Tree Nuts(Almonds)",
+        "fr": "Taylor Farms Issues Recall for H-E-B Backyard BBQ Chop Salad Kit Due to the Potential Undeclared Soy and Tree Nuts(Almonds)",
+        "nl": "Taylor Farms Issues Recall for H-E-B Backyard BBQ Chop Salad Kit Due to the Potential Undeclared Soy and Tree Nuts(Almonds)"
+      },
+      "description": {
+        "en": "Taylor Farms of Dallas, Texas is recalling H-E-B Backyard BBQ Chop Salad kit due to the potential undeclared soy and tree nuts(almonds).",
+        "fr": "Taylor Farms of Dallas, Texas is recalling H-E-B Backyard BBQ Chop Salad kit due to the potential undeclared soy and tree nuts(almonds).",
+        "nl": "Taylor Farms of Dallas, Texas is recalling H-E-B Backyard BBQ Chop Salad kit due to the potential undeclared soy and tree nuts(almonds)."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/taylor-farms-issues-recall-h-e-b-backyard-bbq-chop-salad-kit-due-potential-undeclared-soy-and-tree",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "nvwa-ebowl-sticky-tempeh-allergenen",
       "source": "NVWA",
       "date": "2026-10-24",
@@ -3333,6 +3420,62 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "rappelconso-2026-10-0267",
+      "source": "RappelConso",
+      "date": "2026-10-27",
+      "title": {
+        "en": "cf liste des produits concernés en pj¤",
+        "fr": "cf liste des produits concernés en pj¤",
+        "nl": "cf liste des produits concernés en pj¤"
+      },
+      "description": {
+        "en": "valeurs stérilisatrices non validées - autres contaminants biologiques",
+        "fr": "valeurs stérilisatrices non validées - autres contaminants biologiques",
+        "nl": "valeurs stérilisatrices non validées - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23941/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0264",
+      "source": "RappelConso",
+      "date": "2026-10-27",
+      "title": {
+        "en": "pizza saumon",
+        "fr": "pizza saumon",
+        "nl": "pizza saumon"
+      },
+      "description": {
+        "en": "présence d'un corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "présence d'un corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "présence d'un corps étranger - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23938/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "cfia-82850",
       "source": "CFIA",
       "date": "2026-10-26",
@@ -4045,33 +4188,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-10-0218",
-      "source": "RappelConso",
-      "date": "2026-10-22",
-      "title": {
-        "en": "pâté aux cèpes pur cochon 180 g",
-        "fr": "pâté aux cèpes pur cochon 180 g",
-        "nl": "pâté aux cèpes pur cochon 180 g"
-      },
-      "description": {
-        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23890/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "fda-ccd99883318c",
       "source": "FDA",
       "date": "2026-10-22",
@@ -4099,6 +4215,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-10-0218",
+      "source": "RappelConso",
+      "date": "2026-10-22",
+      "title": {
+        "en": "pâté aux cèpes pur cochon 180 g",
+        "fr": "pâté aux cèpes pur cochon 180 g",
+        "nl": "pâté aux cèpes pur cochon 180 g"
+      },
+      "description": {
+        "en": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "défaut de fabrication - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23890/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-10-0230",
