@@ -18,3 +18,7 @@ This feed is for information only and is not medical advice. It may be incomplet
 ## Licence
 
 `public/alerts.json` is licensed under [CC BY 4.0](LICENSE). The records are based on notices published by the regulators listed above. Their notices remain under their own terms. See [NOTICE](NOTICE) for each source's licence and the attribution it requires.
+
+Contains information licensed under the Open Government Licence – Canada. <https://open.canada.ca/en/open-government-licence-canada>
+
+Contient de l'information visée par la Licence du gouvernement ouvert – Canada. <https://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada>
