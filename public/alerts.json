@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-28T06:02:29.737Z",
+  "generated": "2026-10-29T06:02:24.372Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0270",
+      "source": "RappelConso",
+      "date": "2026-10-28",
+      "title": {
+        "en": "bacon fumé 12 tranches",
+        "fr": "bacon fumé 12 tranches",
+        "nl": "bacon fumé 12 tranches"
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23944/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-10-0258",
       "source": "RappelConso",
@@ -1027,6 +1056,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "cfia-82779",
+      "source": "CFIA",
+      "date": "2026-10-14",
+      "title": {
+        "en": "Various brands of organic cheeses recalled due to Listeria monocytogenes",
+        "fr": "Various brands of organic cheeses recalled due to Listeria monocytogenes",
+        "nl": "Various brands of organic cheeses recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-brands-organic-cheeses-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "favv-terugroeping-van-het-favv-153",
@@ -2117,6 +2175,35 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "cfia-82692",
+      "source": "CFIA",
+      "date": "2026-09-29",
+      "title": {
+        "en": "Certain Summerhill Market brand raspberries and raspberry-containing products recalled due to norovirus",
+        "fr": "Certain Summerhill Market brand raspberries and raspberry-containing products recalled due to norovirus",
+        "nl": "Certain Summerhill Market brand raspberries and raspberry-containing products recalled due to norovirus"
+      },
+      "description": {
+        "en": "Norovirus",
+        "fr": "Norovirus",
+        "nl": "Norovirus"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-summerhill-market-brand-raspberries-and-raspberry-containing-products-recalled",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
       "id": "fda-62d36a83d7bc",
       "source": "FDA",
       "date": "2026-09-28",
@@ -2235,6 +2322,62 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "cfia-78484",
+      "source": "CFIA",
+      "date": "2026-09-17",
+      "title": {
+        "en": "Various brands of sandwiches recalled due to Listeria monocytogenes",
+        "fr": "Various brands of sandwiches recalled due to Listeria monocytogenes",
+        "nl": "Various brands of sandwiches recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-brands-sandwiches-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "cfia-82622",
+      "source": "CFIA",
+      "date": "2026-09-11",
+      "title": {
+        "en": "Olymel brand Chicken Breast Strips recalled due to Listeria monocytogenes",
+        "fr": "Olymel brand Chicken Breast Strips recalled due to Listeria monocytogenes",
+        "nl": "Olymel brand Chicken Breast Strips recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/olymel-brand-chicken-breast-strips-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
       "id": "nvwa-geitenkefir-van-de-bonte-weide",
       "source": "NVWA",
       "date": "2026-09-09",
@@ -2263,6 +2406,35 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "cfia-78239",
+      "source": "CFIA",
+      "date": "2026-09-04",
+      "title": {
+        "en": "Various pistachios and pistachio-containing products recalled due to Salmonella",
+        "fr": "Various pistachios and pistachio-containing products recalled due to Salmonella",
+        "nl": "Various pistachios and pistachio-containing products recalled due to Salmonella"
+      },
+      "description": {
+        "en": "Salmonella",
+        "fr": "Salmonella",
+        "nl": "Salmonella"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-pistachios-and-pistachio-containing-products-recalled-due-salmonella-5",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
       "id": "nvwa-wengert-kaas-van-geifertshofen",
       "source": "NVWA",
       "date": "2026-09-04",
@@ -2280,6 +2452,35 @@
       "countries": [
         "NL",
         "BE"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "cfia-82581",
+      "source": "CFIA",
+      "date": "2026-09-01",
+      "title": {
+        "en": "Coaticook brand Aged Cheddar Cheese recalled due to Listeria monocytogenes",
+        "fr": "Coaticook brand Aged Cheddar Cheese recalled due to Listeria monocytogenes",
+        "nl": "Coaticook brand Aged Cheddar Cheese recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/coaticook-brand-aged-cheddar-cheese-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
       ],
       "foodGroups": [
         "dairy"
@@ -2443,6 +2644,35 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "cfia-82519",
+      "source": "CFIA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes",
+        "fr": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes",
+        "nl": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/compliments-brand-and-selection-brand-corn-dogs-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
       "id": "fsa-FSA-PRIN-40-2026",
       "source": "FSA",
       "date": "2026-08-21",
@@ -2470,6 +2700,120 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "cfia-82493",
+      "source": "CFIA",
+      "date": "2026-08-17",
+      "title": {
+        "en": "Various brands of cheese products recalled due to generic E. coli",
+        "fr": "Various brands of cheese products recalled due to generic E. coli",
+        "nl": "Various brands of cheese products recalled due to generic E. coli"
+      },
+      "description": {
+        "en": "E. Coli - non-pathogenic",
+        "fr": "E. Coli - non-pathogenic",
+        "nl": "E. Coli - non-pathogenic"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-brands-cheese-products-recalled-due-generic-e-coli",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "cfia-82488",
+      "source": "CFIA",
+      "date": "2026-08-14",
+      "title": {
+        "en": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes",
+        "fr": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes",
+        "nl": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/coaticook-brand-mild-cheddar-curds-white-frozen-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "cfia-82491",
+      "source": "CFIA",
+      "date": "2026-08-14",
+      "title": {
+        "en": "Clément le Gourmand brand meat products recalled due to Listeria monocytogenes",
+        "fr": "Clément le Gourmand brand meat products recalled due to Listeria monocytogenes",
+        "nl": "Clément le Gourmand brand meat products recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/clement-gourmand-brand-meat-products-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "cfia-82480",
+      "source": "CFIA",
+      "date": "2026-08-13",
+      "title": {
+        "en": "Certain Whole Foods Market brand guacamoles, pico de gallos, salsas, and prepared foods recalled due to Salmonella",
+        "fr": "Certain Whole Foods Market brand guacamoles, pico de gallos, salsas, and prepared foods recalled due to Salmonella",
+        "nl": "Certain Whole Foods Market brand guacamoles, pico de gallos, salsas, and prepared foods recalled due to Salmonella"
+      },
+      "description": {
+        "en": "Salmonella",
+        "fr": "Salmonella",
+        "nl": "Salmonella"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-whole-foods-market-brand-guacamoles-pico-gallos-salsas-and-prepared-foods",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "fsa-FSA-PRIN-39-2026",
@@ -2520,6 +2864,64 @@
       ],
       "foodGroups": [
         "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "cfia-82439",
+      "source": "CFIA",
+      "date": "2026-08-04",
+      "title": {
+        "en": "Highline brand Organic Mini Bella Mushrooms Sliced recalled due to Listeria monocytogenes",
+        "fr": "Highline brand Organic Mini Bella Mushrooms Sliced recalled due to Listeria monocytogenes",
+        "nl": "Highline brand Organic Mini Bella Mushrooms Sliced recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/highline-brand-organic-mini-bella-mushrooms-sliced-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "cfia-82436",
+      "source": "CFIA",
+      "date": "2026-08-03",
+      "title": {
+        "en": "Coaticook brand White Cheddar cheeses recalled due to Listeria monocytogenes",
+        "fr": "Coaticook brand White Cheddar cheeses recalled due to Listeria monocytogenes",
+        "nl": "Coaticook brand White Cheddar cheeses recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/coaticook-brand-white-cheddar-cheeses-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -2657,9 +3059,9 @@
         "nl": "Plantropy brand Jack’d Up Bites Crispy Protein Bites - Jalapeno recalled due to undeclared milk"
       },
       "description": {
-        "en": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
-        "fr": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label.",
-        "nl": "The affected products are being recalled from the marketplace because they contain milk which is not declared on the label."
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
       },
       "url": "https://recalls-rappels.canada.ca/en/alert-recall/plantropy-brand-jack-bites-crispy-protein-bites-jalapeno-recalled-due-undeclared-milk",
       "countries": [
@@ -2671,8 +3073,7 @@
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
-        "allergen",
-        "labeling"
+        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -2793,6 +3194,33 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "cfia-82765",
+      "source": "CFIA",
+      "date": "2026-10-19",
+      "title": {
+        "en": "SLY brand Freeze-dried Potato Bourguignon recalled due to undeclared pea protein",
+        "fr": "SLY brand Freeze-dried Potato Bourguignon recalled due to undeclared pea protein",
+        "nl": "SLY brand Freeze-dried Potato Bourguignon recalled due to undeclared pea protein"
+      },
+      "description": {
+        "en": "Other",
+        "fr": "Other",
+        "nl": "Other"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/sly-brand-freeze-dried-potato-bourguignon-recalled-due-undeclared-pea-protein",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "fsa-FSA-AA-47-2026",
       "source": "FSA",
       "date": "2026-10-18",
@@ -2816,6 +3244,64 @@
       ],
       "pregnancyRelevance": "medium",
       "audience": "pregnant_adult",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82799",
+      "source": "CFIA",
+      "date": "2026-10-16",
+      "title": {
+        "en": "Certain White Lotus Seed Paste Mooncake with 2 Egg Yolks recalled due to undeclared peanut",
+        "fr": "Certain White Lotus Seed Paste Mooncake with 2 Egg Yolks recalled due to undeclared peanut",
+        "nl": "Certain White Lotus Seed Paste Mooncake with 2 Egg Yolks recalled due to undeclared peanut"
+      },
+      "description": {
+        "en": "Peanut",
+        "fr": "Peanut",
+        "nl": "Peanut"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-white-lotus-seed-paste-mooncake-2-egg-yolks-recalled-due-undeclared-peanut",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82810",
+      "source": "CFIA",
+      "date": "2026-10-16",
+      "title": {
+        "en": "Soup Time brand French Onion Soup recalled due to undeclared wheat",
+        "fr": "Soup Time brand French Onion Soup recalled due to undeclared wheat",
+        "nl": "Soup Time brand French Onion Soup recalled due to undeclared wheat"
+      },
+      "description": {
+        "en": "Wheat - Gluten",
+        "fr": "Wheat - Gluten",
+        "nl": "Wheat - Gluten"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/soup-time-brand-french-onion-soup-recalled-due-undeclared-wheat",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
         "allergen"
       ],
@@ -2849,36 +3335,6 @@
         "labeling"
       ],
       "dietRelevant": false,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82810",
-      "source": "CFIA",
-      "date": "2026-10-16",
-      "title": {
-        "en": "Soup Time brand French Onion Soup recalled due to undeclared wheat",
-        "fr": "Soup Time brand French Onion Soup recalled due to undeclared wheat",
-        "nl": "Soup Time brand French Onion Soup recalled due to undeclared wheat"
-      },
-      "description": {
-        "en": "The affected product is being recalled from the marketplace because it contains wheat which is not declared on the label.",
-        "fr": "The affected product is being recalled from the marketplace because it contains wheat which is not declared on the label.",
-        "nl": "The affected product is being recalled from the marketplace because it contains wheat which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/soup-time-brand-french-onion-soup-recalled-due-undeclared-wheat",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
     },
     {
@@ -3000,36 +3456,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82767",
-      "source": "CFIA",
-      "date": "2026-10-09",
-      "title": {
-        "en": "Kevin’s Natural Foods brand Turkey Gravy recalled due to undeclared mustard",
-        "fr": "Kevin’s Natural Foods brand Turkey Gravy recalled due to undeclared mustard",
-        "nl": "Kevin’s Natural Foods brand Turkey Gravy recalled due to undeclared mustard"
-      },
-      "description": {
-        "en": "The affected product is being recalled from the marketplace because it contains mustard which is not declared on the label.",
-        "fr": "The affected product is being recalled from the marketplace because it contains mustard which is not declared on the label.",
-        "nl": "The affected product is being recalled from the marketplace because it contains mustard which is not declared on the label."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/kevin-s-natural-foods-brand-turkey-gravy-recalled-due-undeclared-mustard-0",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "cfia-82752",
       "source": "CFIA",
       "date": "2026-10-09",
@@ -3039,11 +3465,40 @@
         "nl": "Kara Food brand Poulet Tandoori recalled due to undeclared mustard"
       },
       "description": {
-        "en": "Kara Food brand \"Poulet Tandoori\" recalled due to undeclared mustard.",
-        "fr": "Kara Food brand \"Poulet Tandoori\" recalled due to undeclared mustard.",
-        "nl": "Kara Food brand \"Poulet Tandoori\" recalled due to undeclared mustard."
+        "en": "Mustard",
+        "fr": "Mustard",
+        "nl": "Mustard"
       },
       "url": "https://recalls-rappels.canada.ca/en/alert-recall/kara-food-brand-poulet-tandoori-recalled-due-undeclared-mustard",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82767",
+      "source": "CFIA",
+      "date": "2026-10-09",
+      "title": {
+        "en": "Kevin’s Natural Foods brand Turkey Gravy recalled due to undeclared mustard",
+        "fr": "Kevin’s Natural Foods brand Turkey Gravy recalled due to undeclared mustard",
+        "nl": "Kevin’s Natural Foods brand Turkey Gravy recalled due to undeclared mustard"
+      },
+      "description": {
+        "en": "Mustard",
+        "fr": "Mustard",
+        "nl": "Mustard"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/kevin-s-natural-foods-brand-turkey-gravy-recalled-due-undeclared-mustard-0",
       "countries": [
         "CA"
       ],
@@ -3086,6 +3541,150 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "cfia-82637",
+      "source": "CFIA",
+      "date": "2026-10-08",
+      "title": {
+        "en": "Nora's brand Mint Chip Non-Dairy Frozen Dessert recalled due to undeclared peanut",
+        "fr": "Nora's brand Mint Chip Non-Dairy Frozen Dessert recalled due to undeclared peanut",
+        "nl": "Nora's brand Mint Chip Non-Dairy Frozen Dessert recalled due to undeclared peanut"
+      },
+      "description": {
+        "en": "Peanut",
+        "fr": "Peanut",
+        "nl": "Peanut"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/nora-s-brand-mint-chip-non-dairy-frozen-dessert-recalled-due-undeclared-peanut",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82738",
+      "source": "CFIA",
+      "date": "2026-10-07",
+      "title": {
+        "en": "Ashoka brand Masala Paneer Kathi Roll recalled due to undeclared sesame",
+        "fr": "Ashoka brand Masala Paneer Kathi Roll recalled due to undeclared sesame",
+        "nl": "Ashoka brand Masala Paneer Kathi Roll recalled due to undeclared sesame"
+      },
+      "description": {
+        "en": "Sesame seeds",
+        "fr": "Sesame seeds",
+        "nl": "Sesame seeds"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/ashoka-brand-masala-paneer-kathi-roll-recalled-due-undeclared-sesame",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82733",
+      "source": "CFIA",
+      "date": "2026-10-06",
+      "title": {
+        "en": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard",
+        "fr": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard",
+        "nl": "SeaQuest brand Shrimp Ring with Mild Cocktail Sauce and President's Choice brand Black Tiger Shrimp with Mild Cocktail Sauce recalled due to undeclared mustard"
+      },
+      "description": {
+        "en": "Mustard",
+        "fr": "Mustard",
+        "nl": "Mustard"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/seaquest-brand-shrimp-ring-mild-cocktail-sauce-and-president-s-choice-brand-black",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82723",
+      "source": "CFIA",
+      "date": "2026-10-03",
+      "title": {
+        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared-1",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82728",
+      "source": "CFIA",
+      "date": "2026-10-03",
+      "title": {
+        "en": "Taeyangcho Gochujang (Hot Pepper Paste) recalled due to undeclared wheat",
+        "fr": "Taeyangcho Gochujang (Hot Pepper Paste) recalled due to undeclared wheat",
+        "nl": "Taeyangcho Gochujang (Hot Pepper Paste) recalled due to undeclared wheat"
+      },
+      "description": {
+        "en": "Wheat - Gluten",
+        "fr": "Wheat - Gluten",
+        "nl": "Wheat - Gluten"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/taeyangcho-gochujang-hot-pepper-paste-recalled-due-undeclared-wheat",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "fsa-FSA-AA-44-2026",
@@ -3241,6 +3840,125 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "cfia-82687",
+      "source": "CFIA",
+      "date": "2026-09-29",
+      "title": {
+        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared-0",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82685",
+      "source": "CFIA",
+      "date": "2026-09-28",
+      "title": {
+        "en": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk",
+        "fr": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk",
+        "nl": "Nutraphase brand Clean Beans Roasted Broad Beans Ketchup flavour recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/nutraphase-brand-clean-beans-roasted-broad-beans-ketchup-flavour-recalled-due",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82689",
+      "source": "CFIA",
+      "date": "2026-09-28",
+      "title": {
+        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk",
+        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk",
+        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored contains undeclared milk"
+      },
+      "description": {
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-contains-undeclared-milk",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82667",
+      "source": "CFIA",
+      "date": "2026-09-24",
+      "title": {
+        "en": "Go! Beanz brand Roasted Broadbeans (Ketchup and Salt & Pepper flavors) recalled due to undeclared milk",
+        "fr": "Go! Beanz brand Roasted Broadbeans (Ketchup and Salt & Pepper flavors) recalled due to undeclared milk",
+        "nl": "Go! Beanz brand Roasted Broadbeans (Ketchup and Salt & Pepper flavors) recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/go-beanz-brand-roasted-broadbeans-ketchup-and-salt-pepper-flavors-recalled-due",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "fda-763ca7ed09d6",
       "source": "FDA",
       "date": "2026-09-24",
@@ -3260,6 +3978,35 @@
       ],
       "foodGroups": [
         "fish",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82663",
+      "source": "CFIA",
+      "date": "2026-09-23",
+      "title": {
+        "en": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
+        "fr": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
+        "nl": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut"
+      },
+      "description": {
+        "en": "Peanut",
+        "fr": "Peanut",
+        "nl": "Peanut"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/chungjungwon-brand-sunchang-ssamjang-seasoned-bean-paste-recalled-due-undeclared",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
         "plant"
       ],
       "pregnancyRelevance": "medium",
@@ -3297,6 +4044,182 @@
       "hazardTypes": [
         "allergen",
         "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82641",
+      "source": "CFIA",
+      "date": "2026-09-17",
+      "title": {
+        "en": "Heinz brand Real Mayonnaise single serve units recalled due to undeclared mustard",
+        "fr": "Heinz brand Real Mayonnaise single serve units recalled due to undeclared mustard",
+        "nl": "Heinz brand Real Mayonnaise single serve units recalled due to undeclared mustard"
+      },
+      "description": {
+        "en": "Mustard",
+        "fr": "Mustard",
+        "nl": "Mustard"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/heinz-brand-real-mayonnaise-single-serve-units-recalled-due-undeclared-mustard",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82630",
+      "source": "CFIA",
+      "date": "2026-09-16",
+      "title": {
+        "en": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat",
+        "fr": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat",
+        "nl": "Momchipz brand Veggie Chips (Bell Pepper Chips) recalled due to undeclared wheat"
+      },
+      "description": {
+        "en": "Gluten - Wheat",
+        "fr": "Gluten - Wheat",
+        "nl": "Gluten - Wheat"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/momchipz-brand-veggie-chips-bell-pepper-chips-recalled-due-undeclared-wheat",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82621",
+      "source": "CFIA",
+      "date": "2026-09-14",
+      "title": {
+        "en": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg",
+        "fr": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg",
+        "nl": "Co-op Gold brand Frozen Chicken Products recalled due to undeclared egg"
+      },
+      "description": {
+        "en": "Egg",
+        "fr": "Egg",
+        "nl": "Egg"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/co-op-gold-brand-frozen-chicken-products-recalled-due-undeclared-egg",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82605",
+      "source": "CFIA",
+      "date": "2026-09-11",
+      "title": {
+        "en": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy",
+        "fr": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy",
+        "nl": "Rossdown Farms & Natural Foods brand Meal Starters Black Garlic Chicken Breast products recalled due to undeclared soy"
+      },
+      "description": {
+        "en": "Soy",
+        "fr": "Soy",
+        "nl": "Soy"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/rossdown-farms-natural-foods-brand-meal-starters-black-garlic-chicken-breast-products",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82604",
+      "source": "CFIA",
+      "date": "2026-09-05",
+      "title": {
+        "en": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "fr": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk",
+        "nl": "Smarter Snacks brand Vegan Protein Puff Chili & Lime Flavored recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/smarter-snacks-brand-vegan-protein-puff-chili-lime-flavored-recalled-due-undeclared",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82597",
+      "source": "CFIA",
+      "date": "2026-09-04",
+      "title": {
+        "en": "Ten Ten Dim Sum brand buns and dumplings recalled due to undeclared milk",
+        "fr": "Ten Ten Dim Sum brand buns and dumplings recalled due to undeclared milk",
+        "nl": "Ten Ten Dim Sum brand buns and dumplings recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/ten-ten-dim-sum-brand-buns-and-dumplings-recalled-due-undeclared-milk",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -3363,6 +4286,392 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "cfia-82572",
+      "source": "CFIA",
+      "date": "2026-08-31",
+      "title": {
+        "en": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
+        "fr": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
+        "nl": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg"
+      },
+      "description": {
+        "en": "Egg",
+        "fr": "Egg",
+        "nl": "Egg"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/compliments-brand-smashed-100-chicken-burgers-recalled-due-undeclared-egg-0",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82462",
+      "source": "CFIA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared wheat",
+        "fr": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared wheat",
+        "nl": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared wheat"
+      },
+      "description": {
+        "en": "Gluten - Wheat",
+        "fr": "Gluten - Wheat",
+        "nl": "Gluten - Wheat"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/momchipz-brand-veggie-chips-broccoli-florets-cauliflower-recalled-due-undeclared-wheat",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82517",
+      "source": "CFIA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "Cardinal Roadhouse brand Chicken Burgers recalled due to undeclared egg",
+        "fr": "Cardinal Roadhouse brand Chicken Burgers recalled due to undeclared egg",
+        "nl": "Cardinal Roadhouse brand Chicken Burgers recalled due to undeclared egg"
+      },
+      "description": {
+        "en": "Egg",
+        "fr": "Egg",
+        "nl": "Egg"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-roadhouse-brand-chicken-burgers-recalled-due-undeclared-egg",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82523",
+      "source": "CFIA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
+        "fr": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
+        "nl": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat"
+      },
+      "description": {
+        "en": "Egg - Fish - Gluten - Soy - Wheat",
+        "fr": "Egg - Fish - Gluten - Soy - Wheat",
+        "nl": "Egg - Fish - Gluten - Soy - Wheat"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/kim-phat-brand-seafood-medley-recalled-due-undeclared-egg-fish-soy-and-wheat",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "fish",
+        "egg",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82506",
+      "source": "CFIA",
+      "date": "2026-08-19",
+      "title": {
+        "en": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat",
+        "fr": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat",
+        "nl": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat"
+      },
+      "description": {
+        "en": "Wheat",
+        "fr": "Wheat",
+        "nl": "Wheat"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/wu-xian-zhai-brand-vegetarian-beef-and-preserved-beancurd-recalled-due-undeclared",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82492",
+      "source": "CFIA",
+      "date": "2026-08-17",
+      "title": {
+        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard",
+        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard",
+        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard"
+      },
+      "description": {
+        "en": "Mustard",
+        "fr": "Mustard",
+        "nl": "Mustard"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/olymel-brand-cooked-turkey-breast-roast-honey-dijon-recalled-due-incorrect-labelling",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82487",
+      "source": "CFIA",
+      "date": "2026-08-14",
+      "title": {
+        "en": "Mounit el Bait brand Tahina and Halva recalled due to undeclared peanut",
+        "fr": "Mounit el Bait brand Tahina and Halva recalled due to undeclared peanut",
+        "nl": "Mounit el Bait brand Tahina and Halva recalled due to undeclared peanut"
+      },
+      "description": {
+        "en": "Peanut",
+        "fr": "Peanut",
+        "nl": "Peanut"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/mounit-el-bait-brand-tahina-and-halva-recalled-due-undeclared-peanut",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82494",
+      "source": "CFIA",
+      "date": "2026-08-14",
+      "title": {
+        "en": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame",
+        "fr": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame",
+        "nl": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame"
+      },
+      "description": {
+        "en": "Wheat - Gluten - Mustard - Sesame seeds",
+        "fr": "Wheat - Gluten - Mustard - Sesame seeds",
+        "nl": "Wheat - Gluten - Mustard - Sesame seeds"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-salem-foods-brand-jarred-products-recalled-due-undeclared-wheat-mustard-and",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82481",
+      "source": "CFIA",
+      "date": "2026-08-13",
+      "title": {
+        "en": "Zhou Hei Ya brand Wide Vermicelli with Sesame Sauce recalled due to undeclared shrimp",
+        "fr": "Zhou Hei Ya brand Wide Vermicelli with Sesame Sauce recalled due to undeclared shrimp",
+        "nl": "Zhou Hei Ya brand Wide Vermicelli with Sesame Sauce recalled due to undeclared shrimp"
+      },
+      "description": {
+        "en": "Crustacean and shellfish",
+        "fr": "Crustacean and shellfish",
+        "nl": "Crustacean and shellfish"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/zhou-hei-ya-brand-wide-vermicelli-sesame-sauce-recalled-due-undeclared-shrimp",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82483",
+      "source": "CFIA",
+      "date": "2026-08-13",
+      "title": {
+        "en": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg",
+        "fr": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg",
+        "nl": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg"
+      },
+      "description": {
+        "en": "Egg",
+        "fr": "Egg",
+        "nl": "Egg"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/aqua-gems-brand-tempura-shrimp-recalled-due-undeclared-egg",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "fish",
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82463",
+      "source": "CFIA",
+      "date": "2026-08-08",
+      "title": {
+        "en": "PC Organics brand and Frankie's Organic brand Plant-based cheddar corn puffs and crunchies recalled due to undeclared milk",
+        "fr": "PC Organics brand and Frankie's Organic brand Plant-based cheddar corn puffs and crunchies recalled due to undeclared milk",
+        "nl": "PC Organics brand and Frankie's Organic brand Plant-based cheddar corn puffs and crunchies recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/pc-organics-brand-and-frankie-s-organic-brand-plant-based-cheddar-corn-puffs-and",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82453",
+      "source": "CFIA",
+      "date": "2026-08-06",
+      "title": {
+        "en": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
+        "fr": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
+        "nl": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg"
+      },
+      "description": {
+        "en": "Egg",
+        "fr": "Egg",
+        "nl": "Egg"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/compliments-brand-smashed-100-chicken-burgers-recalled-due-undeclared-egg",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat",
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82433",
+      "source": "CFIA",
+      "date": "2026-08-01",
+      "title": {
+        "en": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond",
+        "fr": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond",
+        "nl": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond"
+      },
+      "description": {
+        "en": "Tree nut",
+        "fr": "Tree nut",
+        "nl": "Tree nut"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/hershey-s-brand-kisses-creamy-milk-chocolate-recalled-due-undeclared-almond",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "fsa-FSA-AA-40-2026",
       "source": "FSA",
       "date": "2026-07-31",
@@ -3402,9 +4711,9 @@
         "nl": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage"
       },
       "description": {
-        "en": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage.",
-        "fr": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage.",
-        "nl": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage."
+        "en": "Non harmful (quality or spoilage)",
+        "fr": "Non harmful (quality or spoilage)",
+        "nl": "Non harmful (quality or spoilage)"
       },
       "url": "https://recalls-rappels.canada.ca/en/alert-recall/buck-wild-brand-shaft-cocktail-canadian-hard-coffee-recalled-due-container-integrity",
       "countries": [
@@ -3485,9 +4794,9 @@
         "nl": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments"
       },
       "description": {
-        "en": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments.",
-        "fr": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments.",
-        "nl": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments."
+        "en": "Extraneous Material",
+        "fr": "Extraneous Material",
+        "nl": "Extraneous Material"
       },
       "url": "https://recalls-rappels.canada.ca/en/alert-recall/neo-chips-brand-apple-wild-blueberry-freeze-dried-fruit-sticks-recalled-due-pieces",
       "countries": [
@@ -4134,6 +5443,35 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "fda-ccd99883318c",
+      "source": "FDA",
+      "date": "2026-10-22",
+      "title": {
+        "en": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
+        "fr": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
+        "nl": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material"
+      },
+      "description": {
+        "en": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
+        "fr": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
+        "nl": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/natural-grocers-recalls-natural-grocers-brand-organic-2-pound-mung-beans-due-potential-presence",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "rappelconso-2026-10-0217",
       "source": "RappelConso",
       "date": "2026-10-22",
@@ -4186,35 +5524,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fda-ccd99883318c",
-      "source": "FDA",
-      "date": "2026-10-22",
-      "title": {
-        "en": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
-        "fr": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
-        "nl": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material"
-      },
-      "description": {
-        "en": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
-        "fr": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
-        "nl": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/natural-grocers-recalls-natural-grocers-brand-organic-2-pound-mung-beans-due-potential-presence",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-10-0218",
@@ -4407,6 +5716,33 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "cfia-82809",
+      "source": "CFIA",
+      "date": "2026-10-19",
+      "title": {
+        "en": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
+        "fr": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
+        "nl": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim"
+      },
+      "description": {
+        "en": "Gluten",
+        "fr": "Gluten",
+        "nl": "Gluten"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/one-degree-organic-foods-brand-sprouted-whole-wheat-flour-recalled-due-misleading",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "nvwa-r-dark-chocolate-salted-almond",
       "source": "NVWA",
       "date": "2026-10-19",
@@ -4455,33 +5791,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "cfia-82809",
-      "source": "CFIA",
-      "date": "2026-10-19",
-      "title": {
-        "en": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
-        "fr": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
-        "nl": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim"
-      },
-      "description": {
-        "en": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim.",
-        "fr": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim.",
-        "nl": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim."
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/one-degree-organic-foods-brand-sprouted-whole-wheat-flour-recalled-due-misleading",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -4901,6 +6210,31 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "cfia-82741",
+      "source": "CFIA",
+      "date": "2026-10-07",
+      "title": {
+        "en": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage",
+        "fr": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage",
+        "nl": "Bahía Paloma brand Grapefruit Paloma Agave Spirit Cocktail and Easy Vodka brand Raspberry Lemonade Alcoholic Beverage recalled due to spoilage"
+      },
+      "description": {
+        "en": "Non harmful (quality or spoilage)",
+        "fr": "Non harmful (quality or spoilage)",
+        "nl": "Non harmful (quality or spoilage)"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/bahia-paloma-brand-grapefruit-paloma-agave-spirit-cocktail-and-easy-vodka-brand",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "fda-71b02573c15a",
       "source": "FDA",
       "date": "2026-10-06",
@@ -5094,6 +6428,115 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "cfia-82632",
+      "source": "CFIA",
+      "date": "2026-09-22",
+      "title": {
+        "en": "R.J. King Fisheries Ltd. and Moncton Fish Market brand frozen cooked lobster meat recalled due to Staphylococcus aureus",
+        "fr": "R.J. King Fisheries Ltd. and Moncton Fish Market brand frozen cooked lobster meat recalled due to Staphylococcus aureus",
+        "nl": "R.J. King Fisheries Ltd. and Moncton Fish Market brand frozen cooked lobster meat recalled due to Staphylococcus aureus"
+      },
+      "description": {
+        "en": "Staphylococcus aureus",
+        "fr": "Staphylococcus aureus",
+        "nl": "Staphylococcus aureus"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/rj-king-fisheries-ltd-and-moncton-fish-market-brand-frozen-cooked-lobster-meat",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82648",
+      "source": "CFIA",
+      "date": "2026-09-22",
+      "title": {
+        "en": "So Delicious Dairy Free brand Salted Caramel Non-dairy Frozen Dessert, Cashew Base recalled due to plastic-like and gravel-like fragments",
+        "fr": "So Delicious Dairy Free brand Salted Caramel Non-dairy Frozen Dessert, Cashew Base recalled due to plastic-like and gravel-like fragments",
+        "nl": "So Delicious Dairy Free brand Salted Caramel Non-dairy Frozen Dessert, Cashew Base recalled due to plastic-like and gravel-like fragments"
+      },
+      "description": {
+        "en": "Extraneous Material",
+        "fr": "Extraneous Material",
+        "nl": "Extraneous Material"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/so-delicious-dairy-free-brand-salted-caramel-non-dairy-frozen-dessert-cashew-base",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82645",
+      "source": "CFIA",
+      "date": "2026-09-18",
+      "title": {
+        "en": "Yotvata brand Caciotta Peperoncino Cheese recalled  due to Staphylococcus aureus",
+        "fr": "Yotvata brand Caciotta Peperoncino Cheese recalled  due to Staphylococcus aureus",
+        "nl": "Yotvata brand Caciotta Peperoncino Cheese recalled  due to Staphylococcus aureus"
+      },
+      "description": {
+        "en": "Staphylococcus aureus",
+        "fr": "Staphylococcus aureus",
+        "nl": "Staphylococcus aureus"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/yotvata-brand-caciotta-peperoncino-cheese-recalled-due-staphylococcus-aureus",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82629",
+      "source": "CFIA",
+      "date": "2026-09-15",
+      "title": {
+        "en": "no name brand chopped walnuts recalled due to shell fragments",
+        "fr": "no name brand chopped walnuts recalled due to shell fragments",
+        "nl": "no name brand chopped walnuts recalled due to shell fragments"
+      },
+      "description": {
+        "en": "Extraneous Material",
+        "fr": "Extraneous Material",
+        "nl": "Extraneous Material"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/no-name-brand-chopped-walnuts-recalled-due-shell-fragments",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "nvwa-vliet-roomkaas-ananas-125-gram",
       "source": "NVWA",
       "date": "2026-09-07",
@@ -5114,6 +6557,33 @@
       ],
       "foodGroups": [
         "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82603",
+      "source": "CFIA",
+      "date": "2026-09-04",
+      "title": {
+        "en": "Cucina d'Oro brand Pesto recalled due to improperly declared cashew",
+        "fr": "Cucina d'Oro brand Pesto recalled due to improperly declared cashew",
+        "nl": "Cucina d'Oro brand Pesto recalled due to improperly declared cashew"
+      },
+      "description": {
+        "en": "Tree nut",
+        "fr": "Tree nut",
+        "nl": "Tree nut"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/cucina-oro-brand-pesto-recalled-due-improperly-declared-cashew",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -5150,6 +6620,62 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "cfia-82538",
+      "source": "CFIA",
+      "date": "2026-08-27",
+      "title": {
+        "en": "Allo simonne brand Pistachio Matcha Spread and Almond Cardamom Spread recalled due to pieces of glass",
+        "fr": "Allo simonne brand Pistachio Matcha Spread and Almond Cardamom Spread recalled due to pieces of glass",
+        "nl": "Allo simonne brand Pistachio Matcha Spread and Almond Cardamom Spread recalled due to pieces of glass"
+      },
+      "description": {
+        "en": "Extraneous Material",
+        "fr": "Extraneous Material",
+        "nl": "Extraneous Material"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/allo-simonne-brand-pistachio-matcha-spread-and-almond-cardamom-spread-recalled-due",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "cfia-82522",
+      "source": "CFIA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones",
+        "fr": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones",
+        "nl": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones"
+      },
+      "description": {
+        "en": "Extraneous Material",
+        "fr": "Extraneous Material",
+        "nl": "Extraneous Material"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/onetang-brand-walnut-soft-candy-black-sesame-recalled-due-presence-stones",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "nvwa-ing-chocolate-flavour-200-gram",
       "source": "NVWA",
       "date": "2026-08-19",
@@ -5167,6 +6693,60 @@
       "countries": [
         "NL",
         "BE"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82473",
+      "source": "CFIA",
+      "date": "2026-08-12",
+      "title": {
+        "en": "The Greek Gods brand Greek Style Honey Yogurt and Organic Plain Yogurt recalled due to mould",
+        "fr": "The Greek Gods brand Greek Style Honey Yogurt and Organic Plain Yogurt recalled due to mould",
+        "nl": "The Greek Gods brand Greek Style Honey Yogurt and Organic Plain Yogurt recalled due to mould"
+      },
+      "description": {
+        "en": "Non harmful (quality or spoilage)",
+        "fr": "Non harmful (quality or spoilage)",
+        "nl": "Non harmful (quality or spoilage)"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/greek-gods-brand-greek-style-honey-yogurt-and-organic-plain-yogurt-recalled-due-mould",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82478",
+      "source": "CFIA",
+      "date": "2026-08-12",
+      "title": {
+        "en": "Alfa brand croissant products recalled due to mould",
+        "fr": "Alfa brand croissant products recalled due to mould",
+        "nl": "Alfa brand croissant products recalled due to mould"
+      },
+      "description": {
+        "en": "Non harmful (quality or spoilage)",
+        "fr": "Non harmful (quality or spoilage)",
+        "nl": "Non harmful (quality or spoilage)"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/alfa-brand-croissant-products-recalled-due-mould",
+      "countries": [
+        "CA"
       ],
       "foodGroups": [
         "plant"
