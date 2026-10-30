@@ -1,6 +1,238 @@
 {
-  "generated": "2026-10-29T06:02:24.372Z",
+  "generated": "2026-10-30T06:02:20.685Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0278",
+      "source": "RappelConso",
+      "date": "2026-10-29",
+      "title": {
+        "en": "pot 500g",
+        "fr": "pot 500g",
+        "nl": "pot 500g"
+      },
+      "description": {
+        "en": "détection de listéria monocytogene - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de listéria monocytogene - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de listéria monocytogene - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23953/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0284",
+      "source": "RappelConso",
+      "date": "2026-10-29",
+      "title": {
+        "en": "saucisse vendue au rayon traditionnel du magasin",
+        "fr": "saucisse vendue au rayon traditionnel du magasin",
+        "nl": "saucisse vendue au rayon traditionnel du magasin"
+      },
+      "description": {
+        "en": "vente du produit après la date limite - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)",
+        "fr": "vente du produit après la date limite - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)",
+        "nl": "vente du produit après la date limite - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23959/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0281",
+      "source": "RappelConso",
+      "date": "2026-10-29",
+      "title": {
+        "en": "boeuf cuit",
+        "fr": "boeuf cuit",
+        "nl": "boeuf cuit"
+      },
+      "description": {
+        "en": "listeria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23956/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0277",
+      "source": "RappelConso",
+      "date": "2026-10-29",
+      "title": {
+        "en": "cassoulet de porc",
+        "fr": "cassoulet de porc",
+        "nl": "cassoulet de porc"
+      },
+      "description": {
+        "en": "cassoulet de porc - présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "cassoulet de porc - présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "cassoulet de porc - présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23952/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0274",
+      "source": "RappelConso",
+      "date": "2026-10-29",
+      "title": {
+        "en": "boudin à la viande vendu au rayon traditionnel",
+        "fr": "boudin à la viande vendu au rayon traditionnel",
+        "nl": "boudin à la viande vendu au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23949/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-09-0193",
+      "source": "RappelConso",
+      "date": "2026-10-29",
+      "title": {
+        "en": "saucisse fraîche de canard en poche sous vide",
+        "fr": "saucisse fraîche de canard en poche sous vide",
+        "nl": "saucisse fraîche de canard en poche sous vide"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23948/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0265",
+      "source": "RappelConso",
+      "date": "2026-10-29",
+      "title": {
+        "en": "tartinette",
+        "fr": "tartinette",
+        "nl": "tartinette"
+      },
+      "description": {
+        "en": "presence liesteria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "presence liesteria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "presence liesteria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23939/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0275",
+      "source": "RappelConso",
+      "date": "2026-10-29",
+      "title": {
+        "en": "kippers vendu au rayon poissonnerie traditionnel (produit fumé)",
+        "fr": "kippers vendu au rayon poissonnerie traditionnel (produit fumé)",
+        "nl": "kippers vendu au rayon poissonnerie traditionnel (produit fumé)"
+      },
+      "description": {
+        "en": "présence de listéria monocytogène (inférieur à 10 ufc/g) - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogène (inférieur à 10 ufc/g) - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogène (inférieur à 10 ufc/g) - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23950/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-10-0270",
       "source": "RappelConso",
@@ -207,38 +439,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "favv-rugroeping-door-bct-consulting",
-      "source": "FAVV",
-      "date": "2026-10-21",
-      "title": {
-        "en": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "22/10/2026 (update van de recall van 21/10/2026) In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING de producten ““Salsicciotta”, « Salsiccia Puro Suino con Finocchio » en «Pasta di Salame con finocchio » uit de verkoop en roept ze terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella.",
-        "fr": "22/10/2026 (update van de recall van 21/10/2026) In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING de producten ““Salsicciotta”, « Salsiccia Puro Suino con Finocchio » en «Pasta di Salame con finocchio » uit de verkoop en roept ze terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella.",
-        "nl": "22/10/2026 (update van de recall van 21/10/2026) In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING de producten ““Salsicciotta”, « Salsiccia Puro Suino con Finocchio » en «Pasta di Salame con finocchio » uit de verkoop en roept ze terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-door-bct-consulting",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "favv-n-la-fromagerie-des-ardennes-0",
       "source": "FAVV",
       "date": "2026-10-21",
@@ -299,6 +499,38 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-rugroeping-door-bct-consulting",
+      "source": "FAVV",
+      "date": "2026-10-21",
+      "title": {
+        "en": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping door BCT CONSULTING | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "22/10/2026 (update van de recall van 21/10/2026) In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING de producten ““Salsicciotta”, « Salsiccia Puro Suino con Finocchio » en «Pasta di Salame con finocchio » uit de verkoop en roept ze terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella.",
+        "fr": "22/10/2026 (update van de recall van 21/10/2026) In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING de producten ““Salsicciotta”, « Salsiccia Puro Suino con Finocchio » en «Pasta di Salame con finocchio » uit de verkoop en roept ze terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella.",
+        "nl": "22/10/2026 (update van de recall van 21/10/2026) In overleg met het FAVV (Federaal Agentschap voor de Veiligheid van de Voedselketen) haalt BCT CONSULTING de producten ““Salsicciotta”, « Salsiccia Puro Suino con Finocchio » en «Pasta di Salame con finocchio » uit de verkoop en roept ze terug van bij de consumenten vanwege de mogelijke aanwezigheid van Salmonella."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-door-bct-consulting",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-10-0228",
@@ -2932,6 +3164,33 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "fda-cb6f2e8ed3ff",
+      "source": "FDA",
+      "date": "2026-10-29",
+      "title": {
+        "en": "SLR Food Distribution Inc. Recalls Wise Wife Brand Ground Cinnamon Due to Elevated Lead Levels",
+        "fr": "SLR Food Distribution Inc. Recalls Wise Wife Brand Ground Cinnamon Due to Elevated Lead Levels",
+        "nl": "SLR Food Distribution Inc. Recalls Wise Wife Brand Ground Cinnamon Due to Elevated Lead Levels"
+      },
+      "description": {
+        "en": "SLR Food Distribution Inc. of Hicksville, New York, is voluntarily recalling Wise Wife Brand Ground Cinnamon because it has the potential to be contaminated with elevated levels of lead.",
+        "fr": "SLR Food Distribution Inc. of Hicksville, New York, is voluntarily recalling Wise Wife Brand Ground Cinnamon because it has the potential to be contaminated with elevated levels of lead.",
+        "nl": "SLR Food Distribution Inc. of Hicksville, New York, is voluntarily recalling Wise Wife Brand Ground Cinnamon because it has the potential to be contaminated with elevated levels of lead."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/slr-food-distribution-inc-recalls-wise-wife-brand-ground-cinnamon-due-elevated-lead-levels",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
       "id": "fda-332f90a1a892",
       "source": "FDA",
       "date": "2026-10-27",
@@ -4672,34 +4931,58 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-40-2026",
-      "source": "FSA",
-      "date": "2026-07-31",
+      "id": "nvwa-veiligheidswaarschuwingen-food",
+      "source": "NVWA",
+      "date": "2026-10-29",
       "title": {
-        "en": "ASR Solutions Ltd recalls Lay's Sour Cream & Dill Crisps because of undeclared allergens",
-        "fr": "ASR Solutions Ltd recalls Lay's Sour Cream & Dill Crisps because of undeclared allergens",
-        "nl": "ASR Solutions Ltd recalls Lay's Sour Cream & Dill Crisps because of undeclared allergens"
+        "en": "NVWA - Veiligheidswaarschuwingen voedsel en diervoeders",
+        "fr": "NVWA - Veiligheidswaarschuwingen voedsel en diervoeders",
+        "nl": "NVWA - Veiligheidswaarschuwingen voedsel en diervoeders"
       },
       "description": {
-        "en": "Allergens: Milk and Wheat (Gluten)\nThe product contains milk and wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents, wheat or gluten, or with coeliac disease.",
-        "fr": "Allergens: Milk and Wheat (Gluten)\nThe product contains milk and wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents, wheat or gluten, or with coeliac disease.",
-        "nl": "Allergens: Milk and Wheat (Gluten)\nThe product contains milk and wheat (gluten), making it a possible health risk for anyone with an allergy or intolerance to milk or milk constituents, wheat or gluten, or with coeliac disease."
+        "en": "Wilt u op de hoogte blijven van veiligheidswaarschuwingen over voeding? Meld u dan aan en u ontvangt de waarschuwingen per e-mail.",
+        "fr": "Wilt u op de hoogte blijven van veiligheidswaarschuwingen over voeding? Meld u dan aan en u ontvangt de waarschuwingen per e-mail.",
+        "nl": "Wilt u op de hoogte blijven van veiligheidswaarschuwingen over voeding? Meld u dan aan en u ontvangt de waarschuwingen per e-mail."
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-40-2026",
+      "url": "https://www.nvwa.nl/abonneren/nieuwsbrieven/veiligheidswaarschuwingen-food",
       "countries": [
-        "GB"
+        "NL",
+        "BE"
       ],
-      "foodGroups": [
-        "dairy",
-        "plant"
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-patel-bv",
+      "source": "FAVV",
+      "date": "2026-10-29",
+      "title": {
+        "en": "Rappel de PATEL BV | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de PATEL BV | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de PATEL BV | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société PATEL BV retire les biscuits « Treat Cozy Cardamon » (100g) de la marque Britannia de la vente et le rappelle auprès des consommateurs en raison de teneurs trop élevées en 3-MCPD et en esters glycidyliques. PATEL BV demande à ses clients de ne pas consommer ce produit et de le ramener au magasin Indianspices Brussels, où il leur sera remboursé. Description du produit :",
+        "fr": "En accord avec l’AFSCA, la société PATEL BV retire les biscuits « Treat Cozy Cardamon » (100g) de la marque Britannia de la vente et le rappelle auprès des consommateurs en raison de teneurs trop élevées en 3-MCPD et en esters glycidyliques. PATEL BV demande à ses clients de ne pas consommer ce produit et de le ramener au magasin Indianspices Brussels, où il leur sera remboursé. Description du produit :",
+        "nl": "En accord avec l’AFSCA, la société PATEL BV retire les biscuits « Treat Cozy Cardamon » (100g) de la marque Britannia de la vente et le rappelle auprès des consommateurs en raison de teneurs trop élevées en 3-MCPD et en esters glycidyliques. PATEL BV demande à ses clients de ne pas consommer ce produit et de le ramener au magasin Indianspices Brussels, où il leur sera remboursé. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-patel-bv",
+      "countries": [
+        "BE"
       ],
-      "pregnancyRelevance": "medium",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "allergen"
+      "languages": [
+        "fr"
       ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "cfia-82859",
@@ -5146,6 +5429,35 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "fda-ccd99883318c",
+      "source": "FDA",
+      "date": "2026-10-22",
+      "title": {
+        "en": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
+        "fr": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
+        "nl": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material"
+      },
+      "description": {
+        "en": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
+        "fr": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
+        "nl": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/natural-grocers-recalls-natural-grocers-brand-organic-2-pound-mung-beans-due-potential-presence",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "rappelconso-2026-10-0215",
       "source": "RappelConso",
       "date": "2026-10-22",
@@ -5441,35 +5753,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fda-ccd99883318c",
-      "source": "FDA",
-      "date": "2026-10-22",
-      "title": {
-        "en": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
-        "fr": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
-        "nl": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material"
-      },
-      "description": {
-        "en": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
-        "fr": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
-        "nl": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/natural-grocers-recalls-natural-grocers-brand-organic-2-pound-mung-beans-due-potential-presence",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-10-0217",
