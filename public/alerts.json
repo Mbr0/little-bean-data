@@ -1,6 +1,213 @@
 {
-  "generated": "2026-10-30T06:02:20.685Z",
+  "generated": "2026-10-31T06:01:43.512Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-10-0300",
+      "source": "RappelConso",
+      "date": "2026-10-30",
+      "title": {
+        "en": "tome fraiche de cantal broyée et salée / tome fraiche de cantal bloc",
+        "fr": "tome fraiche de cantal broyée et salée / tome fraiche de cantal bloc",
+        "nl": "tome fraiche de cantal broyée et salée / tome fraiche de cantal bloc"
+      },
+      "description": {
+        "en": "présence possible de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence possible de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence possible de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23976/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-09-0193",
+      "source": "RappelConso",
+      "date": "2026-10-30",
+      "title": {
+        "en": "saucisse fraîche de canard en poche sous vide",
+        "fr": "saucisse fraîche de canard en poche sous vide",
+        "nl": "saucisse fraîche de canard en poche sous vide"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23978/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0299",
+      "source": "RappelConso",
+      "date": "2026-10-30",
+      "title": {
+        "en": "steak haché à la demande vendu au rayon traditionnel",
+        "fr": "steak haché à la demande vendu au rayon traditionnel",
+        "nl": "steak haché à la demande vendu au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23975/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0289",
+      "source": "RappelConso",
+      "date": "2026-10-30",
+      "title": {
+        "en": "coquillages du groupe 3 (huitres et moules) récoltés dans l'anse de carteau (13.06.01), dont huîtres de camargue et moules",
+        "fr": "coquillages du groupe 3 (huitres et moules) récoltés dans l'anse de carteau (13.06.01), dont huîtres de camargue et moules",
+        "nl": "coquillages du groupe 3 (huitres et moules) récoltés dans l'anse de carteau (13.06.01), dont huîtres de camargue et moules"
+      },
+      "description": {
+        "en": "e.coli - escherichia coli",
+        "fr": "e.coli - escherichia coli",
+        "nl": "e.coli - escherichia coli"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23964/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-10-0272",
+      "source": "RappelConso",
+      "date": "2026-10-30",
+      "title": {
+        "en": "saucisse blanche à frire crue rayon traditionnel",
+        "fr": "saucisse blanche à frire crue rayon traditionnel",
+        "nl": "saucisse blanche à frire crue rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23946/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-terugroeping-van-carmans-el",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
+        "fr": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
+        "nl": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-carmans-el",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-l-de-porc-qualite-ardenne-scrl",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Rappel de PORC QUALITE ARDENNE S.C.R.L. | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de PORC QUALITE ARDENNE S.C.R.L. | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de PORC QUALITE ARDENNE S.C.R.L. | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société PORC QUALITE ARDENNE retire le produit « Boudin blanc BIO – lot : 32629520 » de la marque PORC QUALITE ARDENNE de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria monocytogenes. PORC QUALITE ARDENNE demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé.",
+        "fr": "En accord avec l’AFSCA, la société PORC QUALITE ARDENNE retire le produit « Boudin blanc BIO – lot : 32629520 » de la marque PORC QUALITE ARDENNE de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria monocytogenes. PORC QUALITE ARDENNE demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé.",
+        "nl": "En accord avec l’AFSCA, la société PORC QUALITE ARDENNE retire le produit « Boudin blanc BIO – lot : 32629520 » de la marque PORC QUALITE ARDENNE de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria monocytogenes. PORC QUALITE ARDENNE demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé."
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-porc-qualite-ardenne-scrl",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-10-0278",
       "source": "RappelConso",
@@ -145,35 +352,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "rappelconso-2026-09-0193",
-      "source": "RappelConso",
-      "date": "2026-10-29",
-      "title": {
-        "en": "saucisse fraîche de canard en poche sous vide",
-        "fr": "saucisse fraîche de canard en poche sous vide",
-        "nl": "saucisse fraîche de canard en poche sous vide"
-      },
-      "description": {
-        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23948/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-10-0265",
@@ -439,6 +617,35 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
+      "id": "fsa-FSA-PRIN-50-2026",
+      "source": "FSA",
+      "date": "2026-10-21",
+      "title": {
+        "en": "SuperValu and Centra recall salmon and prawn cocktail products because of contamination with Listeria monocytogenes",
+        "fr": "SuperValu and Centra recall salmon and prawn cocktail products because of contamination with Listeria monocytogenes",
+        "nl": "SuperValu and Centra recall salmon and prawn cocktail products because of contamination with Listeria monocytogenes"
+      },
+      "description": {
+        "en": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "fr": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
+        "nl": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-50-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
       "id": "favv-n-la-fromagerie-des-ardennes-0",
       "source": "FAVV",
       "date": "2026-10-21",
@@ -462,35 +669,6 @@
       "foodGroups": [
         "dairy",
         "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fsa-FSA-PRIN-50-2026",
-      "source": "FSA",
-      "date": "2026-10-21",
-      "title": {
-        "en": "SuperValu and Centra recall salmon and prawn cocktail products because of contamination with Listeria monocytogenes",
-        "fr": "SuperValu and Centra recall salmon and prawn cocktail products because of contamination with Listeria monocytogenes",
-        "nl": "SuperValu and Centra recall salmon and prawn cocktail products because of contamination with Listeria monocytogenes"
-      },
-      "description": {
-        "en": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "fr": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "nl": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
-      },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-50-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "fish"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -3164,6 +3342,65 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "fsa-FSA-AA-50-2026",
+      "source": "FSA",
+      "date": "2026-10-30",
+      "title": {
+        "en": "PepsiCo recalls Walkers Variety Snacks Sharing Box because of undeclared wheat (gluten) on the outer box",
+        "fr": "PepsiCo recalls Walkers Variety Snacks Sharing Box because of undeclared wheat (gluten) on the outer box",
+        "nl": "PepsiCo recalls Walkers Variety Snacks Sharing Box because of undeclared wheat (gluten) on the outer box"
+      },
+      "description": {
+        "en": "Wheat (gluten)\nThis product contains gluten making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten, or with coeliac disease.",
+        "fr": "Wheat (gluten)\nThis product contains gluten making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten, or with coeliac disease.",
+        "nl": "Wheat (gluten)\nThis product contains gluten making it a possible health risk for anyone with an allergy or intolerance to wheat or gluten, or with coeliac disease."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-50-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "fish",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82810",
+      "source": "CFIA",
+      "date": "2026-10-29",
+      "title": {
+        "en": "Soup Time brand French Onion Soup recalled due to undeclared wheat",
+        "fr": "Soup Time brand French Onion Soup recalled due to undeclared wheat",
+        "nl": "Soup Time brand French Onion Soup recalled due to undeclared wheat"
+      },
+      "description": {
+        "en": "Wheat - Gluten",
+        "fr": "Wheat - Gluten",
+        "nl": "Wheat - Gluten"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/soup-time-brand-french-onion-soup-recalled-due-undeclared-wheat",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "fda-cb6f2e8ed3ff",
       "source": "FDA",
       "date": "2026-10-29",
@@ -3529,35 +3766,6 @@
       ],
       "foodGroups": [
         "egg"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82810",
-      "source": "CFIA",
-      "date": "2026-10-16",
-      "title": {
-        "en": "Soup Time brand French Onion Soup recalled due to undeclared wheat",
-        "fr": "Soup Time brand French Onion Soup recalled due to undeclared wheat",
-        "nl": "Soup Time brand French Onion Soup recalled due to undeclared wheat"
-      },
-      "description": {
-        "en": "Wheat - Gluten",
-        "fr": "Wheat - Gluten",
-        "nl": "Wheat - Gluten"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/soup-time-brand-french-onion-soup-recalled-due-undeclared-wheat",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -4901,34 +5109,207 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82433",
-      "source": "CFIA",
-      "date": "2026-08-01",
+      "id": "rappelconso-2026-10-0288",
+      "source": "RappelConso",
+      "date": "2026-10-30",
       "title": {
-        "en": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond",
-        "fr": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond",
-        "nl": "Hershey's brand Kisses - Creamy Milk Chocolate recalled due to undeclared almond"
+        "en": "arla protein pudding chocolat 200g",
+        "fr": "arla protein pudding chocolat 200g",
+        "nl": "arla protein pudding chocolat 200g"
       },
       "description": {
-        "en": "Tree nut",
-        "fr": "Tree nut",
-        "nl": "Tree nut"
+        "en": "risque potentiel de présence de fragments de bris de verre. - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "risque potentiel de présence de fragments de bris de verre. - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "risque potentiel de présence de fragments de bris de verre. - inertes (verre, métal, plastique, papier, textile…)"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/hershey-s-brand-kisses-creamy-milk-chocolate-recalled-due-undeclared-almond",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23963/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-10-0301",
+      "source": "RappelConso",
+      "date": "2026-10-30",
+      "title": {
+        "en": "saucisse de thon lot 250",
+        "fr": "saucisse de thon lot 250",
+        "nl": "saucisse de thon lot 250"
+      },
+      "description": {
+        "en": "rappel lot pour destruction car detection d'histamine - toxines endogènes : histamine",
+        "fr": "rappel lot pour destruction car detection d'histamine - toxines endogènes : histamine",
+        "nl": "rappel lot pour destruction car detection d'histamine - toxines endogènes : histamine"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23977/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-10-0264",
+      "source": "RappelConso",
+      "date": "2026-10-30",
+      "title": {
+        "en": "pizza saumon",
+        "fr": "pizza saumon",
+        "nl": "pizza saumon"
+      },
+      "description": {
+        "en": "présence d'un corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "présence d'un corps étranger - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "présence d'un corps étranger - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23974/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "favv-g-van-biervliet-diervoeding-bv",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
+        "fr": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
+        "nl": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biervliet-diervoeding-bv",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-g-van-biogarten-handels-gmbhde",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
+        "fr": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
+        "nl": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biogarten-handels-gmbhde",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-franken-agro",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Rappel de Franken Agro | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Franken Agro | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Franken Agro | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société FRANKEN AGRO retire le produit « Savooikool reepjes » de la marque Franken Agro de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en prothioconazole. FRANKEN AGRO demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :",
+        "fr": "En accord avec l’AFSCA, la société FRANKEN AGRO retire le produit « Savooikool reepjes » de la marque Franken Agro de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en prothioconazole. FRANKEN AGRO demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :",
+        "nl": "En accord avec l’AFSCA, la société FRANKEN AGRO retire le produit « Savooikool reepjes » de la marque Franken Agro de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en prothioconazole. FRANKEN AGRO demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-franken-agro",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82881",
+      "source": "CFIA",
+      "date": "2026-10-29",
+      "title": {
+        "en": "Certain Grated Carrots recalled due to pieces of metal",
+        "fr": "Certain Grated Carrots recalled due to pieces of metal",
+        "nl": "Certain Grated Carrots recalled due to pieces of metal"
+      },
+      "description": {
+        "en": "Extraneous Material",
+        "fr": "Extraneous Material",
+        "nl": "Extraneous Material"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-grated-carrots-recalled-due-pieces-metal",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "dairy",
         "plant"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "physical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "nvwa-veiligheidswaarschuwingen-food",
@@ -5037,35 +5418,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-10-0264",
-      "source": "RappelConso",
-      "date": "2026-10-27",
-      "title": {
-        "en": "pizza saumon",
-        "fr": "pizza saumon",
-        "nl": "pizza saumon"
-      },
-      "description": {
-        "en": "présence d'un corps étranger - inertes (verre, métal, plastique, papier, textile…)",
-        "fr": "présence d'un corps étranger - inertes (verre, métal, plastique, papier, textile…)",
-        "nl": "présence d'un corps étranger - inertes (verre, métal, plastique, papier, textile…)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23938/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
     },
     {
       "id": "cfia-82850",
@@ -5257,6 +5609,70 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "nvwa-uwing-melkunie-protein-pudding",
+      "source": "NVWA",
+      "date": "2026-10-23",
+      "title": {
+        "en": "Veiligheidswaarschuwing Melkunie Protein Pudding",
+        "fr": "Veiligheidswaarschuwing Melkunie Protein Pudding",
+        "nl": "Veiligheidswaarschuwing Melkunie Protein Pudding"
+      },
+      "description": {
+        "en": "Melkunie roept een partij Melkunie Protein Pudding in de smaken chocolade en crème brûlée terug omdat ze mogelijk kleine glasdeeltjes bevatten. Eet het product niet. Bekijk de waarschuwing op de website van Melkunie",
+        "fr": "Melkunie roept een partij Melkunie Protein Pudding in de smaken chocolade en crème brûlée terug omdat ze mogelijk kleine glasdeeltjes bevatten. Eet het product niet. Bekijk de waarschuwing op de website van Melkunie",
+        "nl": "Melkunie roept een partij Melkunie Protein Pudding in de smaken chocolade en crème brûlée terug omdat ze mogelijk kleine glasdeeltjes bevatten. Eet het product niet. Bekijk de waarschuwing op de website van Melkunie"
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/10/23/veiligheidswaarschuwing-melkunie-protein-pudding",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "favv-rappel-de-lafsca-152",
+      "source": "FAVV",
+      "date": "2026-10-23",
+      "title": {
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "L'AFSCA retire le pouding 'protein' (crème brulée & chocolate) de la marque Melkunie de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :",
+        "fr": "L'AFSCA retire le pouding 'protein' (crème brulée & chocolate) de la marque Melkunie de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :",
+        "nl": "L'AFSCA retire le pouding 'protein' (crème brulée & chocolate) de la marque Melkunie de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-152",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "rappelconso-2026-10-0238",
       "source": "RappelConso",
       "date": "2026-10-23",
@@ -5338,60 +5754,25 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "nvwa-uwing-melkunie-protein-pudding",
-      "source": "NVWA",
-      "date": "2026-10-23",
+      "id": "fda-ccd99883318c",
+      "source": "FDA",
+      "date": "2026-10-22",
       "title": {
-        "en": "Veiligheidswaarschuwing Melkunie Protein Pudding",
-        "fr": "Veiligheidswaarschuwing Melkunie Protein Pudding",
-        "nl": "Veiligheidswaarschuwing Melkunie Protein Pudding"
+        "en": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
+        "fr": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
+        "nl": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material"
       },
       "description": {
-        "en": "Melkunie roept een partij Melkunie Protein Pudding in de smaken chocolade en crème brûlée terug omdat ze mogelijk kleine glasdeeltjes bevatten. Eet het product niet. Bekijk de waarschuwing op de website van Melkunie",
-        "fr": "Melkunie roept een partij Melkunie Protein Pudding in de smaken chocolade en crème brûlée terug omdat ze mogelijk kleine glasdeeltjes bevatten. Eet het product niet. Bekijk de waarschuwing op de website van Melkunie",
-        "nl": "Melkunie roept een partij Melkunie Protein Pudding in de smaken chocolade en crème brûlée terug omdat ze mogelijk kleine glasdeeltjes bevatten. Eet het product niet. Bekijk de waarschuwing op de website van Melkunie"
+        "en": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
+        "fr": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
+        "nl": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass."
       },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/10/23/veiligheidswaarschuwing-melkunie-protein-pudding",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/natural-grocers-recalls-natural-grocers-brand-organic-2-pound-mung-beans-due-potential-presence",
       "countries": [
-        "NL",
-        "BE"
+        "US"
       ],
       "foodGroups": [
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "favv-rappel-de-lafsca-152",
-      "source": "FAVV",
-      "date": "2026-10-23",
-      "title": {
-        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "L'AFSCA retire le pouding 'protein' (crème brulée & chocolate) de la marque Melkunie de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :",
-        "fr": "L'AFSCA retire le pouding 'protein' (crème brulée & chocolate) de la marque Melkunie de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :",
-        "nl": "L'AFSCA retire le pouding 'protein' (crème brulée & chocolate) de la marque Melkunie de la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de verre. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-152",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [
-        "dairy",
-        "plant"
+        "dairy"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -5427,35 +5808,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fda-ccd99883318c",
-      "source": "FDA",
-      "date": "2026-10-22",
-      "title": {
-        "en": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
-        "fr": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material",
-        "nl": "Natural Grocers Recalls Natural Grocers Brand Organic 2 Pound Mung Beans Due to Potential Presence of Foreign Material"
-      },
-      "description": {
-        "en": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
-        "fr": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass.",
-        "nl": "10/22/2026, Vitamin Cottage Natural Food Markets, Inc., Lakewood, Colorado, is recalling Natural Grocers Brand Organic 2-Pound Mung Beans due to the potential presence of glass."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/natural-grocers-recalls-natural-grocers-brand-organic-2-pound-mung-beans-due-potential-presence",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-10-0215",
