@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T06:01:43.512Z",
+  "generated": "2026-11-01T06:01:47.635Z",
   "alerts": [
     {
       "id": "rappelconso-2026-10-0300",
@@ -2816,35 +2816,6 @@
       "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "cfia-78239",
-      "source": "CFIA",
-      "date": "2026-09-04",
-      "title": {
-        "en": "Various pistachios and pistachio-containing products recalled due to Salmonella",
-        "fr": "Various pistachios and pistachio-containing products recalled due to Salmonella",
-        "nl": "Various pistachios and pistachio-containing products recalled due to Salmonella"
-      },
-      "description": {
-        "en": "Salmonella",
-        "fr": "Salmonella",
-        "nl": "Salmonella"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-pistachios-and-pistachio-containing-products-recalled-due-salmonella-5",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "nvwa-wengert-kaas-van-geifertshofen",
       "source": "NVWA",
       "date": "2026-09-04",
@@ -2873,6 +2844,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "cfia-78239",
+      "source": "CFIA",
+      "date": "2026-09-04",
+      "title": {
+        "en": "Various pistachios and pistachio-containing products recalled due to Salmonella",
+        "fr": "Various pistachios and pistachio-containing products recalled due to Salmonella",
+        "nl": "Various pistachios and pistachio-containing products recalled due to Salmonella"
+      },
+      "description": {
+        "en": "Salmonella",
+        "fr": "Salmonella",
+        "nl": "Salmonella"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-pistachios-and-pistachio-containing-products-recalled-due-salmonella-5",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "cfia-82581",
@@ -3054,35 +3054,6 @@
       "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "cfia-82519",
-      "source": "CFIA",
-      "date": "2026-08-21",
-      "title": {
-        "en": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes",
-        "fr": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes",
-        "nl": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes"
-      },
-      "description": {
-        "en": "Listeria",
-        "fr": "Listeria",
-        "nl": "Listeria"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/compliments-brand-and-selection-brand-corn-dogs-recalled-due-listeria-monocytogenes",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "fsa-FSA-PRIN-40-2026",
       "source": "FSA",
       "date": "2026-08-21",
@@ -3110,6 +3081,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "cfia-82519",
+      "source": "CFIA",
+      "date": "2026-08-21",
+      "title": {
+        "en": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes",
+        "fr": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes",
+        "nl": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes"
+      },
+      "description": {
+        "en": "Listeria",
+        "fr": "Listeria",
+        "nl": "Listeria"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/compliments-brand-and-selection-brand-corn-dogs-recalled-due-listeria-monocytogenes",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "cfia-82493",
@@ -3372,6 +3372,33 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "fda-cb6f2e8ed3ff",
+      "source": "FDA",
+      "date": "2026-10-29",
+      "title": {
+        "en": "SLR Food Distribution Inc. Recalls Wise Wife Brand Ground Cinnamon Due to Elevated Lead Levels",
+        "fr": "SLR Food Distribution Inc. Recalls Wise Wife Brand Ground Cinnamon Due to Elevated Lead Levels",
+        "nl": "SLR Food Distribution Inc. Recalls Wise Wife Brand Ground Cinnamon Due to Elevated Lead Levels"
+      },
+      "description": {
+        "en": "SLR Food Distribution Inc. of Hicksville, New York, is voluntarily recalling Wise Wife Brand Ground Cinnamon because it has the potential to be contaminated with elevated levels of lead.",
+        "fr": "SLR Food Distribution Inc. of Hicksville, New York, is voluntarily recalling Wise Wife Brand Ground Cinnamon because it has the potential to be contaminated with elevated levels of lead.",
+        "nl": "SLR Food Distribution Inc. of Hicksville, New York, is voluntarily recalling Wise Wife Brand Ground Cinnamon because it has the potential to be contaminated with elevated levels of lead."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/slr-food-distribution-inc-recalls-wise-wife-brand-ground-cinnamon-due-elevated-lead-levels",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
       "id": "cfia-82810",
       "source": "CFIA",
       "date": "2026-10-29",
@@ -3399,33 +3426,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fda-cb6f2e8ed3ff",
-      "source": "FDA",
-      "date": "2026-10-29",
-      "title": {
-        "en": "SLR Food Distribution Inc. Recalls Wise Wife Brand Ground Cinnamon Due to Elevated Lead Levels",
-        "fr": "SLR Food Distribution Inc. Recalls Wise Wife Brand Ground Cinnamon Due to Elevated Lead Levels",
-        "nl": "SLR Food Distribution Inc. Recalls Wise Wife Brand Ground Cinnamon Due to Elevated Lead Levels"
-      },
-      "description": {
-        "en": "SLR Food Distribution Inc. of Hicksville, New York, is voluntarily recalling Wise Wife Brand Ground Cinnamon because it has the potential to be contaminated with elevated levels of lead.",
-        "fr": "SLR Food Distribution Inc. of Hicksville, New York, is voluntarily recalling Wise Wife Brand Ground Cinnamon because it has the potential to be contaminated with elevated levels of lead.",
-        "nl": "SLR Food Distribution Inc. of Hicksville, New York, is voluntarily recalling Wise Wife Brand Ground Cinnamon because it has the potential to be contaminated with elevated levels of lead."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/slr-food-distribution-inc-recalls-wise-wife-brand-ground-cinnamon-due-elevated-lead-levels",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "fda-332f90a1a892",
@@ -3747,35 +3747,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82799",
-      "source": "CFIA",
-      "date": "2026-10-16",
-      "title": {
-        "en": "Certain White Lotus Seed Paste Mooncake with 2 Egg Yolks recalled due to undeclared peanut",
-        "fr": "Certain White Lotus Seed Paste Mooncake with 2 Egg Yolks recalled due to undeclared peanut",
-        "nl": "Certain White Lotus Seed Paste Mooncake with 2 Egg Yolks recalled due to undeclared peanut"
-      },
-      "description": {
-        "en": "Peanut",
-        "fr": "Peanut",
-        "nl": "Peanut"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-white-lotus-seed-paste-mooncake-2-egg-yolks-recalled-due-undeclared-peanut",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "egg"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "nvwa-e-krul-40g-van-aldi-allergenen",
       "source": "NVWA",
       "date": "2026-10-16",
@@ -3802,6 +3773,35 @@
         "labeling"
       ],
       "dietRelevant": false,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82799",
+      "source": "CFIA",
+      "date": "2026-10-16",
+      "title": {
+        "en": "Certain White Lotus Seed Paste Mooncake with 2 Egg Yolks recalled due to undeclared peanut",
+        "fr": "Certain White Lotus Seed Paste Mooncake with 2 Egg Yolks recalled due to undeclared peanut",
+        "nl": "Certain White Lotus Seed Paste Mooncake with 2 Egg Yolks recalled due to undeclared peanut"
+      },
+      "description": {
+        "en": "Peanut",
+        "fr": "Peanut",
+        "nl": "Peanut"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-white-lotus-seed-paste-mooncake-2-egg-yolks-recalled-due-undeclared-peanut",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
     },
     {
@@ -4095,6 +4095,38 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "fsa-FSA-AA-44-2026",
+      "source": "FSA",
+      "date": "2026-10-03",
+      "title": {
+        "en": "Lambertz recalls Lambertz Mini Spekulatius and Lambertz Christmas Tree Cookies because allergens are not declared in English on the label",
+        "fr": "Lambertz recalls Lambertz Mini Spekulatius and Lambertz Christmas Tree Cookies because allergens are not declared in English on the label",
+        "nl": "Lambertz recalls Lambertz Mini Spekulatius and Lambertz Christmas Tree Cookies because allergens are not declared in English on the label"
+      },
+      "description": {
+        "en": "Allergens: Barley and wheat (gluten), egg, hazelnut (nuts), lactose and whey (milk), lecithin (soya), lupin, nuts, peanuts and sesame.\nThese products contain barley and wheat (gluten), hazelnuts (nuts) milk, lactose and whey (milk) and lecithin (soya), and they may contain egg, lupin, other nuts, peanuts, and sesame, making them a possible health risk for anyone with an allergy or intolerance to barley or wheat containing gluten, or with coeliac disease, an allergy or intolerance to egg, milk or milk constituents, an allergy to lupin, peanuts, nuts, sesame and/or soya.",
+        "fr": "Allergens: Barley and wheat (gluten), egg, hazelnut (nuts), lactose and whey (milk), lecithin (soya), lupin, nuts, peanuts and sesame.\nThese products contain barley and wheat (gluten), hazelnuts (nuts) milk, lactose and whey (milk) and lecithin (soya), and they may contain egg, lupin, other nuts, peanuts, and sesame, making them a possible health risk for anyone with an allergy or intolerance to barley or wheat containing gluten, or with coeliac disease, an allergy or intolerance to egg, milk or milk constituents, an allergy to lupin, peanuts, nuts, sesame and/or soya.",
+        "nl": "Allergens: Barley and wheat (gluten), egg, hazelnut (nuts), lactose and whey (milk), lecithin (soya), lupin, nuts, peanuts and sesame.\nThese products contain barley and wheat (gluten), hazelnuts (nuts) milk, lactose and whey (milk) and lecithin (soya), and they may contain egg, lupin, other nuts, peanuts, and sesame, making them a possible health risk for anyone with an allergy or intolerance to barley or wheat containing gluten, or with coeliac disease, an allergy or intolerance to egg, milk or milk constituents, an allergy to lupin, peanuts, nuts, sesame and/or soya."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-44-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "dairy",
+        "egg",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "cfia-82723",
       "source": "CFIA",
       "date": "2026-10-03",
@@ -4149,38 +4181,6 @@
       "audience": "general",
       "hazardTypes": [
         "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "fsa-FSA-AA-44-2026",
-      "source": "FSA",
-      "date": "2026-10-03",
-      "title": {
-        "en": "Lambertz recalls Lambertz Mini Spekulatius and Lambertz Christmas Tree Cookies because allergens are not declared in English on the label",
-        "fr": "Lambertz recalls Lambertz Mini Spekulatius and Lambertz Christmas Tree Cookies because allergens are not declared in English on the label",
-        "nl": "Lambertz recalls Lambertz Mini Spekulatius and Lambertz Christmas Tree Cookies because allergens are not declared in English on the label"
-      },
-      "description": {
-        "en": "Allergens: Barley and wheat (gluten), egg, hazelnut (nuts), lactose and whey (milk), lecithin (soya), lupin, nuts, peanuts and sesame.\nThese products contain barley and wheat (gluten), hazelnuts (nuts) milk, lactose and whey (milk) and lecithin (soya), and they may contain egg, lupin, other nuts, peanuts, and sesame, making them a possible health risk for anyone with an allergy or intolerance to barley or wheat containing gluten, or with coeliac disease, an allergy or intolerance to egg, milk or milk constituents, an allergy to lupin, peanuts, nuts, sesame and/or soya.",
-        "fr": "Allergens: Barley and wheat (gluten), egg, hazelnut (nuts), lactose and whey (milk), lecithin (soya), lupin, nuts, peanuts and sesame.\nThese products contain barley and wheat (gluten), hazelnuts (nuts) milk, lactose and whey (milk) and lecithin (soya), and they may contain egg, lupin, other nuts, peanuts, and sesame, making them a possible health risk for anyone with an allergy or intolerance to barley or wheat containing gluten, or with coeliac disease, an allergy or intolerance to egg, milk or milk constituents, an allergy to lupin, peanuts, nuts, sesame and/or soya.",
-        "nl": "Allergens: Barley and wheat (gluten), egg, hazelnut (nuts), lactose and whey (milk), lecithin (soya), lupin, nuts, peanuts and sesame.\nThese products contain barley and wheat (gluten), hazelnuts (nuts) milk, lactose and whey (milk) and lecithin (soya), and they may contain egg, lupin, other nuts, peanuts, and sesame, making them a possible health risk for anyone with an allergy or intolerance to barley or wheat containing gluten, or with coeliac disease, an allergy or intolerance to egg, milk or milk constituents, an allergy to lupin, peanuts, nuts, sesame and/or soya."
-      },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-44-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "dairy",
-        "egg",
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen",
-        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -4456,35 +4456,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82663",
-      "source": "CFIA",
-      "date": "2026-09-23",
-      "title": {
-        "en": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
-        "fr": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
-        "nl": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut"
-      },
-      "description": {
-        "en": "Peanut",
-        "fr": "Peanut",
-        "nl": "Peanut"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/chungjungwon-brand-sunchang-ssamjang-seasoned-bean-paste-recalled-due-undeclared",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "nvwa-kerbek-van-hoogland-allergenen",
       "source": "NVWA",
       "date": "2026-09-23",
@@ -4511,6 +4482,35 @@
       "hazardTypes": [
         "allergen",
         "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82663",
+      "source": "CFIA",
+      "date": "2026-09-23",
+      "title": {
+        "en": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
+        "fr": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut",
+        "nl": "Chungjungwon brand Sunchang Ssamjang (seasoned bean paste) recalled due to undeclared peanut"
+      },
+      "description": {
+        "en": "Peanut",
+        "fr": "Peanut",
+        "nl": "Peanut"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/chungjungwon-brand-sunchang-ssamjang-seasoned-bean-paste-recalled-due-undeclared",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -5283,35 +5283,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "cfia-82881",
-      "source": "CFIA",
-      "date": "2026-10-29",
-      "title": {
-        "en": "Certain Grated Carrots recalled due to pieces of metal",
-        "fr": "Certain Grated Carrots recalled due to pieces of metal",
-        "nl": "Certain Grated Carrots recalled due to pieces of metal"
-      },
-      "description": {
-        "en": "Extraneous Material",
-        "fr": "Extraneous Material",
-        "nl": "Extraneous Material"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-grated-carrots-recalled-due-pieces-metal",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
-    },
-    {
       "id": "nvwa-veiligheidswaarschuwingen-food",
       "source": "NVWA",
       "date": "2026-10-29",
@@ -5366,20 +5337,20 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "cfia-82859",
+      "id": "cfia-82881",
       "source": "CFIA",
-      "date": "2026-10-27",
+      "date": "2026-10-29",
       "title": {
-        "en": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage",
-        "fr": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage",
-        "nl": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage"
+        "en": "Certain Grated Carrots recalled due to pieces of metal",
+        "fr": "Certain Grated Carrots recalled due to pieces of metal",
+        "nl": "Certain Grated Carrots recalled due to pieces of metal"
       },
       "description": {
-        "en": "Non harmful (quality or spoilage)",
-        "fr": "Non harmful (quality or spoilage)",
-        "nl": "Non harmful (quality or spoilage)"
+        "en": "Extraneous Material",
+        "fr": "Extraneous Material",
+        "nl": "Extraneous Material"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/buck-wild-brand-shaft-cocktail-canadian-hard-coffee-recalled-due-container-integrity",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-grated-carrots-recalled-due-pieces-metal",
       "countries": [
         "CA"
       ],
@@ -5388,9 +5359,11 @@
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [],
+      "hazardTypes": [
+        "physical"
+      ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-10-0267",
@@ -5420,20 +5393,20 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "cfia-82850",
+      "id": "cfia-82859",
       "source": "CFIA",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "title": {
-        "en": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments",
-        "fr": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments",
-        "nl": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments"
+        "en": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage",
+        "fr": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage",
+        "nl": "Buck Wild brand Shaft Cocktail Canadian Hard Coffee recalled due to container integrity defects and spoilage"
       },
       "description": {
-        "en": "Extraneous Material",
-        "fr": "Extraneous Material",
-        "nl": "Extraneous Material"
+        "en": "Non harmful (quality or spoilage)",
+        "fr": "Non harmful (quality or spoilage)",
+        "nl": "Non harmful (quality or spoilage)"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/neo-chips-brand-apple-wild-blueberry-freeze-dried-fruit-sticks-recalled-due-pieces",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/buck-wild-brand-shaft-cocktail-canadian-hard-coffee-recalled-due-container-integrity",
       "countries": [
         "CA"
       ],
@@ -5499,6 +5472,33 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82850",
+      "source": "CFIA",
+      "date": "2026-10-26",
+      "title": {
+        "en": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments",
+        "fr": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments",
+        "nl": "Neo Chips brand Apple & Wild Blueberry Freeze-dried Fruit Sticks recalled due to pieces of dried stem fragments"
+      },
+      "description": {
+        "en": "Extraneous Material",
+        "fr": "Extraneous Material",
+        "nl": "Extraneous Material"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/neo-chips-brand-apple-wild-blueberry-freeze-dried-fruit-sticks-recalled-due-pieces",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
       "pregnancySummaryKey": "general"
     },
     {
@@ -6351,33 +6351,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "cfia-82809",
-      "source": "CFIA",
-      "date": "2026-10-19",
-      "title": {
-        "en": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
-        "fr": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
-        "nl": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim"
-      },
-      "description": {
-        "en": "Gluten",
-        "fr": "Gluten",
-        "nl": "Gluten"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/one-degree-organic-foods-brand-sprouted-whole-wheat-flour-recalled-due-misleading",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "nvwa-r-dark-chocolate-salted-almond",
       "source": "NVWA",
       "date": "2026-10-19",
@@ -6426,6 +6399,33 @@
       ],
       "foodGroups": [
         "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82809",
+      "source": "CFIA",
+      "date": "2026-10-19",
+      "title": {
+        "en": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
+        "fr": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim",
+        "nl": "One Degree Organic Foods brand Sprouted Whole Wheat Flour recalled due to misleading gluten free claim"
+      },
+      "description": {
+        "en": "Gluten",
+        "fr": "Gluten",
+        "nl": "Gluten"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/one-degree-organic-foods-brand-sprouted-whole-wheat-flour-recalled-due-misleading",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
