@@ -1,51 +1,50 @@
 {
-  "generated": "2026-11-03T06:02:41.560Z",
+  "generated": "2026-11-04T06:02:00.218Z",
   "alerts": [
     {
-      "id": "favv-terugroeping-van-carmans-el",
-      "source": "FAVV",
-      "date": "2026-10-30",
+      "id": "rappelconso-2026-11-0009",
+      "source": "RappelConso",
+      "date": "2026-11-03",
       "title": {
-        "en": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen"
+        "en": "5110026 - saucisse de morteau cuite igp france 300g*1 - ls pf¤5110028 - saucisse de morteau cuite igp france 300g*1 ls pv",
+        "fr": "5110026 - saucisse de morteau cuite igp france 300g*1 - ls pf¤5110028 - saucisse de morteau cuite igp france 300g*1 ls pv",
+        "nl": "5110026 - saucisse de morteau cuite igp france 300g*1 - ls pf¤5110028 - saucisse de morteau cuite igp france 300g*1 ls pv"
       },
       "description": {
-        "en": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
-        "fr": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
-        "nl": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes."
+        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
       },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-carmans-el",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23988/interne",
       "countries": [
-        "BE"
+        "FR"
       ],
-      "languages": [
-        "nl"
+      "foodGroups": [
+        "meat"
       ],
-      "foodGroups": [],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
       "hazardTypes": [
         "microbial"
       ],
-      "dietRelevant": false,
+      "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "favv-l-de-porc-qualite-ardenne-scrl",
+      "id": "favv-rappel-de-carrefour-36",
       "source": "FAVV",
-      "date": "2026-10-30",
+      "date": "2026-11-03",
       "title": {
-        "en": "Rappel de PORC QUALITE ARDENNE S.C.R.L. | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de PORC QUALITE ARDENNE S.C.R.L. | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de PORC QUALITE ARDENNE S.C.R.L. | Agence fédérale pour la sécurité de la chaîne alimentaire"
+        "en": "Rappel de Carrefour | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Carrefour | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Carrefour | Agence fédérale pour la sécurité de la chaîne alimentaire"
       },
       "description": {
-        "en": "En accord avec l’AFSCA, la société PORC QUALITE ARDENNE retire le produit « Boudin blanc BIO – lot : 32629520 » de la marque PORC QUALITE ARDENNE de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria monocytogenes. PORC QUALITE ARDENNE demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé.",
-        "fr": "En accord avec l’AFSCA, la société PORC QUALITE ARDENNE retire le produit « Boudin blanc BIO – lot : 32629520 » de la marque PORC QUALITE ARDENNE de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria monocytogenes. PORC QUALITE ARDENNE demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé.",
-        "nl": "En accord avec l’AFSCA, la société PORC QUALITE ARDENNE retire le produit « Boudin blanc BIO – lot : 32629520 » de la marque PORC QUALITE ARDENNE de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria monocytogenes. PORC QUALITE ARDENNE demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé."
+        "en": "Lors d'un contrôle qualité, il s'est avéré que le jambon de Bruges de la marque Carrefour est susceptible de contenir la bactérie Listeria. La sécurité des consommateurs étant la priorité de l'enseigne, Carrefour retire ce produit des rayons et procède à son rappel auprès des clients. Description du produit :",
+        "fr": "Lors d'un contrôle qualité, il s'est avéré que le jambon de Bruges de la marque Carrefour est susceptible de contenir la bactérie Listeria. La sécurité des consommateurs étant la priorité de l'enseigne, Carrefour retire ce produit des rayons et procède à son rappel auprès des clients. Description du produit :",
+        "nl": "Lors d'un contrôle qualité, il s'est avéré que le jambon de Bruges de la marque Carrefour est susceptible de contenir la bactérie Listeria. La sécurité des consommateurs étant la priorité de l'enseigne, Carrefour retire ce produit des rayons et procède à son rappel auprès des clients. Description du produit :"
       },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-porc-qualite-ardenne-scrl",
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-carrefour-36",
       "countries": [
         "BE"
       ],
@@ -62,6 +61,123 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-rappel-de-grand-frais-16",
+      "source": "FAVV",
+      "date": "2026-11-03",
+      "title": {
+        "en": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Grand Frais | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, Grand Frais retire le produit « Boulgour fin à la libanaise 230g » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria Monocytogenes. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit :",
+        "fr": "En accord avec l’AFSCA, Grand Frais retire le produit « Boulgour fin à la libanaise 230g » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria Monocytogenes. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit :",
+        "nl": "En accord avec l’AFSCA, Grand Frais retire le produit « Boulgour fin à la libanaise 230g » de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria Monocytogenes. Grand Frais demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté avec le ticket de caisse pour demander le remboursement. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-grand-frais-16",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-10-0273",
+      "source": "RappelConso",
+      "date": "2026-11-02",
+      "title": {
+        "en": "eminces de dinde marines a l'orientale vendus au rayon traditionnel",
+        "fr": "eminces de dinde marines a l'orientale vendus au rayon traditionnel",
+        "nl": "eminces de dinde marines a l'orientale vendus au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23947/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0004",
+      "source": "RappelConso",
+      "date": "2026-11-02",
+      "title": {
+        "en": "//",
+        "fr": "//",
+        "nl": "//"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23983/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fda-7006fd6ebcfb",
+      "source": "FDA",
+      "date": "2026-11-02",
+      "title": {
+        "en": "Snack Right Super Foods, Inc. dba Brad's Raw Chips Recalls Brad's Crunchy Kale & Veggie Chips Due to Potential Thallium Contamination",
+        "fr": "Snack Right Super Foods, Inc. dba Brad's Raw Chips Recalls Brad's Crunchy Kale & Veggie Chips Due to Potential Thallium Contamination",
+        "nl": "Snack Right Super Foods, Inc. dba Brad's Raw Chips Recalls Brad's Crunchy Kale & Veggie Chips Due to Potential Thallium Contamination"
+      },
+      "description": {
+        "en": "Coral Gables, FL - Snack Right Super Foods, Inc., doing business as Brad's Raw Chips, is recalling certain Brad's Plant Based Crunchy Kale (2 oz) and Brad's Veggie Chips Kale (3 oz) products because they may contain thallium.",
+        "fr": "Coral Gables, FL - Snack Right Super Foods, Inc., doing business as Brad's Raw Chips, is recalling certain Brad's Plant Based Crunchy Kale (2 oz) and Brad's Veggie Chips Kale (3 oz) products because they may contain thallium.",
+        "nl": "Coral Gables, FL - Snack Right Super Foods, Inc., doing business as Brad's Raw Chips, is recalling certain Brad's Plant Based Crunchy Kale (2 oz) and Brad's Veggie Chips Kale (3 oz) products because they may contain thallium."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/snack-right-super-foods-inc-dba-brads-raw-chips-recalls-brads-crunchy-kale-veggie-chips-due",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
     },
     {
       "id": "rappelconso-2026-10-0300",
@@ -196,6 +312,68 @@
       "url": "https://rappel.conso.gouv.fr/fiche-rappel/23946/interne",
       "countries": [
         "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-terugroeping-van-carmans-el",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
+        "fr": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
+        "nl": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-carmans-el",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-l-de-porc-qualite-ardenne-scrl",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Rappel de PORC QUALITE ARDENNE S.C.R.L. | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de PORC QUALITE ARDENNE S.C.R.L. | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de PORC QUALITE ARDENNE S.C.R.L. | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société PORC QUALITE ARDENNE retire le produit « Boudin blanc BIO – lot : 32629520 » de la marque PORC QUALITE ARDENNE de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria monocytogenes. PORC QUALITE ARDENNE demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé.",
+        "fr": "En accord avec l’AFSCA, la société PORC QUALITE ARDENNE retire le produit « Boudin blanc BIO – lot : 32629520 » de la marque PORC QUALITE ARDENNE de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria monocytogenes. PORC QUALITE ARDENNE demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé.",
+        "nl": "En accord avec l’AFSCA, la société PORC QUALITE ARDENNE retire le produit « Boudin blanc BIO – lot : 32629520 » de la marque PORC QUALITE ARDENNE de la vente et le rappelle auprès des consommateurs en raison de la présence possible de Listéria monocytogenes. PORC QUALITE ARDENNE demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé."
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-porc-qualite-ardenne-scrl",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
       ],
       "foodGroups": [
         "meat"
@@ -3284,6 +3462,61 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-11-0023",
+      "source": "RappelConso",
+      "date": "2026-11-03",
+      "title": {
+        "en": "534199",
+        "fr": "534199",
+        "nl": "534199"
+      },
+      "description": {
+        "en": "probable contamination d'un lot de morilles par une toxine susceptible d'être à l'origine d'intoxication alimentaire - autre risque",
+        "fr": "probable contamination d'un lot de morilles par une toxine susceptible d'être à l'origine d'intoxication alimentaire - autre risque",
+        "nl": "probable contamination d'un lot de morilles par une toxine susceptible d'être à l'origine d'intoxication alimentaire - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24003/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0020",
+      "source": "RappelConso",
+      "date": "2026-11-03",
+      "title": {
+        "en": "cheesecake framboise rose 125g",
+        "fr": "cheesecake framboise rose 125g",
+        "nl": "cheesecake framboise rose 125g"
+      },
+      "description": {
+        "en": "détection d’un défaut d’étiquetage ne mentionnant pas la présence de gluten. les informations de la contre étiquette sont erronées (mauvaise dénomination produit, absence des allergènes, mauvais code ean…) - substances allergisantes non déclarées",
+        "fr": "détection d’un défaut d’étiquetage ne mentionnant pas la présence de gluten. les informations de la contre étiquette sont erronées (mauvaise dénomination produit, absence des allergènes, mauvais code ean…) - substances allergisantes non déclarées",
+        "nl": "détection d’un défaut d’étiquetage ne mentionnant pas la présence de gluten. les informations de la contre étiquette sont erronées (mauvaise dénomination produit, absence des allergènes, mauvais code ean…) - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24000/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "cfia-82892",
       "source": "CFIA",
       "date": "2026-10-30",
@@ -5111,6 +5344,89 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-11-0015",
+      "source": "RappelConso",
+      "date": "2026-11-03",
+      "title": {
+        "en": "foie gras 150 g ¤foie gras 50 g¤confit de foie de porc 180 g",
+        "fr": "foie gras 150 g ¤foie gras 50 g¤confit de foie de porc 180 g",
+        "nl": "foie gras 150 g ¤foie gras 50 g¤confit de foie de porc 180 g"
+      },
+      "description": {
+        "en": "résultats d'analyse de stabilité non-conforme - autres contaminants biologiques",
+        "fr": "résultats d'analyse de stabilité non-conforme - autres contaminants biologiques",
+        "nl": "résultats d'analyse de stabilité non-conforme - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23994/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0008",
+      "source": "RappelConso",
+      "date": "2026-11-03",
+      "title": {
+        "en": "thon longe nature vendu au rayon traditionnel ¤thon longe mariné vendu en au rayon ls",
+        "fr": "thon longe nature vendu au rayon traditionnel ¤thon longe mariné vendu en au rayon ls",
+        "nl": "thon longe nature vendu au rayon traditionnel ¤thon longe mariné vendu en au rayon ls"
+      },
+      "description": {
+        "en": "présence d'histamine - toxines endogènes : histamine",
+        "fr": "présence d'histamine - toxines endogènes : histamine",
+        "nl": "présence d'histamine - toxines endogènes : histamine"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23987/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0003",
+      "source": "RappelConso",
+      "date": "2026-11-02",
+      "title": {
+        "en": "rillettes pur canard au magret fume 180g",
+        "fr": "rillettes pur canard au magret fume 180g",
+        "nl": "rillettes pur canard au magret fume 180g"
+      },
+      "description": {
+        "en": "présence de corps étranger (verre) - blessures",
+        "fr": "présence de corps étranger (verre) - blessures",
+        "nl": "présence de corps étranger (verre) - blessures"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23982/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "favv-rappel-de-dv-fresh",
       "source": "FAVV",
       "date": "2026-11-02",
@@ -5158,94 +5474,6 @@
       ],
       "languages": [
         "nl"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "favv-g-van-biervliet-diervoeding-bv",
-      "source": "FAVV",
-      "date": "2026-10-30",
-      "title": {
-        "en": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
-        "fr": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
-        "nl": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biervliet-diervoeding-bv",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "favv-g-van-biogarten-handels-gmbhde",
-      "source": "FAVV",
-      "date": "2026-10-30",
-      "title": {
-        "en": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
-        "fr": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
-        "nl": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biogarten-handels-gmbhde",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "favv-rappel-de-franken-agro",
-      "source": "FAVV",
-      "date": "2026-10-30",
-      "title": {
-        "en": "Rappel de Franken Agro | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de Franken Agro | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de Franken Agro | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En accord avec l’AFSCA, la société FRANKEN AGRO retire le produit « Savooikool reepjes » de la marque Franken Agro de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en prothioconazole. FRANKEN AGRO demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :",
-        "fr": "En accord avec l’AFSCA, la société FRANKEN AGRO retire le produit « Savooikool reepjes » de la marque Franken Agro de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en prothioconazole. FRANKEN AGRO demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :",
-        "nl": "En accord avec l’AFSCA, la société FRANKEN AGRO retire le produit « Savooikool reepjes » de la marque Franken Agro de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en prothioconazole. FRANKEN AGRO demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :"
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-franken-agro",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
       ],
       "foodGroups": [],
       "pregnancyRelevance": "low",
@@ -5339,6 +5567,94 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "favv-g-van-biervliet-diervoeding-bv",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
+        "fr": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
+        "nl": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biervliet-diervoeding-bv",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-g-van-biogarten-handels-gmbhde",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
+        "fr": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
+        "nl": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biogarten-handels-gmbhde",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-franken-agro",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Rappel de Franken Agro | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Franken Agro | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Franken Agro | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société FRANKEN AGRO retire le produit « Savooikool reepjes » de la marque Franken Agro de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en prothioconazole. FRANKEN AGRO demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :",
+        "fr": "En accord avec l’AFSCA, la société FRANKEN AGRO retire le produit « Savooikool reepjes » de la marque Franken Agro de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en prothioconazole. FRANKEN AGRO demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :",
+        "nl": "En accord avec l’AFSCA, la société FRANKEN AGRO retire le produit « Savooikool reepjes » de la marque Franken Agro de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en prothioconazole. FRANKEN AGRO demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté où il leur sera remboursé. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-franken-agro",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "cfia-82881",
@@ -5505,6 +5821,33 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "rappelconso-2026-10-0140",
+      "source": "RappelConso",
+      "date": "2026-10-26",
+      "title": {
+        "en": "affranchi lab gummis multi fruit 10 mg thc",
+        "fr": "affranchi lab gummis multi fruit 10 mg thc",
+        "nl": "affranchi lab gummis multi fruit 10 mg thc"
+      },
+      "description": {
+        "en": "teneur en delta 8 et delta 9 thc supérieur a la dose de référence aigue. - présence de substance interdite",
+        "fr": "teneur en delta 8 et delta 9 thc supérieur a la dose de référence aigue. - présence de substance interdite",
+        "nl": "teneur en delta 8 et delta 9 thc supérieur a la dose de référence aigue. - présence de substance interdite"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23812/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "favv-terugroeping-van-intermarche-9",
       "source": "FAVV",
       "date": "2026-10-26",
@@ -5530,33 +5873,6 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-10-0140",
-      "source": "RappelConso",
-      "date": "2026-10-26",
-      "title": {
-        "en": "affranchi lab gummis multi fruit 10 mg thc",
-        "fr": "affranchi lab gummis multi fruit 10 mg thc",
-        "nl": "affranchi lab gummis multi fruit 10 mg thc"
-      },
-      "description": {
-        "en": "teneur en delta 8 et delta 9 thc supérieur a la dose de référence aigue. - présence de substance interdite",
-        "fr": "teneur en delta 8 et delta 9 thc supérieur a la dose de référence aigue. - présence de substance interdite",
-        "nl": "teneur en delta 8 et delta 9 thc supérieur a la dose de référence aigue. - présence de substance interdite"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23812/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
       "pregnancySummaryKey": "general"
     },
     {
