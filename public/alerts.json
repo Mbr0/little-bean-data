@@ -1,6 +1,180 @@
 {
-  "generated": "2026-11-04T06:02:00.218Z",
+  "generated": "2026-11-05T06:02:04.831Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0034",
+      "source": "RappelConso",
+      "date": "2026-11-04",
+      "title": {
+        "en": "merguez boeuf mouton",
+        "fr": "merguez boeuf mouton",
+        "nl": "merguez boeuf mouton"
+      },
+      "description": {
+        "en": "suspicion de présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24015/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0016",
+      "source": "RappelConso",
+      "date": "2026-11-04",
+      "title": {
+        "en": "baymar",
+        "fr": "baymar",
+        "nl": "baymar"
+      },
+      "description": {
+        "en": "detection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "detection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "detection de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23996/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0028",
+      "source": "RappelConso",
+      "date": "2026-11-04",
+      "title": {
+        "en": "tranches de truite fumée",
+        "fr": "tranches de truite fumée",
+        "nl": "tranches de truite fumée"
+      },
+      "description": {
+        "en": "contamination à la listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "contamination à la listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "contamination à la listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24008/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0025",
+      "source": "RappelConso",
+      "date": "2026-11-04",
+      "title": {
+        "en": "merguez de boeuf origine france",
+        "fr": "merguez de boeuf origine france",
+        "nl": "merguez de boeuf origine france"
+      },
+      "description": {
+        "en": "non conformité microbiologique - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "non conformité microbiologique - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "non conformité microbiologique - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24005/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0024",
+      "source": "RappelConso",
+      "date": "2026-11-04",
+      "title": {
+        "en": "merguez boeuf mouton",
+        "fr": "merguez boeuf mouton",
+        "nl": "merguez boeuf mouton"
+      },
+      "description": {
+        "en": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24004/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0002",
+      "source": "RappelConso",
+      "date": "2026-11-04",
+      "title": {
+        "en": "saucisse fraîche de canard en poche sous vide",
+        "fr": "saucisse fraîche de canard en poche sous vide",
+        "nl": "saucisse fraîche de canard en poche sous vide"
+      },
+      "description": {
+        "en": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23981/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-11-0009",
       "source": "RappelConso",
@@ -3464,7 +3638,7 @@
     {
       "id": "rappelconso-2026-11-0023",
       "source": "RappelConso",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "title": {
         "en": "534199",
         "fr": "534199",
@@ -3475,7 +3649,7 @@
         "fr": "probable contamination d'un lot de morilles par une toxine susceptible d'être à l'origine d'intoxication alimentaire - autre risque",
         "nl": "probable contamination d'un lot de morilles par une toxine susceptible d'être à l'origine d'intoxication alimentaire - autre risque"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24003/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24012/interne",
       "countries": [
         "FR"
       ],
@@ -3485,6 +3659,37 @@
       "hazardTypes": [],
       "dietRelevant": false,
       "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0022",
+      "source": "RappelConso",
+      "date": "2026-11-04",
+      "title": {
+        "en": "saumon purée de brocolis 300 g - côté table",
+        "fr": "saumon purée de brocolis 300 g - côté table",
+        "nl": "saumon purée de brocolis 300 g - côté table"
+      },
+      "description": {
+        "en": "présence des allergènes mollusque (noix de saint-jacques), gluten (blé) et traces de céleri non étiquetés dans la liste des ingrédients du produit - substances allergisantes non déclarées",
+        "fr": "présence des allergènes mollusque (noix de saint-jacques), gluten (blé) et traces de céleri non étiquetés dans la liste des ingrédients du produit - substances allergisantes non déclarées",
+        "nl": "présence des allergènes mollusque (noix de saint-jacques), gluten (blé) et traces de céleri non étiquetés dans la liste des ingrédients du produit - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24002/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-11-0020",
@@ -5314,34 +5519,61 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82453",
-      "source": "CFIA",
-      "date": "2026-08-06",
+      "id": "rappelconso-2026-11-0031",
+      "source": "RappelConso",
+      "date": "2026-11-04",
       "title": {
-        "en": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
-        "fr": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg",
-        "nl": "Compliments brand Smashed 100% Chicken Burgers recalled due to undeclared egg"
+        "en": "tout produit ficelé avec de la ficelle blanche vendu au rayon boucherie de votre magasin entre le 06/07 et le 19/10/2026 (paupiettes, rôtis,...)",
+        "fr": "tout produit ficelé avec de la ficelle blanche vendu au rayon boucherie de votre magasin entre le 06/07 et le 19/10/2026 (paupiettes, rôtis,...)",
+        "nl": "tout produit ficelé avec de la ficelle blanche vendu au rayon boucherie de votre magasin entre le 06/07 et le 19/10/2026 (paupiettes, rôtis,...)"
       },
       "description": {
-        "en": "Egg",
-        "fr": "Egg",
-        "nl": "Egg"
+        "en": "mise en évidence de bisphénol a dans certains lots de ficelle alimentaire de notre fournisseur meyer-sansboeuf - autres contaminants chimiques",
+        "fr": "mise en évidence de bisphénol a dans certains lots de ficelle alimentaire de notre fournisseur meyer-sansboeuf - autres contaminants chimiques",
+        "nl": "mise en évidence de bisphénol a dans certains lots de ficelle alimentaire de notre fournisseur meyer-sansboeuf - autres contaminants chimiques"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/compliments-brand-smashed-100-chicken-burgers-recalled-due-undeclared-egg",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24011/interne",
       "countries": [
-        "CA"
+        "FR"
       ],
       "foodGroups": [
-        "meat",
-        "egg"
+        "meat"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-lafsca-153",
+      "source": "FAVV",
+      "date": "2026-11-04",
+      "title": {
+        "en": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de l'AFSCA | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "L'AFSCA retire le produit « Gnocchi di Patate » de la marque Grand'Italiade la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de plastique dur bleu. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :",
+        "fr": "L'AFSCA retire le produit « Gnocchi di Patate » de la marque Grand'Italiade la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de plastique dur bleu. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :",
+        "nl": "L'AFSCA retire le produit « Gnocchi di Patate » de la marque Grand'Italiade la vente et le rappelle auprès des consommateurs en raison de la présence possible de morceaux de plastique dur bleu. L'AFSCA demande de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Description des produits :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-lafsca-153",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "physical"
       ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "dietRelevant": false,
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-11-0015",
