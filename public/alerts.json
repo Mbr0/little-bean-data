@@ -1,6 +1,64 @@
 {
-  "generated": "2026-11-05T06:02:04.831Z",
+  "generated": "2026-11-06T06:02:11.385Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0037",
+      "source": "RappelConso",
+      "date": "2026-11-05",
+      "title": {
+        "en": "merguez de boeuf origine france",
+        "fr": "merguez de boeuf origine france",
+        "nl": "merguez de boeuf origine france"
+      },
+      "description": {
+        "en": "non conformité microbiologique - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "non conformité microbiologique - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "non conformité microbiologique - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24019/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0032",
+      "source": "RappelConso",
+      "date": "2026-11-05",
+      "title": {
+        "en": "saucisse de montbéliard vendu au rayon traditionnel",
+        "fr": "saucisse de montbéliard vendu au rayon traditionnel",
+        "nl": "saucisse de montbéliard vendu au rayon traditionnel"
+      },
+      "description": {
+        "en": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24013/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-11-0034",
       "source": "RappelConso",
@@ -499,36 +557,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "favv-terugroeping-van-carmans-el",
-      "source": "FAVV",
-      "date": "2026-10-30",
-      "title": {
-        "en": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
-        "fr": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
-        "nl": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-carmans-el",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "favv-l-de-porc-qualite-ardenne-scrl",
       "source": "FAVV",
       "date": "2026-10-30",
@@ -558,6 +586,36 @@
         "microbial"
       ],
       "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-terugroeping-van-carmans-el",
+      "source": "FAVV",
+      "date": "2026-10-30",
+      "title": {
+        "en": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van CARMANS E.&L. | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
+        "fr": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes.",
+        "nl": "In overleg met het FAVV haalt het bedrijf CARMANS E.&L. het product “Préparé du chef” van het merk Carmans uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van Listeria monocytogenes."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-carmans-el",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": false,
       "pregnancySummaryKey": "listeria"
     },
     {
@@ -3607,33 +3665,60 @@
       "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "fsa-FSA-PRIN-38-2026",
-      "source": "FSA",
-      "date": "2026-08-07",
+      "id": "rappelconso-2026-11-0043",
+      "source": "RappelConso",
+      "date": "2026-11-06",
       "title": {
-        "en": "Greencore recalls three pasta products because of possible contamination with Listeria monocytogenes",
-        "fr": "Greencore recalls three pasta products because of possible contamination with Listeria monocytogenes",
-        "nl": "Greencore recalls three pasta products because of possible contamination with Listeria monocytogenes"
+        "en": "vrac",
+        "fr": "vrac",
+        "nl": "vrac"
       },
       "description": {
-        "en": "The possible presence of Listeria monocytogenes in the products listed above.\nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "fr": "The possible presence of Listeria monocytogenes in the products listed above.\nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "nl": "The possible presence of Listeria monocytogenes in the products listed above.\nSymptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis.   \nSome people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+        "en": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement des limites autorisées de pesticides - dépassement des limites autorisées de pesticides"
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-38-2026",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24026/interne",
       "countries": [
-        "GB"
+        "FR"
       ],
       "foodGroups": [
         "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "chemical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "rappelconso-2026-11-0035",
+      "source": "RappelConso",
+      "date": "2026-11-05",
+      "title": {
+        "en": "champignons morilles sechees",
+        "fr": "champignons morilles sechees",
+        "nl": "champignons morilles sechees"
+      },
+      "description": {
+        "en": "probable contamination d'un lot de morilles par une toxine susceptible d'être à l'origine d'intoxication alimentaire - autre risque",
+        "fr": "probable contamination d'un lot de morilles par une toxine susceptible d'être à l'origine d'intoxication alimentaire - autre risque",
+        "nl": "probable contamination d'un lot de morilles par une toxine susceptible d'être à l'origine d'intoxication alimentaire - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24016/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-11-0023",
@@ -5519,6 +5604,89 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-11-0042",
+      "source": "RappelConso",
+      "date": "2026-11-05",
+      "title": {
+        "en": "jus de pomme poire 1l",
+        "fr": "jus de pomme poire 1l",
+        "nl": "jus de pomme poire 1l"
+      },
+      "description": {
+        "en": "jus de fruit présentant un taux de patuline supérieur à la norme autorisée. - autres contaminants biologiques",
+        "fr": "jus de fruit présentant un taux de patuline supérieur à la norme autorisée. - autres contaminants biologiques",
+        "nl": "jus de fruit présentant un taux de patuline supérieur à la norme autorisée. - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24025/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-terugroeping-van-het-favv-159",
+      "source": "FAVV",
+      "date": "2026-11-05",
+      "title": {
+        "en": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Wasabi crackers” van het merk Golden Turtle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
+        "fr": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Wasabi crackers” van het merk Golden Turtle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
+        "nl": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Wasabi crackers” van het merk Golden Turtle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-159",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-appel-de-holland-and-barrett-2",
+      "source": "FAVV",
+      "date": "2026-11-05",
+      "title": {
+        "en": "Rappel de Holland and Barrett | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Holland and Barrett | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Holland and Barrett | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société Holland and Barrett retire le produit « Shilajit 40% Fulvinezuur » (500mg - 60 capsules) de la marque Holland & Barrett de la vente et le rappelle auprès des consommateurs en raison d’une Teneur trop élevée en huiles minérales MOAH. Holland & Barrett demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé. Description du produit :",
+        "fr": "En accord avec l’AFSCA, la société Holland and Barrett retire le produit « Shilajit 40% Fulvinezuur » (500mg - 60 capsules) de la marque Holland & Barrett de la vente et le rappelle auprès des consommateurs en raison d’une Teneur trop élevée en huiles minérales MOAH. Holland & Barrett demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé. Description du produit :",
+        "nl": "En accord avec l’AFSCA, la société Holland and Barrett retire le produit « Shilajit 40% Fulvinezuur » (500mg - 60 capsules) de la marque Holland & Barrett de la vente et le rappelle auprès des consommateurs en raison d’une Teneur trop élevée en huiles minérales MOAH. Holland & Barrett demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté, où il leur sera remboursé. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-holland-and-barrett-2",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-11-0031",
       "source": "RappelConso",
       "date": "2026-11-04",
@@ -5801,20 +5969,20 @@
       "pregnancySummaryKey": "physical"
     },
     {
-      "id": "favv-g-van-biervliet-diervoeding-bv",
+      "id": "favv-g-van-biogarten-handels-gmbhde",
       "source": "FAVV",
       "date": "2026-10-30",
       "title": {
-        "en": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen"
+        "en": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen"
       },
       "description": {
-        "en": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
-        "fr": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
-        "nl": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken."
+        "en": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
+        "fr": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
+        "nl": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden."
       },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biervliet-diervoeding-bv",
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biogarten-handels-gmbhde",
       "countries": [
         "BE"
       ],
@@ -5831,20 +5999,20 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "favv-g-van-biogarten-handels-gmbhde",
+      "id": "favv-g-van-biervliet-diervoeding-bv",
       "source": "FAVV",
       "date": "2026-10-30",
       "title": {
-        "en": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van Biogarten Handels GmbH/DE | Federaal Agentschap voor de veiligheid van de voedselketen"
+        "en": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Biervliet Diervoeding BV. | Federaal Agentschap voor de veiligheid van de voedselketen"
       },
       "description": {
-        "en": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
-        "fr": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden.",
-        "nl": "In overleg met het FAVV haalt het bedrijf Biogarten Handels GmbH/DE de kruiden „Bohnenkraut, gerebelt und getrocknet“ van het merk Natur und Mensch Lebensbaum uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan pyrrolizidine alkaloïden."
+        "en": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
+        "fr": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken.",
+        "nl": "In overleg met het FAVV haalt Biervliet diervoeding BV het vogelvoer “All seasons- 4 seizoenen strooivoer” met lot 26F1567 van het merk Benelux uit de verkoop en roept het terug van bij de consumenten wegens de mogelijkse aanwezigheid van ambrosiazaden. De ambrosiazaden vormen geen risico voor huisdieren of andere dieren. Echter, wanneer het voer zich verspreidt, kunnen de zaden ontkiemen en kan er een Ambrosia plant groeien waarvan de pollen allergische reacties bij mensen kunnen veroorzaken."
       },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biogarten-handels-gmbhde",
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-biervliet-diervoeding-bv",
       "countries": [
         "BE"
       ],
