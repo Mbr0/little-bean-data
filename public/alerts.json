@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T06:01:27.932Z",
+  "generated": "2026-11-08T06:01:37.744Z",
   "alerts": [
     {
       "id": "rappelconso-2026-11-0053",
@@ -88,6 +88,36 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "nvwa-chedoux-en-macandre-geitenkaas",
+      "source": "NVWA",
+      "date": "2026-11-06",
+      "title": {
+        "en": "Veiligheidswaarschuwing De Oude Streek Machedoux en Macandré geitenkaas",
+        "fr": "Veiligheidswaarschuwing De Oude Streek Machedoux en Macandré geitenkaas",
+        "nl": "Veiligheidswaarschuwing De Oude Streek Machedoux en Macandré geitenkaas"
+      },
+      "description": {
+        "en": "Odin waarschuwt voor De Oude Streek Machedoux en Macandré geitenkaas. In deze producten is Listeria aangetroffen. Deze bacterie kan gezondheidsklachten veroorzaken. Eet de geitenkaas niet.",
+        "fr": "Odin waarschuwt voor De Oude Streek Machedoux en Macandré geitenkaas. In deze producten is Listeria aangetroffen. Deze bacterie kan gezondheidsklachten veroorzaken. Eet de geitenkaas niet.",
+        "nl": "Odin waarschuwt voor De Oude Streek Machedoux en Macandré geitenkaas. In deze producten is Listeria aangetroffen. Deze bacterie kan gezondheidsklachten veroorzaken. Eet de geitenkaas niet."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/06/veiligheidswaarschuwing-de-oude-streek-machedoux-en-macandre-geitenkaas",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
     },
     {
       "id": "rappelconso-2026-11-0037",
@@ -4070,6 +4100,37 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "nvwa-ebowl-sticky-tempeh-allergenen",
+      "source": "NVWA",
+      "date": "2026-10-24",
+      "title": {
+        "en": "Veiligheidswaarschuwing AH Pokebowl sticky tempeh (allergenen)",
+        "fr": "Veiligheidswaarschuwing AH Pokebowl sticky tempeh (allergenen)",
+        "nl": "Veiligheidswaarschuwing AH Pokebowl sticky tempeh (allergenen)"
+      },
+      "description": {
+        "en": "Albert Heijn waarschuwt voor AH Pokebowl sticky tempeh. Op de verpakking staat een vegan-logo, terwijl het product ei bevat. Eet het product niet als u allergisch bent voor ei of een veganistisch dieet volgt. Bekijk de waarschuwing op de website...",
+        "fr": "Albert Heijn waarschuwt voor AH Pokebowl sticky tempeh. Op de verpakking staat een vegan-logo, terwijl het product ei bevat. Eet het product niet als u allergisch bent voor ei of een veganistisch dieet volgt. Bekijk de waarschuwing op de website...",
+        "nl": "Albert Heijn waarschuwt voor AH Pokebowl sticky tempeh. Op de verpakking staat een vegan-logo, terwijl het product ei bevat. Eet het product niet als u allergisch bent voor ei of een veganistisch dieet volgt. Bekijk de waarschuwing op de website..."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/10/24/veiligheidswaarschuwing-ah-pokebowl-sticky-tempeh-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "egg",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "fda-adc711f76fa9",
       "source": "FDA",
       "date": "2026-10-24",
@@ -4118,37 +4179,6 @@
       ],
       "foodGroups": [
         "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "nvwa-ebowl-sticky-tempeh-allergenen",
-      "source": "NVWA",
-      "date": "2026-10-24",
-      "title": {
-        "en": "Veiligheidswaarschuwing AH Pokebowl sticky tempeh (allergenen)",
-        "fr": "Veiligheidswaarschuwing AH Pokebowl sticky tempeh (allergenen)",
-        "nl": "Veiligheidswaarschuwing AH Pokebowl sticky tempeh (allergenen)"
-      },
-      "description": {
-        "en": "Albert Heijn waarschuwt voor AH Pokebowl sticky tempeh. Op de verpakking staat een vegan-logo, terwijl het product ei bevat. Eet het product niet als u allergisch bent voor ei of een veganistisch dieet volgt. Bekijk de waarschuwing op de website...",
-        "fr": "Albert Heijn waarschuwt voor AH Pokebowl sticky tempeh. Op de verpakking staat een vegan-logo, terwijl het product ei bevat. Eet het product niet als u allergisch bent voor ei of een veganistisch dieet volgt. Bekijk de waarschuwing op de website...",
-        "nl": "Albert Heijn waarschuwt voor AH Pokebowl sticky tempeh. Op de verpakking staat een vegan-logo, terwijl het product ei bevat. Eet het product niet als u allergisch bent voor ei of een veganistisch dieet volgt. Bekijk de waarschuwing op de website..."
-      },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/10/24/veiligheidswaarschuwing-ah-pokebowl-sticky-tempeh-allergenen",
-      "countries": [
-        "NL",
-        "BE"
-      ],
-      "foodGroups": [
-        "egg",
-        "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -5305,35 +5335,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-42-2026",
-      "source": "FSA",
-      "date": "2026-09-03",
-      "title": {
-        "en": "Tesco recalls Tesco Finest Caesar & Smoked Bacon Coleslaw because of undeclared mustard",
-        "fr": "Tesco recalls Tesco Finest Caesar & Smoked Bacon Coleslaw because of undeclared mustard",
-        "nl": "Tesco recalls Tesco Finest Caesar & Smoked Bacon Coleslaw because of undeclared mustard"
-      },
-      "description": {
-        "en": "Mustard\nThis product contains mustard making it a possible health risk for anyone with an allergy to mustard.",
-        "fr": "Mustard\nThis product contains mustard making it a possible health risk for anyone with an allergy to mustard.",
-        "nl": "Mustard\nThis product contains mustard making it a possible health risk for anyone with an allergy to mustard."
-      },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-42-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "nvwa-anse-risotto-familieverpakking",
       "source": "NVWA",
       "date": "2026-09-03",
@@ -5356,6 +5357,35 @@
         "meat",
         "fish",
         "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-42-2026",
+      "source": "FSA",
+      "date": "2026-09-03",
+      "title": {
+        "en": "Tesco recalls Tesco Finest Caesar & Smoked Bacon Coleslaw because of undeclared mustard",
+        "fr": "Tesco recalls Tesco Finest Caesar & Smoked Bacon Coleslaw because of undeclared mustard",
+        "nl": "Tesco recalls Tesco Finest Caesar & Smoked Bacon Coleslaw because of undeclared mustard"
+      },
+      "description": {
+        "en": "Mustard\nThis product contains mustard making it a possible health risk for anyone with an allergy to mustard.",
+        "fr": "Mustard\nThis product contains mustard making it a possible health risk for anyone with an allergy to mustard.",
+        "nl": "Mustard\nThis product contains mustard making it a possible health risk for anyone with an allergy to mustard."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-42-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -7541,34 +7571,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "fsa-FSA-PRIN-49-2026",
-      "source": "FSA",
-      "date": "2026-10-13",
-      "title": {
-        "en": "Waitrose recalls Waitrose Tuna Pate because of an incorrect use-by date",
-        "fr": "Waitrose recalls Waitrose Tuna Pate because of an incorrect use-by date",
-        "nl": "Waitrose recalls Waitrose Tuna Pate because of an incorrect use-by date"
-      },
-      "description": {
-        "en": "The product is labelled with an incorrect use-by date of 17 December 2026, which makes it unsafe to eat after the correct use-by date of 17 October 2026.",
-        "fr": "The product is labelled with an incorrect use-by date of 17 December 2026, which makes it unsafe to eat after the correct use-by date of 17 October 2026.",
-        "nl": "The product is labelled with an incorrect use-by date of 17 December 2026, which makes it unsafe to eat after the correct use-by date of 17 October 2026."
-      },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-49-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "nvwa--dental-floss-picks-van-normal",
       "source": "NVWA",
       "date": "2026-10-13",
@@ -7590,6 +7592,34 @@
       "foodGroups": [
         "dairy",
         "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fsa-FSA-PRIN-49-2026",
+      "source": "FSA",
+      "date": "2026-10-13",
+      "title": {
+        "en": "Waitrose recalls Waitrose Tuna Pate because of an incorrect use-by date",
+        "fr": "Waitrose recalls Waitrose Tuna Pate because of an incorrect use-by date",
+        "nl": "Waitrose recalls Waitrose Tuna Pate because of an incorrect use-by date"
+      },
+      "description": {
+        "en": "The product is labelled with an incorrect use-by date of 17 December 2026, which makes it unsafe to eat after the correct use-by date of 17 October 2026.",
+        "fr": "The product is labelled with an incorrect use-by date of 17 December 2026, which makes it unsafe to eat after the correct use-by date of 17 October 2026.",
+        "nl": "The product is labelled with an incorrect use-by date of 17 December 2026, which makes it unsafe to eat after the correct use-by date of 17 October 2026."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-49-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
