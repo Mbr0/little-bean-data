@@ -1,6 +1,239 @@
 {
-  "generated": "2026-11-10T06:02:05.898Z",
+  "generated": "2026-11-11T06:01:57.236Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0062",
+      "source": "RappelConso",
+      "date": "2026-11-10",
+      "title": {
+        "en": "pâté de campagne démoulé¤pâté de campagne en moule¤pâté de campagne en tranche ou en demi",
+        "fr": "pâté de campagne démoulé¤pâté de campagne en moule¤pâté de campagne en tranche ou en demi",
+        "nl": "pâté de campagne démoulé¤pâté de campagne en moule¤pâté de campagne en tranche ou en demi"
+      },
+      "description": {
+        "en": "présence faible de listeria monocytogene¤rappel de précaution car développement possible dans le produits avant la fin de dlc - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence faible de listeria monocytogene¤rappel de précaution car développement possible dans le produits avant la fin de dlc - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence faible de listeria monocytogene¤rappel de précaution car développement possible dans le produits avant la fin de dlc - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24049/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0063",
+      "source": "RappelConso",
+      "date": "2026-11-10",
+      "title": {
+        "en": "saucisson cuit à l'ail entier ou en demi",
+        "fr": "saucisson cuit à l'ail entier ou en demi",
+        "nl": "saucisson cuit à l'ail entier ou en demi"
+      },
+      "description": {
+        "en": "présence faible de listeria monocytogene¤rappel de précaution car développement possible dans le produits avant la fin de dlc - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence faible de listeria monocytogene¤rappel de précaution car développement possible dans le produits avant la fin de dlc - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence faible de listeria monocytogene¤rappel de précaution car développement possible dans le produits avant la fin de dlc - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24050/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0064",
+      "source": "RappelConso",
+      "date": "2026-11-10",
+      "title": {
+        "en": "boudin aux châtaignes par dix ou par trois",
+        "fr": "boudin aux châtaignes par dix ou par trois",
+        "nl": "boudin aux châtaignes par dix ou par trois"
+      },
+      "description": {
+        "en": "présence faible de listeria monocytogene¤rappel de précaution car développement possible dans le produits avant la fin de dlc - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence faible de listeria monocytogene¤rappel de précaution car développement possible dans le produits avant la fin de dlc - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence faible de listeria monocytogene¤rappel de précaution car développement possible dans le produits avant la fin de dlc - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24051/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0073",
+      "source": "RappelConso",
+      "date": "2026-11-10",
+      "title": {
+        "en": "boudin viande¤boudin a la viande",
+        "fr": "boudin viande¤boudin a la viande",
+        "nl": "boudin viande¤boudin a la viande"
+      },
+      "description": {
+        "en": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24060/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0065",
+      "source": "RappelConso",
+      "date": "2026-11-10",
+      "title": {
+        "en": "chair à saucisse de brebis assaisonnée",
+        "fr": "chair à saucisse de brebis assaisonnée",
+        "nl": "chair à saucisse de brebis assaisonnée"
+      },
+      "description": {
+        "en": "analyse microbiologique non conforme - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)",
+        "fr": "analyse microbiologique non conforme - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)",
+        "nl": "analyse microbiologique non conforme - listeria monocytogenes (agent responsable de la listériose)|salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24052/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0056",
+      "source": "RappelConso",
+      "date": "2026-11-10",
+      "title": {
+        "en": "at002",
+        "fr": "at002",
+        "nl": "at002"
+      },
+      "description": {
+        "en": "mise en évidence de la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "mise en évidence de la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "mise en évidence de la présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24043/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0061",
+      "source": "RappelConso",
+      "date": "2026-11-10",
+      "title": {
+        "en": "rillette artisanale",
+        "fr": "rillette artisanale",
+        "nl": "rillette artisanale"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24048/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fda-61b26cdbd55e",
+      "source": "FDA",
+      "date": "2026-11-10",
+      "title": {
+        "en": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
+        "fr": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
+        "nl": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
+        "fr": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
+        "nl": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-all-cheddar-cheese-products-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-11-0058",
       "source": "RappelConso",
@@ -412,35 +645,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-11-0009",
-      "source": "RappelConso",
-      "date": "2026-11-03",
-      "title": {
-        "en": "5110026 - saucisse de morteau cuite igp france 300g*1 - ls pf¤5110028 - saucisse de morteau cuite igp france 300g*1 ls pv",
-        "fr": "5110026 - saucisse de morteau cuite igp france 300g*1 - ls pf¤5110028 - saucisse de morteau cuite igp france 300g*1 ls pv",
-        "nl": "5110026 - saucisse de morteau cuite igp france 300g*1 - ls pf¤5110028 - saucisse de morteau cuite igp france 300g*1 ls pv"
-      },
-      "description": {
-        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
-        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23988/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "favv-rappel-de-carrefour-36",
       "source": "FAVV",
       "date": "2026-11-03",
@@ -503,6 +707,64 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "rappelconso-2026-11-0009",
+      "source": "RappelConso",
+      "date": "2026-11-03",
+      "title": {
+        "en": "5110026 - saucisse de morteau cuite igp france 300g*1 - ls pf¤5110028 - saucisse de morteau cuite igp france 300g*1 ls pv",
+        "fr": "5110026 - saucisse de morteau cuite igp france 300g*1 - ls pf¤5110028 - saucisse de morteau cuite igp france 300g*1 ls pv",
+        "nl": "5110026 - saucisse de morteau cuite igp france 300g*1 - ls pf¤5110028 - saucisse de morteau cuite igp france 300g*1 ls pv"
+      },
+      "description": {
+        "en": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listéria monocytogènes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23988/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "fda-7006fd6ebcfb",
+      "source": "FDA",
+      "date": "2026-11-02",
+      "title": {
+        "en": "Snack Right Super Foods, Inc. dba Brad's Raw Chips Recalls Brad's Crunchy Kale & Veggie Chips Due to Potential Thallium Contamination",
+        "fr": "Snack Right Super Foods, Inc. dba Brad's Raw Chips Recalls Brad's Crunchy Kale & Veggie Chips Due to Potential Thallium Contamination",
+        "nl": "Snack Right Super Foods, Inc. dba Brad's Raw Chips Recalls Brad's Crunchy Kale & Veggie Chips Due to Potential Thallium Contamination"
+      },
+      "description": {
+        "en": "Coral Gables, FL - Snack Right Super Foods, Inc., doing business as Brad's Raw Chips, is recalling certain Brad's Plant Based Crunchy Kale (2 oz) and Brad's Veggie Chips Kale (3 oz) products because they may contain thallium.",
+        "fr": "Coral Gables, FL - Snack Right Super Foods, Inc., doing business as Brad's Raw Chips, is recalling certain Brad's Plant Based Crunchy Kale (2 oz) and Brad's Veggie Chips Kale (3 oz) products because they may contain thallium.",
+        "nl": "Coral Gables, FL - Snack Right Super Foods, Inc., doing business as Brad's Raw Chips, is recalling certain Brad's Plant Based Crunchy Kale (2 oz) and Brad's Veggie Chips Kale (3 oz) products because they may contain thallium."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/snack-right-super-foods-inc-dba-brads-raw-chips-recalls-brads-crunchy-kale-veggie-chips-due",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
       "id": "rappelconso-2026-10-0273",
       "source": "RappelConso",
       "date": "2026-11-02",
@@ -559,35 +821,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fda-7006fd6ebcfb",
-      "source": "FDA",
-      "date": "2026-11-02",
-      "title": {
-        "en": "Snack Right Super Foods, Inc. dba Brad's Raw Chips Recalls Brad's Crunchy Kale & Veggie Chips Due to Potential Thallium Contamination",
-        "fr": "Snack Right Super Foods, Inc. dba Brad's Raw Chips Recalls Brad's Crunchy Kale & Veggie Chips Due to Potential Thallium Contamination",
-        "nl": "Snack Right Super Foods, Inc. dba Brad's Raw Chips Recalls Brad's Crunchy Kale & Veggie Chips Due to Potential Thallium Contamination"
-      },
-      "description": {
-        "en": "Coral Gables, FL - Snack Right Super Foods, Inc., doing business as Brad's Raw Chips, is recalling certain Brad's Plant Based Crunchy Kale (2 oz) and Brad's Veggie Chips Kale (3 oz) products because they may contain thallium.",
-        "fr": "Coral Gables, FL - Snack Right Super Foods, Inc., doing business as Brad's Raw Chips, is recalling certain Brad's Plant Based Crunchy Kale (2 oz) and Brad's Veggie Chips Kale (3 oz) products because they may contain thallium.",
-        "nl": "Coral Gables, FL - Snack Right Super Foods, Inc., doing business as Brad's Raw Chips, is recalling certain Brad's Plant Based Crunchy Kale (2 oz) and Brad's Veggie Chips Kale (3 oz) products because they may contain thallium."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/snack-right-super-foods-inc-dba-brads-raw-chips-recalls-brads-crunchy-kale-veggie-chips-due",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
     },
     {
       "id": "rappelconso-2026-10-0300",
@@ -3814,6 +4047,37 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
+      "id": "rappelconso-2026-11-0068",
+      "source": "RappelConso",
+      "date": "2026-11-10",
+      "title": {
+        "en": "cordon bleu de dinde 1kg - côté croc",
+        "fr": "cordon bleu de dinde 1kg - côté croc",
+        "nl": "cordon bleu de dinde 1kg - côté croc"
+      },
+      "description": {
+        "en": "présence de l'allergène lait non étiqueté suite à une erreur de contre étiquette - substances allergisantes non déclarées",
+        "fr": "présence de l'allergène lait non étiqueté suite à une erreur de contre étiquette - substances allergisantes non déclarées",
+        "nl": "présence de l'allergène lait non étiqueté suite à une erreur de contre étiquette - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24055/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-11-0060",
       "source": "RappelConso",
       "date": "2026-11-09",
@@ -6116,6 +6380,34 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "favv-rappel-de-dv-fresh",
+      "source": "FAVV",
+      "date": "2026-11-02",
+      "title": {
+        "en": "Rappel de DV Fresh | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de DV Fresh | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de DV Fresh | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En concertation avec l'AFSCA, la société DV Fresh retire de la vente et procède au rappel auprès des consommateurs du produit « Chou vert » (400g) en raison de la présence d'une teneur trop élevée en prothioconazole. DV Fresh demande à ses clients de ne pas consommer ce produit et de le rapporter au point de vente où il a été acheté, afin d'obtenir un remboursement.",
+        "fr": "En concertation avec l'AFSCA, la société DV Fresh retire de la vente et procède au rappel auprès des consommateurs du produit « Chou vert » (400g) en raison de la présence d'une teneur trop élevée en prothioconazole. DV Fresh demande à ses clients de ne pas consommer ce produit et de le rapporter au point de vente où il a été acheté, afin d'obtenir un remboursement.",
+        "nl": "En concertation avec l'AFSCA, la société DV Fresh retire de la vente et procède au rappel auprès des consommateurs du produit « Chou vert » (400g) en raison de la présence d'une teneur trop élevée en prothioconazole. DV Fresh demande à ses clients de ne pas consommer ce produit et de le rapporter au point de vente où il a été acheté, afin d'obtenir un remboursement."
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-dv-fresh",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-11-0003",
       "source": "RappelConso",
       "date": "2026-11-02",
@@ -6143,34 +6435,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "favv-rappel-de-dv-fresh",
-      "source": "FAVV",
-      "date": "2026-11-02",
-      "title": {
-        "en": "Rappel de DV Fresh | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de DV Fresh | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de DV Fresh | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En concertation avec l'AFSCA, la société DV Fresh retire de la vente et procède au rappel auprès des consommateurs du produit « Chou vert » (400g) en raison de la présence d'une teneur trop élevée en prothioconazole. DV Fresh demande à ses clients de ne pas consommer ce produit et de le rapporter au point de vente où il a été acheté, afin d'obtenir un remboursement.",
-        "fr": "En concertation avec l'AFSCA, la société DV Fresh retire de la vente et procède au rappel auprès des consommateurs du produit « Chou vert » (400g) en raison de la présence d'une teneur trop élevée en prothioconazole. DV Fresh demande à ses clients de ne pas consommer ce produit et de le rapporter au point de vente où il a été acheté, afin d'obtenir un remboursement.",
-        "nl": "En concertation avec l'AFSCA, la société DV Fresh retire de la vente et procède au rappel auprès des consommateurs du produit « Chou vert » (400g) en raison de la présence d'une teneur trop élevée en prothioconazole. DV Fresh demande à ses clients de ne pas consommer ce produit et de le rapporter au point de vente où il a été acheté, afin d'obtenir un remboursement."
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-dv-fresh",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
     },
     {
       "id": "favv-terugroeping-van-vegromix-bv",
@@ -8420,60 +8684,6 @@
       "countries": [
         "NL",
         "BE"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "cfia-82473",
-      "source": "CFIA",
-      "date": "2026-08-12",
-      "title": {
-        "en": "The Greek Gods brand Greek Style Honey Yogurt and Organic Plain Yogurt recalled due to mould",
-        "fr": "The Greek Gods brand Greek Style Honey Yogurt and Organic Plain Yogurt recalled due to mould",
-        "nl": "The Greek Gods brand Greek Style Honey Yogurt and Organic Plain Yogurt recalled due to mould"
-      },
-      "description": {
-        "en": "Non harmful (quality or spoilage)",
-        "fr": "Non harmful (quality or spoilage)",
-        "nl": "Non harmful (quality or spoilage)"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/greek-gods-brand-greek-style-honey-yogurt-and-organic-plain-yogurt-recalled-due-mould",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "cfia-82478",
-      "source": "CFIA",
-      "date": "2026-08-12",
-      "title": {
-        "en": "Alfa brand croissant products recalled due to mould",
-        "fr": "Alfa brand croissant products recalled due to mould",
-        "nl": "Alfa brand croissant products recalled due to mould"
-      },
-      "description": {
-        "en": "Non harmful (quality or spoilage)",
-        "fr": "Non harmful (quality or spoilage)",
-        "nl": "Non harmful (quality or spoilage)"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/alfa-brand-croissant-products-recalled-due-mould",
-      "countries": [
-        "CA"
       ],
       "foodGroups": [
         "plant"
