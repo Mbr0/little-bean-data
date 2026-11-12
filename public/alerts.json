@@ -1,6 +1,33 @@
 {
-  "generated": "2026-11-11T06:01:57.236Z",
+  "generated": "2026-11-12T06:01:56.540Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0077",
+      "source": "RappelConso",
+      "date": "2026-11-11",
+      "title": {
+        "en": "reblochon de savoie fermier 450g",
+        "fr": "reblochon de savoie fermier 450g",
+        "nl": "reblochon de savoie fermier 450g"
+      },
+      "description": {
+        "en": "présence de escherichia coli stec - escherichia coli shiga toxinogène (stec)",
+        "fr": "présence de escherichia coli stec - escherichia coli shiga toxinogène (stec)",
+        "nl": "présence de escherichia coli stec - escherichia coli shiga toxinogène (stec)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24064/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
     {
       "id": "rappelconso-2026-11-0062",
       "source": "RappelConso",
@@ -4020,31 +4047,36 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "cfia-82480",
-      "source": "CFIA",
-      "date": "2026-08-13",
+      "id": "nvwa-wraphapje-kip-pesto-allergenen",
+      "source": "NVWA",
+      "date": "2026-11-11",
       "title": {
-        "en": "Certain Whole Foods Market brand guacamoles, pico de gallos, salsas, and prepared foods recalled due to Salmonella",
-        "fr": "Certain Whole Foods Market brand guacamoles, pico de gallos, salsas, and prepared foods recalled due to Salmonella",
-        "nl": "Certain Whole Foods Market brand guacamoles, pico de gallos, salsas, and prepared foods recalled due to Salmonella"
+        "en": "Veiligheidswaarschuwing Jumbo wraphapje kip pesto (Allergenen)",
+        "fr": "Veiligheidswaarschuwing Jumbo wraphapje kip pesto (Allergenen)",
+        "nl": "Veiligheidswaarschuwing Jumbo wraphapje kip pesto (Allergenen)"
       },
       "description": {
-        "en": "Salmonella",
-        "fr": "Salmonella",
-        "nl": "Salmonella"
+        "en": "Jumbo waarschuwt voor hun wraphapje kip pesto. Op de verpakking zit het verkeerde etiket. Daardoor staat niet vermeld dat er pinda en noten in het product zitten.",
+        "fr": "Jumbo waarschuwt voor hun wraphapje kip pesto. Op de verpakking zit het verkeerde etiket. Daardoor staat niet vermeld dat er pinda en noten in het product zitten.",
+        "nl": "Jumbo waarschuwt voor hun wraphapje kip pesto. Op de verpakking zit het verkeerde etiket. Daardoor staat niet vermeld dat er pinda en noten in het product zitten."
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-whole-foods-market-brand-guacamoles-pico-gallos-salsas-and-prepared-foods",
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/11/veiligheidswaarschuwing-jumbo-wraphapje-kip-pesto-allergenen",
       "countries": [
-        "CA"
+        "NL",
+        "BE"
       ],
-      "foodGroups": [],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen",
+        "labeling"
       ],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "salmonella"
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-11-0068",
@@ -6003,65 +6035,6 @@
       ],
       "foodGroups": [
         "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82481",
-      "source": "CFIA",
-      "date": "2026-08-13",
-      "title": {
-        "en": "Zhou Hei Ya brand Wide Vermicelli with Sesame Sauce recalled due to undeclared shrimp",
-        "fr": "Zhou Hei Ya brand Wide Vermicelli with Sesame Sauce recalled due to undeclared shrimp",
-        "nl": "Zhou Hei Ya brand Wide Vermicelli with Sesame Sauce recalled due to undeclared shrimp"
-      },
-      "description": {
-        "en": "Crustacean and shellfish",
-        "fr": "Crustacean and shellfish",
-        "nl": "Crustacean and shellfish"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/zhou-hei-ya-brand-wide-vermicelli-sesame-sauce-recalled-due-undeclared-shrimp",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "fish"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82483",
-      "source": "CFIA",
-      "date": "2026-08-13",
-      "title": {
-        "en": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg",
-        "fr": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg",
-        "nl": "Aqua Gems brand Tempura Shrimp recalled due to undeclared egg"
-      },
-      "description": {
-        "en": "Egg",
-        "fr": "Egg",
-        "nl": "Egg"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/aqua-gems-brand-tempura-shrimp-recalled-due-undeclared-egg",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "fish",
-        "egg"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
