@@ -1,6 +1,122 @@
 {
-  "generated": "2026-11-12T06:01:56.540Z",
+  "generated": "2026-11-13T06:01:46.501Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0075",
+      "source": "RappelConso",
+      "date": "2026-11-12",
+      "title": {
+        "en": "mélanges contenant graines de courge : mélange sportif, mélange spécial salade estivale¤graines de courge",
+        "fr": "mélanges contenant graines de courge : mélange sportif, mélange spécial salade estivale¤graines de courge",
+        "nl": "mélanges contenant graines de courge : mélange sportif, mélange spécial salade estivale¤graines de courge"
+      },
+      "description": {
+        "en": "détection salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24062/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0088",
+      "source": "RappelConso",
+      "date": "2026-11-12",
+      "title": {
+        "en": "cuisse de poulet 3 kgs rhônes alpes",
+        "fr": "cuisse de poulet 3 kgs rhônes alpes",
+        "nl": "cuisse de poulet 3 kgs rhônes alpes"
+      },
+      "description": {
+        "en": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24075/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0087",
+      "source": "RappelConso",
+      "date": "2026-11-12",
+      "title": {
+        "en": "cuisse de poulet x2 rhônes alpes s/at",
+        "fr": "cuisse de poulet x2 rhônes alpes s/at",
+        "nl": "cuisse de poulet x2 rhônes alpes s/at"
+      },
+      "description": {
+        "en": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonella - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24074/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0086",
+      "source": "RappelConso",
+      "date": "2026-11-12",
+      "title": {
+        "en": "cuisses de poulet nature x 3kgs",
+        "fr": "cuisses de poulet nature x 3kgs",
+        "nl": "cuisses de poulet nature x 3kgs"
+      },
+      "description": {
+        "en": "contamination en salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "contamination en salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "contamination en salmonella - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24073/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-11-0077",
       "source": "RappelConso",
@@ -3989,62 +4105,157 @@
       "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "cfia-82488",
-      "source": "CFIA",
-      "date": "2026-08-14",
+      "id": "rappelconso-2026-11-0083",
+      "source": "RappelConso",
+      "date": "2026-11-12",
       "title": {
-        "en": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes",
-        "fr": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes",
-        "nl": "Coaticook brand Mild Cheddar Curds - White, Frozen recalled due to Listeria monocytogenes"
+        "en": "plateau de charcuterie , saucisson ail x2",
+        "fr": "plateau de charcuterie , saucisson ail x2",
+        "nl": "plateau de charcuterie , saucisson ail x2"
       },
       "description": {
-        "en": "Listeria",
-        "fr": "Listeria",
-        "nl": "Listeria"
+        "en": "le produit a un problème d'étiquetage, il manque la composition dont les allergènes. - substances allergisantes non déclarées",
+        "fr": "le produit a un problème d'étiquetage, il manque la composition dont les allergènes. - substances allergisantes non déclarées",
+        "nl": "le produit a un problème d'étiquetage, il manque la composition dont les allergènes. - substances allergisantes non déclarées"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/coaticook-brand-mild-cheddar-curds-white-frozen-recalled-due-listeria-monocytogenes",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24070/interne",
       "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "cfia-82491",
-      "source": "CFIA",
-      "date": "2026-08-14",
-      "title": {
-        "en": "Clément le Gourmand brand meat products recalled due to Listeria monocytogenes",
-        "fr": "Clément le Gourmand brand meat products recalled due to Listeria monocytogenes",
-        "nl": "Clément le Gourmand brand meat products recalled due to Listeria monocytogenes"
-      },
-      "description": {
-        "en": "Listeria",
-        "fr": "Listeria",
-        "nl": "Listeria"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/clement-gourmand-brand-meat-products-recalled-due-listeria-monocytogenes",
-      "countries": [
-        "CA"
+        "FR"
       ],
       "foodGroups": [
         "meat"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-11-0082",
+      "source": "RappelConso",
+      "date": "2026-11-12",
+      "title": {
+        "en": "coquille de surimi x2",
+        "fr": "coquille de surimi x2",
+        "nl": "coquille de surimi x2"
+      },
+      "description": {
+        "en": "le produit a un problème d'étiquetage, il manque la composition dont les allergènes. - substances allergisantes non déclarées",
+        "fr": "le produit a un problème d'étiquetage, il manque la composition dont les allergènes. - substances allergisantes non déclarées",
+        "nl": "le produit a un problème d'étiquetage, il manque la composition dont les allergènes. - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24069/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-11-0072",
+      "source": "RappelConso",
+      "date": "2026-11-12",
+      "title": {
+        "en": "burger poulet, assiette printanière de surimi, coquille oeuf x2",
+        "fr": "burger poulet, assiette printanière de surimi, coquille oeuf x2",
+        "nl": "burger poulet, assiette printanière de surimi, coquille oeuf x2"
+      },
+      "description": {
+        "en": "les produits n'ont pas de compositions, il manque les allergènes présents dans les produits. - substances allergisantes non déclarées",
+        "fr": "les produits n'ont pas de compositions, il manque les allergènes présents dans les produits. - substances allergisantes non déclarées",
+        "nl": "les produits n'ont pas de compositions, il manque les allergènes présents dans les produits. - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24059/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish",
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-11-0071",
+      "source": "RappelConso",
+      "date": "2026-11-12",
+      "title": {
+        "en": "gratin d'endives, saumon et accompagnement, coquille oeuf x2, tacos mexicain¤",
+        "fr": "gratin d'endives, saumon et accompagnement, coquille oeuf x2, tacos mexicain¤",
+        "nl": "gratin d'endives, saumon et accompagnement, coquille oeuf x2, tacos mexicain¤"
+      },
+      "description": {
+        "en": "les produits ne possèdent pas de compostions, il manque les allergènes présents dans les produits. - substances allergisantes non déclarées",
+        "fr": "les produits ne possèdent pas de compostions, il manque les allergènes présents dans les produits. - substances allergisantes non déclarées",
+        "nl": "les produits ne possèdent pas de compostions, il manque les allergènes présents dans les produits. - substances allergisantes non déclarées"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24058/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish",
+        "egg"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "nvwa-us-gourmet-van-aldi-allergenen",
+      "source": "NVWA",
+      "date": "2026-11-12",
+      "title": {
+        "en": "Veiligheidswaarschuwing Rode Wijn Saus Gourmet van ALDI (Allergenen)",
+        "fr": "Veiligheidswaarschuwing Rode Wijn Saus Gourmet van ALDI (Allergenen)",
+        "nl": "Veiligheidswaarschuwing Rode Wijn Saus Gourmet van ALDI (Allergenen)"
+      },
+      "description": {
+        "en": "ALDI Nederland waarschuwt voor rode wijn saus gourmet. De saus bevat sulfiet. Dit staat niet op de verpakking. Eet de saus niet als u allergisch bent voor sulfiet.",
+        "fr": "ALDI Nederland waarschuwt voor rode wijn saus gourmet. De saus bevat sulfiet. Dit staat niet op de verpakking. Eet de saus niet als u allergisch bent voor sulfiet.",
+        "nl": "ALDI Nederland waarschuwt voor rode wijn saus gourmet. De saus bevat sulfiet. Dit staat niet op de verpakking. Eet de saus niet als u allergisch bent voor sulfiet."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/12/veiligheidswaarschuwing-rode-wijn-saus-gourmet-van-aldi-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "nvwa-wraphapje-kip-pesto-allergenen",
@@ -5987,62 +6198,114 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82487",
-      "source": "CFIA",
-      "date": "2026-08-14",
+      "id": "rappelconso-2026-11-0089",
+      "source": "RappelConso",
+      "date": "2026-11-12",
       "title": {
-        "en": "Mounit el Bait brand Tahina and Halva recalled due to undeclared peanut",
-        "fr": "Mounit el Bait brand Tahina and Halva recalled due to undeclared peanut",
-        "nl": "Mounit el Bait brand Tahina and Halva recalled due to undeclared peanut"
+        "en": "125g x 8 pots",
+        "fr": "125g x 8 pots",
+        "nl": "125g x 8 pots"
       },
       "description": {
-        "en": "Peanut",
-        "fr": "Peanut",
-        "nl": "Peanut"
+        "en": "défaut organoleptique (goût piquant) et une déformation de l'emballage - modifications organoleptiques",
+        "fr": "défaut organoleptique (goût piquant) et une déformation de l'emballage - modifications organoleptiques",
+        "nl": "défaut organoleptique (goût piquant) et une déformation de l'emballage - modifications organoleptiques"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/mounit-el-bait-brand-tahina-and-halva-recalled-due-undeclared-peanut",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24076/interne",
       "countries": [
-        "CA"
+        "FR"
       ],
       "foodGroups": [
-        "plant"
+        "dairy"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
+      "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "general"
     },
     {
-      "id": "cfia-82494",
-      "source": "CFIA",
-      "date": "2026-08-14",
+      "id": "rappelconso-2026-11-0084",
+      "source": "RappelConso",
+      "date": "2026-11-12",
       "title": {
-        "en": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame",
-        "fr": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame",
-        "nl": "Various Salem Foods brand jarred products recalled due to undeclared wheat, mustard and sesame"
+        "en": "yaf panier fr jaunes 125gx8 c6 9p99,yaf panier fr rges 125gx8 od c6 9p99,panier fr rouges 125gx8 c6 9p99,yaf panier panaches 125gx16 c3 x12 c4 9p99,panier fr jnes 125gx8 od c6 9p99,yaf panier ab nec 125gx4 c6 9p198,yaf panier frs frb 125gx4 c6 9p198",
+        "fr": "yaf panier fr jaunes 125gx8 c6 9p99,yaf panier fr rges 125gx8 od c6 9p99,panier fr rouges 125gx8 c6 9p99,yaf panier panaches 125gx16 c3 x12 c4 9p99,panier fr jnes 125gx8 od c6 9p99,yaf panier ab nec 125gx4 c6 9p198,yaf panier frs frb 125gx4 c6 9p198",
+        "nl": "yaf panier fr jaunes 125gx8 c6 9p99,yaf panier fr rges 125gx8 od c6 9p99,panier fr rouges 125gx8 c6 9p99,yaf panier panaches 125gx16 c3 x12 c4 9p99,panier fr jnes 125gx8 od c6 9p99,yaf panier ab nec 125gx4 c6 9p198,yaf panier frs frb 125gx4 c6 9p198"
       },
       "description": {
-        "en": "Wheat - Gluten - Mustard - Sesame seeds",
-        "fr": "Wheat - Gluten - Mustard - Sesame seeds",
-        "nl": "Wheat - Gluten - Mustard - Sesame seeds"
+        "en": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "fr": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "nl": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-salem-foods-brand-jarred-products-recalled-due-undeclared-wheat-mustard-and",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24071/interne",
       "countries": [
-        "CA"
+        "FR"
       ],
       "foodGroups": [
-        "plant"
+        "dairy"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0085",
+      "source": "RappelConso",
+      "date": "2026-11-12",
+      "title": {
+        "en": "y0% panier 0% fr jn 125gx8 od c6 9p99",
+        "fr": "y0% panier 0% fr jn 125gx8 od c6 9p99",
+        "nl": "y0% panier 0% fr jn 125gx8 od c6 9p99"
+      },
+      "description": {
+        "en": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "fr": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "nl": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24072/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0078",
+      "source": "RappelConso",
+      "date": "2026-11-12",
+      "title": {
+        "en": "5013230301 : cremeux sur lit framboises 125x2 bm",
+        "fr": "5013230301 : cremeux sur lit framboises 125x2 bm",
+        "nl": "5013230301 : cremeux sur lit framboises 125x2 bm"
+      },
+      "description": {
+        "en": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24065/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "physical"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-11-0059",
@@ -6242,33 +6505,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-11-0031",
-      "source": "RappelConso",
-      "date": "2026-11-04",
-      "title": {
-        "en": "tout produit ficelé avec de la ficelle blanche vendu au rayon boucherie de votre magasin entre le 06/07 et le 19/10/2026 (paupiettes, rôtis,...)",
-        "fr": "tout produit ficelé avec de la ficelle blanche vendu au rayon boucherie de votre magasin entre le 06/07 et le 19/10/2026 (paupiettes, rôtis,...)",
-        "nl": "tout produit ficelé avec de la ficelle blanche vendu au rayon boucherie de votre magasin entre le 06/07 et le 19/10/2026 (paupiettes, rôtis,...)"
-      },
-      "description": {
-        "en": "mise en évidence de bisphénol a dans certains lots de ficelle alimentaire de notre fournisseur meyer-sansboeuf - autres contaminants chimiques",
-        "fr": "mise en évidence de bisphénol a dans certains lots de ficelle alimentaire de notre fournisseur meyer-sansboeuf - autres contaminants chimiques",
-        "nl": "mise en évidence de bisphénol a dans certains lots de ficelle alimentaire de notre fournisseur meyer-sansboeuf - autres contaminants chimiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24011/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "favv-rappel-de-lafsca-153",
       "source": "FAVV",
       "date": "2026-11-04",
@@ -6297,6 +6533,33 @@
       ],
       "dietRelevant": false,
       "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-11-0031",
+      "source": "RappelConso",
+      "date": "2026-11-04",
+      "title": {
+        "en": "tout produit ficelé avec de la ficelle blanche vendu au rayon boucherie de votre magasin entre le 06/07 et le 19/10/2026 (paupiettes, rôtis,...)",
+        "fr": "tout produit ficelé avec de la ficelle blanche vendu au rayon boucherie de votre magasin entre le 06/07 et le 19/10/2026 (paupiettes, rôtis,...)",
+        "nl": "tout produit ficelé avec de la ficelle blanche vendu au rayon boucherie de votre magasin entre le 06/07 et le 19/10/2026 (paupiettes, rôtis,...)"
+      },
+      "description": {
+        "en": "mise en évidence de bisphénol a dans certains lots de ficelle alimentaire de notre fournisseur meyer-sansboeuf - autres contaminants chimiques",
+        "fr": "mise en évidence de bisphénol a dans certains lots de ficelle alimentaire de notre fournisseur meyer-sansboeuf - autres contaminants chimiques",
+        "nl": "mise en évidence de bisphénol a dans certains lots de ficelle alimentaire de notre fournisseur meyer-sansboeuf - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24011/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-11-0015",
