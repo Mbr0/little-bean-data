@@ -1,6 +1,93 @@
 {
-  "generated": "2026-11-13T06:01:46.501Z",
+  "generated": "2026-11-14T06:01:46.171Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0097",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "reblochon de savoie",
+        "fr": "reblochon de savoie",
+        "nl": "reblochon de savoie"
+      },
+      "description": {
+        "en": "présence possible de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence possible de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence possible de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24085/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0090",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "reblochon de savoie au lait cru",
+        "fr": "reblochon de savoie au lait cru",
+        "nl": "reblochon de savoie au lait cru"
+      },
+      "description": {
+        "en": "retrait par mesure de précaution dans un contexte suspicion salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "retrait par mesure de précaution dans un contexte suspicion salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "retrait par mesure de précaution dans un contexte suspicion salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24077/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0095",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "crépinettes transformées en france",
+        "fr": "crépinettes transformées en france",
+        "nl": "crépinettes transformées en france"
+      },
+      "description": {
+        "en": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24082/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-11-0075",
       "source": "RappelConso",
@@ -497,35 +584,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "rappelconso-2026-11-0045",
-      "source": "RappelConso",
-      "date": "2026-11-06",
-      "title": {
-        "en": "mélange de graines pour salade 100g",
-        "fr": "mélange de graines pour salade 100g",
-        "nl": "mélange de graines pour salade 100g"
-      },
-      "description": {
-        "en": "présence de salmonelle détectée dans des pignons de pin. - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "présence de salmonelle détectée dans des pignons de pin. - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "présence de salmonelle détectée dans des pignons de pin. - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24032/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
       "id": "nvwa-chedoux-en-macandre-geitenkaas",
       "source": "NVWA",
       "date": "2026-11-06",
@@ -554,6 +612,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0045",
+      "source": "RappelConso",
+      "date": "2026-11-06",
+      "title": {
+        "en": "mélange de graines pour salade 100g",
+        "fr": "mélange de graines pour salade 100g",
+        "nl": "mélange de graines pour salade 100g"
+      },
+      "description": {
+        "en": "présence de salmonelle détectée dans des pignons de pin. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonelle détectée dans des pignons de pin. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonelle détectée dans des pignons de pin. - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24032/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-11-0037",
@@ -4105,6 +4192,66 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "fda-5df6f332bab5",
+      "source": "FDA",
+      "date": "2026-11-13",
+      "title": {
+        "en": "bioQuad Life Sciences Issues Allergy Alert on Undeclared Milk in OsteoDenx® Dietary Supplement",
+        "fr": "bioQuad Life Sciences Issues Allergy Alert on Undeclared Milk in OsteoDenx® Dietary Supplement",
+        "nl": "bioQuad Life Sciences Issues Allergy Alert on Undeclared Milk in OsteoDenx® Dietary Supplement"
+      },
+      "description": {
+        "en": "bioQuad Life Sciences of Yorba Linda, California is recalling two lots of OsteoDenx® dietary supplement capsules because they contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of a serious or life-threatening allergic reaction if they consume this product",
+        "fr": "bioQuad Life Sciences of Yorba Linda, California is recalling two lots of OsteoDenx® dietary supplement capsules because they contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of a serious or life-threatening allergic reaction if they consume this product",
+        "nl": "bioQuad Life Sciences of Yorba Linda, California is recalling two lots of OsteoDenx® dietary supplement capsules because they contain undeclared milk. People who have an allergy or severe sensitivity to milk run the risk of a serious or life-threatening allergic reaction if they consume this product"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bioquad-life-sciences-issues-allergy-alert-undeclared-milk-osteodenxr-dietary-supplement",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fsa-FSA-AA-53-2026",
+      "source": "FSA",
+      "date": "2026-11-13",
+      "title": {
+        "en": "Tesco recalls various Tesco Steak and Guinness Pie products because of undeclared milk",
+        "fr": "Tesco recalls various Tesco Steak and Guinness Pie products because of undeclared milk",
+        "nl": "Tesco recalls various Tesco Steak and Guinness Pie products because of undeclared milk"
+      },
+      "description": {
+        "en": "Milk\nThese products contain milk making them a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
+        "fr": "Milk\nThese products contain milk making them a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents.",
+        "nl": "Milk\nThese products contain milk making them a possible health risk for anyone with an allergy to milk or intolerance to milk or milk constituents."
+      },
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-53-2026",
+      "countries": [
+        "GB"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-11-0083",
       "source": "RappelConso",
       "date": "2026-11-12",
@@ -6198,6 +6345,201 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-11-0099",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "gourmand à la grecque citron yuzu 2x140g",
+        "fr": "gourmand à la grecque citron yuzu 2x140g",
+        "nl": "gourmand à la grecque citron yuzu 2x140g"
+      },
+      "description": {
+        "en": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24087/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-11-0091",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "yaourts aux fruits 0% 8x125g",
+        "fr": "yaourts aux fruits 0% 8x125g",
+        "nl": "yaourts aux fruits 0% 8x125g"
+      },
+      "description": {
+        "en": "défaut organoleptique (goût piquant) et déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "fr": "défaut organoleptique (goût piquant) et déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "nl": "défaut organoleptique (goût piquant) et déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24078/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0098",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "pâté de sardinelle pinton en 180 g",
+        "fr": "pâté de sardinelle pinton en 180 g",
+        "nl": "pâté de sardinelle pinton en 180 g"
+      },
+      "description": {
+        "en": "gonflement de certaines boites lié à un problème au sertissage. présence de flore anaérobie élevée. - clostridium botulinum (agent responsable du botulisme)|clostridium perfringens|défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "gonflement de certaines boites lié à un problème au sertissage. présence de flore anaérobie élevée. - clostridium botulinum (agent responsable du botulisme)|clostridium perfringens|défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "gonflement de certaines boites lié à un problème au sertissage. présence de flore anaérobie élevée. - clostridium botulinum (agent responsable du botulisme)|clostridium perfringens|défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24086/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0096",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "yaourt allégé aux fruits 0% (16x125g)",
+        "fr": "yaourt allégé aux fruits 0% (16x125g)",
+        "nl": "yaourt allégé aux fruits 0% (16x125g)"
+      },
+      "description": {
+        "en": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "fr": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "nl": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24083/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "nvwa-ilbona-uht-volle-melk-van-lidl",
+      "source": "NVWA",
+      "date": "2026-11-13",
+      "title": {
+        "en": "Veiligheidswaarschuwing Milbona – UHT volle melk van Lidl",
+        "fr": "Veiligheidswaarschuwing Milbona – UHT volle melk van Lidl",
+        "nl": "Veiligheidswaarschuwing Milbona – UHT volle melk van Lidl"
+      },
+      "description": {
+        "en": "Lidl Nederland waarschuwt voor Milbona – UHT volle melk. Het product bevat mogelijk ziekmakende bacteriën. Deze bacteriën kunnen ernstige gezondheidsrisico’s veroorzaken. Drink de melk niet.",
+        "fr": "Lidl Nederland waarschuwt voor Milbona – UHT volle melk. Het product bevat mogelijk ziekmakende bacteriën. Deze bacteriën kunnen ernstige gezondheidsrisico’s veroorzaken. Drink de melk niet.",
+        "nl": "Lidl Nederland waarschuwt voor Milbona – UHT volle melk. Het product bevat mogelijk ziekmakende bacteriën. Deze bacteriën kunnen ernstige gezondheidsrisico’s veroorzaken. Drink de melk niet."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/13/veiligheidswaarschuwing-milbona-uht-volle-melk-van-lidl",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-terugroeping-van-het-favv-160",
+      "source": "FAVV",
+      "date": "2026-11-13",
+      "title": {
+        "en": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Parle-G Original Gluco Biscuits” van het merk Parle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan 3-MCPD en glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
+        "fr": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Parle-G Original Gluco Biscuits” van het merk Parle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan 3-MCPD en glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
+        "nl": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Parle-G Original Gluco Biscuits” van het merk Parle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan 3-MCPD en glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-160",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-fgpo-appelino-bv",
+      "source": "FAVV",
+      "date": "2026-11-13",
+      "title": {
+        "en": "Rappel de FGPO Appelino BV | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de FGPO Appelino BV | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de FGPO Appelino BV | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société FGPO Appelino BV retire le produit « Jus de pomme 1L » de la marque Appelino de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en patuline. FGPO Appelino BV demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Le produit sera remboursé ou remplacé. Description du produit :",
+        "fr": "En accord avec l’AFSCA, la société FGPO Appelino BV retire le produit « Jus de pomme 1L » de la marque Appelino de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en patuline. FGPO Appelino BV demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Le produit sera remboursé ou remplacé. Description du produit :",
+        "nl": "En accord avec l’AFSCA, la société FGPO Appelino BV retire le produit « Jus de pomme 1L » de la marque Appelino de la vente et le rappelle auprès des consommateurs en raison d’une teneur trop élevée en patuline. FGPO Appelino BV demande à ses clients de ne pas consommer ce produit et de le ramener au point de vente dans lequel il a été acheté. Le produit sera remboursé ou remplacé. Description du produit :"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-fgpo-appelino-bv",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-11-0089",
       "source": "RappelConso",
       "date": "2026-11-12",
@@ -6337,6 +6679,34 @@
       "pregnancySummaryKey": "labeling"
     },
     {
+      "id": "favv-rappel-de-new-valmar-bv",
+      "source": "FAVV",
+      "date": "2026-11-06",
+      "title": {
+        "en": "Rappel de New Valmar bv | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de New Valmar bv | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de New Valmar bv | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF.",
+        "fr": "En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF.",
+        "nl": "En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF."
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-new-valmar-bv",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-11-0052",
       "source": "RappelConso",
       "date": "2026-11-06",
@@ -6418,34 +6788,6 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "favv-rappel-de-new-valmar-bv",
-      "source": "FAVV",
-      "date": "2026-11-06",
-      "title": {
-        "en": "Rappel de New Valmar bv | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "fr": "Rappel de New Valmar bv | Agence fédérale pour la sécurité de la chaîne alimentaire",
-        "nl": "Rappel de New Valmar bv | Agence fédérale pour la sécurité de la chaîne alimentaire"
-      },
-      "description": {
-        "en": "En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF.",
-        "fr": "En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF.",
-        "nl": "En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF."
-      },
-      "url": "https://favv-afsca.be/fr/produits/rappel-de-new-valmar-bv",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
       "pregnancySummaryKey": "general"
     },
     {
