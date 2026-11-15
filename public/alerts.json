@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T06:01:46.171Z",
+  "generated": "2026-11-15T06:01:51.826Z",
   "alerts": [
     {
       "id": "rappelconso-2026-11-0097",
@@ -4192,6 +4192,35 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "cfia-82929",
+      "source": "CFIA",
+      "date": "2026-11-13",
+      "title": {
+        "en": "Certain Plantropy brand Jack’d Up Bites Crispy Protein Bites recalled due to undeclared milk",
+        "fr": "Certain Plantropy brand Jack’d Up Bites Crispy Protein Bites recalled due to undeclared milk",
+        "nl": "Certain Plantropy brand Jack’d Up Bites Crispy Protein Bites recalled due to undeclared milk"
+      },
+      "description": {
+        "en": "Milk",
+        "fr": "Milk",
+        "nl": "Milk"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-plantropy-brand-jack-bites-crispy-protein-bites-recalled-due-undeclared-milk",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "fda-5df6f332bab5",
       "source": "FDA",
       "date": "2026-11-13",
@@ -6343,6 +6372,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82943",
+      "source": "CFIA",
+      "date": "2026-11-13",
+      "title": {
+        "en": "Producers brand Brown Rice recalled due to presence of insects",
+        "fr": "Producers brand Brown Rice recalled due to presence of insects",
+        "nl": "Producers brand Brown Rice recalled due to presence of insects"
+      },
+      "description": {
+        "en": "Extraneous Material",
+        "fr": "Extraneous Material",
+        "nl": "Extraneous Material"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/producers-brand-brown-rice-recalled-due-presence-insects",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-11-0099",
