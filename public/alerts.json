@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T06:01:51.826Z",
+  "generated": "2026-11-16T06:03:04.388Z",
   "alerts": [
     {
       "id": "rappelconso-2026-11-0097",
@@ -4163,33 +4163,34 @@
       "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "cfia-82493",
+      "id": "cfia-82958",
       "source": "CFIA",
-      "date": "2026-08-17",
+      "date": "2026-11-14",
       "title": {
-        "en": "Various brands of cheese products recalled due to generic E. coli",
-        "fr": "Various brands of cheese products recalled due to generic E. coli",
-        "nl": "Various brands of cheese products recalled due to generic E. coli"
+        "en": "Soup Time brand Baba's Borscht Soup and Wardy's Bow Valley Beef Barley recalled due to undeclared wheat",
+        "fr": "Soup Time brand Baba's Borscht Soup and Wardy's Bow Valley Beef Barley recalled due to undeclared wheat",
+        "nl": "Soup Time brand Baba's Borscht Soup and Wardy's Bow Valley Beef Barley recalled due to undeclared wheat"
       },
       "description": {
-        "en": "E. Coli - non-pathogenic",
-        "fr": "E. Coli - non-pathogenic",
-        "nl": "E. Coli - non-pathogenic"
+        "en": "Wheat - Gluten",
+        "fr": "Wheat - Gluten",
+        "nl": "Wheat - Gluten"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/various-brands-cheese-products-recalled-due-generic-e-coli",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/soup-time-brand-baba-s-borscht-soup-and-wardy-s-bow-valley-beef-barley-recalled-due",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "dairy"
+        "meat",
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82929",
@@ -6335,35 +6336,6 @@
       "foodGroups": [
         "meat",
         "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "cfia-82492",
-      "source": "CFIA",
-      "date": "2026-08-17",
-      "title": {
-        "en": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard",
-        "fr": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard",
-        "nl": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to incorrect labelling  and undeclared mustard"
-      },
-      "description": {
-        "en": "Mustard",
-        "fr": "Mustard",
-        "nl": "Mustard"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/olymel-brand-cooked-turkey-breast-roast-honey-dijon-recalled-due-incorrect-labelling",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "meat"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
