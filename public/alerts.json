@@ -1,10 +1,97 @@
 {
-  "generated": "2026-11-16T06:03:04.388Z",
+  "generated": "2026-11-17T06:01:54.948Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0105",
+      "source": "RappelConso",
+      "date": "2026-11-16",
+      "title": {
+        "en": "chipolata superieure traditionnelle",
+        "fr": "chipolata superieure traditionnelle",
+        "nl": "chipolata superieure traditionnelle"
+      },
+      "description": {
+        "en": "détection de salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelle spp - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24094/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0103",
+      "source": "RappelConso",
+      "date": "2026-11-16",
+      "title": {
+        "en": "volaille en gelée",
+        "fr": "volaille en gelée",
+        "nl": "volaille en gelée"
+      },
+      "description": {
+        "en": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24092/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0106",
+      "source": "RappelConso",
+      "date": "2026-11-16",
+      "title": {
+        "en": "marshmallows rainbow / guimauve arc -en-ciel",
+        "fr": "marshmallows rainbow / guimauve arc -en-ciel",
+        "nl": "marshmallows rainbow / guimauve arc -en-ciel"
+      },
+      "description": {
+        "en": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24095/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-11-0097",
       "source": "RappelConso",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "title": {
         "en": "reblochon de savoie",
         "fr": "reblochon de savoie",
@@ -15,12 +102,44 @@
         "fr": "présence possible de salmonelles - salmonella spp (agent responsable de la salmonellose)",
         "nl": "présence possible de salmonelles - salmonella spp (agent responsable de la salmonellose)"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24085/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24090/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
         "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "favv-terugroeping-van-ramaut",
+      "source": "FAVV",
+      "date": "2026-11-16",
+      "title": {
+        "en": "Terugroeping van RAMAUT | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van RAMAUT | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van RAMAUT | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf RAMAUT het product “Pops de poulet panés” (1kg) van het merk Délices & Snack uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella.",
+        "fr": "In overleg met het FAVV haalt het bedrijf RAMAUT het product “Pops de poulet panés” (1kg) van het merk Délices & Snack uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella.",
+        "nl": "In overleg met het FAVV haalt het bedrijf RAMAUT het product “Pops de poulet panés” (1kg) van het merk Délices & Snack uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-ramaut",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -525,6 +644,36 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "nvwa-chedoux-en-macandre-geitenkaas",
+      "source": "NVWA",
+      "date": "2026-11-06",
+      "title": {
+        "en": "Veiligheidswaarschuwing De Oude Streek Machedoux en Macandré geitenkaas",
+        "fr": "Veiligheidswaarschuwing De Oude Streek Machedoux en Macandré geitenkaas",
+        "nl": "Veiligheidswaarschuwing De Oude Streek Machedoux en Macandré geitenkaas"
+      },
+      "description": {
+        "en": "Odin waarschuwt voor De Oude Streek Machedoux en Macandré geitenkaas. In deze producten is Listeria aangetroffen. Deze bacterie kan gezondheidsklachten veroorzaken. Eet de geitenkaas niet.",
+        "fr": "Odin waarschuwt voor De Oude Streek Machedoux en Macandré geitenkaas. In deze producten is Listeria aangetroffen. Deze bacterie kan gezondheidsklachten veroorzaken. Eet de geitenkaas niet.",
+        "nl": "Odin waarschuwt voor De Oude Streek Machedoux en Macandré geitenkaas. In deze producten is Listeria aangetroffen. Deze bacterie kan gezondheidsklachten veroorzaken. Eet de geitenkaas niet."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/06/veiligheidswaarschuwing-de-oude-streek-machedoux-en-macandre-geitenkaas",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
       "id": "rappelconso-2026-11-0053",
       "source": "RappelConso",
       "date": "2026-11-06",
@@ -574,36 +723,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "nvwa-chedoux-en-macandre-geitenkaas",
-      "source": "NVWA",
-      "date": "2026-11-06",
-      "title": {
-        "en": "Veiligheidswaarschuwing De Oude Streek Machedoux en Macandré geitenkaas",
-        "fr": "Veiligheidswaarschuwing De Oude Streek Machedoux en Macandré geitenkaas",
-        "nl": "Veiligheidswaarschuwing De Oude Streek Machedoux en Macandré geitenkaas"
-      },
-      "description": {
-        "en": "Odin waarschuwt voor De Oude Streek Machedoux en Macandré geitenkaas. In deze producten is Listeria aangetroffen. Deze bacterie kan gezondheidsklachten veroorzaken. Eet de geitenkaas niet.",
-        "fr": "Odin waarschuwt voor De Oude Streek Machedoux en Macandré geitenkaas. In deze producten is Listeria aangetroffen. Deze bacterie kan gezondheidsklachten veroorzaken. Eet de geitenkaas niet.",
-        "nl": "Odin waarschuwt voor De Oude Streek Machedoux en Macandré geitenkaas. In deze producten is Listeria aangetroffen. Deze bacterie kan gezondheidsklachten veroorzaken. Eet de geitenkaas niet."
-      },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/06/veiligheidswaarschuwing-de-oude-streek-machedoux-en-macandre-geitenkaas",
-      "countries": [
-        "NL",
-        "BE"
-      ],
-      "foodGroups": [
-        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -4161,6 +4280,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-11-0107",
+      "source": "RappelConso",
+      "date": "2026-11-16",
+      "title": {
+        "en": "fromage blanc belle france 0% 500g¤fromage blanc belle france 0% 1kg¤fromage blanc belle france 3% 500g¤fromage blanc belle france 3% 1kg",
+        "fr": "fromage blanc belle france 0% 500g¤fromage blanc belle france 0% 1kg¤fromage blanc belle france 3% 500g¤fromage blanc belle france 3% 1kg",
+        "nl": "fromage blanc belle france 0% 500g¤fromage blanc belle france 0% 1kg¤fromage blanc belle france 3% 500g¤fromage blanc belle france 3% 1kg"
+      },
+      "description": {
+        "en": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques",
+        "fr": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques",
+        "nl": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24097/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "cfia-82958",
