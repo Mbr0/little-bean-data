@@ -1,6 +1,64 @@
 {
-  "generated": "2026-11-17T06:01:54.948Z",
+  "generated": "2026-11-18T06:02:07.519Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0112",
+      "source": "RappelConso",
+      "date": "2026-11-17",
+      "title": {
+        "en": "cocktail de fruits de mer 500g",
+        "fr": "cocktail de fruits de mer 500g",
+        "nl": "cocktail de fruits de mer 500g"
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24102/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fda-5f9828c909e8",
+      "source": "FDA",
+      "date": "2026-11-17",
+      "title": {
+        "en": "Larbi Inc. Recalls Yellow Dock Root Because of Possible Health Risk",
+        "fr": "Larbi Inc. Recalls Yellow Dock Root Because of Possible Health Risk",
+        "nl": "Larbi Inc. Recalls Yellow Dock Root Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Larbi Inc. of Valley Cottage, NY, is recalling three lots of Herb To Body Yellow Dock Root C/S 4oz, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
+        "fr": "Larbi Inc. of Valley Cottage, NY, is recalling three lots of Herb To Body Yellow Dock Root C/S 4oz, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
+        "nl": "Larbi Inc. of Valley Cottage, NY, is recalling three lots of Herb To Body Yellow Dock Root C/S 4oz, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/larbi-inc-recalls-yellow-dock-root-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-11-0105",
       "source": "RappelConso",
@@ -148,6 +206,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fda-8715f418b1f6",
+      "source": "FDA",
+      "date": "2026-11-16",
+      "title": {
+        "en": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk",
+        "fr": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk",
+        "nl": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk"
+      },
+      "description": {
+        "en": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum",
+        "fr": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum",
+        "nl": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aldi-recalls-priano-protein-carbonara-tortelloni-and-priano-protein-herb-cheese-tortelloni-because",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
     },
     {
       "id": "rappelconso-2026-11-0090",
@@ -4282,6 +4369,33 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "rappelconso-2026-11-0108",
+      "source": "RappelConso",
+      "date": "2026-11-17",
+      "title": {
+        "en": "fromage blanc paysan breton 0% seau 5kg",
+        "fr": "fromage blanc paysan breton 0% seau 5kg",
+        "nl": "fromage blanc paysan breton 0% seau 5kg"
+      },
+      "description": {
+        "en": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques",
+        "fr": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques",
+        "nl": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24098/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-11-0107",
       "source": "RappelConso",
       "date": "2026-11-16",
@@ -4307,6 +4421,37 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fda-bbe1b5be4af3",
+      "source": "FDA",
+      "date": "2026-11-16",
+      "title": {
+        "en": "Naia, Inc. Recalls Chocolate Banana Bar Sorbetto Because of Undeclared Milk, Eggs, and Nuts",
+        "fr": "Naia, Inc. Recalls Chocolate Banana Bar Sorbetto Because of Undeclared Milk, Eggs, and Nuts",
+        "nl": "Naia, Inc. Recalls Chocolate Banana Bar Sorbetto Because of Undeclared Milk, Eggs, and Nuts"
+      },
+      "description": {
+        "en": "Naia, Inc. of Hercules, CA is recalling Chocolate Banana Bar Sorbetto with code dates of 10/5/2027, 10/6/2027, 10/7/2027, and 10/8/2026, because it may contain undeclared tree nuts (pistachio), milk, and egg allergens. People who have an allergy or severe sensitivity to tree nuts (pistachio), milk o",
+        "fr": "Naia, Inc. of Hercules, CA is recalling Chocolate Banana Bar Sorbetto with code dates of 10/5/2027, 10/6/2027, 10/7/2027, and 10/8/2026, because it may contain undeclared tree nuts (pistachio), milk, and egg allergens. People who have an allergy or severe sensitivity to tree nuts (pistachio), milk o",
+        "nl": "Naia, Inc. of Hercules, CA is recalling Chocolate Banana Bar Sorbetto with code dates of 10/5/2027, 10/6/2027, 10/7/2027, and 10/8/2026, because it may contain undeclared tree nuts (pistachio), milk, and egg allergens. People who have an allergy or severe sensitivity to tree nuts (pistachio), milk o"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/naia-inc-recalls-chocolate-banana-bar-sorbetto-because-undeclared-milk-eggs-and-nuts",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy",
+        "egg",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "cfia-82958",
@@ -6462,34 +6607,34 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82506",
-      "source": "CFIA",
-      "date": "2026-08-19",
+      "id": "favv-terugroeping-van-carrefour-37",
+      "source": "FAVV",
+      "date": "2026-11-17",
       "title": {
-        "en": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat",
-        "fr": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat",
-        "nl": "Wu Xian Zhai brand Vegetarian beef and Preserved beancurd recalled due to undeclared wheat"
+        "en": "Terugroeping van Carrefour | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Carrefour | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Carrefour | Federaal Agentschap voor de veiligheid van de voedselketen"
       },
       "description": {
-        "en": "Wheat",
-        "fr": "Wheat",
-        "nl": "Wheat"
+        "en": "Zaventem, 17/11/2026 – Bij een kwaliteitscontrole is gebleken dat het product “Rode Kool met Appelen” (720 ml) van het merk Carrefour Classic mogelijk stukjes glas bevat. Omdat uw veiligheid onze prioriteit is, haalt Carrefour dit product direct uit de winkelrekken en roepen we het terug bij onze klanten. Beschrijving van het product :",
+        "fr": "Zaventem, 17/11/2026 – Bij een kwaliteitscontrole is gebleken dat het product “Rode Kool met Appelen” (720 ml) van het merk Carrefour Classic mogelijk stukjes glas bevat. Omdat uw veiligheid onze prioriteit is, haalt Carrefour dit product direct uit de winkelrekken en roepen we het terug bij onze klanten. Beschrijving van het product :",
+        "nl": "Zaventem, 17/11/2026 – Bij een kwaliteitscontrole is gebleken dat het product “Rode Kool met Appelen” (720 ml) van het merk Carrefour Classic mogelijk stukjes glas bevat. Omdat uw veiligheid onze prioriteit is, haalt Carrefour dit product direct uit de winkelrekken en roepen we het terug bij onze klanten. Beschrijving van het product :"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/wu-xian-zhai-brand-vegetarian-beef-and-preserved-beancurd-recalled-due-undeclared",
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-37",
       "countries": [
-        "CA"
+        "BE"
       ],
-      "foodGroups": [
-        "meat",
-        "plant"
+      "languages": [
+        "nl"
       ],
-      "pregnancyRelevance": "medium",
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "physical"
       ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "dietRelevant": false,
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "cfia-82943",
@@ -6862,9 +7007,9 @@
         "nl": "Rappel de New Valmar bv | Agence fédérale pour la sécurité de la chaîne alimentaire"
       },
       "description": {
-        "en": "En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF.",
-        "fr": "En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF.",
-        "nl": "En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF."
+        "en": "17/11/2026 (mise à jour du rappel du 06/11/2026) En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF.",
+        "fr": "17/11/2026 (mise à jour du rappel du 06/11/2026) En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF.",
+        "nl": "17/11/2026 (mise à jour du rappel du 06/11/2026) En accord avec l’AFSCA, la société New Valmar bv retire le produit « Hot safe spoon » de la marque Nûby de la vente et le rappelle auprès des consommateurs en raison de la présence de bisphénol AF."
       },
       "url": "https://favv-afsca.be/fr/produits/rappel-de-new-valmar-bv",
       "countries": [
@@ -9408,34 +9553,6 @@
       "url": "https://recalls-rappels.canada.ca/en/alert-recall/onetang-brand-walnut-soft-candy-black-sesame-recalled-due-presence-stones",
       "countries": [
         "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "nvwa-ing-chocolate-flavour-200-gram",
-      "source": "NVWA",
-      "date": "2026-08-19",
-      "title": {
-        "en": "Veiligheidswaarschuwing Milbona High Protein Pudding Chocolate Flavour 200 gram",
-        "fr": "Veiligheidswaarschuwing Milbona High Protein Pudding Chocolate Flavour 200 gram",
-        "nl": "Veiligheidswaarschuwing Milbona High Protein Pudding Chocolate Flavour 200 gram"
-      },
-      "description": {
-        "en": "Lidl Nederland waarschuwt voor Milbona High Protein Pudding Chocolate Flavour 200 gram. De pudding bevat de bacterie Bacillus cereus. Deze bacterie kan leiden tot maag- en darmklachten en kan ernstige gezondheidsrisico’s vormen voor mensen met een...",
-        "fr": "Lidl Nederland waarschuwt voor Milbona High Protein Pudding Chocolate Flavour 200 gram. De pudding bevat de bacterie Bacillus cereus. Deze bacterie kan leiden tot maag- en darmklachten en kan ernstige gezondheidsrisico’s vormen voor mensen met een...",
-        "nl": "Lidl Nederland waarschuwt voor Milbona High Protein Pudding Chocolate Flavour 200 gram. De pudding bevat de bacterie Bacillus cereus. Deze bacterie kan leiden tot maag- en darmklachten en kan ernstige gezondheidsrisico’s vormen voor mensen met een..."
-      },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/08/19/veiligheidswaarschuwing-milbona-high-protein-pudding-chocolate-flavour-200-gram",
-      "countries": [
-        "NL",
-        "BE"
       ],
       "foodGroups": [
         "plant"
