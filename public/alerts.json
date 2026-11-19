@@ -1,6 +1,35 @@
 {
-  "generated": "2026-11-18T06:02:07.519Z",
+  "generated": "2026-11-19T06:02:02.413Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0109",
+      "source": "RappelConso",
+      "date": "2026-11-18",
+      "title": {
+        "en": "saucisse italienne",
+        "fr": "saucisse italienne",
+        "nl": "saucisse italienne"
+      },
+      "description": {
+        "en": "détection salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection salmonelle spp - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24099/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "rappelconso-2026-11-0112",
       "source": "RappelConso",
@@ -704,9 +733,9 @@
       "source": "FDA",
       "date": "2026-11-08",
       "title": {
-        "en": "Fresh & Ready Foods LLC Recalls Fresh To You Brand Sausage, Egg & Cheese Biscuit Sandwich due to Possible Health Risk",
-        "fr": "Fresh & Ready Foods LLC Recalls Fresh To You Brand Sausage, Egg & Cheese Biscuit Sandwich due to Possible Health Risk",
-        "nl": "Fresh & Ready Foods LLC Recalls Fresh To You Brand Sausage, Egg & Cheese Biscuit Sandwich due to Possible Health Risk"
+        "en": "Fresh & Ready Foods LLC Recalls Fresh To You Brand Sausage, Egg & Cheese Biscuit Sandwich Due to Possible Health Risk",
+        "fr": "Fresh & Ready Foods LLC Recalls Fresh To You Brand Sausage, Egg & Cheese Biscuit Sandwich Due to Possible Health Risk",
+        "nl": "Fresh & Ready Foods LLC Recalls Fresh To You Brand Sausage, Egg & Cheese Biscuit Sandwich Due to Possible Health Risk"
       },
       "description": {
         "en": "November 7, 2026, Fresh & Ready Foods LLC of Renton, WA is recalling 2,414 of Fresh To You Sausage, Egg & Cheese Biscuit Sandwiches (4.6 oz) because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young childr",
@@ -4371,7 +4400,7 @@
     {
       "id": "rappelconso-2026-11-0108",
       "source": "RappelConso",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "title": {
         "en": "fromage blanc paysan breton 0% seau 5kg",
         "fr": "fromage blanc paysan breton 0% seau 5kg",
@@ -4382,7 +4411,7 @@
         "fr": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques",
         "nl": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24098/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24109/interne",
       "countries": [
         "FR"
       ],
@@ -4777,6 +4806,36 @@
       ],
       "foodGroups": [
         "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen",
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-3b0206c1f83b",
+      "source": "FDA",
+      "date": "2026-11-09",
+      "title": {
+        "en": "Rocky Mountain Nutrition Issues Allergy Alert on Undeclared Milk in Certain Pre-Workout Powders",
+        "fr": "Rocky Mountain Nutrition Issues Allergy Alert on Undeclared Milk in Certain Pre-Workout Powders",
+        "nl": "Rocky Mountain Nutrition Issues Allergy Alert on Undeclared Milk in Certain Pre-Workout Powders"
+      },
+      "description": {
+        "en": "Rocky Mountain Nutrition LLC is voluntarily recalling certain Santa Cruz Paleo Pineapple Caffeine and Island Punch Caffeine Pre-Workout Powder products because they contain milk that is not declared on the label. People who have an allergy or severe sensitivity to milk run the risk of serious or lif",
+        "fr": "Rocky Mountain Nutrition LLC is voluntarily recalling certain Santa Cruz Paleo Pineapple Caffeine and Island Punch Caffeine Pre-Workout Powder products because they contain milk that is not declared on the label. People who have an allergy or severe sensitivity to milk run the risk of serious or lif",
+        "nl": "Rocky Mountain Nutrition LLC is voluntarily recalling certain Santa Cruz Paleo Pineapple Caffeine and Island Punch Caffeine Pre-Workout Powder products because they contain milk that is not declared on the label. People who have an allergy or severe sensitivity to milk run the risk of serious or lif"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/rocky-mountain-nutrition-issues-allergy-alert-undeclared-milk-certain-pre-workout-powders",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
         "dairy"
       ],
       "pregnancyRelevance": "medium",
@@ -6635,6 +6694,35 @@
       ],
       "dietRelevant": false,
       "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "fda-ae4ba4add183",
+      "source": "FDA",
+      "date": "2026-11-17",
+      "title": {
+        "en": "Fresh & Ready Foods LLC Expands Recall to Include Fresh to You Brand Sausage, Egg & Cheese Biscuit Sandwich and Meals Made in Minutes Brand Biscuit & Sausage Gravy Due to Possible Health Risk",
+        "fr": "Fresh & Ready Foods LLC Expands Recall to Include Fresh to You Brand Sausage, Egg & Cheese Biscuit Sandwich and Meals Made in Minutes Brand Biscuit & Sausage Gravy Due to Possible Health Risk",
+        "nl": "Fresh & Ready Foods LLC Expands Recall to Include Fresh to You Brand Sausage, Egg & Cheese Biscuit Sandwich and Meals Made in Minutes Brand Biscuit & Sausage Gravy Due to Possible Health Risk"
+      },
+      "description": {
+        "en": "LONGVIEW, Texas, November 17, 2026 — Fresh & Ready Foods LLC is expanding its November 8th recall of select Fresh To You Sausage, Egg & Cheese Biscuit Sandwiches to now include the additional products listed below produced at Fresh & Ready’s Longview, Texas facility. This recall is due to the expans",
+        "fr": "LONGVIEW, Texas, November 17, 2026 — Fresh & Ready Foods LLC is expanding its November 8th recall of select Fresh To You Sausage, Egg & Cheese Biscuit Sandwiches to now include the additional products listed below produced at Fresh & Ready’s Longview, Texas facility. This recall is due to the expans",
+        "nl": "LONGVIEW, Texas, November 17, 2026 — Fresh & Ready Foods LLC is expanding its November 8th recall of select Fresh To You Sausage, Egg & Cheese Biscuit Sandwiches to now include the additional products listed below produced at Fresh & Ready’s Longview, Texas facility. This recall is due to the expans"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresh-ready-foods-llc-expands-recall-include-fresh-you-brand-sausage-egg-cheese-biscuit-sandwich-and",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy",
+        "egg"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "cfia-82943",
