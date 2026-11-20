@@ -1,6 +1,153 @@
 {
-  "generated": "2026-11-19T06:02:02.413Z",
+  "generated": "2026-11-20T06:02:02.663Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0132",
+      "source": "RappelConso",
+      "date": "2026-11-19",
+      "title": {
+        "en": "format 450 gr",
+        "fr": "format 450 gr",
+        "nl": "format 450 gr"
+      },
+      "description": {
+        "en": "suspicion de contamination salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de contamination salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de contamination salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24123/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0118",
+      "source": "RappelConso",
+      "date": "2026-11-19",
+      "title": {
+        "en": "crottin frais nature sans sel x 6 ¤référence crss6ca",
+        "fr": "crottin frais nature sans sel x 6 ¤référence crss6ca",
+        "nl": "crottin frais nature sans sel x 6 ¤référence crss6ca"
+      },
+      "description": {
+        "en": "suspicion de présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24108/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-10-0244",
+      "source": "RappelConso",
+      "date": "2026-11-19",
+      "title": {
+        "en": "tete persillee paysan ardechois",
+        "fr": "tete persillee paysan ardechois",
+        "nl": "tete persillee paysan ardechois"
+      },
+      "description": {
+        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/23916/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0120",
+      "source": "RappelConso",
+      "date": "2026-11-19",
+      "title": {
+        "en": "reblochon de savoie au lait cru",
+        "fr": "reblochon de savoie au lait cru",
+        "nl": "reblochon de savoie au lait cru"
+      },
+      "description": {
+        "en": "retrait par mesure de précaution dans un contexte suspicion salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "retrait par mesure de précaution dans un contexte suspicion salmonelle - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "retrait par mesure de précaution dans un contexte suspicion salmonelle - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24111/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fda-dbf34ea8ddee",
+      "source": "FDA",
+      "date": "2026-11-19",
+      "title": {
+        "en": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Contamination",
+        "fr": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Contamination",
+        "nl": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Contamination"
+      },
+      "description": {
+        "en": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box Bacon Egg and Cheese Biscuit 4 oz package due to a potential co",
+        "fr": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box Bacon Egg and Cheese Biscuit 4 oz package due to a potential co",
+        "nl": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box Bacon Egg and Cheese Biscuit 4 oz package due to a potential co"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grand-strand-sandwich-company-recalls-lunch-box-bacon-egg-and-cheese-biscuit-lunch-box-jumbo-sausage",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy",
+        "egg"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-11-0109",
       "source": "RappelConso",
@@ -497,6 +644,35 @@
       "pregnancySummaryKey": "listeria"
     },
     {
+      "id": "fda-61b26cdbd55e",
+      "source": "FDA",
+      "date": "2026-11-10",
+      "title": {
+        "en": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
+        "fr": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
+        "nl": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
+        "fr": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
+        "nl": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-all-cheddar-cheese-products-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
       "id": "rappelconso-2026-11-0063",
       "source": "RappelConso",
       "date": "2026-11-10",
@@ -661,35 +837,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fda-61b26cdbd55e",
-      "source": "FDA",
-      "date": "2026-11-10",
-      "title": {
-        "en": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
-        "fr": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
-        "nl": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk"
-      },
-      "description": {
-        "en": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
-        "fr": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
-        "nl": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-all-cheddar-cheese-products-because-possible-health-risk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -4340,62 +4487,33 @@
       "pregnancySummaryKey": "microbial"
     },
     {
-      "id": "cfia-82519",
+      "id": "cfia-82969",
       "source": "CFIA",
-      "date": "2026-08-21",
+      "date": "2026-11-18",
       "title": {
-        "en": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes",
-        "fr": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes",
-        "nl": "Compliments brand and Selection brand Corn Dogs recalled due to Listeria monocytogenes"
+        "en": "Paras brand Wheat Free Flour recalled due to undeclared wheat",
+        "fr": "Paras brand Wheat Free Flour recalled due to undeclared wheat",
+        "nl": "Paras brand Wheat Free Flour recalled due to undeclared wheat"
       },
       "description": {
-        "en": "Listeria",
-        "fr": "Listeria",
-        "nl": "Listeria"
+        "en": "Wheat - Gluten",
+        "fr": "Wheat - Gluten",
+        "nl": "Wheat - Gluten"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/compliments-brand-and-selection-brand-corn-dogs-recalled-due-listeria-monocytogenes",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/paras-brand-wheat-free-flour-recalled-due-undeclared-wheat",
       "countries": [
         "CA"
       ],
       "foodGroups": [
-        "meat"
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fsa-FSA-PRIN-40-2026",
-      "source": "FSA",
-      "date": "2026-08-21",
-      "title": {
-        "en": "Summit Foods is recalling various products because of possible contamination with Shiga-toxin producing E. coli (STEC)",
-        "fr": "Summit Foods is recalling various products because of possible contamination with Shiga-toxin producing E. coli (STEC)",
-        "nl": "Summit Foods is recalling various products because of possible contamination with Shiga-toxin producing E. coli (STEC)"
-      },
-      "description": {
-        "en": "The possible presence of Shiga toxin-producing E. coli (STEC) in the products listed above.\nSymptoms caused by STEC can include severe diarrhoea (including bloody diarrhoea), abdominal pain and occasionally haemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure and can be fatal.\nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
-        "fr": "The possible presence of Shiga toxin-producing E. coli (STEC) in the products listed above.\nSymptoms caused by STEC can include severe diarrhoea (including bloody diarrhoea), abdominal pain and occasionally haemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure and can be fatal.\nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
-        "nl": "The possible presence of Shiga toxin-producing E. coli (STEC) in the products listed above.\nSymptoms caused by STEC can include severe diarrhoea (including bloody diarrhoea), abdominal pain and occasionally haemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure and can be fatal.\nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others."
-      },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-40-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-11-0108",
@@ -4423,6 +4541,62 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "cfia-82966",
+      "source": "CFIA",
+      "date": "2026-11-17",
+      "title": {
+        "en": "Certain Ashoka brand Kathi Rolls recalled due to undeclared sesame",
+        "fr": "Certain Ashoka brand Kathi Rolls recalled due to undeclared sesame",
+        "nl": "Certain Ashoka brand Kathi Rolls recalled due to undeclared sesame"
+      },
+      "description": {
+        "en": "Sesame seeds",
+        "fr": "Sesame seeds",
+        "nl": "Sesame seeds"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-ashoka-brand-kathi-rolls-recalled-due-undeclared-sesame",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "cfia-82967",
+      "source": "CFIA",
+      "date": "2026-11-17",
+      "title": {
+        "en": "Sorbelicious Dessert brand Dubai Chocolate Style Dessert - Dark recalled due to undeclared hazelnut and peanut",
+        "fr": "Sorbelicious Dessert brand Dubai Chocolate Style Dessert - Dark recalled due to undeclared hazelnut and peanut",
+        "nl": "Sorbelicious Dessert brand Dubai Chocolate Style Dessert - Dark recalled due to undeclared hazelnut and peanut"
+      },
+      "description": {
+        "en": "Peanut - Tree nut",
+        "fr": "Peanut - Tree nut",
+        "nl": "Peanut - Tree nut"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/sorbelicious-dessert-brand-dubai-chocolate-style-dessert-dark-recalled-due-undeclared",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "rappelconso-2026-11-0107",
@@ -5281,35 +5455,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fda-adc711f76fa9",
-      "source": "FDA",
-      "date": "2026-10-24",
-      "title": {
-        "en": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine",
-        "fr": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine",
-        "nl": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine"
-      },
-      "description": {
-        "en": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine.",
-        "fr": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine.",
-        "nl": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine."
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonight-we-ride-llc-issues-voluntary-recall-ultimate-forza-male-supplement-due-presence-undeclared",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
       "id": "fsa-FSA-AA-49-2026",
       "source": "FSA",
       "date": "2026-10-24",
@@ -5329,6 +5474,35 @@
       ],
       "foodGroups": [
         "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "fda-adc711f76fa9",
+      "source": "FDA",
+      "date": "2026-10-24",
+      "title": {
+        "en": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine",
+        "fr": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine",
+        "nl": "Tonight We Ride, LLC Issues Voluntary Recall of Ultimate Forza Male Supplement Due to Presence of Undeclared Sildenafil, Tadalafil, and Dapoxetine"
+      },
+      "description": {
+        "en": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine.",
+        "fr": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine.",
+        "nl": "October 24, 2026, Tonight We Ride, LLC of Lakeville, Minnesota is voluntarily recalling all lots of Ultimate Forza Male Supplement capsules to the consumer level because it has been found to contain undeclared Sildenafil, Tadalafil, and Dapoxetine."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/tonight-we-ride-llc-issues-voluntary-recall-ultimate-forza-male-supplement-due-presence-undeclared",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "plant"
       ],
       "pregnancyRelevance": "medium",
       "audience": "general",
@@ -6576,94 +6750,144 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "cfia-82462",
-      "source": "CFIA",
-      "date": "2026-08-21",
+      "id": "rappelconso-2026-11-0121",
+      "source": "RappelConso",
+      "date": "2026-11-19",
       "title": {
-        "en": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared wheat",
-        "fr": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared wheat",
-        "nl": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared wheat"
+        "en": "space cookie marque brainkiller cocorikush",
+        "fr": "space cookie marque brainkiller cocorikush",
+        "nl": "space cookie marque brainkiller cocorikush"
       },
       "description": {
-        "en": "Gluten - Wheat",
-        "fr": "Gluten - Wheat",
-        "nl": "Gluten - Wheat"
+        "en": "problème de conformité produits suite à la loi sur les nouveau aliment - présence de substance interdite",
+        "fr": "problème de conformité produits suite à la loi sur les nouveau aliment - présence de substance interdite",
+        "nl": "problème de conformité produits suite à la loi sur les nouveau aliment - présence de substance interdite"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/momchipz-brand-veggie-chips-broccoli-florets-cauliflower-recalled-due-undeclared-wheat",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24112/interne",
       "countries": [
-        "CA"
+        "FR"
       ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
     },
     {
-      "id": "cfia-82517",
-      "source": "CFIA",
-      "date": "2026-08-21",
+      "id": "rappelconso-2026-11-0119",
+      "source": "RappelConso",
+      "date": "2026-11-19",
       "title": {
-        "en": "Cardinal Roadhouse brand Chicken Burgers recalled due to undeclared egg",
-        "fr": "Cardinal Roadhouse brand Chicken Burgers recalled due to undeclared egg",
-        "nl": "Cardinal Roadhouse brand Chicken Burgers recalled due to undeclared egg"
+        "en": "modèles 10mg et 30mg par 5 unités , 3 unités , 10 unités et 20 unités ¤fraise, myrtille , pomme , tropical , colas , tutti frutti ,",
+        "fr": "modèles 10mg et 30mg par 5 unités , 3 unités , 10 unités et 20 unités ¤fraise, myrtille , pomme , tropical , colas , tutti frutti ,",
+        "nl": "modèles 10mg et 30mg par 5 unités , 3 unités , 10 unités et 20 unités ¤fraise, myrtille , pomme , tropical , colas , tutti frutti ,"
       },
       "description": {
-        "en": "Egg",
-        "fr": "Egg",
-        "nl": "Egg"
+        "en": "problèmes de conformités des produits concernant la loi sur les nouveau aliment entre autre présence de thc et cbd - présence de substance interdite",
+        "fr": "problèmes de conformités des produits concernant la loi sur les nouveau aliment entre autre présence de thc et cbd - présence de substance interdite",
+        "nl": "problèmes de conformités des produits concernant la loi sur les nouveau aliment entre autre présence de thc et cbd - présence de substance interdite"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-roadhouse-brand-chicken-burgers-recalled-due-undeclared-egg",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24110/interne",
       "countries": [
-        "CA"
+        "FR"
       ],
-      "foodGroups": [
-        "meat",
-        "egg"
-      ],
-      "pregnancyRelevance": "medium",
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
       "audience": "general",
-      "hazardTypes": [
-        "allergen"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
     },
     {
-      "id": "cfia-82523",
-      "source": "CFIA",
-      "date": "2026-08-21",
+      "id": "rappelconso-2026-11-0114",
+      "source": "RappelConso",
+      "date": "2026-11-19",
       "title": {
-        "en": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
-        "fr": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat",
-        "nl": "Kim Phat brand Seafood Medley recalled due to undeclared egg, fish, soy, and wheat"
+        "en": "chipolatas nature porc",
+        "fr": "chipolatas nature porc",
+        "nl": "chipolatas nature porc"
       },
       "description": {
-        "en": "Egg - Fish - Gluten - Soy - Wheat",
-        "fr": "Egg - Fish - Gluten - Soy - Wheat",
-        "nl": "Egg - Fish - Gluten - Soy - Wheat"
+        "en": "erreur d'étiquetage de la dlc. - anomalie d'étiquetage",
+        "fr": "erreur d'étiquetage de la dlc. - anomalie d'étiquetage",
+        "nl": "erreur d'étiquetage de la dlc. - anomalie d'étiquetage"
       },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/kim-phat-brand-seafood-medley-recalled-due-undeclared-egg-fish-soy-and-wheat",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24104/interne",
       "countries": [
-        "CA"
+        "FR"
       ],
       "foodGroups": [
-        "fish",
-        "egg",
-        "plant"
+        "meat"
       ],
-      "pregnancyRelevance": "medium",
+      "pregnancyRelevance": "low",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
+      "pregnancySummaryKey": "labeling"
+    },
+    {
+      "id": "nvwa-h-spinazie-a-la-creme-750-gram",
+      "source": "NVWA",
+      "date": "2026-11-19",
+      "title": {
+        "en": "Veiligheidswaarschuwing AH spinazie a la crème 750 gram",
+        "fr": "Veiligheidswaarschuwing AH spinazie a la crème 750 gram",
+        "nl": "Veiligheidswaarschuwing AH spinazie a la crème 750 gram"
+      },
+      "description": {
+        "en": "Albert Heijn waarschuwt voor AH Spinazie à la crème 750 gram. Het product bevat mogelijk plastic deeltjes. Eet de spinazie niet.",
+        "fr": "Albert Heijn waarschuwt voor AH Spinazie à la crème 750 gram. Het product bevat mogelijk plastic deeltjes. Eet de spinazie niet.",
+        "nl": "Albert Heijn waarschuwt voor AH Spinazie à la crème 750 gram. Het product bevat mogelijk plastic deeltjes. Eet de spinazie niet."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/19/veiligheidswaarschuwing-ah-spinazie-a-la-creme-750-gram",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-albert-heijn-20",
+      "source": "FAVV",
+      "date": "2026-11-19",
+      "title": {
+        "en": "Rappel de Albert Heijn | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Albert Heijn | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Albert Heijn | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, la société Albert Heijn retire le produit « AH Épinards à la crème » de la marque Albert Heijn de la vente et le rappelle auprès des consommateurs en raison de présence possible de morceaux de plastique.",
+        "fr": "En accord avec l’AFSCA, la société Albert Heijn retire le produit « AH Épinards à la crème » de la marque Albert Heijn de la vente et le rappelle auprès des consommateurs en raison de présence possible de morceaux de plastique.",
+        "nl": "En accord avec l’AFSCA, la société Albert Heijn retire le produit « AH Épinards à la crème » de la marque Albert Heijn de la vente et le rappelle auprès des consommateurs en raison de présence possible de morceaux de plastique."
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-albert-heijn-20",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "favv-terugroeping-van-carrefour-37",
@@ -9623,33 +9847,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
-    },
-    {
-      "id": "cfia-82522",
-      "source": "CFIA",
-      "date": "2026-08-21",
-      "title": {
-        "en": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones",
-        "fr": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones",
-        "nl": "OneTang brand Walnut Soft Candy with Black Sesame recalled due to presence of stones"
-      },
-      "description": {
-        "en": "Extraneous Material",
-        "fr": "Extraneous Material",
-        "nl": "Extraneous Material"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/onetang-brand-walnut-soft-candy-black-sesame-recalled-due-presence-stones",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
     }
   ]
 }
