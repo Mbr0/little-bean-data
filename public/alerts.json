@@ -1,6 +1,64 @@
 {
-  "generated": "2026-11-20T06:02:02.663Z",
+  "generated": "2026-11-21T06:01:45.821Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0129",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "petit sale cuit en gelee",
+        "fr": "petit sale cuit en gelee",
+        "nl": "petit sale cuit en gelee"
+      },
+      "description": {
+        "en": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "listeria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "listeria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24120/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0134",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "bouteille de lait entier stérilisé 1l",
+        "fr": "bouteille de lait entier stérilisé 1l",
+        "nl": "bouteille de lait entier stérilisé 1l"
+      },
+      "description": {
+        "en": "dans le cadre de notre plan d'autocontrôle, nous avons réalisé un contrôle de stabilité microbiologique qui a fait apparaitre la présence de microorganisme potentiellement pathogène. - autres contaminants biologiques",
+        "fr": "dans le cadre de notre plan d'autocontrôle, nous avons réalisé un contrôle de stabilité microbiologique qui a fait apparaitre la présence de microorganisme potentiellement pathogène. - autres contaminants biologiques",
+        "nl": "dans le cadre de notre plan d'autocontrôle, nous avons réalisé un contrôle de stabilité microbiologique qui a fait apparaitre la présence de microorganisme potentiellement pathogène. - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24125/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
     {
       "id": "rappelconso-2026-11-0132",
       "source": "RappelConso",
@@ -614,6 +672,35 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "fda-61b26cdbd55e",
+      "source": "FDA",
+      "date": "2026-11-10",
+      "title": {
+        "en": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
+        "fr": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
+        "nl": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk"
+      },
+      "description": {
+        "en": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
+        "fr": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
+        "nl": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-all-cheddar-cheese-products-because-possible-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
       "id": "rappelconso-2026-11-0062",
       "source": "RappelConso",
       "date": "2026-11-10",
@@ -634,35 +721,6 @@
       "foodGroups": [
         "meat",
         "fish"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "fda-61b26cdbd55e",
-      "source": "FDA",
-      "date": "2026-11-10",
-      "title": {
-        "en": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
-        "fr": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk",
-        "nl": "Family Farmstead Dairy Announces Recall of All Cheddar Cheese Products Because of Possible Health Risk"
-      },
-      "description": {
-        "en": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
-        "fr": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened",
-        "nl": "Worcester, New York – Family Farmstead Dairy is recalling all cheddar cheese products  because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-all-cheddar-cheese-products-because-possible-health-risk",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -4487,6 +4545,66 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "rappelconso-2026-11-0141",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "avocat filet 3 fruits",
+        "fr": "avocat filet 3 fruits",
+        "nl": "avocat filet 3 fruits"
+      },
+      "description": {
+        "en": "dépassement de la limite autorisée en pesticide (prochloraz) - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement de la limite autorisée en pesticide (prochloraz) - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement de la limite autorisée en pesticide (prochloraz) - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24134/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
+    {
+      "id": "fda-ce5d4042dc3c",
+      "source": "FDA",
+      "date": "2026-11-20",
+      "title": {
+        "en": "Shanghai San Niu Food Co., LTD. Is Recalling Sanniu Evergeen Biscuits Due to Undeclared Milk and Sanniu Salt and Pepper Soda Biscuits Due to Undeclared Milk and Shrimp",
+        "fr": "Shanghai San Niu Food Co., LTD. Is Recalling Sanniu Evergeen Biscuits Due to Undeclared Milk and Sanniu Salt and Pepper Soda Biscuits Due to Undeclared Milk and Shrimp",
+        "nl": "Shanghai San Niu Food Co., LTD. Is Recalling Sanniu Evergeen Biscuits Due to Undeclared Milk and Sanniu Salt and Pepper Soda Biscuits Due to Undeclared Milk and Shrimp"
+      },
+      "description": {
+        "en": "Shanghai San Niu Food Co., Ltd.of   Shanghai, China is recalling all Sanniu Evergreen Biscuits and Salt and Pepper Soda Biscuits, because it may contain undeclared milk in Sanniu Evergreen Biscuits  (三牛万年青饼干) and undeclared milk and shrimp in Sanniu Salt and Pepper Soda Biscuits (三牛苏打饼干椒盐味).  People",
+        "fr": "Shanghai San Niu Food Co., Ltd.of   Shanghai, China is recalling all Sanniu Evergreen Biscuits and Salt and Pepper Soda Biscuits, because it may contain undeclared milk in Sanniu Evergreen Biscuits  (三牛万年青饼干) and undeclared milk and shrimp in Sanniu Salt and Pepper Soda Biscuits (三牛苏打饼干椒盐味).  People",
+        "nl": "Shanghai San Niu Food Co., Ltd.of   Shanghai, China is recalling all Sanniu Evergreen Biscuits and Salt and Pepper Soda Biscuits, because it may contain undeclared milk in Sanniu Evergreen Biscuits  (三牛万年青饼干) and undeclared milk and shrimp in Sanniu Salt and Pepper Soda Biscuits (三牛苏打饼干椒盐味).  People"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/shanghai-san-niu-food-co-ltd-recalling-sanniu-evergeen-biscuits-due-undeclared-milk-and-sanniu-salt",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "fish",
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "cfia-82969",
       "source": "CFIA",
       "date": "2026-11-18",
@@ -4776,6 +4894,36 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "nvwa-us-gourmet-van-aldi-allergenen",
+      "source": "NVWA",
+      "date": "2026-11-12",
+      "title": {
+        "en": "Veiligheidswaarschuwing Rode Wijn Saus Gourmet van ALDI (Allergenen)",
+        "fr": "Veiligheidswaarschuwing Rode Wijn Saus Gourmet van ALDI (Allergenen)",
+        "nl": "Veiligheidswaarschuwing Rode Wijn Saus Gourmet van ALDI (Allergenen)"
+      },
+      "description": {
+        "en": "ALDI Nederland waarschuwt voor rode wijn saus gourmet. De saus bevat sulfiet. Dit staat niet op de verpakking. Eet de saus niet als u allergisch bent voor sulfiet.",
+        "fr": "ALDI Nederland waarschuwt voor rode wijn saus gourmet. De saus bevat sulfiet. Dit staat niet op de verpakking. Eet de saus niet als u allergisch bent voor sulfiet.",
+        "nl": "ALDI Nederland waarschuwt voor rode wijn saus gourmet. De saus bevat sulfiet. Dit staat niet op de verpakking. Eet de saus niet als u allergisch bent voor sulfiet."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/12/veiligheidswaarschuwing-rode-wijn-saus-gourmet-van-aldi-allergenen",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "allergen"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "allergen"
+    },
+    {
       "id": "rappelconso-2026-11-0083",
       "source": "RappelConso",
       "date": "2026-11-12",
@@ -4894,36 +5042,6 @@
       "hazardTypes": [
         "allergen",
         "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "allergen"
-    },
-    {
-      "id": "nvwa-us-gourmet-van-aldi-allergenen",
-      "source": "NVWA",
-      "date": "2026-11-12",
-      "title": {
-        "en": "Veiligheidswaarschuwing Rode Wijn Saus Gourmet van ALDI (Allergenen)",
-        "fr": "Veiligheidswaarschuwing Rode Wijn Saus Gourmet van ALDI (Allergenen)",
-        "nl": "Veiligheidswaarschuwing Rode Wijn Saus Gourmet van ALDI (Allergenen)"
-      },
-      "description": {
-        "en": "ALDI Nederland waarschuwt voor rode wijn saus gourmet. De saus bevat sulfiet. Dit staat niet op de verpakking. Eet de saus niet als u allergisch bent voor sulfiet.",
-        "fr": "ALDI Nederland waarschuwt voor rode wijn saus gourmet. De saus bevat sulfiet. Dit staat niet op de verpakking. Eet de saus niet als u allergisch bent voor sulfiet.",
-        "nl": "ALDI Nederland waarschuwt voor rode wijn saus gourmet. De saus bevat sulfiet. Dit staat niet op de verpakking. Eet de saus niet als u allergisch bent voor sulfiet."
-      },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/12/veiligheidswaarschuwing-rode-wijn-saus-gourmet-van-aldi-allergenen",
-      "countries": [
-        "NL",
-        "BE"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "allergen"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -6750,6 +6868,168 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-11-0142",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "cf. liste des produits concernés en pj",
+        "fr": "cf. liste des produits concernés en pj",
+        "nl": "cf. liste des produits concernés en pj"
+      },
+      "description": {
+        "en": "produits consignés - autres contaminants biologiques",
+        "fr": "produits consignés - autres contaminants biologiques",
+        "nl": "produits consignés - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24135/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0123",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "verrine 380g",
+        "fr": "verrine 380g",
+        "nl": "verrine 380g"
+      },
+      "description": {
+        "en": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24132/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0122",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "verrine 190 g",
+        "fr": "verrine 190 g",
+        "nl": "verrine 190 g"
+      },
+      "description": {
+        "en": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24113/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0125",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "verrine 190g",
+        "fr": "verrine 190g",
+        "nl": "verrine 190g"
+      },
+      "description": {
+        "en": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24116/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0124",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "verrine 190g",
+        "fr": "verrine 190g",
+        "nl": "verrine 190g"
+      },
+      "description": {
+        "en": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "vs insuffisante - défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24133/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0126",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "cf liste des produits concernés en pj",
+        "fr": "cf liste des produits concernés en pj",
+        "nl": "cf liste des produits concernés en pj"
+      },
+      "description": {
+        "en": "absence d'éléments permettant d'attester de la sécurité des produits. - autres contaminants biologiques",
+        "fr": "absence d'éléments permettant d'attester de la sécurité des produits. - autres contaminants biologiques",
+        "nl": "absence d'éléments permettant d'attester de la sécurité des produits. - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24117/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-11-0121",
       "source": "RappelConso",
       "date": "2026-11-19",
@@ -6888,6 +7168,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "fda-14c40bf0f3ee",
+      "source": "FDA",
+      "date": "2026-11-19",
+      "title": {
+        "en": "Ridley Block Operations Recalls a Batch of Crystalyx®HE-20% for Beef Cattle and Bison Due to Excess Levels of Non-Protein Nitrogen (NPN)",
+        "fr": "Ridley Block Operations Recalls a Batch of Crystalyx®HE-20% for Beef Cattle and Bison Due to Excess Levels of Non-Protein Nitrogen (NPN)",
+        "nl": "Ridley Block Operations Recalls a Batch of Crystalyx®HE-20% for Beef Cattle and Bison Due to Excess Levels of Non-Protein Nitrogen (NPN)"
+      },
+      "description": {
+        "en": "Mankato, Minn. - Ridley Block Operations is voluntarily recalling one batch of Crystalyx HE-20%. The product has levels of non-protein nitrogen (NPN) from urea that are high enough to cause adverse health effects in cattle, including death.",
+        "fr": "Mankato, Minn. - Ridley Block Operations is voluntarily recalling one batch of Crystalyx HE-20%. The product has levels of non-protein nitrogen (NPN) from urea that are high enough to cause adverse health effects in cattle, including death.",
+        "nl": "Mankato, Minn. - Ridley Block Operations is voluntarily recalling one batch of Crystalyx HE-20%. The product has levels of non-protein nitrogen (NPN) from urea that are high enough to cause adverse health effects in cattle, including death."
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ridley-block-operations-recalls-batch-crystalyxrhe-20-beef-cattle-and-bison-due-excess-levels-non",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "favv-terugroeping-van-carrefour-37",
