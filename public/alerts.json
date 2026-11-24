@@ -1,6 +1,95 @@
 {
-  "generated": "2026-11-23T06:03:04.707Z",
+  "generated": "2026-11-24T06:01:42.376Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0156",
+      "source": "RappelConso",
+      "date": "2026-11-23",
+      "title": {
+        "en": "massonniere",
+        "fr": "massonniere",
+        "nl": "massonniere"
+      },
+      "description": {
+        "en": "detection salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "detection salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "detection salmonella - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24149/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0157",
+      "source": "RappelConso",
+      "date": "2026-11-23",
+      "title": {
+        "en": "jambon cuit supérieur découenné dégraissé au torchon¤cornet jambon blanc, bruschetta jambon champignons, pizza reine, pizza fermière, complet jambon, sandwich jambon beurre, sandwich jambon fromage, croque monsieur, croissant au jambon¤¤",
+        "fr": "jambon cuit supérieur découenné dégraissé au torchon¤cornet jambon blanc, bruschetta jambon champignons, pizza reine, pizza fermière, complet jambon, sandwich jambon beurre, sandwich jambon fromage, croque monsieur, croissant au jambon¤¤",
+        "nl": "jambon cuit supérieur découenné dégraissé au torchon¤cornet jambon blanc, bruschetta jambon champignons, pizza reine, pizza fermière, complet jambon, sandwich jambon beurre, sandwich jambon fromage, croque monsieur, croissant au jambon¤¤"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24150/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0147",
+      "source": "RappelConso",
+      "date": "2026-11-23",
+      "title": {
+        "en": "thon basquaise/riz emballé sous atmosphère protectrice ou vendu en vitrine traditionnelle",
+        "fr": "thon basquaise/riz emballé sous atmosphère protectrice ou vendu en vitrine traditionnelle",
+        "nl": "thon basquaise/riz emballé sous atmosphère protectrice ou vendu en vitrine traditionnelle"
+      },
+      "description": {
+        "en": "la société e.leclerc ibos le méridien procède au retrait de la vente et à un rappel du ou des produit(s) suivant(s) suite à la¤mise en évidence de la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "la société e.leclerc ibos le méridien procède au retrait de la vente et à un rappel du ou des produit(s) suivant(s) suite à la¤mise en évidence de la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "la société e.leclerc ibos le méridien procède au retrait de la vente et à un rappel du ou des produit(s) suivant(s) suite à la¤mise en évidence de la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24140/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
     {
       "id": "fsa-FSA-PRIN-54-2026",
       "source": "FSA",
@@ -4543,37 +4632,6 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "fsa-FSA-PRIN-41-2026",
-      "source": "FSA",
-      "date": "2026-08-25",
-      "title": {
-        "en": "Tesco recalls Tesco Finest Mozzarella Pearls & Pesto Orzo Salad because of possible contamination with E. coli (STEC)",
-        "fr": "Tesco recalls Tesco Finest Mozzarella Pearls & Pesto Orzo Salad because of possible contamination with E. coli (STEC)",
-        "nl": "Tesco recalls Tesco Finest Mozzarella Pearls & Pesto Orzo Salad because of possible contamination with E. coli (STEC)"
-      },
-      "description": {
-        "en": "The possible presence of Shiga toxin-producing E. coli STEC in the product listed above.\nSymptoms caused by STEC organisms include severe diarrhoea with or without blood in the stool, abdominal pain, vomiting, dehydration and sometimes haemolytic uremic syndrome, (HUS), a serious condition that can lead to kidney failure and can be fatal. \nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
-        "fr": "The possible presence of Shiga toxin-producing E. coli STEC in the product listed above.\nSymptoms caused by STEC organisms include severe diarrhoea with or without blood in the stool, abdominal pain, vomiting, dehydration and sometimes haemolytic uremic syndrome, (HUS), a serious condition that can lead to kidney failure and can be fatal. \nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others.",
-        "nl": "The possible presence of Shiga toxin-producing E. coli STEC in the product listed above.\nSymptoms caused by STEC organisms include severe diarrhoea with or without blood in the stool, abdominal pain, vomiting, dehydration and sometimes haemolytic uremic syndrome, (HUS), a serious condition that can lead to kidney failure and can be fatal. \nIf you are experiencing these symptoms, you should stay away from work, school or nursery until you have stopped having symptoms for at least 48 hours to avoid passing it on to others."
-      },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-41-2026",
-      "countries": [
-        "GB"
-      ],
-      "foodGroups": [
-        "meat",
-        "dairy",
-        "plant"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
-    },
-    {
       "id": "nvwa-an-protein-bar-hazelnut-nougat",
       "source": "NVWA",
       "date": "2026-11-21",
@@ -7016,6 +7074,144 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-11-0159",
+      "source": "RappelConso",
+      "date": "2026-11-23",
+      "title": {
+        "en": "emmental râpé 200g",
+        "fr": "emmental râpé 200g",
+        "nl": "emmental râpé 200g"
+      },
+      "description": {
+        "en": "risque de corps étranger de type verre - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "risque de corps étranger de type verre - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "risque de corps étranger de type verre - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24152/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-11-0154",
+      "source": "RappelConso",
+      "date": "2026-11-23",
+      "title": {
+        "en": "verrine 190g",
+        "fr": "verrine 190g",
+        "nl": "verrine 190g"
+      },
+      "description": {
+        "en": "résultats non conformes sur les analyses de stabilité selon la méthode nf v08-401 à 32°c et 55°c: variation de ph > 0,5 - autres contaminants biologiques",
+        "fr": "résultats non conformes sur les analyses de stabilité selon la méthode nf v08-401 à 32°c et 55°c: variation de ph > 0,5 - autres contaminants biologiques",
+        "nl": "résultats non conformes sur les analyses de stabilité selon la méthode nf v08-401 à 32°c et 55°c: variation de ph > 0,5 - autres contaminants biologiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24147/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0151",
+      "source": "RappelConso",
+      "date": "2026-11-23",
+      "title": {
+        "en": "pommes de terre vapeur sautées rouge 2kg - panier du primeur¤",
+        "fr": "pommes de terre vapeur sautées rouge 2kg - panier du primeur¤",
+        "nl": "pommes de terre vapeur sautées rouge 2kg - panier du primeur¤"
+      },
+      "description": {
+        "en": "présence de glycoalcaloïdes - autres contaminants chimiques",
+        "fr": "présence de glycoalcaloïdes - autres contaminants chimiques",
+        "nl": "présence de glycoalcaloïdes - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24144/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0144",
+      "source": "RappelConso",
+      "date": "2026-11-23",
+      "title": {
+        "en": "jambon cuit supérieur braisé aux légumes le foué paul prédault",
+        "fr": "jambon cuit supérieur braisé aux légumes le foué paul prédault",
+        "nl": "jambon cuit supérieur braisé aux légumes le foué paul prédault"
+      },
+      "description": {
+        "en": "erreur de dlc - autre risque",
+        "fr": "erreur de dlc - autre risque",
+        "nl": "erreur de dlc - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24137/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "fda-21747f2dfd84",
+      "source": "FDA",
+      "date": "2026-11-23",
+      "title": {
+        "en": "Prime Food Processing LLC Issues Safety Warning Regarding Uneviscerated “Dried Herring Fish”",
+        "fr": "Prime Food Processing LLC Issues Safety Warning Regarding Uneviscerated “Dried Herring Fish”",
+        "nl": "Prime Food Processing LLC Issues Safety Warning Regarding Uneviscerated “Dried Herring Fish”"
+      },
+      "description": {
+        "en": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 225 cases of “Dried Herring Fish” because the product was not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostridium botulinum spores are more",
+        "fr": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 225 cases of “Dried Herring Fish” because the product was not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostridium botulinum spores are more",
+        "nl": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 225 cases of “Dried Herring Fish” because the product was not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostridium botulinum spores are more"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prime-food-processing-llc-issues-safety-warning-regarding-uneviscerated-dried-herring-fish-0",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-11-0149",
       "source": "RappelConso",
       "date": "2026-11-21",
@@ -7487,88 +7683,6 @@
       "pregnancySummaryKey": "physical"
     },
     {
-      "id": "rappelconso-2026-11-0091",
-      "source": "RappelConso",
-      "date": "2026-11-13",
-      "title": {
-        "en": "yaourts aux fruits 0% 8x125g",
-        "fr": "yaourts aux fruits 0% 8x125g",
-        "nl": "yaourts aux fruits 0% 8x125g"
-      },
-      "description": {
-        "en": "défaut organoleptique (goût piquant) et déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
-        "fr": "défaut organoleptique (goût piquant) et déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
-        "nl": "défaut organoleptique (goût piquant) et déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24078/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-11-0098",
-      "source": "RappelConso",
-      "date": "2026-11-13",
-      "title": {
-        "en": "pâté de sardinelle pinton en 180 g",
-        "fr": "pâté de sardinelle pinton en 180 g",
-        "nl": "pâté de sardinelle pinton en 180 g"
-      },
-      "description": {
-        "en": "gonflement de certaines boites lié à un problème au sertissage. présence de flore anaérobie élevée. - clostridium botulinum (agent responsable du botulisme)|clostridium perfringens|défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "fr": "gonflement de certaines boites lié à un problème au sertissage. présence de flore anaérobie élevée. - clostridium botulinum (agent responsable du botulisme)|clostridium perfringens|défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
-        "nl": "gonflement de certaines boites lié à un problème au sertissage. présence de flore anaérobie élevée. - clostridium botulinum (agent responsable du botulisme)|clostridium perfringens|défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24086/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat",
-        "fish"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-11-0096",
-      "source": "RappelConso",
-      "date": "2026-11-13",
-      "title": {
-        "en": "yaourt allégé aux fruits 0% (16x125g)",
-        "fr": "yaourt allégé aux fruits 0% (16x125g)",
-        "nl": "yaourt allégé aux fruits 0% (16x125g)"
-      },
-      "description": {
-        "en": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
-        "fr": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
-        "nl": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24083/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "nvwa-ilbona-uht-volle-melk-van-lidl",
       "source": "NVWA",
       "date": "2026-11-13",
@@ -7650,6 +7764,88 @@
       "audience": "general",
       "hazardTypes": [],
       "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0091",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "yaourts aux fruits 0% 8x125g",
+        "fr": "yaourts aux fruits 0% 8x125g",
+        "nl": "yaourts aux fruits 0% 8x125g"
+      },
+      "description": {
+        "en": "défaut organoleptique (goût piquant) et déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "fr": "défaut organoleptique (goût piquant) et déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "nl": "défaut organoleptique (goût piquant) et déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24078/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0098",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "pâté de sardinelle pinton en 180 g",
+        "fr": "pâté de sardinelle pinton en 180 g",
+        "nl": "pâté de sardinelle pinton en 180 g"
+      },
+      "description": {
+        "en": "gonflement de certaines boites lié à un problème au sertissage. présence de flore anaérobie élevée. - clostridium botulinum (agent responsable du botulisme)|clostridium perfringens|défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "fr": "gonflement de certaines boites lié à un problème au sertissage. présence de flore anaérobie élevée. - clostridium botulinum (agent responsable du botulisme)|clostridium perfringens|défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement",
+        "nl": "gonflement de certaines boites lié à un problème au sertissage. présence de flore anaérobie élevée. - clostridium botulinum (agent responsable du botulisme)|clostridium perfringens|défaut de fabrication, défaut d'étanchéité (ex: micro fuites, thermoscellage défectueux) ou anomalies de conditionnement"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24086/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0096",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "yaourt allégé aux fruits 0% (16x125g)",
+        "fr": "yaourt allégé aux fruits 0% (16x125g)",
+        "nl": "yaourt allégé aux fruits 0% (16x125g)"
+      },
+      "description": {
+        "en": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "fr": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques",
+        "nl": "défaut organoleptique (goût piquant) et une déformation de l'emballage (opercule gonflée ou mal scellée) dus à une flore d'altération (levures) ne présentant pas de risques sanitaires mais détériorant la qualité du produit. - modifications organoleptiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24083/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
       "pregnancySummaryKey": "general"
     },
     {
@@ -7761,6 +7957,31 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "fda-e4c3f59273ea",
+      "source": "FDA",
+      "date": "2026-11-11",
+      "title": {
+        "en": "Prime Food Processing LLC Issues Safety Warning Regarding Two Uneviscerated Dried Fish Products",
+        "fr": "Prime Food Processing LLC Issues Safety Warning Regarding Two Uneviscerated Dried Fish Products",
+        "nl": "Prime Food Processing LLC Issues Safety Warning Regarding Two Uneviscerated Dried Fish Products"
+      },
+      "description": {
+        "en": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 200 cases of Dried Croaker Fish under 2 different Item numbers because the products were not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostr",
+        "fr": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 200 cases of Dried Croaker Fish under 2 different Item numbers because the products were not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostr",
+        "nl": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 200 cases of Dried Croaker Fish under 2 different Item numbers because the products were not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostr"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prime-food-processing-llc-issues-safety-warning-regarding-two-uneviscerated-dried-fish-products",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-11-0059",
