@@ -1,6 +1,64 @@
 {
-  "generated": "2026-11-24T06:01:42.376Z",
+  "generated": "2026-11-25T06:02:09.785Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0165",
+      "source": "RappelConso",
+      "date": "2026-11-24",
+      "title": {
+        "en": "paupiette de boeuf (stand boucherie)",
+        "fr": "paupiette de boeuf (stand boucherie)",
+        "nl": "paupiette de boeuf (stand boucherie)"
+      },
+      "description": {
+        "en": "présence de salmonella spp (agent responsable de la salmonellose)¤ - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "présence de salmonella spp (agent responsable de la salmonellose)¤ - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "présence de salmonella spp (agent responsable de la salmonellose)¤ - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24158/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0160",
+      "source": "RappelConso",
+      "date": "2026-11-24",
+      "title": {
+        "en": "fromage de brebis au piment d'espelette",
+        "fr": "fromage de brebis au piment d'espelette",
+        "nl": "fromage de brebis au piment d'espelette"
+      },
+      "description": {
+        "en": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24153/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-11-0156",
       "source": "RappelConso",
@@ -441,6 +499,67 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
+      "id": "favv-terugroeping-van-ramaut",
+      "source": "FAVV",
+      "date": "2026-11-16",
+      "title": {
+        "en": "Terugroeping van RAMAUT | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van RAMAUT | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van RAMAUT | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf RAMAUT het product “Pops de poulet panés” (1kg) van het merk Délices & Snack uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella.",
+        "fr": "In overleg met het FAVV haalt het bedrijf RAMAUT het product “Pops de poulet panés” (1kg) van het merk Délices & Snack uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella.",
+        "nl": "In overleg met het FAVV haalt het bedrijf RAMAUT het product “Pops de poulet panés” (1kg) van het merk Délices & Snack uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-ramaut",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fda-8715f418b1f6",
+      "source": "FDA",
+      "date": "2026-11-16",
+      "title": {
+        "en": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk",
+        "fr": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk",
+        "nl": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk"
+      },
+      "description": {
+        "en": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum",
+        "fr": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum",
+        "nl": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aldi-recalls-priano-protein-carbonara-tortelloni-and-priano-protein-herb-cheese-tortelloni-because",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
+    {
       "id": "rappelconso-2026-11-0103",
       "source": "RappelConso",
       "date": "2026-11-16",
@@ -526,67 +645,6 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "favv-terugroeping-van-ramaut",
-      "source": "FAVV",
-      "date": "2026-11-16",
-      "title": {
-        "en": "Terugroeping van RAMAUT | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van RAMAUT | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van RAMAUT | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "In overleg met het FAVV haalt het bedrijf RAMAUT het product “Pops de poulet panés” (1kg) van het merk Délices & Snack uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella.",
-        "fr": "In overleg met het FAVV haalt het bedrijf RAMAUT het product “Pops de poulet panés” (1kg) van het merk Délices & Snack uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella.",
-        "nl": "In overleg met het FAVV haalt het bedrijf RAMAUT het product “Pops de poulet panés” (1kg) van het merk Délices & Snack uit de verkoop en roept het terug van bij de consumenten wegens de mogelijke aanwezigheid van salmonella."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-ramaut",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "fda-8715f418b1f6",
-      "source": "FDA",
-      "date": "2026-11-16",
-      "title": {
-        "en": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk",
-        "fr": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk",
-        "nl": "ALDI Recalls Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni Because Of Possible Health Risk"
-      },
-      "description": {
-        "en": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum",
-        "fr": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum",
-        "nl": "ALDI of Batavia, IL, is recalling Priano Protein Carbonara Tortelloni and Priano Protein Herb & Cheese Tortelloni sold at select stores because the products may not have been stored, distributed or sold at appropriate temperatures, which may allow growth of pathogens including Clostridium botulinum"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aldi-recalls-priano-protein-carbonara-tortelloni-and-priano-protein-herb-cheese-tortelloni-because",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "microbial"
     },
     {
       "id": "rappelconso-2026-11-0090",
@@ -4602,20 +4660,20 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "nvwa-ing-gorgonzola-dolce-van-jumbo",
+      "id": "nvwa-lletje-met-roomkaas-allergenen",
       "source": "NVWA",
-      "date": "2026-08-26",
+      "date": "2026-11-24",
       "title": {
-        "en": "Veiligheidswaarschuwing Gorgonzola Dolce van Jumbo",
-        "fr": "Veiligheidswaarschuwing Gorgonzola Dolce van Jumbo",
-        "nl": "Veiligheidswaarschuwing Gorgonzola Dolce van Jumbo"
+        "en": "Veiligheidswaarschuwing Jumbo Kiprollade Rolletje met Roomkaas (allergenen)",
+        "fr": "Veiligheidswaarschuwing Jumbo Kiprollade Rolletje met Roomkaas (allergenen)",
+        "nl": "Veiligheidswaarschuwing Jumbo Kiprollade Rolletje met Roomkaas (allergenen)"
       },
       "description": {
-        "en": "Jumbo Supermarkten waarschuwt voor Jumbo Gorgonzola Dolce. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt...",
-        "fr": "Jumbo Supermarkten waarschuwt voor Jumbo Gorgonzola Dolce. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt...",
-        "nl": "Jumbo Supermarkten waarschuwt voor Jumbo Gorgonzola Dolce. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt..."
+        "en": "Jumbo waarschuwt voor Jumbo Kiprollade Rolletje met Roomkaas. Het product bevat mogelijk een onjuist etiket, waardoor het allergeen cashewnoten niet wordt vermeld.",
+        "fr": "Jumbo waarschuwt voor Jumbo Kiprollade Rolletje met Roomkaas. Het product bevat mogelijk een onjuist etiket, waardoor het allergeen cashewnoten niet wordt vermeld.",
+        "nl": "Jumbo waarschuwt voor Jumbo Kiprollade Rolletje met Roomkaas. Het product bevat mogelijk een onjuist etiket, waardoor het allergeen cashewnoten niet wordt vermeld."
       },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/08/26/veiligheidswaarschuwing-gorgonzola-dolce-van-jumbo",
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/24/veiligheidswaarschuwing-jumbo-kiprollade-rolletje-met-roomkaas-allergenen",
       "countries": [
         "NL",
         "BE"
@@ -4623,40 +4681,11 @@
       "foodGroups": [
         "dairy"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "nvwa-an-protein-bar-hazelnut-nougat",
-      "source": "NVWA",
-      "date": "2026-11-21",
-      "title": {
-        "en": "Veiligheidswaarschuwing Healthy Fit Vegan proteïne reep hazelnoot nougat (allergenen)",
-        "fr": "Veiligheidswaarschuwing Healthy Fit Vegan proteïne reep hazelnoot nougat (allergenen)",
-        "nl": "Veiligheidswaarschuwing Healthy Fit Vegan proteïne reep hazelnoot nougat (allergenen)"
-      },
-      "description": {
-        "en": "Lidl waarschuwt voor Healthy Fit Vegan proteïne reep hazelnoot nougat. Het product bevat pinda's. Dit staat niet op de verpakking vermeld. Eet de reep niet als u allergisch bent voor pinda's.",
-        "fr": "Lidl waarschuwt voor Healthy Fit Vegan proteïne reep hazelnoot nougat. Het product bevat pinda's. Dit staat niet op de verpakking vermeld. Eet de reep niet als u allergisch bent voor pinda's.",
-        "nl": "Lidl waarschuwt voor Healthy Fit Vegan proteïne reep hazelnoot nougat. Het product bevat pinda's. Dit staat niet op de verpakking vermeld. Eet de reep niet als u allergisch bent voor pinda's."
-      },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/21/veiligheidswaarschuwing-healthyfit-vegan-protein-bar-hazelnut-nougat",
-      "countries": [
-        "NL",
-        "BE"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
       "pregnancyRelevance": "medium",
       "audience": "general",
       "hazardTypes": [
-        "allergen"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
@@ -7074,9 +7103,36 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "rappelconso-2026-11-0159",
+      "id": "rappelconso-2026-11-0168",
       "source": "RappelConso",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
+      "title": {
+        "en": "pomme de terre rouge 2.5 kg¤variété : chérie",
+        "fr": "pomme de terre rouge 2.5 kg¤variété : chérie",
+        "nl": "pomme de terre rouge 2.5 kg¤variété : chérie"
+      },
+      "description": {
+        "en": "présence excessive de glycoalcaloïdes (substances naturelles de la pomme de terre). - autre risque",
+        "fr": "présence excessive de glycoalcaloïdes (substances naturelles de la pomme de terre). - autre risque",
+        "nl": "présence excessive de glycoalcaloïdes (substances naturelles de la pomme de terre). - autre risque"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24162/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0166",
+      "source": "RappelConso",
+      "date": "2026-11-24",
       "title": {
         "en": "emmental râpé 200g",
         "fr": "emmental râpé 200g",
@@ -7087,7 +7143,7 @@
         "fr": "risque de corps étranger de type verre - inertes (verre, métal, plastique, papier, textile…)",
         "nl": "risque de corps étranger de type verre - inertes (verre, métal, plastique, papier, textile…)"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24152/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24159/interne",
       "countries": [
         "FR"
       ],
@@ -7101,6 +7157,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-11-0153",
+      "source": "RappelConso",
+      "date": "2026-11-24",
+      "title": {
+        "en": "pomme de terre de consommation a chair ferme rouge auchan 2,5kg¤pomme de terre 2kg svs rouge auchan 2 kg¤",
+        "fr": "pomme de terre de consommation a chair ferme rouge auchan 2,5kg¤pomme de terre 2kg svs rouge auchan 2 kg¤",
+        "nl": "pomme de terre de consommation a chair ferme rouge auchan 2,5kg¤pomme de terre 2kg svs rouge auchan 2 kg¤"
+      },
+      "description": {
+        "en": "suite à la détection de teneur élevé en glycoalconoide - autres contaminants chimiques",
+        "fr": "suite à la détection de teneur élevé en glycoalconoide - autres contaminants chimiques",
+        "nl": "suite à la détection de teneur élevé en glycoalconoide - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24146/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-11-0154",
@@ -7654,35 +7737,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-11-0099",
-      "source": "RappelConso",
-      "date": "2026-11-13",
-      "title": {
-        "en": "gourmand à la grecque citron yuzu 2x140g",
-        "fr": "gourmand à la grecque citron yuzu 2x140g",
-        "nl": "gourmand à la grecque citron yuzu 2x140g"
-      },
-      "description": {
-        "en": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)",
-        "fr": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)",
-        "nl": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24087/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
-    },
-    {
       "id": "nvwa-ilbona-uht-volle-melk-van-lidl",
       "source": "NVWA",
       "date": "2026-11-13",
@@ -7765,6 +7819,35 @@
       "hazardTypes": [],
       "dietRelevant": false,
       "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0099",
+      "source": "RappelConso",
+      "date": "2026-11-13",
+      "title": {
+        "en": "gourmand à la grecque citron yuzu 2x140g",
+        "fr": "gourmand à la grecque citron yuzu 2x140g",
+        "nl": "gourmand à la grecque citron yuzu 2x140g"
+      },
+      "description": {
+        "en": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)",
+        "fr": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)",
+        "nl": "risque potentiel de bris de verre de petite taille dans le yaourt - inertes (verre, métal, plastique, papier, textile…)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24087/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
     },
     {
       "id": "rappelconso-2026-11-0091",
