@@ -1,6 +1,95 @@
 {
-  "generated": "2026-11-25T06:02:09.785Z",
+  "generated": "2026-11-26T06:01:59.812Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0183",
+      "source": "RappelConso",
+      "date": "2026-11-25",
+      "title": {
+        "en": "parmentier de bœuf et andouille de guémené ¤salade la rustique ¤pizza guémené ¤bruschetta raymond ¤bol breton",
+        "fr": "parmentier de bœuf et andouille de guémené ¤salade la rustique ¤pizza guémené ¤bruschetta raymond ¤bol breton",
+        "nl": "parmentier de bœuf et andouille de guémené ¤salade la rustique ¤pizza guémené ¤bruschetta raymond ¤bol breton"
+      },
+      "description": {
+        "en": "suspicion de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24177/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0182",
+      "source": "RappelConso",
+      "date": "2026-11-25",
+      "title": {
+        "en": "andouille de guémené tranchée ou en morceaux, vendue au rayon traiteur traditionnel et en rayon libre service",
+        "fr": "andouille de guémené tranchée ou en morceaux, vendue au rayon traiteur traditionnel et en rayon libre service",
+        "nl": "andouille de guémené tranchée ou en morceaux, vendue au rayon traiteur traditionnel et en rayon libre service"
+      },
+      "description": {
+        "en": "suspicion de présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24176/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0181",
+      "source": "RappelConso",
+      "date": "2026-11-25",
+      "title": {
+        "en": "pizza la léontine ¤bruschetta raymond ¤bol breton ¤croustillant andouille camembert *2 ¤tarte tatin oignons confits *2 ¤eventail gourmand (plateau de charcuterie) ¤",
+        "fr": "pizza la léontine ¤bruschetta raymond ¤bol breton ¤croustillant andouille camembert *2 ¤tarte tatin oignons confits *2 ¤eventail gourmand (plateau de charcuterie) ¤",
+        "nl": "pizza la léontine ¤bruschetta raymond ¤bol breton ¤croustillant andouille camembert *2 ¤tarte tatin oignons confits *2 ¤eventail gourmand (plateau de charcuterie) ¤"
+      },
+      "description": {
+        "en": "suspicion de présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "suspicion de présence de listéria - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "suspicion de présence de listéria - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24175/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
     {
       "id": "rappelconso-2026-11-0165",
       "source": "RappelConso",
@@ -236,6 +325,37 @@
       "pregnancySummaryKey": "microbial"
     },
     {
+      "id": "fda-dbf34ea8ddee",
+      "source": "FDA",
+      "date": "2026-11-19",
+      "title": {
+        "en": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Contamination",
+        "fr": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Contamination",
+        "nl": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Contamination"
+      },
+      "description": {
+        "en": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box Bacon Egg and Cheese Biscuit 4 oz package due to a potential co",
+        "fr": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box Bacon Egg and Cheese Biscuit 4 oz package due to a potential co",
+        "nl": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box Bacon Egg and Cheese Biscuit 4 oz package due to a potential co"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grand-strand-sandwich-company-recalls-lunch-box-bacon-egg-and-cheese-biscuit-lunch-box-jumbo-sausage",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat",
+        "dairy",
+        "egg"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
       "id": "rappelconso-2026-11-0132",
       "source": "RappelConso",
       "date": "2026-11-19",
@@ -352,37 +472,6 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "fda-dbf34ea8ddee",
-      "source": "FDA",
-      "date": "2026-11-19",
-      "title": {
-        "en": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Contamination",
-        "fr": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Contamination",
-        "nl": "Grand Strand Sandwich Company Recalls Lunch Box Bacon Egg and Cheese Biscuit, Lunch Box Jumbo Sausage Biscuit, Lunch Box Sausage Egg and Cheese Biscuit, Lunch Box Chicken Sausage Biscuit Due to Listeria Monocytogenes Contamination"
-      },
-      "description": {
-        "en": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box Bacon Egg and Cheese Biscuit 4 oz package due to a potential co",
-        "fr": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box Bacon Egg and Cheese Biscuit 4 oz package due to a potential co",
-        "nl": "Longs, SC – 11/19/2026 – Grand Strand Sandwich Company Inc. is recalling Lunch Box Chicken Sausage Biscuit 3.75 oz package; Lunch Box Sausage Egg & Cheese Biscuit 5 oz package; Lunch Box Jumbo Sausage Biscuit 4 oz package; and Lunch Box Bacon Egg and Cheese Biscuit 4 oz package due to a potential co"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/grand-strand-sandwich-company-recalls-lunch-box-bacon-egg-and-cheese-biscuit-lunch-box-jumbo-sausage",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "meat",
-        "dairy",
-        "egg"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
       "id": "rappelconso-2026-11-0109",
       "source": "RappelConso",
       "date": "2026-11-18",
@@ -402,35 +491,6 @@
       ],
       "foodGroups": [
         "meat"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "salmonella"
-    },
-    {
-      "id": "rappelconso-2026-11-0112",
-      "source": "RappelConso",
-      "date": "2026-11-17",
-      "title": {
-        "en": "cocktail de fruits de mer 500g",
-        "fr": "cocktail de fruits de mer 500g",
-        "nl": "cocktail de fruits de mer 500g"
-      },
-      "description": {
-        "en": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24102/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "fish"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -470,25 +530,25 @@
       "pregnancySummaryKey": "salmonella"
     },
     {
-      "id": "rappelconso-2026-11-0105",
+      "id": "rappelconso-2026-11-0112",
       "source": "RappelConso",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "title": {
-        "en": "chipolata superieure traditionnelle",
-        "fr": "chipolata superieure traditionnelle",
-        "nl": "chipolata superieure traditionnelle"
+        "en": "cocktail de fruits de mer 500g",
+        "fr": "cocktail de fruits de mer 500g",
+        "nl": "cocktail de fruits de mer 500g"
       },
       "description": {
-        "en": "détection de salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
-        "fr": "détection de salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
-        "nl": "détection de salmonelle spp - salmonella spp (agent responsable de la salmonellose)"
+        "en": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "une analyse a mis en évidence la présence de salmonelles. - salmonella spp (agent responsable de la salmonellose)"
       },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24094/interne",
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24102/interne",
       "countries": [
         "FR"
       ],
       "foodGroups": [
-        "meat"
+        "fish"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -558,6 +618,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "microbial"
+    },
+    {
+      "id": "rappelconso-2026-11-0105",
+      "source": "RappelConso",
+      "date": "2026-11-16",
+      "title": {
+        "en": "chipolata superieure traditionnelle",
+        "fr": "chipolata superieure traditionnelle",
+        "nl": "chipolata superieure traditionnelle"
+      },
+      "description": {
+        "en": "détection de salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "détection de salmonelle spp - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "détection de salmonelle spp - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24094/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
     },
     {
       "id": "rappelconso-2026-11-0103",
@@ -4600,64 +4689,33 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "nvwa-ing-biologische-brie-van-jumbo",
-      "source": "NVWA",
-      "date": "2026-08-27",
+      "id": "fsa-FSA-AA-54-2026",
+      "source": "FSA",
+      "date": "2026-11-25",
       "title": {
-        "en": "Veiligheidswaarschuwing Biologische brie van Jumbo",
-        "fr": "Veiligheidswaarschuwing Biologische brie van Jumbo",
-        "nl": "Veiligheidswaarschuwing Biologische brie van Jumbo"
+        "en": "Healthy Fit recalls Vegan Protein Bar Hazelnut Nougat because of undeclared peanuts",
+        "fr": "Healthy Fit recalls Vegan Protein Bar Hazelnut Nougat because of undeclared peanuts",
+        "nl": "Healthy Fit recalls Vegan Protein Bar Hazelnut Nougat because of undeclared peanuts"
       },
       "description": {
-        "en": "Jumbo Supermarkten waarschuwt voor Jumbo Biologische brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt...",
-        "fr": "Jumbo Supermarkten waarschuwt voor Jumbo Biologische brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt...",
-        "nl": "Jumbo Supermarkten waarschuwt voor Jumbo Biologische brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt..."
+        "en": "Allergen: Peanuts\nThis product contains peanuts making it a possible health risk for anyone with an allergy to peanuts.",
+        "fr": "Allergen: Peanuts\nThis product contains peanuts making it a possible health risk for anyone with an allergy to peanuts.",
+        "nl": "Allergen: Peanuts\nThis product contains peanuts making it a possible health risk for anyone with an allergy to peanuts."
       },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/08/27/veiligheidswaarschuwing-biologische-brie-van-jumbo",
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-54-2026",
       "countries": [
-        "NL",
-        "BE"
+        "GB"
       ],
       "foodGroups": [
-        "dairy"
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
-    },
-    {
-      "id": "nvwa-wing-biologische-brie-van-plus",
-      "source": "NVWA",
-      "date": "2026-08-27",
-      "title": {
-        "en": "Veiligheidswaarschuwing Biologische brie van PLUS",
-        "fr": "Veiligheidswaarschuwing Biologische brie van PLUS",
-        "nl": "Veiligheidswaarschuwing Biologische brie van PLUS"
-      },
-      "description": {
-        "en": "PLUS waarschuwt voor Biologisch PLUS Brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt afweersysteem. Eet de...",
-        "fr": "PLUS waarschuwt voor Biologisch PLUS Brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt afweersysteem. Eet de...",
-        "nl": "PLUS waarschuwt voor Biologisch PLUS Brie. Hierin is mogelijk de bacterie Listeria aanwezig. Listeria kan gevaarlijk zijn voor de gezondheid, vooral voor zwangere vrouwen, jonge kinderen, ouderen en mensen met een verzwakt afweersysteem. Eet de..."
-      },
-      "url": "https://www.nvwa.nl/actueel/nieuws/2026/08/27/veiligheidswaarschuwing-biologische-brie-van-plus",
-      "countries": [
-        "NL",
-        "BE"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
-      "hazardTypes": [
-        "microbial"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "nvwa-lletje-met-roomkaas-allergenen",
@@ -4691,22 +4749,23 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "fsa-FSA-AA-54-2026",
-      "source": "FSA",
+      "id": "nvwa-an-protein-bar-hazelnut-nougat",
+      "source": "NVWA",
       "date": "2026-11-21",
       "title": {
-        "en": "Healthy Fit recalls Vegan Protein Bar Hazelnut Nougat because of undeclared peanuts",
-        "fr": "Healthy Fit recalls Vegan Protein Bar Hazelnut Nougat because of undeclared peanuts",
-        "nl": "Healthy Fit recalls Vegan Protein Bar Hazelnut Nougat because of undeclared peanuts"
+        "en": "Veiligheidswaarschuwing Healthy Fit Vegan proteïne reep hazelnoot nougat (allergenen)",
+        "fr": "Veiligheidswaarschuwing Healthy Fit Vegan proteïne reep hazelnoot nougat (allergenen)",
+        "nl": "Veiligheidswaarschuwing Healthy Fit Vegan proteïne reep hazelnoot nougat (allergenen)"
       },
       "description": {
-        "en": "Allergen: Peanuts\nThis product contains peanuts making it a possible health risk for anyone with an allergy to peanuts.",
-        "fr": "Allergen: Peanuts\nThis product contains peanuts making it a possible health risk for anyone with an allergy to peanuts.",
-        "nl": "Allergen: Peanuts\nThis product contains peanuts making it a possible health risk for anyone with an allergy to peanuts."
+        "en": "Lidl waarschuwt voor Healthy Fit Vegan proteïne reep hazelnoot nougat. Het product bevat pinda's. Dit staat niet op de verpakking vermeld. Eet de reep niet als u allergisch bent voor pinda's.",
+        "fr": "Lidl waarschuwt voor Healthy Fit Vegan proteïne reep hazelnoot nougat. Het product bevat pinda's. Dit staat niet op de verpakking vermeld. Eet de reep niet als u allergisch bent voor pinda's.",
+        "nl": "Lidl waarschuwt voor Healthy Fit Vegan proteïne reep hazelnoot nougat. Het product bevat pinda's. Dit staat niet op de verpakking vermeld. Eet de reep niet als u allergisch bent voor pinda's."
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-54-2026",
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/21/veiligheidswaarschuwing-healthyfit-vegan-protein-bar-hazelnut-nougat",
       "countries": [
-        "GB"
+        "NL",
+        "BE"
       ],
       "foodGroups": [
         "plant"
@@ -4952,33 +5011,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "rappelconso-2026-11-0107",
-      "source": "RappelConso",
-      "date": "2026-11-16",
-      "title": {
-        "en": "fromage blanc belle france 0% 500g¤fromage blanc belle france 0% 1kg¤fromage blanc belle france 3% 500g¤fromage blanc belle france 3% 1kg",
-        "fr": "fromage blanc belle france 0% 500g¤fromage blanc belle france 0% 1kg¤fromage blanc belle france 3% 500g¤fromage blanc belle france 3% 1kg",
-        "nl": "fromage blanc belle france 0% 500g¤fromage blanc belle france 0% 1kg¤fromage blanc belle france 3% 500g¤fromage blanc belle france 3% 1kg"
-      },
-      "description": {
-        "en": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques",
-        "fr": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques",
-        "nl": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24097/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "dairy"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "pregnant_adult",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "fda-bbe1b5be4af3",
       "source": "FDA",
       "date": "2026-11-16",
@@ -5008,6 +5040,33 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-11-0107",
+      "source": "RappelConso",
+      "date": "2026-11-16",
+      "title": {
+        "en": "fromage blanc belle france 0% 500g¤fromage blanc belle france 0% 1kg¤fromage blanc belle france 3% 500g¤fromage blanc belle france 3% 1kg",
+        "fr": "fromage blanc belle france 0% 500g¤fromage blanc belle france 0% 1kg¤fromage blanc belle france 3% 500g¤fromage blanc belle france 3% 1kg",
+        "nl": "fromage blanc belle france 0% 500g¤fromage blanc belle france 0% 1kg¤fromage blanc belle france 3% 500g¤fromage blanc belle france 3% 1kg"
+      },
+      "description": {
+        "en": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques",
+        "fr": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques",
+        "nl": "possible contamination par des produits de nettoyage à des doses ne présentant pas de risque pour la santé du consommateur - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24097/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "pregnant_adult",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "cfia-82958",
@@ -7103,6 +7162,63 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-11-0180",
+      "source": "RappelConso",
+      "date": "2026-11-25",
+      "title": {
+        "en": "chair de veau / chipolatas de veau / chipolatas de porc / saucisses de toulouse / chair de porc / farce de porc / merguez / paupiettes de veau",
+        "fr": "chair de veau / chipolatas de veau / chipolatas de porc / saucisses de toulouse / chair de porc / farce de porc / merguez / paupiettes de veau",
+        "nl": "chair de veau / chipolatas de veau / chipolatas de porc / saucisses de toulouse / chair de porc / farce de porc / merguez / paupiettes de veau"
+      },
+      "description": {
+        "en": "risque de morceaux de plastiques dans les produits - blessures",
+        "fr": "risque de morceaux de plastiques dans les produits - blessures",
+        "nl": "risque de morceaux de plastiques dans les produits - blessures"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24174/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
+      "id": "rappelconso-2026-11-0170",
+      "source": "RappelConso",
+      "date": "2026-11-25",
+      "title": {
+        "en": "pommes de terre raclette rissolées vapeur 2,5 kg terroirs",
+        "fr": "pommes de terre raclette rissolées vapeur 2,5 kg terroirs",
+        "nl": "pommes de terre raclette rissolées vapeur 2,5 kg terroirs"
+      },
+      "description": {
+        "en": "teneur élevée en glycoalcaloïdes - autres contaminants chimiques",
+        "fr": "teneur élevée en glycoalcaloïdes - autres contaminants chimiques",
+        "nl": "teneur élevée en glycoalcaloïdes - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24164/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy",
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-11-0168",
       "source": "RappelConso",
       "date": "2026-11-24",
@@ -7295,33 +7411,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-11-0149",
-      "source": "RappelConso",
-      "date": "2026-11-21",
-      "title": {
-        "en": "pomme de terre rouge 2.5 kg¤variété : chérie",
-        "fr": "pomme de terre rouge 2.5 kg¤variété : chérie",
-        "nl": "pomme de terre rouge 2.5 kg¤variété : chérie"
-      },
-      "description": {
-        "en": "présence excessive de glycoalcaloïdes (substances naturelles de la pomme de terre). - autre risque",
-        "fr": "présence excessive de glycoalcaloïdes (substances naturelles de la pomme de terre). - autre risque",
-        "nl": "présence excessive de glycoalcaloïdes (substances naturelles de la pomme de terre). - autre risque"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24142/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "rappelconso-2026-11-0142",
       "source": "RappelConso",
       "date": "2026-11-20",
@@ -7484,85 +7573,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "rappelconso-2026-11-0121",
-      "source": "RappelConso",
-      "date": "2026-11-19",
-      "title": {
-        "en": "space cookie marque brainkiller cocorikush",
-        "fr": "space cookie marque brainkiller cocorikush",
-        "nl": "space cookie marque brainkiller cocorikush"
-      },
-      "description": {
-        "en": "problème de conformité produits suite à la loi sur les nouveau aliment - présence de substance interdite",
-        "fr": "problème de conformité produits suite à la loi sur les nouveau aliment - présence de substance interdite",
-        "nl": "problème de conformité produits suite à la loi sur les nouveau aliment - présence de substance interdite"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24112/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-11-0119",
-      "source": "RappelConso",
-      "date": "2026-11-19",
-      "title": {
-        "en": "modèles 10mg et 30mg par 5 unités , 3 unités , 10 unités et 20 unités ¤fraise, myrtille , pomme , tropical , colas , tutti frutti ,",
-        "fr": "modèles 10mg et 30mg par 5 unités , 3 unités , 10 unités et 20 unités ¤fraise, myrtille , pomme , tropical , colas , tutti frutti ,",
-        "nl": "modèles 10mg et 30mg par 5 unités , 3 unités , 10 unités et 20 unités ¤fraise, myrtille , pomme , tropical , colas , tutti frutti ,"
-      },
-      "description": {
-        "en": "problèmes de conformités des produits concernant la loi sur les nouveau aliment entre autre présence de thc et cbd - présence de substance interdite",
-        "fr": "problèmes de conformités des produits concernant la loi sur les nouveau aliment entre autre présence de thc et cbd - présence de substance interdite",
-        "nl": "problèmes de conformités des produits concernant la loi sur les nouveau aliment entre autre présence de thc et cbd - présence de substance interdite"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24110/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "rappelconso-2026-11-0114",
-      "source": "RappelConso",
-      "date": "2026-11-19",
-      "title": {
-        "en": "chipolatas nature porc",
-        "fr": "chipolatas nature porc",
-        "nl": "chipolatas nature porc"
-      },
-      "description": {
-        "en": "erreur d'étiquetage de la dlc. - anomalie d'étiquetage",
-        "fr": "erreur d'étiquetage de la dlc. - anomalie d'étiquetage",
-        "nl": "erreur d'étiquetage de la dlc. - anomalie d'étiquetage"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24104/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "meat"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "labeling"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "labeling"
-    },
-    {
       "id": "nvwa-h-spinazie-a-la-creme-750-gram",
       "source": "NVWA",
       "date": "2026-11-19",
@@ -7649,6 +7659,85 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0121",
+      "source": "RappelConso",
+      "date": "2026-11-19",
+      "title": {
+        "en": "space cookie marque brainkiller cocorikush",
+        "fr": "space cookie marque brainkiller cocorikush",
+        "nl": "space cookie marque brainkiller cocorikush"
+      },
+      "description": {
+        "en": "problème de conformité produits suite à la loi sur les nouveau aliment - présence de substance interdite",
+        "fr": "problème de conformité produits suite à la loi sur les nouveau aliment - présence de substance interdite",
+        "nl": "problème de conformité produits suite à la loi sur les nouveau aliment - présence de substance interdite"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24112/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0119",
+      "source": "RappelConso",
+      "date": "2026-11-19",
+      "title": {
+        "en": "modèles 10mg et 30mg par 5 unités , 3 unités , 10 unités et 20 unités ¤fraise, myrtille , pomme , tropical , colas , tutti frutti ,",
+        "fr": "modèles 10mg et 30mg par 5 unités , 3 unités , 10 unités et 20 unités ¤fraise, myrtille , pomme , tropical , colas , tutti frutti ,",
+        "nl": "modèles 10mg et 30mg par 5 unités , 3 unités , 10 unités et 20 unités ¤fraise, myrtille , pomme , tropical , colas , tutti frutti ,"
+      },
+      "description": {
+        "en": "problèmes de conformités des produits concernant la loi sur les nouveau aliment entre autre présence de thc et cbd - présence de substance interdite",
+        "fr": "problèmes de conformités des produits concernant la loi sur les nouveau aliment entre autre présence de thc et cbd - présence de substance interdite",
+        "nl": "problèmes de conformités des produits concernant la loi sur les nouveau aliment entre autre présence de thc et cbd - présence de substance interdite"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24110/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0114",
+      "source": "RappelConso",
+      "date": "2026-11-19",
+      "title": {
+        "en": "chipolatas nature porc",
+        "fr": "chipolatas nature porc",
+        "nl": "chipolatas nature porc"
+      },
+      "description": {
+        "en": "erreur d'étiquetage de la dlc. - anomalie d'étiquetage",
+        "fr": "erreur d'étiquetage de la dlc. - anomalie d'étiquetage",
+        "nl": "erreur d'étiquetage de la dlc. - anomalie d'étiquetage"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24104/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "labeling"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "labeling"
     },
     {
       "id": "favv-terugroeping-van-carrefour-37",
@@ -10604,35 +10693,6 @@
       "hazardTypes": [],
       "dietRelevant": true,
       "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "cfia-82538",
-      "source": "CFIA",
-      "date": "2026-08-27",
-      "title": {
-        "en": "Allo simonne brand Pistachio Matcha Spread and Almond Cardamom Spread recalled due to pieces of glass",
-        "fr": "Allo simonne brand Pistachio Matcha Spread and Almond Cardamom Spread recalled due to pieces of glass",
-        "nl": "Allo simonne brand Pistachio Matcha Spread and Almond Cardamom Spread recalled due to pieces of glass"
-      },
-      "description": {
-        "en": "Extraneous Material",
-        "fr": "Extraneous Material",
-        "nl": "Extraneous Material"
-      },
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/allo-simonne-brand-pistachio-matcha-spread-and-almond-cardamom-spread-recalled-due",
-      "countries": [
-        "CA"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [
-        "physical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "physical"
     }
   ]
 }
