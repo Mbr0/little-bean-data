@@ -1,6 +1,212 @@
 {
-  "generated": "2026-11-26T06:01:59.812Z",
+  "generated": "2026-11-27T06:02:00.457Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0201",
+      "source": "RappelConso",
+      "date": "2026-11-26",
+      "title": {
+        "en": "tarte 3 fromages",
+        "fr": "tarte 3 fromages",
+        "nl": "tarte 3 fromages"
+      },
+      "description": {
+        "en": "détection de présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de présence de listeria monocytogenes - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24195/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0189",
+      "source": "RappelConso",
+      "date": "2026-11-26",
+      "title": {
+        "en": "lot s45021126",
+        "fr": "lot s45021126",
+        "nl": "lot s45021126"
+      },
+      "description": {
+        "en": "salmonella spp - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "salmonella spp - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "salmonella spp - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24183/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0190",
+      "source": "RappelConso",
+      "date": "2026-11-26",
+      "title": {
+        "en": "buche fraiche nature¤réf bufrca",
+        "fr": "buche fraiche nature¤réf bufrca",
+        "nl": "buche fraiche nature¤réf bufrca"
+      },
+      "description": {
+        "en": "suspicion de présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "suspicion de présence de salmonelles - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "suspicion de présence de salmonelles - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24184/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0196",
+      "source": "RappelConso",
+      "date": "2026-11-26",
+      "title": {
+        "en": "boudin a la viande",
+        "fr": "boudin a la viande",
+        "nl": "boudin a la viande"
+      },
+      "description": {
+        "en": "détection de la listéria monocytogène suite  a une analyse produit - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "détection de la listéria monocytogène suite  a une analyse produit - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "détection de la listéria monocytogène suite  a une analyse produit - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24190/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "rappelconso-2026-11-0197",
+      "source": "RappelConso",
+      "date": "2026-11-26",
+      "title": {
+        "en": "pavé fermière ail des ours au lait cru",
+        "fr": "pavé fermière ail des ours au lait cru",
+        "nl": "pavé fermière ail des ours au lait cru"
+      },
+      "description": {
+        "en": "présence de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "fr": "présence de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)",
+        "nl": "présence de listeria monocytogène - listeria monocytogenes (agent responsable de la listériose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24191/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "listeria"
+    },
+    {
+      "id": "favv-erugroeping-van-coprospect-srl",
+      "source": "FAVV",
+      "date": "2026-11-26",
+      "title": {
+        "en": "Terugroeping van Coprospect SRL | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van Coprospect SRL | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van Coprospect SRL | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "In overleg met het FAVV haalt het bedrijf Coprospect SRL de eieren “vrije uitloop” van het merk Othentique uit de verkoop en roept ze terug van bij de consumenten wegens de mogelijke aanwezigheid van Salmonella. Coprospect SRLvraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het is gekocht, waar ze een terugbetaling zullen ontvangen.",
+        "fr": "In overleg met het FAVV haalt het bedrijf Coprospect SRL de eieren “vrije uitloop” van het merk Othentique uit de verkoop en roept ze terug van bij de consumenten wegens de mogelijke aanwezigheid van Salmonella. Coprospect SRLvraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het is gekocht, waar ze een terugbetaling zullen ontvangen.",
+        "nl": "In overleg met het FAVV haalt het bedrijf Coprospect SRL de eieren “vrije uitloop” van het merk Othentique uit de verkoop en roept ze terug van bij de consumenten wegens de mogelijke aanwezigheid van Salmonella. Coprospect SRLvraagt haar klanten om dit product niet te consumeren en het terug te brengen naar het verkooppunt waar het is gekocht, waar ze een terugbetaling zullen ontvangen."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-coprospect-srl",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "foodGroups": [
+        "egg"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "cfia-82999",
+      "source": "CFIA",
+      "date": "2026-11-25",
+      "title": {
+        "en": "Casearia il Ghiottone brand Burattina Fresh Stretched Curd Cheese with Cream recalled due to generic E. coli",
+        "fr": "Casearia il Ghiottone brand Burattina Fresh Stretched Curd Cheese with Cream recalled due to generic E. coli",
+        "nl": "Casearia il Ghiottone brand Burattina Fresh Stretched Curd Cheese with Cream recalled due to generic E. coli"
+      },
+      "description": {
+        "en": "E. Coli - non-pathogenic",
+        "fr": "E. Coli - non-pathogenic",
+        "nl": "E. Coli - non-pathogenic"
+      },
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/casearia-il-ghiottone-brand-burattina-fresh-stretched-curd-cheese-cream-recalled-due",
+      "countries": [
+        "CA"
+      ],
+      "foodGroups": [
+        "dairy"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "microbial"
+    },
     {
       "id": "rappelconso-2026-11-0183",
       "source": "RappelConso",
@@ -4660,33 +4866,34 @@
       "pregnancySummaryKey": "listeria"
     },
     {
-      "id": "fsa-FSA-PRIN-42-2026",
+      "id": "fsa-FSA-AA-55-2026",
       "source": "FSA",
-      "date": "2026-08-28",
+      "date": "2026-11-26",
       "title": {
-        "en": "Macroom Buffalo Cheese Products recalls Macroom Buffalo Cheese Mozzarella and Macroom Buffalo Cheese Bocconcini because of contamination with Listeria monocytogenes",
-        "fr": "Macroom Buffalo Cheese Products recalls Macroom Buffalo Cheese Mozzarella and Macroom Buffalo Cheese Bocconcini because of contamination with Listeria monocytogenes",
-        "nl": "Macroom Buffalo Cheese Products recalls Macroom Buffalo Cheese Mozzarella and Macroom Buffalo Cheese Bocconcini because of contamination with Listeria monocytogenes"
+        "en": "Dundeis UK Ltd recalls Minton & Donello Original Muesli because of undeclared Brazil nuts (nuts)",
+        "fr": "Dundeis UK Ltd recalls Minton & Donello Original Muesli because of undeclared Brazil nuts (nuts)",
+        "nl": "Dundeis UK Ltd recalls Minton & Donello Original Muesli because of undeclared Brazil nuts (nuts)"
       },
       "description": {
-        "en": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "fr": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems.",
-        "nl": "The presence of Listeria monocytogenes in the products listed above. Symptoms caused by Listeria monocytogenes can be similar to flu and include high temperature, muscle ache or pain, chills, feeling or being sick and diarrhoea. However, in rare cases, the infection can be more severe, causing serious complications, such as meningitis. Some people are more vulnerable to listeria infections, including those over 65 years of age, pregnant women and their unborn babies, babies less than one month old and people with weakened immune systems."
+        "en": "Allergen: Brazil nuts (nuts)\nThis product contains Brazil nuts (nuts) which are not declared on the label, making it a possible health risk for anyone with an allergy or sensitivity to Brazil nuts (nuts).",
+        "fr": "Allergen: Brazil nuts (nuts)\nThis product contains Brazil nuts (nuts) which are not declared on the label, making it a possible health risk for anyone with an allergy or sensitivity to Brazil nuts (nuts).",
+        "nl": "Allergen: Brazil nuts (nuts)\nThis product contains Brazil nuts (nuts) which are not declared on the label, making it a possible health risk for anyone with an allergy or sensitivity to Brazil nuts (nuts)."
       },
-      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-42-2026",
+      "url": "https://alerts.food.gov.uk/news-alerts/alert/fsa-aa-55-2026",
       "countries": [
         "GB"
       ],
       "foodGroups": [
-        "dairy"
+        "plant"
       ],
-      "pregnancyRelevance": "high",
-      "audience": "pregnant_adult",
+      "pregnancyRelevance": "medium",
+      "audience": "general",
       "hazardTypes": [
-        "microbial"
+        "allergen",
+        "labeling"
       ],
       "dietRelevant": true,
-      "pregnancySummaryKey": "listeria"
+      "pregnancySummaryKey": "allergen"
     },
     {
       "id": "fsa-FSA-AA-54-2026",
@@ -7160,6 +7367,34 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "nvwa-verse-salades-van-marqt-keuken",
+      "source": "NVWA",
+      "date": "2026-11-26",
+      "title": {
+        "en": "Veiligheidswaarschuwing diverse salades van Marqt Keuken",
+        "fr": "Veiligheidswaarschuwing diverse salades van Marqt Keuken",
+        "nl": "Veiligheidswaarschuwing diverse salades van Marqt Keuken"
+      },
+      "description": {
+        "en": "Udea waarschuwt voor diverse salades van Marqt Keuken. Er bestaat een kans dat deze producten witte harde plastic stukjes bevatten. Eet de salades niet.",
+        "fr": "Udea waarschuwt voor diverse salades van Marqt Keuken. Er bestaat een kans dat deze producten witte harde plastic stukjes bevatten. Eet de salades niet.",
+        "nl": "Udea waarschuwt voor diverse salades van Marqt Keuken. Er bestaat een kans dat deze producten witte harde plastic stukjes bevatten. Eet de salades niet."
+      },
+      "url": "https://www.nvwa.nl/actueel/nieuws/2026/11/26/veiligheidswaarschuwing-diverse-salades-van-marqt-keuken",
+      "countries": [
+        "NL",
+        "BE"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
     },
     {
       "id": "rappelconso-2026-11-0180",
