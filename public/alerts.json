@@ -1,6 +1,64 @@
 {
-  "generated": "2026-11-27T06:02:00.457Z",
+  "generated": "2026-11-28T06:02:01.683Z",
   "alerts": [
+    {
+      "id": "rappelconso-2026-11-0214",
+      "source": "RappelConso",
+      "date": "2026-11-27",
+      "title": {
+        "en": "n° de tracabilité s63130078 à consommer jusqu'au 28/11/2026",
+        "fr": "n° de tracabilité s63130078 à consommer jusqu'au 28/11/2026",
+        "nl": "n° de tracabilité s63130078 à consommer jusqu'au 28/11/2026"
+      },
+      "description": {
+        "en": "salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "fr": "salmonella - salmonella spp (agent responsable de la salmonellose)",
+        "nl": "salmonella - salmonella spp (agent responsable de la salmonellose)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24209/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "meat"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "rappelconso-2026-11-0210",
+      "source": "RappelConso",
+      "date": "2026-11-27",
+      "title": {
+        "en": "dosettes de café vanille et dosettes de café double chocolat",
+        "fr": "dosettes de café vanille et dosettes de café double chocolat",
+        "nl": "dosettes de café vanille et dosettes de café double chocolat"
+      },
+      "description": {
+        "en": "une analyse a mis en évidence la présence d'ochratoxine a supérieure au seuil règlementaire. - autres contaminants chimiques",
+        "fr": "une analyse a mis en évidence la présence d'ochratoxine a supérieure au seuil règlementaire. - autres contaminants chimiques",
+        "nl": "une analyse a mis en évidence la présence d'ochratoxine a supérieure au seuil règlementaire. - autres contaminants chimiques"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24205/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
+    },
     {
       "id": "rappelconso-2026-11-0201",
       "source": "RappelConso",
@@ -169,6 +227,35 @@
       ],
       "foodGroups": [
         "egg"
+      ],
+      "pregnancyRelevance": "high",
+      "audience": "pregnant_adult",
+      "hazardTypes": [
+        "microbial"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "salmonella"
+    },
+    {
+      "id": "fda-6a3baf36d76c",
+      "source": "FDA",
+      "date": "2026-11-26",
+      "title": {
+        "en": "OCPP, LLC. voluntarily removes OC Raw Freeze Dried Chicken Hearts from the market because of potential health risk.",
+        "fr": "OCPP, LLC. voluntarily removes OC Raw Freeze Dried Chicken Hearts from the market because of potential health risk.",
+        "nl": "OCPP, LLC. voluntarily removes OC Raw Freeze Dried Chicken Hearts from the market because of potential health risk."
+      },
+      "description": {
+        "en": "OCPP, LLC of Corona, California is removing from the market 144 lbs. of Freeze Dried Chicken\nHearts because it has the potential to be contaminated with Salmonella. Salmonella can affect\nanimals eating the products and there is risk to humans from handling contaminated pet products",
+        "fr": "OCPP, LLC of Corona, California is removing from the market 144 lbs. of Freeze Dried Chicken\nHearts because it has the potential to be contaminated with Salmonella. Salmonella can affect\nanimals eating the products and there is risk to humans from handling contaminated pet products",
+        "nl": "OCPP, LLC of Corona, California is removing from the market 144 lbs. of Freeze Dried Chicken\nHearts because it has the potential to be contaminated with Salmonella. Salmonella can affect\nanimals eating the products and there is risk to humans from handling contaminated pet products"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ocpp-llc-voluntarily-removes-oc-raw-freeze-dried-chicken-hearts-market-because-potential-health-risk",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "meat"
       ],
       "pregnancyRelevance": "high",
       "audience": "pregnant_adult",
@@ -5046,35 +5133,6 @@
       "pregnancySummaryKey": "allergen"
     },
     {
-      "id": "rappelconso-2026-11-0141",
-      "source": "RappelConso",
-      "date": "2026-11-20",
-      "title": {
-        "en": "avocat filet 3 fruits",
-        "fr": "avocat filet 3 fruits",
-        "nl": "avocat filet 3 fruits"
-      },
-      "description": {
-        "en": "dépassement de la limite autorisée en pesticide (prochloraz) - dépassement des limites autorisées de pesticides",
-        "fr": "dépassement de la limite autorisée en pesticide (prochloraz) - dépassement des limites autorisées de pesticides",
-        "nl": "dépassement de la limite autorisée en pesticide (prochloraz) - dépassement des limites autorisées de pesticides"
-      },
-      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24134/interne",
-      "countries": [
-        "FR"
-      ],
-      "foodGroups": [
-        "plant"
-      ],
-      "pregnancyRelevance": "medium",
-      "audience": "general",
-      "hazardTypes": [
-        "chemical"
-      ],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "chemical"
-    },
-    {
       "id": "fda-ce5d4042dc3c",
       "source": "FDA",
       "date": "2026-11-20",
@@ -5104,6 +5162,35 @@
       ],
       "dietRelevant": true,
       "pregnancySummaryKey": "allergen"
+    },
+    {
+      "id": "rappelconso-2026-11-0141",
+      "source": "RappelConso",
+      "date": "2026-11-20",
+      "title": {
+        "en": "avocat filet 3 fruits",
+        "fr": "avocat filet 3 fruits",
+        "nl": "avocat filet 3 fruits"
+      },
+      "description": {
+        "en": "dépassement de la limite autorisée en pesticide (prochloraz) - dépassement des limites autorisées de pesticides",
+        "fr": "dépassement de la limite autorisée en pesticide (prochloraz) - dépassement des limites autorisées de pesticides",
+        "nl": "dépassement de la limite autorisée en pesticide (prochloraz) - dépassement des limites autorisées de pesticides"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24134/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "medium",
+      "audience": "general",
+      "hazardTypes": [
+        "chemical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "chemical"
     },
     {
       "id": "cfia-82969",
@@ -7369,6 +7456,92 @@
       "pregnancySummaryKey": "allergen"
     },
     {
+      "id": "rappelconso-2026-11-0215",
+      "source": "RappelConso",
+      "date": "2026-11-27",
+      "title": {
+        "en": "soupe poisson traditionnelle pf 1c/6ux750ml",
+        "fr": "soupe poisson traditionnelle pf 1c/6ux750ml",
+        "nl": "soupe poisson traditionnelle pf 1c/6ux750ml"
+      },
+      "description": {
+        "en": "risque d'un éventuel défaut de stérilisation - clostridium botulinum (agent responsable du botulisme)",
+        "fr": "risque d'un éventuel défaut de stérilisation - clostridium botulinum (agent responsable du botulisme)",
+        "nl": "risque d'un éventuel défaut de stérilisation - clostridium botulinum (agent responsable du botulisme)"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24210/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "rappelconso-2026-11-0202",
+      "source": "RappelConso",
+      "date": "2026-11-27",
+      "title": {
+        "en": "filet de hareng (conditionné sous-vide)",
+        "fr": "filet de hareng (conditionné sous-vide)",
+        "nl": "filet de hareng (conditionné sous-vide)"
+      },
+      "description": {
+        "en": "mise en évidence d’un taux d’histamine supérieur à la valeur cible lors d’un autocontrôle. - toxines endogènes : histamine",
+        "fr": "mise en évidence d’un taux d’histamine supérieur à la valeur cible lors d’un autocontrôle. - toxines endogènes : histamine",
+        "nl": "mise en évidence d’un taux d’histamine supérieur à la valeur cible lors d’un autocontrôle. - toxines endogènes : histamine"
+      },
+      "url": "https://rappel.conso.gouv.fr/fiche-rappel/24197/interne",
+      "countries": [
+        "FR"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-rappel-de-biofresh-belgium-6",
+      "source": "FAVV",
+      "date": "2026-11-27",
+      "title": {
+        "en": "Rappel de Biofresh Belgium | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "fr": "Rappel de Biofresh Belgium | Agence fédérale pour la sécurité de la chaîne alimentaire",
+        "nl": "Rappel de Biofresh Belgium | Agence fédérale pour la sécurité de la chaîne alimentaire"
+      },
+      "description": {
+        "en": "En accord avec l’AFSCA, Biofresh Belgium retire le plats « Salade Buddha bowl » (500g), « Salade powerfull pumpkin » (270g) en « Side salade turmeric tango » (245g) de la marque marqt de la vente et le rappelle auprès des consommateurs en raison de la présence de petits morceaux de plastique. Biofresh Belgium demande à ses clients de ne pas consommer ces produits et de les ramener au point de vente dans lequel ils ont été achetés où ils leur seront remboursés. Description du produit",
+        "fr": "En accord avec l’AFSCA, Biofresh Belgium retire le plats « Salade Buddha bowl » (500g), « Salade powerfull pumpkin » (270g) en « Side salade turmeric tango » (245g) de la marque marqt de la vente et le rappelle auprès des consommateurs en raison de la présence de petits morceaux de plastique. Biofresh Belgium demande à ses clients de ne pas consommer ces produits et de les ramener au point de vente dans lequel ils ont été achetés où ils leur seront remboursés. Description du produit",
+        "nl": "En accord avec l’AFSCA, Biofresh Belgium retire le plats « Salade Buddha bowl » (500g), « Salade powerfull pumpkin » (270g) en « Side salade turmeric tango » (245g) de la marque marqt de la vente et le rappelle auprès des consommateurs en raison de la présence de petits morceaux de plastique. Biofresh Belgium demande à ses clients de ne pas consommer ces produits et de les ramener au point de vente dans lequel ils ont été achetés où ils leur seront remboursés. Description du produit"
+      },
+      "url": "https://favv-afsca.be/fr/produits/rappel-de-biofresh-belgium-6",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "foodGroups": [
+        "plant"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [
+        "physical"
+      ],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "physical"
+    },
+    {
       "id": "nvwa-verse-salades-van-marqt-keuken",
       "source": "NVWA",
       "date": "2026-11-26",
@@ -7537,6 +7710,33 @@
       "pregnancySummaryKey": "general"
     },
     {
+      "id": "fda-21747f2dfd84",
+      "source": "FDA",
+      "date": "2026-11-23",
+      "title": {
+        "en": "Prime Food Processing LLC Issues Safety Warning Regarding Uneviscerated “Dried Herring Fish”",
+        "fr": "Prime Food Processing LLC Issues Safety Warning Regarding Uneviscerated “Dried Herring Fish”",
+        "nl": "Prime Food Processing LLC Issues Safety Warning Regarding Uneviscerated “Dried Herring Fish”"
+      },
+      "description": {
+        "en": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 225 cases of “Dried Herring Fish” because the product was not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostridium botulinum spores are more",
+        "fr": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 225 cases of “Dried Herring Fish” because the product was not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostridium botulinum spores are more",
+        "nl": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 225 cases of “Dried Herring Fish” because the product was not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostridium botulinum spores are more"
+      },
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prime-food-processing-llc-issues-safety-warning-regarding-uneviscerated-dried-herring-fish-0",
+      "countries": [
+        "US"
+      ],
+      "foodGroups": [
+        "fish"
+      ],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": true,
+      "pregnancySummaryKey": "general"
+    },
+    {
       "id": "rappelconso-2026-11-0154",
       "source": "RappelConso",
       "date": "2026-11-23",
@@ -7611,33 +7811,6 @@
       "foodGroups": [
         "meat",
         "plant"
-      ],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": true,
-      "pregnancySummaryKey": "general"
-    },
-    {
-      "id": "fda-21747f2dfd84",
-      "source": "FDA",
-      "date": "2026-11-23",
-      "title": {
-        "en": "Prime Food Processing LLC Issues Safety Warning Regarding Uneviscerated “Dried Herring Fish”",
-        "fr": "Prime Food Processing LLC Issues Safety Warning Regarding Uneviscerated “Dried Herring Fish”",
-        "nl": "Prime Food Processing LLC Issues Safety Warning Regarding Uneviscerated “Dried Herring Fish”"
-      },
-      "description": {
-        "en": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 225 cases of “Dried Herring Fish” because the product was not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostridium botulinum spores are more",
-        "fr": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 225 cases of “Dried Herring Fish” because the product was not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostridium botulinum spores are more",
-        "nl": "Brooklyn, NY – Prime Food Processing LLC is voluntarily recalling 225 cases of “Dried Herring Fish” because the product was not adequately eviscerated.  The sale of uneviscerated fish is prohibited under New York State Agriculture and Markets regulations because Clostridium botulinum spores are more"
-      },
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prime-food-processing-llc-issues-safety-warning-regarding-uneviscerated-dried-herring-fish-0",
-      "countries": [
-        "US"
-      ],
-      "foodGroups": [
-        "fish"
       ],
       "pregnancyRelevance": "low",
       "audience": "general",
@@ -8089,34 +8262,6 @@
       "pregnancySummaryKey": "general"
     },
     {
-      "id": "favv-terugroeping-van-het-favv-160",
-      "source": "FAVV",
-      "date": "2026-11-13",
-      "title": {
-        "en": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "fr": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
-        "nl": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen"
-      },
-      "description": {
-        "en": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Parle-G Original Gluco Biscuits” van het merk Parle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan 3-MCPD en glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
-        "fr": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Parle-G Original Gluco Biscuits” van het merk Parle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan 3-MCPD en glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
-        "nl": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Parle-G Original Gluco Biscuits” van het merk Parle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan 3-MCPD en glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt."
-      },
-      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-160",
-      "countries": [
-        "BE"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "foodGroups": [],
-      "pregnancyRelevance": "low",
-      "audience": "general",
-      "hazardTypes": [],
-      "dietRelevant": false,
-      "pregnancySummaryKey": "general"
-    },
-    {
       "id": "favv-rappel-de-fgpo-appelino-bv",
       "source": "FAVV",
       "date": "2026-11-13",
@@ -8136,6 +8281,34 @@
       ],
       "languages": [
         "fr"
+      ],
+      "foodGroups": [],
+      "pregnancyRelevance": "low",
+      "audience": "general",
+      "hazardTypes": [],
+      "dietRelevant": false,
+      "pregnancySummaryKey": "general"
+    },
+    {
+      "id": "favv-terugroeping-van-het-favv-160",
+      "source": "FAVV",
+      "date": "2026-11-13",
+      "title": {
+        "en": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "fr": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen",
+        "nl": "Terugroeping van het FAVV | Federaal Agentschap voor de veiligheid van de voedselketen"
+      },
+      "description": {
+        "en": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Parle-G Original Gluco Biscuits” van het merk Parle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan 3-MCPD en glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
+        "fr": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Parle-G Original Gluco Biscuits” van het merk Parle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan 3-MCPD en glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt.",
+        "nl": "Naar aanleiding van een melding via het RASFF (systeem voor snelle waarschuwingen voor levensmiddelen en diervoeders), haalt het FAVV het product “Parle-G Original Gluco Biscuits” van het merk Parle uit de verkoop en roept het terug van bij de consumenten wegens een te hoog gehalte aan 3-MCPD en glycidyl esters. Het FAVV vraagt om het product niet te consumeren en het terug te brengen naar het verkooppunt."
+      },
+      "url": "https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-160",
+      "countries": [
+        "BE"
+      ],
+      "languages": [
+        "nl"
       ],
       "foodGroups": [],
       "pregnancyRelevance": "low",
